@@ -29,9 +29,19 @@ async function programlariTopla(gunSayisi = 3) {
     try {
       const p = await k.mod.topla(gunSayisi);
       sonuc.programlar.push(...p);
-      sonuc.rapor[k.ad] = { durum: 'tamam', adet: p.length };
+      // Sadece adet degil, ORNEK de kaydet. Bos donen bir kaynagin
+      // sebebi ancak boyle gorunur olur.
+      sonuc.rapor[k.ad] = {
+        durum: p.length ? 'tamam' : 'bos',
+        adet: p.length,
+        ornek: p.length ? {
+          kanal: p[0].kanal,
+          baslik: String(p[0].baslik || '').slice(0, 60),
+          baslangic: p[0].baslangicUtc
+        } : null
+      };
     } catch (e) {
-      sonuc.rapor[k.ad] = { durum: 'hata', mesaj: e.message };
+      sonuc.rapor[k.ad] = { durum: 'hata', mesaj: String(e.message || e).slice(0, 300) };
     }
   }
   return sonuc;
