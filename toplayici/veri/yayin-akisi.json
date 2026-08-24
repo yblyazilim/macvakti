@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-24T15:35:36.531Z",
- "adet": 923,
+ "guncellendi": "2026-08-24T16:15:49.086Z",
+ "adet": 924,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 923,
+   "adet": 924,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Barcelona Dev Maçlar",
@@ -6791,6 +6791,17 @@
    "dijital": false,
    "baslik": "İtalya Erkekler Voleybol Ligi",
    "baslangicUtc": "2026-08-31T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-08-31T16:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
