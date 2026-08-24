@@ -156,38 +156,96 @@ function degisiklikBul(eski, yeni) {
   return d;
 }
 
-/** Ağ isteği: nazik davranır, yeniden dener, kaynağı yormaz. */
-async function getir(url, secenek = {}) {
-  const {
-    deneme = 3,
-    bekleme = 1500,
-    basliklar = {},
-    tur = 'text',
-    zamanAsimi = 25000
-  } = secenek;
+/**
+ * Ağ isteği — çok katmanlı yedekleme zinciriyle.
+ *
+ * NEDEN: Türk kaynaklarının bir kısmı yurt dışı sunuculara farklı davranıyor.
+ * GitHub Actions'ta yapılan canlı tanıda (24.08.2026) şunlar ölçüldü:
+ *   - tff.org      : HTTPS "fetch failed" (sertifika zinciri), HTTP 200 ✓
+ *   - tbf.org.tr   : JSON yerine HTML koruma sayfası
+ *   - digiturk     : 403
+ *   - thf.org.tr   : sorunsuz
+ * Aynı adresler Türkiye'den sorunsuz açılıyor. Bu yüzden tek bir yönteme
+ * bağlanmak yerine sırayla denenen bir zincir kuruyoruz.
+ *
+ * Sıra: doğrudan HTTPS -> doğrudan HTTP -> genel erişim aracısı
+ * Hangi katmanın işe yaradığı sonuçta bildirilir (izleme için).
+ */
 
-  let sonHata;
-  for (let i = 0; i < deneme; i++) {
-    try {
-      const kontrol = new AbortController();
-      const zt = setTimeout(() => kontrol.abort(), zamanAsimi);
-      const y = await fetch(url, {
-        signal: kontrol.signal,
-        headers: {
-          'User-Agent': 'MacVakti/1.0 (fikstur bilgilendirme uygulamasi)',
-          'Accept-Language': 'tr-TR,tr;q=0.9',
-          ...basliklar
-        }
-      });
-      clearTimeout(zt);
-      if (!y.ok) throw new Error('HTTP ' + y.status);
-      return tur === 'json' ? await y.json() : await y.text();
-    } catch (e) {
-      sonHata = e;
-      if (i < deneme - 1) await uyu(bekleme * (i + 1));
+// Genel erişim aracıları. Yalnızca doğrudan erişim başarısız olunca kullanılır.
+const ARACILAR = [
+  (u) => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
+  (u) => 'https://api.codetabs.com/v1/proxy/?quest=' + encodeURIComponent(u)
+];
+
+const VARSAYILAN_BASLIKLAR = {
+  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
+                '(KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36',
+  'Accept-Language': 'tr-TR,tr;q=0.9,en;q=0.8'
+};
+
+/** Tek bir denemeyi yapar; içerik geçerli değilse hata fırlatır. */
+async function tekDeneme(url, secenek) {
+  const { basliklar = {}, tur = 'text', zamanAsimi = 30000, gecerliMi } = secenek;
+  const y = await fetch(url, {
+    headers: { ...VARSAYILAN_BASLIKLAR, ...basliklar },
+    signal: AbortSignal.timeout(zamanAsimi),
+    redirect: 'follow'
+  });
+  if (!y.ok) throw new Error('HTTP ' + y.status);
+
+  const metin = await y.text();
+  if (!metin || metin.length < 40) throw new Error('Yanıt boş');
+
+  // Bot koruma sayfası JSON beklerken HTML döndürür — bunu hata say.
+  if (tur === 'json') {
+    let j;
+    try { j = JSON.parse(metin); }
+    catch (_) { throw new Error('JSON beklenirken HTML geldi (koruma sayfası olabilir)'); }
+    if (gecerliMi && !gecerliMi(j)) throw new Error('Yanıt beklenen içeriği taşımıyor');
+    return j;
+  }
+
+  if (gecerliMi && !gecerliMi(metin)) throw new Error('Yanıt beklenen içeriği taşımıyor');
+  return metin;
+}
+
+/**
+ * getir(url, secenek)
+ *  secenek.tur       : 'text' | 'json'
+ *  secenek.gecerliMi : (icerik) => boolean  — içeriğin gerçekten beklenen şey
+ *                      olduğunu doğrular. Koruma sayfalarını elemek için önemli.
+ *  secenek.araciKullan : false verilirse aracıya düşülmez.
+ */
+async function getir(url, secenek = {}) {
+  const { deneme = 2, bekleme = 1200, araciKullan = true } = secenek;
+
+  const adaylar = [{ ad: 'dogrudan', url }];
+  if (url.startsWith('https://')) {
+    adaylar.push({ ad: 'http', url: 'http://' + url.slice(8) });
+  }
+  if (araciKullan) {
+    for (let i = 0; i < ARACILAR.length; i++) {
+      adaylar.push({ ad: 'araci' + (i + 1), url: ARACILAR[i](url) });
     }
   }
-  throw new Error('Getirilemedi: ' + url + ' — ' + sonHata.message);
+
+  const hatalar = [];
+  for (const aday of adaylar) {
+    for (let d = 0; d < deneme; d++) {
+      try {
+        const sonuc = await tekDeneme(aday.url, secenek);
+        if (aday.ad !== 'dogrudan') {
+          console.log('   (' + aday.ad + ' katmanı kullanıldı: ' + url.slice(0, 60) + ')');
+        }
+        return sonuc;
+      } catch (e) {
+        hatalar.push(aday.ad + ': ' + e.message);
+        if (d < deneme - 1) await uyu(bekleme);
+      }
+    }
+  }
+  throw new Error('Getirilemedi: ' + url + ' — ' + hatalar.slice(0, 4).join(' | '));
 }
 
 const uyu = (ms) => new Promise(r => setTimeout(r, ms));

@@ -63,7 +63,10 @@ function donustur(m, grupAdi) {
 /** Belirli bir günün maçları. */
 async function gunuTopla(tarih) {
   const url = KOK + '/get-daily-matches?MatchDate=' + encodeURIComponent(gunDamgasi(tarih)) + '&';
-  const y = await O.getir(url, { tur: 'json' });
+  const y = await O.getir(url, {
+    tur: 'json',
+    gecerliMi: (j) => j && typeof j === 'object' && 'data' in j
+  });
   const gruplar = (y && y.data) || [];
   const maclar = [];
   for (const g of gruplar) {
@@ -90,7 +93,10 @@ async function topla(gunSayisi = 14) {
     const sayimUrl = KOK + '/tarih-mac-sayisi'
       + '?StartDate=' + encodeURIComponent(gunDamgasi(bugun))
       + '&EndDate=' + encodeURIComponent(gunDamgasi(bitis)) + '&';
-    const sayim = await O.getir(sayimUrl, { tur: 'json' });
+    const sayim = await O.getir(sayimUrl, {
+      tur: 'json',
+      gecerliMi: (j) => j && typeof j === 'object'
+    });
     const liste = (sayim && sayim.data) || [];
     if (Array.isArray(liste) && liste.length) {
       doluGunler = new Set();

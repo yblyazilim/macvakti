@@ -125,7 +125,10 @@ function sayfayiAyristir(html, lig) {
 async function ligiTopla(lig, hafta) {
   let url = KOK + '?pageID=' + lig.id;
   if (hafta) url += '&hafta=' + hafta;
-  const html = await O.getir(url);
+  const html = await O.getir(url, {
+    // Gelen sayfa gerçekten fikstür sayfası mı? Koruma/hata sayfalarını ele.
+    gecerliMi: (h) => /Detaylar/i.test(h) && /\d{2}\.\d{2}\.\d{4}/.test(h)
+  });
   return sayfayiAyristir(html, lig);
 }
 

@@ -77,7 +77,10 @@ function donustur(m) {
 
 /** Dünden itibaren 7 günlük pencereyi getirir. */
 async function topla() {
-  const y = await O.getir(KOK + '/GetMatchesFromYesterdayAndNextSixDays', { tur: 'json' });
+  const y = await O.getir(KOK + '/GetMatchesFromYesterdayAndNextSixDays', {
+    tur: 'json',
+    gecerliMi: (j) => j && (Array.isArray(j) || Array.isArray(j.data))
+  });
   const liste = Array.isArray(y) ? y : (y.data || []);
   const maclar = [];
   for (const m of liste) {

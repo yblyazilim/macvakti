@@ -89,7 +89,9 @@ async function topla(gunSayisi = 3) {
       const url = KOK + '?Day=' + encodeURIComponent(ggaayyyy(g) + ' 00:00:00');
       const html = await O.getir(url, {
         basliklar: { 'X-Requested-With': 'XMLHttpRequest' },
-        zamanAsimi: 40000
+        zamanAsimi: 45000,
+        // 403 koruma sayfası kısa gelir; gerçek akış binlerce blok içerir.
+        gecerliMi: (h) => /channelDetail/i.test(h)
       });
       hepsi.push(...ayristir(html, g));
     } catch (e) {

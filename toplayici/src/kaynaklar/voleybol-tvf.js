@@ -108,7 +108,9 @@ function sayfayiAyristir(html, lig) {
 }
 
 async function ligiTopla(lig) {
-  const html = await O.getir(KOK + lig.slug);
+  const html = await O.getir(KOK + lig.slug, {
+    gecerliMi: (h) => /lig|ma\u00e7|fikst/i.test(h)
+  });
   return sayfayiAyristir(html, lig);
 }
 
