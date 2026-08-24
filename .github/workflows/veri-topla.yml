@@ -8,6 +8,14 @@ on:
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
+  # Kod degistiginde de calis. toplayici/veri disarida tutulur; aksi halde
+  # botun kendi veri commiti yeni bir calisma tetikler ve sonsuz dongu olur.
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'toplayici/veri/**'
+      - '**.md'
+
 concurrency:
   group: veri-topla
   cancel-in-progress: false
