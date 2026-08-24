@@ -75,9 +75,15 @@ function sayfayiAyristir(html, lig) {
   if (sm) sezon = sm[1] + '-' + sm[2];
 
   // 2. ve 3. Lig gruplara ayrılır; sayfada gösterilen grubu yakala.
+  // Yalnizca gercekten gruplara ayrilan ligler icin grup etiketi kullan.
+  // Super Lig ve 1. Lig tek gruptur; oralarda 'Grup' kelimesi sayfanin
+  // baska bir yerinden (menu, arsiv) sizabilir ve yanlis etiket uretir.
   let grup = '';
-  const gm = akis.match(/(\d+)\s*\.\s*Grup/);
-  if (gm) grup = gm[1] + '. Grup';
+  let gm = null;
+  if (lig.kisa === '2L' || lig.kisa === '3L') {
+    gm = akis.match(/(\d+)\s*\.\s*Grup/);
+    if (gm) grup = gm[1] + '. Grup';
+  }
 
   const maclar = [];
   const gorulen = new Set();
