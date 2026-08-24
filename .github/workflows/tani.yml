@@ -1,12 +1,15 @@
 name: Tani - Kaynak Erisimi
 
-# Kaynaklara hangi yontemle erisilebildigini olcer.
-# Tani dosyasi her degistiginde otomatik calisir.
+# Sonucu toplayici/veri/tani-sonuc.txt dosyasina yazar ve depoya isler,
+# boylece log arayuzu acilmadan okunabilir.
 on:
   workflow_dispatch:
   push:
     paths:
       - 'toplayici/test/tani-*.js'
+
+permissions:
+  contents: write
 
 jobs:
   tani:
@@ -17,5 +20,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+
       - name: Kaynak erisim tanisi
-        run: node toplayici/test/tani-tff.js
+        run: |
+          mkdir -p toplayici/veri
+          node toplayici/test/tani-tff.js > toplayici/veri/tani-sonuc.txt 2>&1 || true
+          cat toplayici/veri/tani-sonuc.txt
+
+      - name: Sonucu isle
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          git config user.name "macvakti-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git fetch origin main
+          git reset --mixed origin/main
+          git add toplayici/veri/tani-sonuc.txt
+          if git diff --cached --quiet; then echo "degisiklik yok"; exit 0; fi
+          git commit -m "tani: sonuc guncellendi"
+          git push origin HEAD:main
