@@ -14,7 +14,8 @@
 
   function eklenti() { return window.Capacitor.Plugins.PushNotifications; }
   function fcmEklenti() {
-    return window.Capacitor.Plugins.FCM || null;
+    var p = window.Capacitor.Plugins;
+    return p.FCM || p.Fcm || null;
   }
 
   async function izinIste() {
@@ -37,7 +38,13 @@
   async function konularaAbone(konular) {
     if (!hazirMi()) return;
     var fcm = fcmEklenti();
-    if (!fcm) return;
+    if (!fcm) {
+      // SESSIZ KALMA. Eklenti yoksa hicbir konuya abone olunmaz ve
+      // bildirim hic gelmez; bunun gorunmez kalmasi en kotu senaryo.
+      console.error('[fcm] FCM eklentisi yok - konu aboneligi YAPILAMADI');
+      window.__fcmDurum = { hata: 'FCM eklentisi yok', konular: konular || [] };
+      return;
+    }
 
     var istenen = konular || [];
     // Artık istenmeyenlerden çık
@@ -53,6 +60,8 @@
       }
     }
     aboneOlunan = istenen.slice();
+    window.__fcmDurum = { hata: null, konular: aboneOlunan.slice() };
+    console.log('[fcm] abone olunan konular: ' + aboneOlunan.join(', '));
   }
 
   function dinleyicileriKur() {
@@ -79,5 +88,10 @@
     izinIste();
   }, false);
 
-  if (hazirMi()) { dinleyicileriKur(); izinIste(); }
+  // Capacitor bazen script'ten sonra hazir olur; birkac kez dene.
+  var deneme = 0;
+  (function baslat() {
+    if (hazirMi()) { dinleyicileriKur(); izinIste(); return; }
+    if (++deneme < 20) setTimeout(baslat, 250);
+  })();
 })();

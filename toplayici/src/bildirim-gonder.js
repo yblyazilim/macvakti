@@ -117,12 +117,28 @@ function hatirlatmalariUret(maclar, gonderilenler) {
   return yeni;
 }
 
+// FCM konu adlari YALNIZCA [a-zA-Z0-9-_.~%] kabul eder; Turkce harf
+// iceren bir konu adi gecersizdir ve bildirim hic gitmez. Uygulamadaki
+// konuAnahtar() ile AYNI katlamayi yapmak zorundayiz - aksi halde
+// uygulama bir konuya abone olur, sunucu baskasina gonderir.
+function konuAnahtar(ad) {
+  return String(ad)
+    .replace(/[\u0131\u0130]/g, 'i').replace(/[\u015F\u015E]/g, 's')
+    .replace(/[\u011F\u011E]/g, 'g').replace(/[\u00E7\u00C7]/g, 'c')
+    .replace(/[\u00F6\u00D6]/g, 'o').replace(/[\u00FC\u00DC]/g, 'u')
+    .toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]/g, '');
+}
+
 function konularUret(mac) {
-  const k = ['brans_' + mac.brans];
-  if (mac.ligId) k.push('lig_' + mac.brans + '_' + String(mac.ligId).replace(/[^\w]/g, ''));
-  const t = (ad) => 'takim_' + String(ad).toLocaleLowerCase('tr-TR').replace(/[^\p{L}\p{N}]/gu, '');
-  k.push(t(mac.evSahibi), t(mac.deplasman));
-  return k;
+  const k = ['brans_' + konuAnahtar(mac.brans)];
+  if (mac.ligId) k.push('lig_' + konuAnahtar(mac.brans) + '_' + String(mac.ligId).replace(/[^\w]/g, ''));
+  for (const ad of [mac.evSahibi, mac.deplasman]) {
+    const a = konuAnahtar(ad);
+    if (a) k.push('takim_' + a);
+  }
+  return k.filter(x => /^[a-zA-Z0-9_.~%-]+$/.test(x));
 }
 
 async function calistir() {
@@ -187,4 +203,4 @@ if (require.main === module) {
   calistir().catch(e => { console.error(e); process.exit(1); });
 }
 
-module.exports = { calistir, hatirlatmalariUret, konularUret };
+module.exports = { calistir, hatirlatmalariUret, konularUret, konuAnahtar };

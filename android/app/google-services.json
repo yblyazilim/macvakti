@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524896306332",
+    "project_id": "mac-vakti-ec08a",
+    "storage_bucket": "mac-vakti-ec08a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524896306332:android:160d1c0500cdda45ab9959",
+        "android_client_info": {
+          "package_name": "com.berk.macvakti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTiw7CczOmjf1viWNfy0XEAlE47oiA-vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

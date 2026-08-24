@@ -251,6 +251,19 @@ function takipAnahtar(ad) {
   return String(ad).toLocaleLowerCase('tr-TR').replace(/[^\p{L}\p{N}]/gu, '');
 }
 function takiptaMi(ad) { return G.takipler.indexOf(takipAnahtar(ad)) >= 0; }
+
+// FCM konu adlari YALNIZCA [a-zA-Z0-9-_.~%] kabul eder. Turkce harfler
+// gecersizdir ve abonelik sessizce basarisiz olur. Bu yuzden konu adinda
+// ASCII'ye katlariz. Depolama anahtari (takipAnahtar) degismez; boylece
+// kayitli takipler bozulmaz.
+function konuAnahtar(ad) {
+  return String(ad)
+    .replace(/[ıİ]/g, 'i').replace(/[şŞ]/g, 's').replace(/[ğĞ]/g, 'g')
+    .replace(/[çÇ]/g, 'c').replace(/[öÖ]/g, 'o').replace(/[üÜ]/g, 'u')
+    .toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9]/g, '');
+}
 function takibiCevir(ad) {
   const a = takipAnahtar(ad);
   const i = G.takipler.indexOf(a);
@@ -298,7 +311,10 @@ async function veriGetir() {
 function konulariGuncelle() {
   if (!window.Capacitor || !window.FCMAbone) return;
   const konular = [];
-  for (const t of G.takipler) konular.push('takim_' + t);
+  for (const t of G.takipler) {
+    const k = konuAnahtar(t);
+    if (k) konular.push('takim_' + k);
+  }
   if (G.brans !== 'hepsi') konular.push('brans_' + G.brans);
   try { window.FCMAbone(konular); } catch (e) {}
 }
@@ -444,6 +460,19 @@ function ekranAyarlar() {
   h += ayarSatiri('degisiklik', 'Saat ve kanal değişiklikleri', 'Değişiklik olduğu anda bildirilir');
   h += ayarSatiri('kadro', 'Kadrolar açıklandığında', 'İlk 11’ler belli olunca');
   h += ayarSatiri('sonuc', 'Maç sonuçları', 'Karşılaşma bittiğinde skor');
+  h += '</div>';
+
+  // Bildirim aboneligi gercekten kuruldu mu? Sessiz basarisizlik en kotusu.
+  h += '<div class="bolum-baslik">Bildirim durumu</div><div class="bolum">';
+  const d = window.__fcmDurum;
+  let dm, dr;
+  if (!window.Capacitor) { dm = 'Tarayıcıda çalışıyor'; dr = '#8aa'; }
+  else if (!d) { dm = 'Hazırlanıyor…'; dr = '#8aa'; }
+  else if (d.hata) { dm = 'Sorun: ' + d.hata; dr = '#e66'; }
+  else if (!d.konular.length) { dm = 'Takip seçilmedi'; dr = '#ca4'; }
+  else { dm = 'Etkin — ' + d.konular.length + ' konu'; dr = '#4c9'; }
+  h += '<div class="satir"><div><div class="satir-ad">Abonelik</div>' +
+       '<div class="satir-alt" style="color:' + dr + '">' + kacir(dm) + '</div></div></div>';
   h += '</div>';
 
   h += '<div class="bolum-baslik">Tercihler</div><div class="bolum">';

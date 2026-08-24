@@ -16,8 +16,27 @@ android {
             ignoreAssetsPattern '!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~'
         }
     }
+    signingConfigs {
+        release {
+            // Sifreler koda YAZILMAZ; android/keystore.properties dosyasindan okunur.
+            // O dosya .gitignore icindedir, depoya gitmez.
+            def ksProps = new Properties()
+            def ksFile = rootProject.file("keystore.properties")
+            if (ksFile.exists()) {
+                ksProps.load(new FileInputStream(ksFile))
+                storeFile file(ksProps['storeFile'] ?: "../macvakti.keystore")
+                storePassword ksProps['storePassword']
+                keyAlias ksProps['keyAlias']
+                keyPassword ksProps['keyPassword']
+            }
+        }
+    }
     buildTypes {
         release {
+            // Keystore hazir degilse imzasiz derlenir (test APK'si icin sorun degil).
+            if (rootProject.file("keystore.properties").exists()) {
+                signingConfig signingConfigs.release
+            }
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }

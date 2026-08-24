@@ -10,11 +10,12 @@
     "topla": "node toplayici/src/topla.js"
   },
   "dependencies": {
+    "@capacitor-community/fcm": "^6.0.1",
     "@capacitor/android": "^6.2.0",
+    "@capacitor/app": "^6.0.2",
     "@capacitor/core": "^6.2.0",
     "@capacitor/push-notifications": "^6.0.3",
-    "@capacitor/splash-screen": "^6.0.3",
-    "@capacitor/app": "^6.0.2"
+    "@capacitor/splash-screen": "^6.0.3"
   },
   "devDependencies": {
     "@capacitor/cli": "^6.2.0"
