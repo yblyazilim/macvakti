@@ -212,7 +212,35 @@ const VARSAYILAN_BASLIKLAR = {
   'Accept-Language': 'tr-TR,tr;q=0.9,en;q=0.8'
 };
 
-/** Tek bir denemeyi yapar; içerik geçerli değilse hata fırlatır. */
+/**
+ * Ham baytlari dogru karakter kodlamasiyla metne cevirir.
+ * TFF gibi bazi Turk kaynaklari UTF-8 degil windows-1254 (Latin-5) kullanir;
+ * duz y.text() bunlari bozar ("Galatasaray A.S." -> bozuk karakter).
+ * Sira: HTTP basligi -> HTML meta -> UTF-8 gecerlilik -> windows-1254
+ */
+function baytlariCoz(bayt, contentType) {
+  const coz = (kod) => {
+    try { return new TextDecoder(kod, { fatal: false }).decode(bayt); }
+    catch (_) { return null; }
+  };
+
+  const bm = String(contentType || '').match(/charset=([\w-]+)/i);
+  if (bm) { const m = coz(bm[1].toLowerCase()); if (m) return m; }
+
+  const bas = bayt.slice(0, 4096).toString('latin1');
+  const mm = bas.match(/<meta[^>]+charset=["']?\s*([\w-]+)/i);
+  if (mm) { const m = coz(mm[1].toLowerCase()); if (m) return m; }
+
+  const utf8 = coz('utf-8');
+  if (utf8 && !utf8.includes('\uFFFD')) return utf8;
+
+  const tr = coz('windows-1254') || coz('iso-8859-9');
+  if (tr) return tr;
+
+  return utf8 || bayt.toString('latin1');
+}
+
+/** Tek bir denemeyi yapar; icerik gecerli degilse hata firlatir. */
 async function tekDeneme(url, secenek) {
   const { basliklar = {}, tur = 'text', zamanAsimi = 20000, gecerliMi } = secenek;
   const y = await fetch(url, {
@@ -222,8 +250,10 @@ async function tekDeneme(url, secenek) {
   });
   if (!y.ok) throw new Error('HTTP ' + y.status);
 
-  const metin = await y.text();
-  if (!metin || metin.length < 40) throw new Error('Yanıt boş');
+  // Ham baytlari al ve kodlamayi tespit et (bkz. baytlariCoz).
+  const ham = Buffer.from(await y.arrayBuffer());
+  const metin = baytlariCoz(ham, y.headers.get('content-type'));
+  if (!metin || metin.length < 40) throw new Error('Yanit bos');
 
   // Bot koruma sayfası JSON beklerken HTML döndürür — bunu hata say.
   if (tur === 'json') {
