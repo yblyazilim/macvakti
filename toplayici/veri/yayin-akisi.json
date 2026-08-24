@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-24T18:18:13.748Z",
- "adet": 940,
+ "guncellendi": "2026-08-24T19:10:42.193Z",
+ "adet": 941,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 940,
+   "adet": 941,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Barcelona Dev Maçlar",
@@ -6826,6 +6826,17 @@
    "baslangicUtc": "2026-08-31T18:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Champions Chess Tour",
+   "baslangicUtc": "2026-08-31T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"

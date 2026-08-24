@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T18:18:24.804Z",
+ "guncellendi": "2026-08-24T19:10:52.330Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -133,6 +133,37 @@
   "Bodrum": {
    "zaman": 1787595502764,
    "bulundu": false
+  },
+  "Muğlaspor": {
+   "zaman": 1787598644401,
+   "bulundu": true,
+   "wikidata": "Q989553",
+   "kurulus": 1967,
+   "stat": null,
+   "sehir": "Muğla",
+   "kurucu": null
+  },
+  "Bandırma Spor": {
+   "zaman": 1787598645368,
+   "bulundu": false
+  },
+  "Keçiörengücü": {
+   "zaman": 1787598648411,
+   "bulundu": true,
+   "wikidata": "Q1536956",
+   "kurulus": 1945,
+   "stat": null,
+   "sehir": "Ankara",
+   "kurucu": null
+  },
+  "Trabzonspor": {
+   "zaman": 1787598651420,
+   "bulundu": true,
+   "wikidata": "Q192641",
+   "kurulus": 1967,
+   "stat": "Papara Park",
+   "sehir": "Trabzon",
+   "kurucu": null
   }
  }
 }

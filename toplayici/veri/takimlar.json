@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T18:18:24.808Z",
+ "guncellendi": "2026-08-24T19:10:52.333Z",
  "surum": 1,
  "bransSayisi": 2,
  "takimSayisi": 153,
@@ -425,7 +425,12 @@
    "ligler": [
     "futbol:1000",
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1967,
+    "sehir": "Trabzon",
+    "stat": "Papara Park"
+   }
   },
   "corum": {
    "ad": "Çorum",
@@ -553,7 +558,11 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1945,
+    "sehir": "Ankara"
+   }
   },
   "manisa": {
    "ad": "Manisa",
@@ -580,7 +589,11 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1967,
+    "sehir": "Muğla"
+   }
   },
   "pendiksporfutbol": {
    "ad": "Pendikspor Futbol",
