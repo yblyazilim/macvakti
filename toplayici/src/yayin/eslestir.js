@@ -163,11 +163,18 @@ function tazelemeGerekli(maclar, simdi) {
     return fark > -3 && fark < YAKIN_SAAT;   // 3 saat öncesinden 5 saat sonrasına
   });
 
+  // Önbellek HİÇ yoksa (ilk çalışma veya kayıp dosya) koşulsuz topla.
+  // Aksi hâlde kısır döngü olur: maç yok -> sakin dönem -> tazeleme yok ->
+  // kanal doğrulanamaz -> maçlar kanalsız kalır.
+  if (yasDk === Infinity) {
+    return { gerekli: true, sebep: 'onbellek-yok', yasDk: null, esikDk: 0 };
+  }
+
   const esikDk = yakindaMac ? YOGUN_DK : SAKIN_SAAT * 60;
   return {
     gerekli: yasDk >= esikDk,
     sebep: yakindaMac ? 'yaklasan-mac' : 'sakin-donem',
-    yasDk: yasDk === Infinity ? null : Math.round(yasDk),
+    yasDk: Math.round(yasDk),
     esikDk
   };
 }
