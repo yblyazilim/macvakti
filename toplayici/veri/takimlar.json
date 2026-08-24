@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T22:34:50.202Z",
+ "guncellendi": "2026-08-24T23:04:16.285Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -431,7 +431,11 @@
    "ligler": [
     "futbol:1000",
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1990,
+    "sehir": "Diyarbakır"
+   }
   },
   "basaksehir": {
    "ad": "Başakşehir",
@@ -586,7 +590,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1966,
+    "sehir": "İzmit",
+    "stat": "Mehmet Ali Kağıtçı Stadı"
+   }
   },
   "konyaspor": {
    "ad": "Konyaspor",
