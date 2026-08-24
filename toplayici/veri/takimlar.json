@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T17:53:10.299Z",
+ "guncellendi": "2026-08-24T18:18:24.808Z",
  "surum": 1,
  "bransSayisi": 2,
  "takimSayisi": 153,
@@ -381,7 +381,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1922,
+    "sehir": "Konya",
+    "stat": "Konya Atatürk Stadyumu"
+   }
   },
   "rizespor": {
    "ad": "Rizespor",
@@ -438,7 +443,12 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1966,
+    "sehir": "Antalya",
+    "stat": "Akdeniz Üniversitesi Stadyumu"
+   }
   },
   "bandirmaspor": {
    "ad": "Bandırma Spor",

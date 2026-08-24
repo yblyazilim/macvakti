@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T17:53:10.296Z",
+ "guncellendi": "2026-08-24T18:18:24.804Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -107,6 +107,32 @@
    "stat": "Şükrü Saracoğlu Stadyumu",
    "sehir": "Kadıköy",
    "kurucu": null
+  },
+  "Konyaspor": {
+   "zaman": 1787595496288,
+   "bulundu": true,
+   "wikidata": "Q513840",
+   "kurulus": 1922,
+   "stat": "Konya Atatürk Stadyumu",
+   "sehir": "Konya",
+   "kurucu": null
+  },
+  "Antalyaspor": {
+   "zaman": 1787595499539,
+   "bulundu": true,
+   "wikidata": "Q43710",
+   "kurulus": 1966,
+   "stat": "Akdeniz Üniversitesi Stadyumu",
+   "sehir": "Antalya",
+   "kurucu": null
+  },
+  "Pendikspor Futbol": {
+   "zaman": 1787595500581,
+   "bulundu": false
+  },
+  "Bodrum": {
+   "zaman": 1787595502764,
+   "bulundu": false
   }
  }
 }
