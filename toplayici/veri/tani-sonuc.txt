@@ -1,0 +1,41 @@
+=== TBF DOGRUDAN ERISIM ===
+- takim-listesi
+  sade                         HTTP 403     5617 bayt  adet=-  218ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+  tarayici-UA                  HTTP 403     5873 bayt  adet=-  48ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+  tam-tarayici                 HTTP 403     6044 bayt  adet=-  32ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+- lig-bilgisi
+  sade                         HTTP 403     5589 bayt  adet=-  45ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+  tarayici-UA                  HTTP 403     5867 bayt  adet=-  36ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+  tam-tarayici                 HTTP 403     6038 bayt  adet=-  45ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+- ana-sayfa
+  sade                         HTTP 403     5409 bayt  adet=-  44ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+  tarayici-UA                  HTTP 403     5686 bayt  adet=-  37ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+  tam-tarayici                 HTTP 403     5857 bayt  adet=-  32ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+
+=== TBF ARACI SUNUCU UZERINDEN ===
+  allorigins                   HTTP 522     7257 bayt  adet=-  19924ms
+      bas: <!DOCTYPE html> <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--> <!--[if IE 7]> <
+  codetabs                     HTTP 522     7245 bayt  adet=-  19521ms
+      bas: <!DOCTYPE html> <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]--> <!--[if IE 7]> <
+  jina                         HTTP 403     5954 bayt  adet=-  159ms
+      bas: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content
+  thingproxy                   HATA fetch failed
+
+=== TVF (voleybol) ===
+  tvf-ana                      HTTP 200   244676 bayt  adet=-  748ms
+      bas: <!DOCTYPE html> <html lang="tr"> <head> <!-- Google tag (gtag.js) --> <script async src="https://www.
+  tvf-efeler                   HTTP 200   191191 bayt  adet=-  212ms
+      bas: <!DOCTYPE html> <html lang="tr"> <head> <!-- Google tag (gtag.js) --> <script async src="https://www.
+
+=== WIKIDATA (kunye) ===
+  wikidata-arama               HTTP 200     1596 bayt  adet=-  169ms
+      bas: {"searchinfo":{"search":"Galatasaray"},"search":[{"id":"Q495299","title":"Q495299","pageid":465977,"concepturi
