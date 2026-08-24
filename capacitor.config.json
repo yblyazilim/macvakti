@@ -1,0 +1,19 @@
+{
+  "appId": "com.berk.macvakti",
+  "appName": "Maç Vakti",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    },
+    "SplashScreen": {
+      "launchShowDuration": 800,
+      "backgroundColor": "#0b1020",
+      "showSpinner": false
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "macvakti",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mac Vakti - Turkiye spor fikstur ve bildirim uygulamasi",
+  "scripts": {
+    "senkron": "npx cap sync android",
+    "ac": "npx cap open android",
+    "test": "node toplayici/test/dogrula.js",
+    "topla": "node toplayici/src/topla.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/push-notifications": "^6.0.3",
+    "@capacitor/splash-screen": "^6.0.3",
+    "@capacitor/app": "^6.0.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}

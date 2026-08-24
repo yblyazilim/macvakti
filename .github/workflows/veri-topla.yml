@@ -1,0 +1,56 @@
+name: Veri Topla
+
+# Sunucu maliyeti sıfır: GitHub Actions üzerinde çalışır, sonucu
+# depoya yazar ve GitHub Pages üzerinden yayınlar.
+on:
+  schedule:
+    # Her 15 dakikada bir: maç saati ve kanal değişikliklerini hızlı yakalar.
+    # Yayın akışı önbellekten okunur, bu yüzden hafif çalışır.
+    - cron: '*/15 * * * *'
+  workflow_dispatch:        # Elle tetikleme
+
+# Aynı anda birden fazla çalışma veriyi bozmasın
+concurrency:
+  group: veri-topla
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Doğrulama testleri
+        run: node toplayici/test/dogrula.js
+
+      - name: Veriyi topla (yayın akışı önbellekten)
+        id: topla
+        run: node toplayici/src/topla.js --yayinsiz
+        continue-on-error: true
+
+      - name: Değişiklik varsa yayınla
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          if [ -z "$(git status --porcelain toplayici/veri)" ]; then
+            echo "Değişiklik yok, commit atlanıyor."
+            exit 0
+          fi
+          git config user.name "macvakti-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add toplayici/veri
+          git commit -m "veri: otomatik güncelleme $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Toplama başarısızsa uyar
+        if: steps.topla.outcome == 'failure'
+        run: |
+          echo "::warning::Veri toplama hata verdi. Kaynak sitelerden biri değişmiş olabilir."
+          echo "Son çıktı kontrol edilmeli."

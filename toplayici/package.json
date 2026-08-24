@@ -1,0 +1,13 @@
+{
+  "name": "macvakti-toplayici",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mac Vakti veri toplama sistemi - resmi federasyon kaynaklari",
+  "main": "src/topla.js",
+  "scripts": {
+    "topla": "node src/topla.js",
+    "kuru": "node src/topla.js --kuru",
+    "test": "node test/dogrula.js"
+  },
+  "engines": { "node": ">=20" }
+}

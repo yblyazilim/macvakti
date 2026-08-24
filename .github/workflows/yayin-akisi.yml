@@ -1,0 +1,40 @@
+name: Yayın Akışını Elle Tazele
+
+# NOT: Zamanlanmış çalışma KALDIRILDI. Yayın akışı artık "Veri Topla"
+# akışının içinde, maç takvimine göre akıllı biçimde tazeleniyor.
+# Bu iş yalnızca elle tetiklenir — kanal bilgisini hemen zorlamak
+# gerektiğinde (ör. bir kaynak düzeltmesinden sonra) kullanılır.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: veri-topla        # ana döngüyle çakışmasın
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  tazele:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Akışı zorla tazele ve eşleştir
+        run: node toplayici/src/topla.js --yayinZorla
+
+      - name: Yayınla
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          if [ -n "$(git status --porcelain toplayici/veri)" ]; then
+            git config user.name "macvakti-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add toplayici/veri
+            git commit -m "yayın: akış elle tazelendi"
+            git pull --rebase --autostash origin main || true
+            git push
+          fi

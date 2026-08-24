@@ -1,0 +1,42 @@
+name: Bildirim Gönder
+
+# Bekleyen bildirim kuyruğunu FCM'e gönderir.
+# Firebase kurulduktan sonra etkinleşir; FIREBASE_SUNUCU_ANAHTARI secret'ı gerekir.
+on:
+  workflow_run:
+    workflows: ["Veri Topla"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gonder:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Kuyruğu gönder
+        env:
+          FIREBASE_PROJE: ${{ secrets.FIREBASE_PROJE }}
+          FIREBASE_HESAP_JSON: ${{ secrets.FIREBASE_HESAP_JSON }}
+        run: node toplayici/src/bildirim-gonder.js
+
+      - name: Kuyruk durumunu kaydet
+        run: |
+          cd "$GITHUB_WORKSPACE"
+          if [ -n "$(git status --porcelain toplayici/veri)" ]; then
+            git config user.name "macvakti-bot"
+            git config user.email "bot@users.noreply.github.com"
+            git add toplayici/veri
+            git commit -m "bildirim: kuyruk güncellendi"
+            git push
+          fi

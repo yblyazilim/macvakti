@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b1020">
+<title>Maç Vakti</title>
+<style>
+:root{
+  --zemin:#0b1020; --kart:#151b31; --kart2:#1c2340; --cizgi:#28304f;
+  --metin:#eef1f8; --sonuk:#98a0bd; --vurgu:#4ade80; --vurgu2:#38bdf8;
+  --uyari:#fbbf24; --hata:#f87171; --gol:#f472b6;
+  --guvenli-ust:env(safe-area-inset-top); --guvenli-alt:env(safe-area-inset-bottom);
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0;background:var(--zemin);color:var(--metin);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size:15px;line-height:1.45;overscroll-behavior-y:none}
+body{padding-top:var(--guvenli-ust);padding-bottom:calc(64px + var(--guvenli-alt))}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+
+/* ---- Üst başlık ---- */
+.ust{position:sticky;top:0;z-index:20;background:rgba(11,16,32,.92);
+  backdrop-filter:blur(12px);border-bottom:1px solid var(--cizgi)}
+.ust-ic{display:flex;align-items:center;justify-content:space-between;padding:12px 16px 10px}
+.marka{font-size:19px;font-weight:800;letter-spacing:-.3px}
+.marka span{color:var(--vurgu)}
+.durum-nokta{display:flex;align-items:center;gap:6px;font-size:11px;color:var(--sonuk)}
+.nokta{width:7px;height:7px;border-radius:50%;background:var(--vurgu)}
+.nokta.eski{background:var(--uyari)}
+
+/* ---- Branş şeridi ---- */
+.serit{display:flex;gap:8px;padding:0 16px 12px;overflow-x:auto;scrollbar-width:none}
+.serit::-webkit-scrollbar{display:none}
+.cip{flex:0 0 auto;padding:7px 14px;border-radius:999px;background:var(--kart);
+  border:1px solid var(--cizgi);font-size:13px;font-weight:600;color:var(--sonuk);
+  transition:.15s;white-space:nowrap}
+.cip.aktif{background:var(--vurgu);border-color:var(--vurgu);color:#052e16}
+
+/* ---- İçerik ---- */
+.icerik{padding:14px 16px 20px;max-width:640px;margin:0 auto}
+.gun-basligi{display:flex;align-items:center;gap:10px;margin:20px 0 10px;
+  font-size:13px;font-weight:700;color:var(--sonuk);text-transform:uppercase;letter-spacing:.5px}
+.gun-basligi:first-child{margin-top:4px}
+.gun-basligi::after{content:'';flex:1;height:1px;background:var(--cizgi)}
+.gun-basligi.bugun{color:var(--vurgu)}
+
+/* ---- Maç kartı ---- */
+.mac{background:var(--kart);border:1px solid var(--cizgi);border-radius:14px;
+  padding:13px 14px;margin-bottom:10px;transition:.15s;position:relative;overflow:hidden}
+.mac:active{transform:scale(.985);background:var(--kart2)}
+.mac.canli{border-color:var(--gol)}
+.mac-ust{display:flex;align-items:center;justify-content:space-between;
+  font-size:11px;color:var(--sonuk);margin-bottom:10px;gap:8px}
+.lig-ad{font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.saat-rozet{flex:0 0 auto;font-weight:800;font-size:13px;color:var(--metin);
+  background:var(--kart2);padding:3px 9px;border-radius:7px;letter-spacing:.3px}
+.saat-rozet.canli{background:var(--gol);color:#2a0616;animation:yanip 1.6s infinite}
+@keyframes yanip{0%,100%{opacity:1}50%{opacity:.65}}
+.saat-rozet.bitti{background:transparent;color:var(--sonuk);font-weight:600}
+
+.takimlar{display:flex;flex-direction:column;gap:9px}
+.takim{display:flex;align-items:center;gap:10px}
+.rozet{flex:0 0 auto;width:32px;height:32px;border-radius:9px;display:flex;
+  align-items:center;justify-content:center;font-size:12px;font-weight:800;
+  letter-spacing:-.5px;color:#fff;text-shadow:0 1px 2px rgba(0,0,0,.35)}
+.takim-ad{flex:1;font-weight:600;font-size:15px;overflow:hidden;
+  text-overflow:ellipsis;white-space:nowrap}
+.takim.kaybeden .takim-ad{color:var(--sonuk);font-weight:500}
+.skor{flex:0 0 auto;font-size:17px;font-weight:800;min-width:22px;text-align:right}
+.skor.yok{color:var(--sonuk);font-weight:400;font-size:14px}
+
+.mac-alt{display:flex;align-items:center;gap:6px;margin-top:11px;padding-top:10px;
+  border-top:1px solid var(--cizgi);font-size:12px;color:var(--sonuk);flex-wrap:wrap}
+.kanal{display:inline-flex;align-items:center;gap:5px;background:var(--kart2);
+  padding:4px 9px;border-radius:6px;font-weight:600;color:var(--vurgu2)}
+.kanal.bilinmiyor{color:var(--sonuk);font-weight:500;font-style:italic}
+.kanal.dijital{color:var(--gol)}
+.dijital-not{font-style:normal;font-size:10px;font-weight:700;opacity:.75;
+  margin-left:5px;text-transform:uppercase;letter-spacing:.4px}
+.mekan{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.takip-btn{margin-left:auto;flex:0 0 auto;padding:4px 10px;border-radius:6px;
+  border:1px solid var(--cizgi);font-size:11px;font-weight:700;color:var(--sonuk)}
+.takip-btn.aktif{background:var(--vurgu);border-color:var(--vurgu);color:#052e16}
+
+/* ---- Boş durum ---- */
+.bos{text-align:center;padding:56px 24px;color:var(--sonuk)}
+.bos-ikon{font-size:40px;margin-bottom:12px;opacity:.4}
+.bos-baslik{font-size:16px;font-weight:700;color:var(--metin);margin-bottom:6px}
+.bos-alt{font-size:13px;line-height:1.6}
+
+/* ---- Alt gezinme ---- */
+.alt{position:fixed;left:0;right:0;bottom:0;z-index:30;display:flex;
+  background:rgba(11,16,32,.96);backdrop-filter:blur(12px);
+  border-top:1px solid var(--cizgi);padding-bottom:var(--guvenli-alt)}
+.alt button{flex:1;padding:9px 4px 10px;display:flex;flex-direction:column;
+  align-items:center;gap:3px;font-size:10px;font-weight:600;color:var(--sonuk)}
+.alt button.aktif{color:var(--vurgu)}
+.alt-ikon{font-size:19px;line-height:1}
+
+/* ---- Ayarlar ---- */
+.bolum{background:var(--kart);border:1px solid var(--cizgi);border-radius:14px;
+  padding:4px 14px;margin-bottom:14px}
+.bolum-baslik{font-size:12px;font-weight:700;color:var(--sonuk);
+  text-transform:uppercase;letter-spacing:.5px;margin:16px 2px 8px}
+.satir{display:flex;align-items:center;justify-content:space-between;
+  padding:13px 0;border-bottom:1px solid var(--cizgi);gap:12px}
+.satir:last-child{border-bottom:none}
+.satir-ad{font-weight:600;font-size:14px}
+.satir-alt{font-size:12px;color:var(--sonuk);margin-top:2px}
+.anahtar{flex:0 0 auto;width:46px;height:27px;border-radius:999px;background:var(--cizgi);
+  position:relative;transition:.2s}
+.anahtar.acik{background:var(--vurgu)}
+.anahtar::after{content:'';position:absolute;top:3px;left:3px;width:21px;height:21px;
+  border-radius:50%;background:#fff;transition:.2s}
+.anahtar.acik::after{transform:translateX(19px)}
+.not{font-size:12px;color:var(--sonuk);line-height:1.6;padding:12px 2px}
+
+/* ---- Yükleniyor ---- */
+.yukleniyor{text-align:center;padding:48px;color:var(--sonuk);font-size:14px}
+.donen{display:inline-block;width:22px;height:22px;border:2.5px solid var(--cizgi);
+  border-top-color:var(--vurgu);border-radius:50%;animation:don .7s linear infinite;
+  margin-bottom:12px}
+@keyframes don{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+
+<header class="ust">
+  <div class="ust-ic">
+    <div class="marka">Maç<span>Vakti</span></div>
+    <div class="durum-nokta" id="durumGosterge"></div>
+  </div>
+  <div class="serit" id="branseriti"></div>
+</header>
+
+<main class="icerik" id="icerik">
+  <div class="yukleniyor"><div class="donen"></div><div>Maçlar yükleniyor…</div></div>
+</main>
+
+<nav class="alt" id="altGezinme"></nav>
+
+<script src="fcm.js"></script>
+<script>
+window.__ONIZLEME_VERI = {"guncellendi": "2026-08-24T00:08:50.359Z", "surum": 1, "adet": 13, "ornek": true, "rapor": {"futbol": {"durum": "tamam", "adet": 10}}, "maclar": [{"id": "futbol:tff:SL:20260821erzurumsporgalatasaray", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "2. Hafta", "baslangicUtc": "2026-08-21T18:30:00.000Z", "evSahibi": "Erzurumspor", "deplasman": "Galatasaray", "mekan": "", "sehir": "", "hakem": "", "durum": "bitti", "skorEv": 0, "skorDep": 4, "kanallar": [], "kanalKaynak": "", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff"}, {"id": "futbol:tff:SL:20260822rizesporsamsunspor", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "2. Hafta", "baslangicUtc": "2026-08-22T16:00:00.000Z", "evSahibi": "Rizespor", "deplasman": "Samsunspor", "mekan": "", "sehir": "", "hakem": "", "durum": "bitti", "skorEv": 0, "skorDep": 2, "kanallar": [], "kanalKaynak": "", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff"}, {"id": "futbol:tff:SL:20260822çorumkasımpaşa", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "2. Hafta", "baslangicUtc": "2026-08-22T16:00:00.000Z", "evSahibi": "Çorum", "deplasman": "Kasımpaşa", "mekan": "", "sehir": "", "hakem": "", "durum": "bitti", "skorEv": 0, "skorDep": 1, "kanallar": [], "kanalKaynak": "", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff"}, {"id": "futbol:tff:SL:20260822fenerbahçekonyaspor", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "2. Hafta", "baslangicUtc": "2026-08-22T18:30:00.000Z", "evSahibi": "Fenerbahçe", "deplasman": "Konyaspor", "mekan": "", "sehir": "", "hakem": "", "durum": "bitti", "skorEv": 4, "skorDep": 2, "kanallar": [], "kanalKaynak": "", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff"}, {"id": "futbol:tff:SL:20260823trabzonsporbaşakşehir", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "2. Hafta", "baslangicUtc": "2026-08-23T16:00:00.000Z", "evSahibi": "Trabzonspor", "deplasman": "Başakşehir", "mekan": "", "sehir": "", "hakem": "", "durum": "bitti", "skorEv": 2, "skorDep": 1, "kanallar": [], "kanalKaynak": "", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff"}, {"id": "futbol:tff:SL:20260823eyüpsporgaziantep", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "2. Hafta", "baslangicUtc": "2026-08-23T16:00:00.000Z", "evSahibi": "Eyüpspor", "deplasman": "Gaziantep", "mekan": "", "sehir": "", "hakem": "", "durum": "bitti", "skorEv": 0, "skorDep": 1, "kanallar": [], "kanalKaynak": "", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff"}, {"id": "futbol:tff:SL:20260823alanyasporbeşiktaş", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "2. Hafta", "baslangicUtc": "2026-08-23T18:30:00.000Z", "evSahibi": "Alanyaspor", "deplasman": "Beşiktaş", "mekan": "", "sehir": "", "hakem": "", "durum": "bitti", "skorEv": 1, "skorDep": 0, "kanallar": [], "kanalKaynak": "", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff"}, {"id": "futbol:tff:SL:20260823göztepegençlerbirliği", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "2. Hafta", "baslangicUtc": "2026-08-23T18:30:00.000Z", "evSahibi": "Göztepe", "deplasman": "Gençlerbirliği", "mekan": "", "sehir": "", "hakem": "", "durum": "bitti", "skorEv": 0, "skorDep": 1, "kanallar": [], "kanalKaynak": "", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff"}, {"id": "basketbol:tbf:900001", "brans": "basketbol", "lig": "Basketbol Süper Ligi", "ligId": "22212", "sezon": "2026-2027", "hafta": "1. Hafta", "baslangicUtc": "2026-08-24T17:00:00.000Z", "evSahibi": "Fenerbahçe Beko", "deplasman": "Anadolu Efes", "mekan": "Ülker Spor Salonu", "sehir": "", "hakem": "", "durum": "bekliyor", "skorEv": null, "skorDep": null, "kanallar": ["S Sport 2"], "kanalKaynak": "yayin-akisi", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tbf", "kanalGuven": 100, "kanalDogrulayan": 2}, {"id": "futbol:tff:SL:20260824kocaelisporamedsportiffaaliyetler", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "2. Hafta", "baslangicUtc": "2026-08-24T18:30:00.000Z", "evSahibi": "Kocaelispor", "deplasman": "Amed Sportif Faaliyetler", "mekan": "", "sehir": "", "hakem": "", "durum": "bekliyor", "skorEv": null, "skorDep": null, "kanallar": ["TRT Spor"], "kanalKaynak": "yayin-akisi", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff", "kanalGuven": 100, "kanalDogrulayan": 2}, {"id": "hentbol:thf:3035", "brans": "hentbol", "lig": "Hentbol Süper Lig", "ligId": "5", "sezon": "", "hafta": "1. Hafta", "baslangicUtc": "2026-08-25T09:00:00.000Z", "evSahibi": "Bursa Büyükşehir Belediyesi", "deplasman": "Ortahisar Belediyesi", "mekan": "Atatürk Spor Salonu", "sehir": "", "hakem": "A. Yılmaz, B. Demir", "durum": "bekliyor", "skorEv": null, "skorDep": null, "kanallar": ["TRT Spor"], "kanalKaynak": "kaynak", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "thf"}, {"id": "futbol:tff:SL:ornek2", "brans": "futbol", "lig": "Süper Lig", "ligId": "198", "sezon": "2026-2027", "hafta": "3. Hafta", "baslangicUtc": "2026-08-26T18:30:00.000Z", "evSahibi": "Galatasaray", "deplasman": "Fenerbahçe", "mekan": "Rams Park", "sehir": "", "hakem": "", "durum": "bekliyor", "skorEv": null, "skorDep": null, "kanallar": ["beIN Sports 1"], "kanalKaynak": "yayin-akisi", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tff", "kanalGuven": 100, "kanalDogrulayan": 1}, {"id": "voleybol:tvf:ornek1", "brans": "voleybol", "lig": "Efeler Ligi", "ligId": "efeler-ligi", "sezon": "", "hafta": "", "baslangicUtc": "2026-08-27T15:00:00.000Z", "evSahibi": "Ziraat Bankkart", "deplasman": "Halkbank", "mekan": "Başkent Voleybol Salonu", "sehir": "", "hakem": "", "durum": "bekliyor", "skorEv": null, "skorDep": null, "kanallar": ["tabii spor"], "kanalKaynak": "yayin-akisi", "kadroHazir": false, "kadrolar": null, "guncellendi": "2026-08-24T00:08:50.355Z", "kaynak": "tvf", "dijitalYayin": true, "kanalGuven": 95}]};
+// ============================================================
+//  Maç Vakti — istemci
+//  Tasarım kuralı: HİÇBİR kulüp veya kanal LOGOSU kullanılmaz.
+//  Kimlik, takım adından türetilen tipografik rozetle verilir.
+// ============================================================
+
+let G = {
+  ekran: 'bugun',
+  brans: 'hepsi',
+  maclar: [],
+  guncellendi: null,
+  takipler: [],
+  ayarlar: { t60: true, t15: true, kadro: true, degisiklik: true, sonuc: false, sessiz: true },
+  hata: null
+};
+
+// Veri kaynağı. Yayına çıkarken GitHub Pages adresiyle değiştirilir.
+const VERI_KAYNAGI = {
+  uzak: '',                      // ör: 'https://yblyazilim.github.io/macvakti-veri/'
+  yerel: '../toplayici/veri/'
+};
+
+const BRANSLAR = [
+  { k: 'hepsi',     ad: 'Tümü'      },
+  { k: 'futbol',    ad: 'Futbol'    },
+  { k: 'basketbol', ad: 'Basketbol' },
+  { k: 'voleybol',  ad: 'Voleybol'  },
+  { k: 'hentbol',   ad: 'Hentbol'   }
+];
+
+const EKRANLAR = [
+  { k: 'bugun',   ad: 'Bugün',   ikon: '⚡' },
+  { k: 'fikstur', ad: 'Fikstür', ikon: '🗓' },
+  { k: 'takibim', ad: 'Takibim', ikon: '★'  },
+  { k: 'ayarlar', ad: 'Ayarlar', ikon: '⚙'  }
+];
+
+// ---------- Depolama ----------
+function kaydet() {
+  try {
+    localStorage.setItem('mv_takipler', JSON.stringify(G.takipler));
+    localStorage.setItem('mv_ayarlar', JSON.stringify(G.ayarlar));
+    localStorage.setItem('mv_brans', G.brans);
+  } catch (e) {}
+}
+function yukle() {
+  try {
+    const t = localStorage.getItem('mv_takipler');
+    if (t) G.takipler = JSON.parse(t);
+    const a = localStorage.getItem('mv_ayarlar');
+    if (a) G.ayarlar = Object.assign(G.ayarlar, JSON.parse(a));
+    const b = localStorage.getItem('mv_brans');
+    if (b) G.brans = b;
+  } catch (e) {}
+}
+
+// ---------- Tipografi rozeti (logo yerine) ----------
+function rozetHarf(ad) {
+  const kelimeler = String(ad).trim().split(/\s+/).filter(k => k.length > 1);
+  if (kelimeler.length >= 2) {
+    return (kelimeler[0][0] + kelimeler[1][0]).toLocaleUpperCase('tr-TR');
+  }
+  return String(ad).trim().slice(0, 2).toLocaleUpperCase('tr-TR');
+}
+function rozetRenk(ad) {
+  let h = 0;
+  const s = String(ad);
+  for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
+  const ton = h % 360;
+  const doygun = 42 + (h >> 8) % 18;
+  return 'linear-gradient(135deg,hsl(' + ton + ',' + doygun + '%,42%),hsl(' +
+         ((ton + 26) % 360) + ',' + doygun + '%,30%))';
+}
+function rozetHtml(ad) {
+  return '<div class="rozet" style="background:' + rozetRenk(ad) + '">' +
+         kacir(rozetHarf(ad)) + '</div>';
+}
+
+// ---------- Zaman ----------
+const TR_OFSET = 180;
+function trTarih(iso) { return new Date(new Date(iso).getTime() + TR_OFSET * 60000); }
+function saatYaz(iso) {
+  const d = trTarih(iso);
+  return String(d.getUTCHours()).padStart(2, '0') + ':' + String(d.getUTCMinutes()).padStart(2, '0');
+}
+const AYLAR = ['Ocak','Şubat','Mart','Nisan','Mayıs','Haziran','Temmuz','Ağustos','Eylül','Ekim','Kasım','Aralık'];
+const GUNLER = ['Pazar','Pazartesi','Salı','Çarşamba','Perşembe','Cuma','Cumartesi'];
+function gunAnahtari(iso) { return trTarih(iso).toISOString().slice(0, 10); }
+function gunYaz(iso) {
+  const d = trTarih(iso);
+  const bugun = trTarih(new Date().toISOString());
+  const fark = Math.round((Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()) -
+    Date.UTC(bugun.getUTCFullYear(), bugun.getUTCMonth(), bugun.getUTCDate())) / 86400000);
+  if (fark === 0) return 'Bugün';
+  if (fark === 1) return 'Yarın';
+  if (fark === -1) return 'Dün';
+  return d.getUTCDate() + ' ' + AYLAR[d.getUTCMonth()] + ' ' + GUNLER[d.getUTCDay()];
+}
+
+function kacir(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g,
+    c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+}
+
+// ---------- Takip ----------
+function takipAnahtar(ad) {
+  return String(ad).toLocaleLowerCase('tr-TR').replace(/[^\p{L}\p{N}]/gu, '');
+}
+function takiptaMi(ad) { return G.takipler.indexOf(takipAnahtar(ad)) >= 0; }
+function takibiCevir(ad) {
+  const a = takipAnahtar(ad);
+  const i = G.takipler.indexOf(a);
+  if (i >= 0) G.takipler.splice(i, 1); else G.takipler.push(a);
+  kaydet();
+  konulariGuncelle();
+  ciz();
+}
+
+// ---------- Veri ----------
+async function veriGetir() {
+  if (window.__ONIZLEME_VERI) {
+    const j = window.__ONIZLEME_VERI;
+    G.maclar = (j.maclar || []).filter(m => G.brans === 'hepsi' || m.brans === G.brans);
+    G.guncellendi = j.guncellendi; G.hata = null; return true;
+  }
+  const dosya = (G.brans === 'hepsi' ? 'maclar' : G.brans) + '.json';
+  const kaynaklar = [];
+  if (VERI_KAYNAGI.uzak) kaynaklar.push(VERI_KAYNAGI.uzak + dosya);
+  kaynaklar.push(VERI_KAYNAGI.yerel + dosya);
+
+  for (const url of kaynaklar) {
+    try {
+      const y = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
+      if (!y.ok) continue;
+      const j = await y.json();
+      G.maclar = j.maclar || [];
+      G.guncellendi = j.guncellendi;
+      G.hata = null;
+      try { localStorage.setItem('mv_onbellek_' + dosya, JSON.stringify(j)); } catch (e) {}
+      return true;
+    } catch (e) {}
+  }
+  // Çevrimdışı: son bilinen veriyi göster
+  try {
+    const o = localStorage.getItem('mv_onbellek_' + dosya);
+    if (o) {
+      const j = JSON.parse(o);
+      G.maclar = j.maclar || [];
+      G.guncellendi = j.guncellendi;
+      G.hata = 'cevrimdisi';
+      return true;
+    }
+  } catch (e) {}
+  G.hata = 'baglanti';
+  return false;
+}
+
+// ---------- Bildirim konuları ----------
+function konulariGuncelle() {
+  if (!window.Capacitor || !window.FCMAbone) return;
+  const konular = [];
+  for (const t of G.takipler) konular.push('takim_' + t);
+  if (G.brans !== 'hepsi') konular.push('brans_' + G.brans);
+  try { window.FCMAbone(konular); } catch (e) {}
+}
+
+// ---------- Çizim ----------
+function macKarti(m) {
+  const bitti = m.durum === 'bitti';
+  const canli = m.durum === 'canli';
+  const ertelendi = m.durum === 'ertelendi' || m.durum === 'iptal';
+
+  let saatIc, saatSinif = 'saat-rozet';
+  if (canli) { saatIc = 'CANLI'; saatSinif += ' canli'; }
+  else if (bitti) { saatIc = 'Bitti'; saatSinif += ' bitti'; }
+  else if (ertelendi) { saatIc = m.durum === 'iptal' ? 'İptal' : 'Ertelendi'; saatSinif += ' bitti'; }
+  else saatIc = saatYaz(m.baslangicUtc);
+
+  const evKazandi = bitti && m.skorEv > m.skorDep;
+  const depKazandi = bitti && m.skorDep > m.skorEv;
+
+  const takimSatir = (ad, skor, kaybeden) =>
+    '<div class="takim' + (kaybeden ? ' kaybeden' : '') + '">' +
+      rozetHtml(ad) +
+      '<div class="takim-ad">' + kacir(ad) + '</div>' +
+      '<div class="skor' + (skor === null || skor === undefined ? ' yok' : '') + '">' +
+        (skor === null || skor === undefined ? '–' : kacir(skor)) +
+      '</div>' +
+    '</div>';
+
+  // Yayın gösterimi: TV kanalı ile dijital platform ayrı gösterilir.
+  // Kanal bilgisi yoksa uydurulmaz — açıkça "bekleniyor" denir.
+  var kanalIc;
+  if (m.kanallar && m.kanallar.length) {
+    var dijital = m.dijitalYayin;
+    var etiket = dijital ? '▶' : '📺';
+    var sinif = 'kanal' + (dijital ? ' dijital' : '');
+    kanalIc = '<span class="' + sinif + '">' + etiket + ' ' +
+      kacir(m.kanallar.join(' · ')) +
+      (dijital ? '<em class="dijital-not">dijital</em>' : '') + '</span>';
+  } else {
+    kanalIc = '<span class="kanal bilinmiyor">Yayın bilgisi bekleniyor</span>';
+  }
+
+  const takipli = takiptaMi(m.evSahibi) || takiptaMi(m.deplasman);
+
+  return '<article class="mac' + (canli ? ' canli' : '') + '">' +
+    '<div class="mac-ust">' +
+      '<span class="lig-ad">' + kacir(m.lig || '') + (m.hafta ? ' · ' + kacir(m.hafta) : '') + '</span>' +
+      '<span class="' + saatSinif + '">' + saatIc + '</span>' +
+    '</div>' +
+    '<div class="takimlar">' +
+      takimSatir(m.evSahibi, m.skorEv, depKazandi) +
+      takimSatir(m.deplasman, m.skorDep, evKazandi) +
+    '</div>' +
+    '<div class="mac-alt">' +
+      kanalIc +
+      (m.mekan ? '<span class="mekan">📍 ' + kacir(m.mekan) + '</span>' : '') +
+      '<button class="takip-btn' + (takipli ? ' aktif' : '') + '" ' +
+        'onclick="takibiCevir(\'' + kacir(m.evSahibi).replace(/'/g, "\\'") + '\')">' +
+        (takipli ? '★ Takipte' : '☆ Takip et') +
+      '</button>' +
+    '</div>' +
+  '</article>';
+}
+
+function gunlereBol(maclar) {
+  const harita = new Map();
+  for (const m of maclar) {
+    const g = gunAnahtari(m.baslangicUtc);
+    if (!harita.has(g)) harita.set(g, []);
+    harita.get(g).push(m);
+  }
+  return [...harita.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+}
+
+function listeCiz(maclar, bosBaslik, bosAlt, bosIkon) {
+  if (!maclar.length) {
+    return '<div class="bos"><div class="bos-ikon">' + (bosIkon || '📭') + '</div>' +
+      '<div class="bos-baslik">' + kacir(bosBaslik) + '</div>' +
+      '<div class="bos-alt">' + kacir(bosAlt) + '</div></div>';
+  }
+  let h = '';
+  const bugunAnahtar = gunAnahtari(new Date().toISOString());
+  for (const [gun, liste] of gunlereBol(maclar)) {
+    h += '<div class="gun-basligi' + (gun === bugunAnahtar ? ' bugun' : '') + '">' +
+         kacir(gunYaz(liste[0].baslangicUtc)) + '</div>';
+    for (const m of liste) h += macKarti(m);
+  }
+  return h;
+}
+
+function ekranBugun() {
+  const simdi = Date.now();
+  const bugunAnahtar = gunAnahtari(new Date().toISOString());
+  const liste = G.maclar.filter(m => {
+    const g = gunAnahtari(m.baslangicUtc);
+    if (g === bugunAnahtar) return true;
+    // Bugün maç yoksa yaklaşan ilk maçları da göster
+    return new Date(m.baslangicUtc).getTime() > simdi;
+  });
+  const bugunkuler = liste.filter(m => gunAnahtari(m.baslangicUtc) === bugunAnahtar);
+  const gosterilecek = bugunkuler.length ? bugunkuler : liste.slice(0, 8);
+  return listeCiz(gosterilecek,
+    'Bugün maç yok',
+    'Seçili branşta bugüne ait karşılaşma bulunmuyor. Fikstür sekmesinden ileri tarihlere bakabilirsiniz.',
+    '😴');
+}
+
+function ekranFikstur() {
+  const simdi = Date.now() - 6 * 3600000; // son 6 saati de göster
+  const liste = G.maclar.filter(m => new Date(m.baslangicUtc).getTime() > simdi);
+  return listeCiz(liste.length ? liste : G.maclar,
+    'Fikstür bekleniyor',
+    'Bu branşın fikstürü henüz açıklanmamış. Açıklandığında burada görünecek.',
+    '🗓');
+}
+
+function ekranTakibim() {
+  if (!G.takipler.length) {
+    return '<div class="bos"><div class="bos-ikon">★</div>' +
+      '<div class="bos-baslik">Henüz takım takip etmiyorsunuz</div>' +
+      '<div class="bos-alt">Maç kartlarındaki “Takip et” düğmesine dokunarak takımlarınızı ekleyin. ' +
+      'Maçları burada toplanır ve maç saati yaklaştığında bildirim alırsınız.</div></div>';
+  }
+  const liste = G.maclar.filter(m => takiptaMi(m.evSahibi) || takiptaMi(m.deplasman));
+  return listeCiz(liste,
+    'Takip ettiğiniz takımların maçı yok',
+    'Seçili branşta yaklaşan karşılaşma bulunmuyor.',
+    '★');
+}
+
+function ayarSatiri(anahtar, ad, alt) {
+  return '<div class="satir"><div><div class="satir-ad">' + kacir(ad) + '</div>' +
+    (alt ? '<div class="satir-alt">' + kacir(alt) + '</div>' : '') + '</div>' +
+    '<div class="anahtar' + (G.ayarlar[anahtar] ? ' acik' : '') +
+    '" onclick="ayarCevir(\'' + anahtar + '\')"></div></div>';
+}
+
+function ekranAyarlar() {
+  let h = '';
+  h += '<div class="bolum-baslik">Bildirimler</div><div class="bolum">';
+  h += ayarSatiri('t60', 'Maçtan 1 saat önce', 'Başlamadan önce hatırlatma');
+  h += ayarSatiri('t15', 'Maçtan 15 dakika önce', 'Son hatırlatma');
+  h += ayarSatiri('degisiklik', 'Saat ve kanal değişiklikleri', 'Değişiklik olduğu anda bildirilir');
+  h += ayarSatiri('kadro', 'Kadrolar açıklandığında', 'İlk 11’ler belli olunca');
+  h += ayarSatiri('sonuc', 'Maç sonuçları', 'Karşılaşma bittiğinde skor');
+  h += '</div>';
+
+  h += '<div class="bolum-baslik">Tercihler</div><div class="bolum">';
+  h += ayarSatiri('sessiz', 'Sessiz saatler', 'Gece 00:00–08:00 arası yalnızca önemli bildirimler');
+  h += '</div>';
+
+  if (G.takipler.length) {
+    h += '<div class="bolum-baslik">Takip edilen takımlar (' + G.takipler.length + ')</div><div class="bolum">';
+    const adlar = new Map();
+    for (const m of G.maclar) {
+      for (const ad of [m.evSahibi, m.deplasman]) {
+        if (takiptaMi(ad)) adlar.set(takipAnahtar(ad), ad);
+      }
+    }
+    for (const [a, ad] of adlar) {
+      h += '<div class="satir"><div class="satir-ad">' + kacir(ad) + '</div>' +
+        '<button class="takip-btn aktif" onclick="takibiCevir(\'' +
+        kacir(ad).replace(/'/g, "\\'") + '\')">Kaldır</button></div>';
+    }
+    h += '</div>';
+  }
+
+  h += '<div class="bolum-baslik">Uygulama</div><div class="bolum">';
+  h += '<div class="not">Maç saatleri Türkiye saatine göre gösterilir. ' +
+       'Bilgiler resmi federasyon kaynaklarından düzenli olarak güncellenir. ' +
+       'Yayın bilgisi değişebileceğinden, maç öncesi kontrol edilmesi önerilir.</div>';
+  if (G.guncellendi) {
+    h += '<div class="not">Son güncelleme: ' +
+      kacir(new Date(G.guncellendi).toLocaleString('tr-TR')) + '</div>';
+  }
+  h += '</div>';
+  return h;
+}
+
+function ciz() {
+  // Branş şeridi
+  document.getElementById('branseriti').innerHTML = BRANSLAR.map(b =>
+    '<button class="cip' + (G.brans === b.k ? ' aktif' : '') +
+    '" onclick="bransSec(\'' + b.k + '\')">' + kacir(b.ad) + '</button>').join('');
+
+  // Alt gezinme
+  document.getElementById('altGezinme').innerHTML = EKRANLAR.map(e =>
+    '<button class="' + (G.ekran === e.k ? 'aktif' : '') +
+    '" onclick="ekranSec(\'' + e.k + '\')">' +
+    '<span class="alt-ikon">' + e.ikon + '</span><span>' + kacir(e.ad) + '</span></button>').join('');
+
+  // Durum göstergesi
+  const dg = document.getElementById('durumGosterge');
+  if (G.hata === 'cevrimdisi') {
+    dg.innerHTML = '<span class="nokta eski"></span>Çevrimdışı';
+  } else if (G.hata === 'baglanti') {
+    dg.innerHTML = '<span class="nokta eski"></span>Bağlanılamadı';
+  } else if (G.guncellendi) {
+    dg.innerHTML = '<span class="nokta"></span>Güncel';
+  } else dg.innerHTML = '';
+
+  // İçerik
+  let h;
+  if (G.ekran === 'bugun') h = ekranBugun();
+  else if (G.ekran === 'fikstur') h = ekranFikstur();
+  else if (G.ekran === 'takibim') h = ekranTakibim();
+  else h = ekranAyarlar();
+
+  if (G.hata === 'baglanti' && !G.maclar.length) {
+    h = '<div class="bos"><div class="bos-ikon">📡</div>' +
+      '<div class="bos-baslik">Bağlantı kurulamadı</div>' +
+      '<div class="bos-alt">İnternet bağlantınızı kontrol edip tekrar deneyin.</div></div>';
+  }
+  document.getElementById('icerik').innerHTML = h;
+  window.scrollTo(0, 0);
+}
+
+// ---------- Olaylar ----------
+function ekranSec(k) { G.ekran = k; ciz(); }
+async function bransSec(k) {
+  G.brans = k; kaydet();
+  document.getElementById('icerik').innerHTML =
+    '<div class="yukleniyor"><div class="donen"></div><div>Yükleniyor…</div></div>';
+  await veriGetir();
+  konulariGuncelle();
+  ciz();
+}
+function ayarCevir(k) { G.ayarlar[k] = !G.ayarlar[k]; kaydet(); ciz(); }
+
+// ---------- Başlangıç ----------
+async function basla() {
+  yukle();
+  await veriGetir();
+  konulariGuncelle();
+  ciz();
+  // Uygulama öne gelince tazele
+  document.addEventListener('visibilitychange', async () => {
+    if (!document.hidden) { await veriGetir(); ciz(); }
+  });
+  setInterval(async () => { await veriGetir(); ciz(); }, 5 * 60000);
+}
+basla();
+</script>
+</body>
+</html>
