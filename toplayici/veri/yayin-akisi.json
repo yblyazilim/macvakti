@@ -1,14 +1,20 @@
 {
- "guncellendi": "2026-08-24T04:51:42.622Z",
- "adet": 453,
+ "guncellendi": "2026-08-24T05:01:58.581Z",
+ "adet": 469,
  "rapor": {
   "digiturk": {
-   "durum": "tamam",
-   "adet": 0
+   "durum": "bos",
+   "adet": 0,
+   "ornek": null
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 453
+   "adet": 469,
+   "ornek": {
+    "kanal": "A Spor",
+    "baslik": "Barcelona Dev Maçlar",
+    "baslangic": "2026-08-24T00:00:00.000Z"
+   }
   }
  },
  "programlar": [
@@ -525,6 +531,17 @@
    "baslangicUtc": "2026-08-27T04:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A Spor",
+   "dijital": false,
+   "baslik": "Sabah Sporu",
+   "baslangicUtc": "2026-08-27T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -1695,6 +1712,17 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "Eurosport 1",
+   "dijital": false,
+   "baslik": "Wuhan Açık",
+   "baslangicUtc": "2026-08-27T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "Eurosport 2",
    "dijital": false,
    "baslik": "Dünya Formula E Şampiyonası",
@@ -2350,6 +2378,17 @@
    "baslangicUtc": "2026-08-27T03:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "Eurosport 2",
+   "dijital": false,
+   "baslik": "Dünya Formula E Şampiyonası",
+   "baslangicUtc": "2026-08-27T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -3146,6 +3185,17 @@
    "dijital": false,
    "baslik": "İtalya Basketbol Ligi",
    "baslangicUtc": "2026-08-27T03:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "Sports TV",
+   "dijital": false,
+   "baslik": "Auto Life",
+   "baslangicUtc": "2026-08-27T05:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -4253,6 +4303,159 @@
    "dijital": true,
    "baslik": "TRT Spor Yıldız Ortak Yayın",
    "baslangicUtc": "2026-08-24T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-08-25T06:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Community Shield Arsenal - Manchester City",
+   "baslangicUtc": "2026-08-25T06:55:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Community Shield Arsenal",
+    "Manchester City"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-08-25T08:35:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Freiburg - Aston Villa , Uefa Avrupa Ligi Final Futbol Karşılaşması",
+   "baslangicUtc": "2026-08-25T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Freiburg",
+    "Aston Villa , Uefa Avrupa Ligi Final Futbol Karşılaşması"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Fıfa 2026 Dünya Kupası Final Futbol Karşılaşmasıispanya - Arjantin",
+   "baslangicUtc": "2026-08-25T10:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Fıfa 2026 Dünya Kupası Final Futbol Karşılaşmasıispanya",
+    "Arjantin"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Avrupa Konferans Ligi Final Futbol Karşılaşmasıcrystal Palace - Rayo Vallecano",
+   "baslangicUtc": "2026-08-25T13:05:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Avrupa Konferans Ligi Final Futbol Karşılaşmasıcrystal Palace",
+    "Rayo Vallecano"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "İtalya Kupası 1. Tur Futbol Karşılaşması Lazio - Mantova",
+   "baslangicUtc": "2026-08-25T14:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "İtalya Kupası 1. Tur Futbol Karşılaşması Lazio",
+    "Mantova"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-08-25T16:25:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Fıfa Kulüpler Kupası 2025 Yarı Final Karş.  Fluminense - Chelsea",
+   "baslangicUtc": "2026-08-25T16:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Fıfa Kulüpler Kupası 2025 Yarı Final Karş. Fluminense",
+    "Chelsea"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-08-25T18:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Şampiyonlar Ligi Play Off 1. Tur Futbol Karşılaşması Levski - Aek",
+   "baslangicUtc": "2026-08-25T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Şampiyonlar Ligi Play Off 1. Tur Futbol Karşılaşması Levski",
+    "Aek"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "TRT Spor Yıldız Ortak Yayın",
+   "baslangicUtc": "2026-08-25T21:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
