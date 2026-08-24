@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T11:59:55.329Z",
+ "guncellendi": "2026-08-24T12:18:34.930Z",
  "surum": 1,
  "bransSayisi": 2,
  "takimSayisi": 101,
@@ -168,7 +168,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1968,
+    "sehir": "Erzurum",
+    "stat": "Kâzım Karabekir Stadyumu"
+   }
   },
   "galatasaray": {
    "ad": "Galatasaray",
@@ -178,7 +183,12 @@
    "ligler": [
     "futbol:1000",
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1905,
+    "sehir": "İstanbul",
+    "stat": "Rams Park"
+   }
   },
   "karagumruk": {
    "ad": "Karagümrük",
@@ -187,7 +197,12 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1926,
+    "sehir": "İstanbul",
+    "stat": "Vefa Stadyumu"
+   }
   },
   "bursaspor": {
    "ad": "Bursaspor",
@@ -196,7 +211,12 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1963,
+    "sehir": "Bursa",
+    "stat": "Bursa Atatürk Stadyumu"
+   }
   },
   "rizespor": {
    "ad": "Rizespor",
@@ -205,7 +225,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1953,
+    "sehir": "Rize",
+    "stat": "Yeni Rize Şehir Stadyumu"
+   }
   },
   "samsunspor": {
    "ad": "Samsunspor",
