@@ -1,0 +1,38 @@
+name: Test Bildirimi
+
+# Elle tetiklenir: verilen konuya tek bir test bildirimi gonderir.
+# Aboneligin gercekten calisip calismadigini dogrulamak icindir.
+on:
+  workflow_dispatch:
+    inputs:
+      konu:
+        description: 'Hedef konu (or. takim_galatasaray)'
+        required: true
+        default: 'brans_futbol'
+      baslik:
+        description: 'Bildirim basligi'
+        required: false
+        default: 'Mac Vakti'
+      govde:
+        description: 'Bildirim metni'
+        required: false
+        default: 'Test bildirimi - her sey calisiyor.'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Konuya test bildirimi gonder
+        env:
+          FIREBASE_PROJE: ${{ secrets.FIREBASE_PROJE }}
+          FIREBASE_HESAP_JSON: ${{ secrets.FIREBASE_HESAP_JSON }}
+          KONU: ${{ inputs.konu }}
+          BASLIK: ${{ inputs.baslik }}
+          GOVDE: ${{ inputs.govde }}
+        run: node toplayici/src/test-bildirim.js
