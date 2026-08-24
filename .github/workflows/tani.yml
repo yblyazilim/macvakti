@@ -1,18 +1,21 @@
-name: Tanı - Kaynak Erişimi
+name: Tani - Kaynak Erisimi
 
-# TFF'ye GitHub sunucularından hangi yöntemle erişilebildiğini ölçer.
-# Yalnızca elle çalıştırılır; tanı bittikten sonra kaldırılabilir.
+# Kaynaklara hangi yontemle erisilebildigini olcer.
+# Tani dosyasi her degistiginde otomatik calisir.
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'toplayici/test/tani-*.js'
 
 jobs:
   tani:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: TFF erişim tanısı
+      - name: Kaynak erisim tanisi
         run: node toplayici/test/tani-tff.js
