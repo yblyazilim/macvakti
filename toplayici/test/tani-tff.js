@@ -31,3 +31,4 @@ async function calistir(){
   }
 }
 calistir().catch(e=>{console.error(e);process.exit(1);});
+// tetikleme 71283
