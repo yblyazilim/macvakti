@@ -1,1 +1,20 @@
-{"ligKurallari":{},"elleGirilenler":{},"guncellendi":null,"_not":"Yayin haklari dogrulanmadan kural yazilmaz. Panelden doldurulur."}
+{
+ "ligKurallari": {
+  "futbol:198": {
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "_not": "2026-27 Super Lig yayin hakki beIN Sports (dijital: TOD). Yayin akisi calistiginda tam kanal numarasi ile degistirilir."
+  },
+  "futbol:142": {
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "_not": "2026-27 TFF 1. Lig; bazi maclar TRT Spor ve tabii uzerinden ucretsiz."
+  }
+ },
+ "elleGirilenler": {},
+ "guncellendi": "2026-08-24",
+ "_not": "Yayin haklari dogrulanarak yazildi (2026-27 sezonu). 2. ve 3. Lig icin dogrulanmis bilgi bulunmadigindan bos birakildi - uydurma yapilmaz. Kanal bilgisi kesinlestikce yayin akisi katmani bunlarin uzerine yazar."
+}
