@@ -1,6 +1,5 @@
 // tvplus.js — Turkcell TV+ yayın akışı (JSON servisi).
-// Digiturk'te bulunmayan kanalları kapsar: S Sport, S Sport 2,
-// tabii spor ve tabii TV (DİJİTAL platform), HT Spor.
+// Kanal listesi servisten dinamik alınır; alınamazsa sabit liste kullanılır.
 
 'use strict';
 const O = require('../ortak');
@@ -8,10 +7,11 @@ const Y = require('./yayin-ortak');
 
 const KOK = 'https://izmaottvsc14.tvplus.com.tr:33207/EPG/JSON/';
 
+// Servis kanal listesi vermezse kullanılacak yedek liste.
 const KANALLAR = {
   '11':   { ad: 'S Sport',        dijital: false },
   '170':  { ad: 'S Sport 2',      dijital: false },
-  '4399': { ad: 'tabii spor',     dijital: true  },  // dijital yayın platformu
+  '4399': { ad: 'tabii spor',     dijital: true  },
   '4400': { ad: 'tabii',          dijital: true  },
   '31':   { ad: 'TRT Spor',       dijital: false },
   '205':  { ad: 'TRT Spor Yıldız',dijital: false },
@@ -22,6 +22,13 @@ const KANALLAR = {
   '106':  { ad: 'Eurosport 2',    dijital: false }
 };
 
+// Kanal adı bu kalıplardan birine uyuyorsa spor kanalı sayılır.
+const SPOR_DESENI = /(spor|sport|bein|tivibu|smart|tabii|aspor|eurosport|nba|golf|extreme)/i;
+// Bu adlar spor kanalı gibi görünse de maç yayınlamaz; alınmaz.
+const ELE = /(radyo|radio|müzik|muzik|haber\s*t[uü]rk|shop|al[ıi][şs]veri[şs])/i;
+// Dijital (yayın platformu) kanallar.
+const DIJITAL_DESENI = /(tabii|tivibu|bein connect|gain|exxen)/i;
+
 function damga(d) {
   const p = (n) => String(n).padStart(2, '0');
   return d.getUTCFullYear() + p(d.getUTCMonth() + 1) + p(d.getUTCDate()) +
@@ -30,31 +37,24 @@ function damga(d) {
 
 /** "20260824193000" (TR yerel) -> UTC ISO */
 function damgaToUtc(s) {
-  // TV+ zaman damgasi birden cok bicimde gelebilir. Tek bicime bel
-  // baglamak, tum programlarin sessizce elenmesine yol acar.
   if (s === null || s === undefined) return null;
   const str = String(s).trim();
   if (!str) return null;
 
-  // 20260824193000
   let m = str.match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})/);
   if (m) return O.trSaatiniUtcYap(+m[1], +m[2], +m[3], +m[4], +m[5]);
 
-  // 2026-08-24 19:30:00  ya da  2026-08-24T19:30:00
   m = str.match(/^(\d{4})-(\d{2})-(\d{2})[T ](\d{2}):(\d{2})/);
   if (m) return O.trSaatiniUtcYap(+m[1], +m[2], +m[3], +m[4], +m[5]);
 
-  // 24.08.2026 19:30
   m = str.match(/^(\d{2})\.(\d{2})\.(\d{4})[ T](\d{2}):(\d{2})/);
   if (m) return O.trSaatiniUtcYap(+m[3], +m[2], +m[1], +m[4], +m[5]);
 
-  // epoch (saniye veya milisaniye)
   if (/^\d{13}$/.test(str)) return new Date(+str).toISOString();
   if (/^\d{10}$/.test(str)) return new Date(+str * 1000).toISOString();
 
   return null;
 }
-
 /** Oturum çerezi alır. */
 async function oturumAc() {
   const y = await fetch(KOK + 'Authenticate', {
@@ -73,32 +73,78 @@ async function oturumAc() {
   return cerez.map(c => c.split(';')[0]).join('; ');
 }
 
-async function kanaliGetir(cerez, id, bas, bit) {
-  const y = await fetch(KOK + 'PlayBillList', {
+async function cagir(cerez, yol, govde) {
+  const y = await fetch(KOK + yol, {
     method: 'POST',
+    signal: AbortSignal.timeout(30000),
     headers: { 'Content-Type': 'application/json', Cookie: cerez,
                'User-Agent': 'MacVakti/1.0 (fikstur bilgilendirme uygulamasi)' },
-    body: JSON.stringify({
-      type: '2', channelid: id, begintime: bas, endtime: bit, isFillProgram: 1
-    })
+    body: JSON.stringify(govde)
   });
   if (!y.ok) throw new Error('HTTP ' + y.status);
-  const j = await y.json();
-  return j.playbilllist || j.playbillList || [];
+  return y.json();
 }
 
-async function topla(gunSayisi = 3) {
-  // Oturum acilamazsa HATA FIRLAT. Sessizce bos donmek, raporda
-  // 'tamam, 0 program' gibi gorunur ve sorunun sebebi gizlenir.
+/**
+ * Servisten tüm kanalları çekip spor kanallarını ayıklar.
+ * Başarısız olursa sabit listeye düşer; böylece akış hiç durmaz.
+ */
+async function kanallariBul(cerez) {
+  const govde = {
+    channelid: '',
+    isReturnAllMedia: '1',
+    filterlist: [{ key: 'IsHide', value: '-1' }],
+    properties: [{ name: 'logicalChannel',
+      include: '/channelid,/name,/logicalChannelNumber,/introduce' }]
+  };
+  for (const yol of ['AllChannelDynamic', 'QueryAllChannel', 'ChannelList']) {
+    let j;
+    try { j = await cagir(cerez, yol, govde); } catch (e) {
+      console.error('[tvplus] ' + yol + ' alınamadı: ' + e.message);
+      continue;
+    }
+    const ham = j.channellist || j.channelList || j.chanellist || [];
+    if (!ham.length) { console.error('[tvplus] ' + yol + ': liste boş'); continue; }
+
+    const bulunan = {};
+    for (const k of ham) {
+      const ad = String(k.name || '').trim();
+      const id = String(k.channelid || k.channelID || '').trim();
+      if (!ad || !id) continue;
+      if (!SPOR_DESENI.test(ad) || ELE.test(ad)) continue;
+      bulunan[id] = { ad, dijital: DIJITAL_DESENI.test(ad) };
+    }
+    const adet = Object.keys(bulunan).length;
+    console.log('[tvplus] ' + yol + ': ' + ham.length + ' kanal, ' + adet + ' spor kanalı');
+    if (adet >= 5) {
+      console.log('[tvplus] spor kanalları: ' +
+        Object.values(bulunan).map(x => x.ad).join(', '));
+      return bulunan;
+    }
+  }
+  console.error('[tvplus] kanal listesi alınamadı, sabit listeye dönülüyor');
+  return KANALLAR;
+}
+
+async function kanaliGetir(cerez, id, bas, bit) {
+  const j = await cagir(cerez, 'PlayBillList', {
+    type: '2', channelid: id, begintime: bas, endtime: bit, isFillProgram: 1
+  });
+  return j.playbilllist || j.playbillList || [];
+}
+async function topla(gunSayisi = 7) {
   const cerez = await oturumAc();
   if (!cerez) throw new Error('TV+ oturum cerezi bos dondu');
+
+  const kanallar = await kanallariBul(cerez);
 
   const bugun = new Date();
   const bas = damga(new Date(Date.UTC(bugun.getUTCFullYear(), bugun.getUTCMonth(), bugun.getUTCDate())));
   const bit = damga(new Date(bugun.getTime() + gunSayisi * 86400000));
 
   const hepsi = [];
-  for (const [id, kanal] of Object.entries(KANALLAR)) {
+  let hataliKanal = 0;
+  for (const [id, kanal] of Object.entries(kanallar)) {
     try {
       const liste = await kanaliGetir(cerez, id, bas, bit);
       console.log('[tvplus] ' + kanal.ad + ': ' + liste.length + ' program alindi');
@@ -122,15 +168,17 @@ async function topla(gunSayisi = 3) {
       }
       if (atlanan) {
         console.error('[tvplus] ' + kanal.ad + ': ' + atlanan +
-          ' program zaman damgasi cozulemedigi icin atlandi (ornek: ' +
-          JSON.stringify((liste[0] || {}).starttime) + ')');
+          ' program zaman damgasi cozulemedigi icin atlandi');
       }
     } catch (e) {
+      hataliKanal++;
       console.error('[tvplus] ' + kanal.ad + ' alınamadı: ' + e.message);
     }
-    await O.uyu(400);
+    await O.uyu(250);
   }
+  console.log('[tvplus] toplam ' + hepsi.length + ' program, ' +
+    hataliKanal + ' kanal hatali');
   return hepsi;
 }
 
-module.exports = { topla, oturumAc, damgaToUtc, KANALLAR, _KOK: KOK };
+module.exports = { topla, oturumAc, damgaToUtc, kanallariBul, KANALLAR, _KOK: KOK };
