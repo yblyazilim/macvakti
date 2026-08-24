@@ -1,0 +1,1081 @@
+{
+ "guncellendi": "2026-08-24T11:59:55.329Z",
+ "surum": 1,
+ "bransSayisi": 2,
+ "takimSayisi": 101,
+ "branslar": [
+  {
+   "k": "futbol",
+   "ad": "Futbol",
+   "ligler": [
+    {
+     "id": "142",
+     "ad": "1. Lig",
+     "takimlar": [
+      "antalyaspor",
+      "bandirmaspor",
+      "batmanpetrolspor",
+      "bodrum",
+      "boluspor",
+      "bursaspor",
+      "esenlererokspor",
+      "igdir",
+      "istanbulspor",
+      "karagumruk",
+      "kayserispor",
+      "keciorengucu",
+      "manisa",
+      "mardin1969spor",
+      "muglaspor",
+      "pendiksporfutbol",
+      "sivasspor",
+      "smsgrupsariyer",
+      "umraniyespor",
+      "vanspor"
+     ]
+    },
+    {
+     "id": "971-1",
+     "ad": "3. Lig 1. Grup",
+     "takimlar": [
+      "amasyaspor",
+      "beykozanadoluspor",
+      "beykozishaklisporfaaliyetleri",
+      "bulvarspor",
+      "duzcespor",
+      "fatsabelediyespor",
+      "galata",
+      "golcukspor",
+      "inkilapfutbol",
+      "karabukidmanyurduspor",
+      "kdzereglibelediyespor",
+      "kucukcekmecesinopspor",
+      "orduspor1967",
+      "pazarspor",
+      "silivrispor",
+      "tokatbelediye",
+      "yalovafk77",
+      "zonguldakspor"
+     ]
+    },
+    {
+     "id": "198",
+     "ad": "Süper Lig",
+     "takimlar": [
+      "alanyaspor",
+      "amedsportiffaaliyetler",
+      "basaksehir",
+      "besiktas",
+      "corum",
+      "erzurumspor",
+      "eyupspor",
+      "fenerbahce",
+      "galatasaray",
+      "gaziantep",
+      "genclerbirligi",
+      "goztepe",
+      "kasimpasa",
+      "kocaelispor",
+      "konyaspor",
+      "rizespor",
+      "samsunspor",
+      "trabzonspor"
+     ]
+    },
+    {
+     "id": "976-1",
+     "ad": "2. Lig 1. Grup",
+     "takimlar": [
+      "68aksaraybelediyespor",
+      "adanademirspor",
+      "aliagafutbol",
+      "ankaraspor",
+      "arnavutkoybelediyesifutbol",
+      "corluspor1947",
+      "gmgkastamonuspor",
+      "guzidegebze",
+      "hatayspor",
+      "inegolkafkas",
+      "isparta32",
+      "menemen",
+      "sanliurfaspor",
+      "sebat",
+      "sezacimentoelazigspor",
+      "somaspor"
+     ]
+    },
+    {
+     "id": "1000",
+     "ad": "Kadın Futbol Süper Ligi",
+     "takimlar": [
+      "amedsportiffaaliyetler",
+      "ankarabuyuksehirbelediyesifomget",
+      "antalyasporkadin",
+      "bakirkoykadinfutbol",
+      "besiktas",
+      "fenerbahce",
+      "galatasaray",
+      "giresunsanayispor",
+      "hakkarigucuspor",
+      "haymana",
+      "kayserikadin",
+      "safimclbentonitunyekadin",
+      "silebilgidogasportifyatirimhizmetleri",
+      "sultanbeyligucu",
+      "trabzonspor",
+      "yuksekova"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "hentbol",
+   "ad": "Hentbol",
+   "ligler": [
+    {
+     "id": "diger",
+     "ad": "Diğer",
+     "takimlar": [
+      "armadapraxisyalikavak",
+      "besiktasjimnastik",
+      "beykozbelediyesi",
+      "bursabuyuksehirbelediyesi",
+      "final1",
+      "final2",
+      "giresunspor",
+      "goztepe",
+      "guneysuspor",
+      "istanbulgenclik",
+      "manisabuyuksehirbelediye",
+      "mihaliccikbelediyesi",
+      "niluferbelediyesi",
+      "odunpazari",
+      "ortahisarbelediyesi",
+      "sportoto",
+      "trabzonbuyuksehirbel",
+      "uskudarbelediyesi",
+      "yozgatgsk"
+     ]
+    }
+   ]
+  }
+ ],
+ "takimlar": {
+  "erzurumspor": {
+   "ad": "Erzurumspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "galatasaray": {
+   "ad": "Galatasaray",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000",
+    "futbol:198"
+   ]
+  },
+  "karagumruk": {
+   "ad": "Karagümrük",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "bursaspor": {
+   "ad": "Bursaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "rizespor": {
+   "ad": "Rizespor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "samsunspor": {
+   "ad": "Samsunspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "corum": {
+   "ad": "Çorum",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "kasimpasa": {
+   "ad": "Kasımpaşa",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "igdir": {
+   "ad": "Iğdır",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "kayserispor": {
+   "ad": "Kayserispor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "umraniyespor": {
+   "ad": "Ümraniyespor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "esenlererokspor": {
+   "ad": "Esenler Erokspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "fenerbahce": {
+   "ad": "Fenerbahçe",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000",
+    "futbol:198"
+   ]
+  },
+  "konyaspor": {
+   "ad": "Konyaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "antalyaspor": {
+   "ad": "Antalyaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "pendiksporfutbol": {
+   "ad": "Pendikspor Futbol",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "bodrum": {
+   "ad": "Bodrum",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "muglaspor": {
+   "ad": "Muğlaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "bandirmaspor": {
+   "ad": "Bandırma Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "keciorengucu": {
+   "ad": "Keçiörengücü",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "trabzonspor": {
+   "ad": "Trabzonspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000",
+    "futbol:198"
+   ]
+  },
+  "basaksehir": {
+   "ad": "Başakşehir",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "eyupspor": {
+   "ad": "Eyüpspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "gaziantep": {
+   "ad": "Gaziantep",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "boluspor": {
+   "ad": "Boluspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "mardin1969spor": {
+   "ad": "Mardin 1969 Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "alanyaspor": {
+   "ad": "Alanyaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "besiktas": {
+   "ad": "Beşiktaş",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000",
+    "futbol:198"
+   ]
+  },
+  "goztepe": {
+   "ad": "Göztepe",
+   "branslar": [
+    "futbol",
+    "hentbol"
+   ],
+   "ligler": [
+    "futbol:198",
+    "hentbol:diger"
+   ]
+  },
+  "genclerbirligi": {
+   "ad": "Gençlerbirliği",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "smsgrupsariyer": {
+   "ad": "Sms Grup Sarıyer",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "batmanpetrolspor": {
+   "ad": "Batman Petrol Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "vanspor": {
+   "ad": "Van Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "istanbulspor": {
+   "ad": "İstanbulspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "kocaelispor": {
+   "ad": "Kocaelispor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:198"
+   ]
+  },
+  "amedsportiffaaliyetler": {
+   "ad": "Amed Sportif Faaliyetler",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000",
+    "futbol:198"
+   ]
+  },
+  "sivasspor": {
+   "ad": "Sivasspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "manisa": {
+   "ad": "Manisa",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "bursabuyuksehirbelediyesi": {
+   "ad": "Bursa Büyükşehir Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ortahisarbelediyesi": {
+   "ad": "Ortahisar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "armadapraxisyalikavak": {
+   "ad": "Armada Praxıs Yalıkavak",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "uskudarbelediyesi": {
+   "ad": "Üsküdar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "besiktasjimnastik": {
+   "ad": "Beşiktaş Jimnastik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "istanbulgenclik": {
+   "ad": "İstanbul Gençlik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "niluferbelediyesi": {
+   "ad": "Nilüfer Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "sportoto": {
+   "ad": "Spor Toto",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "final1": {
+   "ad": "Final 1",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "final2": {
+   "ad": "Final 2",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "trabzonbuyuksehirbel": {
+   "ad": "Trabzon Büyükşehir Bel.",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "guneysuspor": {
+   "ad": "Güneysuspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "giresunspor": {
+   "ad": "Giresunspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "safimclbentonitunyekadin": {
+   "ad": "Safi Mcl Bentonit Ünye Kadın",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "haymana": {
+   "ad": "Haymana",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "antalyasporkadin": {
+   "ad": "Antalyaspor Kadın",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "giresunsanayispor": {
+   "ad": "Giresun Sanayispor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "mihaliccikbelediyesi": {
+   "ad": "Mihalıççık Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yuksekova": {
+   "ad": "Yüksekova",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "silebilgidogasportifyatirimhizmetleri": {
+   "ad": "Şile Bilgidoğa Sportif Yatırım Hizmetleri",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "beykozbelediyesi": {
+   "ad": "Beykoz Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yozgatgsk": {
+   "ad": "Yozgat Gsk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "odunpazari": {
+   "ad": "Odunpazarı",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ankarabuyuksehirbelediyesifomget": {
+   "ad": "Ankara Büyükşehir Belediyesi Fomget",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "kayserikadin": {
+   "ad": "Kayseri Kadın",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "sultanbeyligucu": {
+   "ad": "Sultanbeyli Gücü",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "bakirkoykadinfutbol": {
+   "ad": "Bakırköy Kadın Futbol",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "hakkarigucuspor": {
+   "ad": "Hakkarigücü Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "gmgkastamonuspor": {
+   "ad": "Gmg Kastamonuspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "corluspor1947": {
+   "ad": "Çorlu Spor 1947",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "hatayspor": {
+   "ad": "Hatayspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "guzidegebze": {
+   "ad": "Güzide Gebze",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "amasyaspor": {
+   "ad": "Amasyaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "golcukspor": {
+   "ad": "Gölcükspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "kdzereglibelediyespor": {
+   "ad": "Kdz.Ereğli Belediye Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "fatsabelediyespor": {
+   "ad": "Fatsa Belediyespor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "arnavutkoybelediyesifutbol": {
+   "ad": "Arnavutköy Belediyesi Futbol",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "aliagafutbol": {
+   "ad": "Aliağa Futbol",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "somaspor": {
+   "ad": "Somaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "68aksaraybelediyespor": {
+   "ad": "68 Aksaray Belediye Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "yalovafk77": {
+   "ad": "Yalova Fk 77",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "tokatbelediye": {
+   "ad": "Tokat Belediye",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "beykozanadoluspor": {
+   "ad": "Beykoz Anadolu Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "kucukcekmecesinopspor": {
+   "ad": "Küçükçekmece Sinop Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "inkilapfutbol": {
+   "ad": "İnkılap Futbol",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "zonguldakspor": {
+   "ad": "Zonguldak Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "galata": {
+   "ad": "Galata",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "pazarspor": {
+   "ad": "Pazarspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "silivrispor": {
+   "ad": "Silivrispor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "beykozishaklisporfaaliyetleri": {
+   "ad": "Beykoz İshaklı Spor Faaliyetleri",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "sezacimentoelazigspor": {
+   "ad": "Seza Çimento Elazığspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "sebat": {
+   "ad": "Sebat",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "menemen": {
+   "ad": "Menemen",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "inegolkafkas": {
+   "ad": "İnegöl Kafkas",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "isparta32": {
+   "ad": "Isparta 32",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "adanademirspor": {
+   "ad": "Adana Demirspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "sanliurfaspor": {
+   "ad": "Şanlıurfaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "ankaraspor": {
+   "ad": "Ankaraspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-1"
+   ]
+  },
+  "karabukidmanyurduspor": {
+   "ad": "Karabük İdmanyurdu Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "bulvarspor": {
+   "ad": "Bulvarspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "orduspor1967": {
+   "ad": "Orduspor 1967",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  },
+  "duzcespor": {
+   "ad": "Düzcespor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-1"
+   ]
+  }
+ }
+}

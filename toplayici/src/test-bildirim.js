@@ -4,6 +4,9 @@
 // Bilerek kendi kendine yeter: bildirim-gonder.js'i değiştirmeden çalışır.
 
 'use strict';
+
+// Uygulamadaki fcm.js ile AYNI olmali; ses bu kanala baglidir.
+const KANAL = 'macvakti_duduk_v1';
 const crypto = require('crypto');
 
 async function erisimBelirteci(hesap) {
@@ -55,7 +58,7 @@ async function calistir() {
         data: { tip: 'test' },
         android: {
           priority: 'HIGH',
-          notification: { channel_id: 'mac_bildirimleri' }
+          notification: { channel_id: KANAL, sound: 'duduk' }
         }
       }
     })

@@ -8,6 +8,10 @@ const basket = require('../src/kaynaklar/basketbol-tbf');
 const hentbol = require('../src/kaynaklar/hentbol-thf');
 const metin = require('../src/metin');
 const kanal = require('../src/kanal');
+const bildirim = require('../src/bildirim-gonder');
+const takimAgac = require('../src/takimlar');
+const fsT = require('fs');
+const pathT = require('path');
 
 let gecti = 0, kaldi = 0;
 function ol(ad, kosul, ek) {
@@ -266,6 +270,83 @@ p4._yayinOnerisi = { kanallar: ['Zayıf Eşleşme'], guven: 30, dogrulayan: 1, d
 kanal.kanalAta(p4, kur2);
 ol('düşük güvenli öneri reddedildi, kurala düşüldü',
    p4.kanallar[0] === 'Kural Kanalı' && p4.kanalKaynak === 'kural', p4.kanalKaynak);
+
+// ---------- Bildirim konuları: SADECE takip edilene gitmeli ----------
+baslik('BİLDİRİM KONULARI (kapsam)');
+const km = O.macOlustur({ id: 'futbol:tff:SL:20260821abc', brans: 'futbol', ligId: '198',
+  lig: 'Süper Lig', baslangicUtc: '2026-08-21T18:30:00.000Z',
+  evSahibi: 'Beşiktaş', deplasman: 'Gençlerbirliği' });
+const kk = bildirim.konularUret(km);
+
+ol('branş konusuna GÖNDERİLMEZ (toplu bildirim olmaz)',
+   !kk.some(k => k.indexOf('brans_') === 0), kk.join(','));
+ol('lig konusuna GÖNDERİLMEZ',
+   !kk.some(k => k.indexOf('lig_') === 0), kk.join(','));
+ol('her iki takım konusu üretilir',
+   kk.indexOf('takim_besiktas_futbol') >= 0 && kk.indexOf('takim_genclerbirligi_futbol') >= 0,
+   kk.join(','));
+ol('maça özel konu üretilir',
+   kk.some(k => k.indexOf('mac_') === 0), kk.join(','));
+ol('takım konusu BRANŞA özel (başka branşa sızmaz)',
+   !kk.some(k => k === 'takim_besiktas_basketbol'), kk.join(','));
+ol('üretilen tüm konular FCM için geçerli',
+   kk.every(k => /^[a-zA-Z0-9_.~%-]+$/.test(k)), kk.join(','));
+
+// Türkçe karakterli tüm takımlar geçerli konu üretmeli
+const turkce = ['Beşiktaş','Karagümrük','Göztepe','Ümraniyespor','Şanlıurfaspor',
+                'İstanbulspor','Gençlerbirliği','Çorum','Kasımpaşa','Iğdır'];
+let hepsiGecerli = true;
+for (const t of turkce) {
+  const km2 = O.macOlustur({ id: 'x', brans: 'futbol', baslangicUtc: '2026-01-01T00:00:00.000Z',
+    evSahibi: t, deplasman: 'A' });
+  if (!bildirim.konularUret(km2).every(k => /^[a-zA-Z0-9_.~%-]+$/.test(k))) hepsiGecerli = false;
+}
+ol('Türkçe karakterli takımlar geçerli konu üretir (FCM ASCII şartı)', hepsiGecerli);
+
+// İstemci ve sunucu AYNI katlamayı yapmalı; yoksa abone/gönderi eşleşmez.
+const istemciKaynak = fsT.readFileSync(pathT.join(__dirname, '..', '..', 'www', 'index.html'), 'utf8');
+const eslesme = istemciKaynak.match(/function konuAnahtar\(ad\) \{[\s\S]*?\n\}/);
+ol('istemcide konuAnahtar bulundu', !!eslesme);
+if (eslesme) {
+  const istemciFn = eval('(' + eslesme[0].replace('function konuAnahtar', 'function') + ')');
+  const ornekler = ['Beşiktaş','Amed Sportif Faaliyetler','1461 Trabzon FK','Spor Toto','Iğdır FK'];
+  ol('istemci ve sunucu anahtarları BİREBİR aynı',
+     ornekler.every(o => istemciFn(o) === bildirim.konuAnahtar(o)),
+     ornekler.map(o => o + ':' + istemciFn(o) + '/' + bildirim.konuAnahtar(o)).join(' '));
+}
+
+// ---------- Takım ağacı ----------
+baslik('TAKIM AĞACI');
+const sahteMaclar = [
+  O.macOlustur({ id: 'a', brans: 'futbol', ligId: '198', lig: 'Süper Lig',
+    baslangicUtc: '2026-01-01T00:00:00.000Z', evSahibi: 'Fenerbahçe', deplasman: 'Beşiktaş' }),
+  O.macOlustur({ id: 'b', brans: 'basketbol', ligId: 'BSL', lig: 'Basketbol Süper Ligi',
+    baslangicUtc: '2026-01-02T00:00:00.000Z', evSahibi: 'Fenerbahçe', deplasman: 'Anadolu Efes' })
+];
+const agac = takimAgac.agacKur(sahteMaclar, {});
+ol('iki branş ayrıldı', agac.branslar.length === 2, agac.branslar.map(b => b.k).join(','));
+ol('lig altında takımlar toplandı',
+   agac.branslar.find(b => b.k === 'futbol').ligler[0].takimlar.length === 2);
+ol('çok branşlı kulüp her iki branşta görünür',
+   agac.takimlar['fenerbahce'].branslar.length === 2,
+   JSON.stringify(agac.takimlar['fenerbahce'].branslar));
+ol('künyesi olmayan takıma UYDURMA künye yazılmaz',
+   !agac.takimlar['besiktas'].kunye);
+
+const kunyeli = takimAgac.agacKur(sahteMaclar,
+  { 'Beşiktaş': { bulundu: true, kurulus: 1903, sehir: 'İstanbul' } });
+ol('doğrulanmış künye aktarılır',
+   kunyeli.takimlar['besiktas'].kunye.kurulus === 1903 &&
+   kunyeli.takimlar['besiktas'].kunye.sehir === 'İstanbul');
+ol('künyede boş alan hiç yazılmaz',
+   !('stat' in kunyeli.takimlar['besiktas'].kunye));
+ol('ağaç anahtarı ile konu anahtarı aynı',
+   takimAgac.anahtar('Beşiktaş') === bildirim.konuAnahtar('Beşiktaş'));
+
+// ---------- Logo sızıntısı (telif) ----------
+baslik('TELİF');
+ol('istemcide logo/amblem alanı kullanılmıyor',
+   !/logoUrl|liveLogo|badgeUrl|crestUrl/i.test(istemciKaynak));
 
 console.log('\n' + '='.repeat(46));
 console.log('GEÇTİ: ' + gecti + '   KALDI: ' + kaldi);

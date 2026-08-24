@@ -10,6 +10,9 @@
 // Bağımlılık YOK: OAuth2 belirteci Node'un yerleşik crypto'su ile üretilir.
 
 'use strict';
+
+// Uygulamadaki fcm.js ile AYNI olmali; ses bu kanala baglidir.
+const KANAL = 'macvakti_duduk_v1';
 const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
@@ -79,7 +82,7 @@ async function konuyaGonder(proje, belirtec, konu, bildirim) {
         },
         android: {
           priority: bildirim.oncelik === 'yuksek' ? 'HIGH' : 'NORMAL',
-          notification: { channel_id: 'mac_bildirimleri' }
+          notification: { channel_id: KANAL, sound: 'duduk' }
         }
       }
     })
@@ -132,13 +135,25 @@ function konuAnahtar(ad) {
 }
 
 function konularUret(mac) {
-  const k = ['brans_' + konuAnahtar(mac.brans)];
-  if (mac.ligId) k.push('lig_' + konuAnahtar(mac.brans) + '_' + String(mac.ligId).replace(/[^\w]/g, ''));
+  // SADECE kullanicinin ACIKCA takip ettigi seylere gonderilir:
+  //   takim_<ad>_<brans>  -> o kulubu o bransta takip edenler
+  //   mac_<macId>         -> yalnizca O MACI favorileyenler
+  //
+  // 'brans_*' ve 'lig_*' konularina ARTIK GONDERILMEZ. Oyle yapinca
+  // bir bransi secen herkese o bransin TUM maclari gidiyordu; kullanici
+  // takip etmedigi takimlarin bildirimlerini aliyordu.
+  const brans = konuAnahtar(mac.brans || '');
+  const k = [];
+
   for (const ad of [mac.evSahibi, mac.deplasman]) {
     const a = konuAnahtar(ad);
-    if (a) k.push('takim_' + a);
+    if (a && brans) k.push('takim_' + a + '_' + brans);
   }
-  return k.filter(x => /^[a-zA-Z0-9_.~%-]+$/.test(x));
+
+  const macKonu = konuAnahtar(mac.id || '');
+  if (macKonu) k.push('mac_' + macKonu);
+
+  return k.filter(x => /^[a-zA-Z0-9_.~%-]+$/.test(x) && x.length <= 250);
 }
 
 async function calistir() {

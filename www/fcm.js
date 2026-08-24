@@ -26,6 +26,7 @@
         sonuc = await eklenti().requestPermissions();
       }
       if (sonuc.receive !== 'granted') return false;
+      await kanaliKur();
       await eklenti().register();
       return true;
     } catch (e) {
@@ -64,6 +65,30 @@
     console.log('[fcm] abone olunan konular: ' + aboneOlunan.join(', '));
   }
 
+  // Android bildirim kanali. SES KANALDA TANIMLANIR: Android'de bir
+  // kanalin sesi olusturulduktan sonra degistirilemez, bu yuzden ses
+  // degisirse kanal kimligi de degismelidir (sondaki surum eki).
+  var KANAL = 'macvakti_duduk_v1';
+
+  async function kanaliKur() {
+    if (!hazirMi() || !eklenti().createChannel) return;
+    try {
+      await eklenti().createChannel({
+        id: KANAL,
+        name: 'Mac bildirimleri',
+        description: 'Mac saati, kanal ve kadro bildirimleri',
+        sound: 'duduk',          // res/raw/duduk.ogg
+        importance: 5,           // yuksek: ekranda belirsin
+        visibility: 1,
+        vibration: true
+      });
+      window.__fcmKanal = KANAL;
+    } catch (e) {
+      console.error('[fcm] kanal olusturulamadi: ' + (e && e.message));
+      window.__fcmKanal = null;
+    }
+  }
+
   function dinleyicileriKur() {
     if (!hazirMi()) return;
     eklenti().addListener('registration', function () {
@@ -81,6 +106,7 @@
   }
 
   window.FCMAbone = function (konular) { konularaAbone(konular); };
+  window.FCMKanal = KANAL;
   window.FCMIzinIste = izinIste;
 
   document.addEventListener('deviceready', function () {

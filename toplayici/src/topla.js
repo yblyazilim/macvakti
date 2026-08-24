@@ -13,6 +13,7 @@ const O = require('./ortak');
 const kanal = require('./kanal');
 const metin = require('./metin');
 const yayinEslestir = require('./yayin/eslestir');
+const takimlar = require('./takimlar');
 
 const KAYNAKLAR = {
   futbol:    require('./kaynaklar/futbol-tff'),
@@ -189,6 +190,14 @@ async function calistir(secilenBrans, kuru, atlaYayin, zorlaYayin) {
     guncellendi: cikti.guncellendi,
     eksikler: kanal.eksikKanallar(toplananlar)
   });
+
+  // Branş > lig > takım ağacı ve kulüp künyeleri.
+  // Maçlar yazıldıktan SONRA çalışır; ağacı fikstürden türetiyor.
+  try {
+    await takimlar.calistir({ sinir: 25 });
+  } catch (e) {
+    console.error('[topla] takim agaci kurulamadi: ' + e.message);
+  }
 
   const sn = ((Date.now() - baslangic) / 1000).toFixed(1);
   console.log('\nToplam ' + toplananlar.length + ' maç, ' + bildirimler.length
