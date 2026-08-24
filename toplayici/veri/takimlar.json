@@ -1,9 +1,187 @@
 {
- "guncellendi": "2026-08-24T19:25:24.027Z",
+ "guncellendi": "2026-08-24T19:38:10.639Z",
  "surum": 1,
- "bransSayisi": 2,
- "takimSayisi": 153,
+ "bransSayisi": 3,
+ "takimSayisi": 279,
  "branslar": [
+  {
+   "k": "basketbol",
+   "ad": "Basketbol",
+   "ligler": [
+    {
+     "id": "tbf-EBBL",
+     "ad": "Erkekler Bölgesel Basketbol Ligi",
+     "takimlar": [
+      "agrigenclik",
+      "akhisargucu",
+      "ardahangenclik",
+      "baglarbelediye",
+      "baskentsegmenler",
+      "bolubelediyespor",
+      "canakkalespor",
+      "cankentspor",
+      "corumbelediyesi",
+      "cukurovauniversitesi",
+      "demiramiraller",
+      "edirne1922",
+      "floryaelit",
+      "gaziemirbelediyesi",
+      "ispartagenclik",
+      "izmirbuyuksehir",
+      "izmitakademi",
+      "karamurselbeyspor",
+      "marmarisbelediyesi",
+      "mersinbarosu",
+      "selcuklubelediye",
+      "serdivanbelediyesi",
+      "spaceacademy",
+      "suadiyebasketbol",
+      "tavsanlimoymul",
+      "tekirdagnamikkemal",
+      "titanakademi",
+      "ufukcanaydin",
+      "westbursa"
+     ]
+    },
+    {
+     "id": "tbf-TB2L",
+     "ad": "Türkiye Erkekler 2. Ligi",
+     "takimlar": [
+      "abbegospor",
+      "adanasertasspor",
+      "akhisarbelediye",
+      "bargellousakbasketbol",
+      "beylikduzubasketbolihtisas",
+      "ciftlikkoybelediyespor",
+      "corlubelediyesi",
+      "egeuniversitesidacka",
+      "eskisehir26basketbol",
+      "etimesgutbelediyesi",
+      "gungorendoruk",
+      "ibbspor",
+      "itutamfinans",
+      "karataybelediyespor",
+      "keciorenbelediyesibaglum",
+      "kerasusspor",
+      "kutahyabelediyespor",
+      "sakaryabbsk",
+      "tesvikiye",
+      "turktelekomgelisim",
+      "watergardenht"
+     ]
+    },
+    {
+     "id": "tbf-KBBL",
+     "ad": "Kadınlar Bölgesel Basketbol Ligi",
+     "takimlar": [
+      "adanabuyuksehirbelediyesi",
+      "basaksehirbelediyesi",
+      "baskentiz",
+      "cankayauniversitesi",
+      "daricabasketbolfenerigelisim",
+      "deltaspor",
+      "evologdackaserifali",
+      "ferhatogluedremitbelediyesigure",
+      "gallardo",
+      "istanbulutku",
+      "izmirbuyuksehirbelediyesi",
+      "izmitzirve",
+      "kadikoybasketbol",
+      "kadikoyistanbul",
+      "konyabasket",
+      "magdeburgersigortabesas",
+      "medextedankarakolejliler",
+      "trabzonbuyuksehirbelediyespor",
+      "unigenduzceatletik",
+      "yasavuludagatletik"
+     ]
+    },
+    {
+     "id": "tbf-TBL",
+     "ad": "Türkiye Basketbol Ligi",
+     "takimlar": [
+      "balikesirbuyuksehirbelediyespor",
+      "bullsyatirimtedankarakolejliler",
+      "cayirovabelediyesi",
+      "cemefegoldharemspor",
+      "darussafakalassa",
+      "fenerbahcekolejirams",
+      "finalspor",
+      "gaziantepbasketbol",
+      "goztepe",
+      "ilabbasketbol",
+      "kipasistiklalspor",
+      "kocaelibuyuksehirbelediyekagitspor",
+      "konyabuyuksehirbelediyesispor",
+      "mkeankaragucubasketbol",
+      "ogmormanspor",
+      "parmosbordobk",
+      "pizzabullscediosmanbasketbol",
+      "yalovasporbasketbol"
+     ]
+    },
+    {
+     "id": "tbf-BSL",
+     "ad": "Basketbol Süper Ligi",
+     "takimlar": [
+      "aliagapetkimspor",
+      "anadoluefes",
+      "bahcesehirkoleji",
+      "besiktasgain",
+      "bursasporbasketbol",
+      "fenerbahcebeko",
+      "galatasaraymcttechnic",
+      "glintmanisabasket",
+      "karsiyaka",
+      "mersinspor",
+      "onvobuyukcekmecebasketbol",
+      "safiporterokspor",
+      "tofas",
+      "trabzonspor",
+      "turktelekom",
+      "yukatelmerkezefendibelediyesibasket"
+     ]
+    },
+    {
+     "id": "tbf-TKBL",
+     "ad": "Türkiye Kadınlar Basketbol Ligi",
+     "takimlar": [
+      "adananovabasketbol",
+      "aslanyolburhaniyebelediyespor",
+      "bodrumbasketbol",
+      "daricabasketbolfeneri",
+      "edirnedsi",
+      "emlakkonutgelisim",
+      "fenerbahcegelisim",
+      "istanbulgenclikspor",
+      "kirklarelibelediyesikirklarelifenbilimleri",
+      "mersingenclerbirligi",
+      "secilkaucukmersinbasketball",
+      "turgutlubelediyespor",
+      "urlabelediyesi",
+      "yalovavip",
+      "zorlukolejisamsunbasketbol"
+     ]
+    },
+    {
+     "id": "tbf-KBSL",
+     "ad": "Kadınlar Basketbol Süper Ligi",
+     "takimlar": [
+      "besiktasboa",
+      "botas",
+      "cimsacbkmersin",
+      "dardanelcanakkalebelediyespor",
+      "emlakkonut",
+      "fenerbahceopet",
+      "galatasaraycagdasfaktoring",
+      "kocaelikadinbasketbol",
+      "melikgazikayseribasketbol",
+      "nesibeaydin",
+      "ogmormanspor"
+     ]
+    }
+   ]
+  },
   {
    "k": "futbol",
    "ad": "Futbol",
@@ -238,7 +416,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1948,
+    "sehir": "Alanya",
+    "stat": "Alanya Oba Stadyumu"
+   }
   },
   "amedsportiffaaliyetler": {
    "ad": "Amed Sportif Faaliyetler",
@@ -257,7 +440,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 2014,
+    "sehir": "İstanbul",
+    "stat": "Atatürk Olimpiyat Stadyumu"
+   }
   },
   "besiktas": {
    "ad": "Beşiktaş",
@@ -267,7 +455,12 @@
    "ligler": [
     "futbol:1000",
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
   },
   "erzurumspor": {
    "ad": "Erzurumspor",
@@ -290,7 +483,11 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1919,
+    "sehir": "İstanbul"
+   }
   },
   "fenerbahce": {
    "ad": "Fenerbahçe",
@@ -329,7 +526,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1969,
+    "sehir": "Gaziantep",
+    "stat": "Kamil Ocak Stadyumu"
+   }
   },
   "genclerbirligi": {
    "ad": "Gençlerbirliği",
@@ -343,10 +545,12 @@
   "goztepe": {
    "ad": "Göztepe",
    "branslar": [
+    "basketbol",
     "futbol",
     "hentbol"
    ],
    "ligler": [
+    "basketbol:tbf-TBL",
     "futbol:198",
     "hentbol:diger"
    ]
@@ -420,9 +624,11 @@
   "trabzonspor": {
    "ad": "Trabzonspor",
    "branslar": [
+    "basketbol",
     "futbol"
    ],
    "ligler": [
+    "basketbol:tbf-BSL",
     "futbol:1000",
     "futbol:198"
    ],
@@ -489,7 +695,11 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1965,
+    "sehir": "Bolu"
+   }
   },
   "bursaspor": {
    "ad": "Bursaspor",
@@ -580,7 +790,10 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 2015
+   }
   },
   "muglaspor": {
    "ad": "Muğlaspor",
@@ -1224,9 +1437,11 @@
   "karsiyaka": {
    "ad": "Karşıyaka",
    "branslar": [
+    "basketbol",
     "futbol"
    ],
    "ligler": [
+    "basketbol:tbf-BSL",
     "futbol:971-02"
    ]
   },
@@ -1525,6 +1740,1141 @@
    ],
    "ligler": [
     "futbol:1000"
+   ]
+  },
+  "aliagapetkimspor": {
+   "ad": "Aliağa Petkim Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "anadoluefes": {
+   "ad": "Anadolu Efes",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "bahcesehirkoleji": {
+   "ad": "Bahçeşehir Koleji",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "besiktasgain": {
+   "ad": "Beşiktaş Gain",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "bursasporbasketbol": {
+   "ad": "Bursaspor Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "fenerbahcebeko": {
+   "ad": "Fenerbahçe Beko",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "galatasaraymcttechnic": {
+   "ad": "Galatasaray Mct Technıc",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "glintmanisabasket": {
+   "ad": "Glint Manisa Basket",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "mersinspor": {
+   "ad": "Mersin Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "onvobuyukcekmecebasketbol": {
+   "ad": "Onvo Büyükçekmece Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "safiporterokspor": {
+   "ad": "Safiport Erokspor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "tofas": {
+   "ad": "Tofaş",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "turktelekom": {
+   "ad": "Türk Telekom",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "yukatelmerkezefendibelediyesibasket": {
+   "ad": "Yukatel Merkezefendi Belediyesi Basket",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-BSL"
+   ]
+  },
+  "balikesirbuyuksehirbelediyespor": {
+   "ad": "Balıkesir Büyükşehir Belediyespor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "bullsyatirimtedankarakolejliler": {
+   "ad": "Bulls Yatırım Ted Ankara Kolejliler",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "cemefegoldharemspor": {
+   "ad": "Cemefe Gold Harem Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "cayirovabelediyesi": {
+   "ad": "Çayırova Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "darussafakalassa": {
+   "ad": "Darüşşafaka Lassa",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "fenerbahcekolejirams": {
+   "ad": "Fenerbahçe Koleji Rams",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "finalspor": {
+   "ad": "Final Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "gaziantepbasketbol": {
+   "ad": "Gaziantep Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "ilabbasketbol": {
+   "ad": "iLab BASKETBOL",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "kipasistiklalspor": {
+   "ad": "Kipaş İstiklal Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "kocaelibuyuksehirbelediyekagitspor": {
+   "ad": "Kocaeli Büyükşehir Belediye Kağıtspor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "konyabuyuksehirbelediyesispor": {
+   "ad": "Konya Büyükşehir Belediyesi Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "mkeankaragucubasketbol": {
+   "ad": "Mke Ankaragücü Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "ogmormanspor": {
+   "ad": "Ogm Ormanspor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL",
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "parmosbordobk": {
+   "ad": "Parmos Bordo Bk",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "pizzabullscediosmanbasketbol": {
+   "ad": "Pizzabulls Cedi Osman Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "yalovasporbasketbol": {
+   "ad": "Yalovaspor Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TBL"
+   ]
+  },
+  "abbegospor": {
+   "ad": "A.B.B. Egospor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "adanasertasspor": {
+   "ad": "Adana Sertaşspor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "akhisarbelediye": {
+   "ad": "Akhisar Belediye",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "bargellousakbasketbol": {
+   "ad": "Bargello Uşak Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "beylikduzubasketbolihtisas": {
+   "ad": "Beylikdüzü Basketbol İhtisas",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "ciftlikkoybelediyespor": {
+   "ad": "Çiftlikköy Belediyespor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "corlubelediyesi": {
+   "ad": "Çorlu Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "egeuniversitesidacka": {
+   "ad": "Ege Üniversitesi Daçka",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "eskisehir26basketbol": {
+   "ad": "Eskişehir 26 Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "etimesgutbelediyesi": {
+   "ad": "Etimesgut Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "gungorendoruk": {
+   "ad": "Güngören Doruk",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "itutamfinans": {
+   "ad": "İ.T.Ü. Tam Finans",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "ibbspor": {
+   "ad": "İbb Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "karataybelediyespor": {
+   "ad": "Karatay Belediyespor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "keciorenbelediyesibaglum": {
+   "ad": "Keçiören Belediyesi Bağlum",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "kerasusspor": {
+   "ad": "Kerasusspor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "kutahyabelediyespor": {
+   "ad": "Kütahya Belediyespor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "sakaryabbsk": {
+   "ad": "Sakarya Bbsk",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "tesvikiye": {
+   "ad": "Teşvikiye",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "turktelekomgelisim": {
+   "ad": "Türk Telekom Gelişim",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "watergardenht": {
+   "ad": "Watergarden Ht",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TB2L"
+   ]
+  },
+  "agrigenclik": {
+   "ad": "Ağrı Gençlik",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "akhisargucu": {
+   "ad": "Akhisar Gücü",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "ardahangenclik": {
+   "ad": "Ardahan Gençlik",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "baglarbelediye": {
+   "ad": "Bağlar Belediye",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "baskentsegmenler": {
+   "ad": "Başkent Seğmenler",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "bolubelediyespor": {
+   "ad": "Bolu Belediyespor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "cankentspor": {
+   "ad": "Cankent Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "canakkalespor": {
+   "ad": "Çanakkale Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "corumbelediyesi": {
+   "ad": "Çorum Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "cukurovauniversitesi": {
+   "ad": "Çukurova Üniversitesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "demiramiraller": {
+   "ad": "Demir Amiraller",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "edirne1922": {
+   "ad": "Edirne 1922",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "floryaelit": {
+   "ad": "Florya Elit",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "gaziemirbelediyesi": {
+   "ad": "Gaziemir Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "ispartagenclik": {
+   "ad": "Isparta Gençlik",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "izmirbuyuksehir": {
+   "ad": "İzmir Büyükşehir",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "izmitakademi": {
+   "ad": "İzmit Akademi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "karamurselbeyspor": {
+   "ad": "Karamürselbey Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "marmarisbelediyesi": {
+   "ad": "Marmaris Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "mersinbarosu": {
+   "ad": "Mersin Barosu",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "selcuklubelediye": {
+   "ad": "Selçuklu Belediye",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "serdivanbelediyesi": {
+   "ad": "Serdivan Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "spaceacademy": {
+   "ad": "Spaceacademy",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "suadiyebasketbol": {
+   "ad": "Suadiye Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "tavsanlimoymul": {
+   "ad": "Tavşanlı Moymul",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "tekirdagnamikkemal": {
+   "ad": "Tekirdağ Namık Kemal",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "titanakademi": {
+   "ad": "Titan Akademi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "ufukcanaydin": {
+   "ad": "Ufukcan Aydın",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "westbursa": {
+   "ad": "West Bursa",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-EBBL"
+   ]
+  },
+  "besiktasboa": {
+   "ad": "Beşiktaş Boa",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "botas": {
+   "ad": "Botaş",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "cimsacbkmersin": {
+   "ad": "Çimsa Çbk Mersin",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "dardanelcanakkalebelediyespor": {
+   "ad": "Dardanel Çanakkale Belediyespor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "emlakkonut": {
+   "ad": "Emlak Konut",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "fenerbahceopet": {
+   "ad": "Fenerbahçe Opet",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "galatasaraycagdasfaktoring": {
+   "ad": "Galatasaray Çağdaş Faktorıng",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "kocaelikadinbasketbol": {
+   "ad": "Kocaeli Kadın Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "melikgazikayseribasketbol": {
+   "ad": "Melikgazi Kayseri Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "nesibeaydin": {
+   "ad": "Nesibe Aydın",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBSL"
+   ]
+  },
+  "adananovabasketbol": {
+   "ad": "Adana Nova Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "aslanyolburhaniyebelediyespor": {
+   "ad": "Aslan Yol Burhaniye Belediyespor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "bodrumbasketbol": {
+   "ad": "Bodrum Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "daricabasketbolfeneri": {
+   "ad": "Darıca Basketbol Feneri",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "edirnedsi": {
+   "ad": "Edirne Dsi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "emlakkonutgelisim": {
+   "ad": "Emlak Konut Gelişim",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "fenerbahcegelisim": {
+   "ad": "Fenerbahçe Gelişim",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "istanbulgenclikspor": {
+   "ad": "İstanbul Gençlik Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "kirklarelibelediyesikirklarelifenbilimleri": {
+   "ad": "Kırklareli Belediyesi Kırklareli Fen Bilimleri",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "mersingenclerbirligi": {
+   "ad": "Mersin Gençlerbirliği",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "secilkaucukmersinbasketball": {
+   "ad": "Seçil Kauçuk Mersin Basketball",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "turgutlubelediyespor": {
+   "ad": "Turgutlu Belediyespor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "urlabelediyesi": {
+   "ad": "Urla Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "yalovavip": {
+   "ad": "Yalova Vip",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "zorlukolejisamsunbasketbol": {
+   "ad": "Zorlu Koleji Samsun Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-TKBL"
+   ]
+  },
+  "adanabuyuksehirbelediyesi": {
+   "ad": "Adana Büyükşehir Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "basaksehirbelediyesi": {
+   "ad": "Başakşehir Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "baskentiz": {
+   "ad": "Başkent İz",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "cankayauniversitesi": {
+   "ad": "Çankaya Üniversitesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "daricabasketbolfenerigelisim": {
+   "ad": "Darıca Basketbol Feneri Gelişim",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "deltaspor": {
+   "ad": "Delta Spor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "evologdackaserifali": {
+   "ad": "Evolog Daçka Şerifali",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "ferhatogluedremitbelediyesigure": {
+   "ad": "Ferhatoğlu Edremit Belediyesi Güre",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "gallardo": {
+   "ad": "Gallardo",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "istanbulutku": {
+   "ad": "İstanbul Utku",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "izmirbuyuksehirbelediyesi": {
+   "ad": "İzmir Büyükşehir Belediyesi",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "izmitzirve": {
+   "ad": "İzmit Zirve",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "kadikoybasketbol": {
+   "ad": "Kadıköy Basketbol",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "kadikoyistanbul": {
+   "ad": "Kadıköy İstanbul",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "konyabasket": {
+   "ad": "Konya Basket",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "magdeburgersigortabesas": {
+   "ad": "Magdeburger Sigorta Beşas",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "medextedankarakolejliler": {
+   "ad": "Medex Ted Ankara Kolejliler",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "trabzonbuyuksehirbelediyespor": {
+   "ad": "Trabzon Büyükşehir Belediyespor",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "unigenduzceatletik": {
+   "ad": "Unıgen Düzce Atletik",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
+   ]
+  },
+  "yasavuludagatletik": {
+   "ad": "Yasav Uludağ Atletik",
+   "branslar": [
+    "basketbol"
+   ],
+   "ligler": [
+    "basketbol:tbf-KBBL"
    ]
   },
   "bursabuyuksehirbelediyesi": {
