@@ -1,18 +1,13 @@
 {
- "kontrolZamani": "2026-08-24T04:40:50.747Z",
- "durum": "kirmizi",
- "hataSayisi": 1,
+ "kontrolZamani": "2026-08-24T04:51:42.692Z",
+ "durum": "sari",
+ "hataSayisi": 0,
  "uyariSayisi": 1,
  "bulgular": [
   {
    "seviye": "uyari",
    "baslik": "basketbol boş döndü",
    "detay": "Sezon dışı olabilir; sezon başladıysa ayrıştırıcı kırılmış demektir."
-  },
-  {
-   "seviye": "hata",
-   "baslik": "Yayın akışı beklenenden küçük",
-   "detay": "0 program bulundu. Normalde binlerce olmalı — ayrıştırıcı kırık."
   }
  ],
  "ozet": {
@@ -22,7 +17,7 @@
    "hentbol": 15
   },
   "veriYasiDk": 0,
-  "yayinProgram": 0,
+  "yayinProgram": 453,
   "yaklasanMac": 8,
   "kanalliYaklasan": 2
  }
