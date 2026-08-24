@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T23:04:16.278Z",
+ "guncellendi": "2026-08-24T23:29:53.405Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -359,6 +359,36 @@
    "stat": "Mehmet Ali Kağıtçı Stadı",
    "sehir": "İzmit",
    "kurucu": null
+  },
+  "İstanbulspor": {
+   "zaman": 1787614185445,
+   "bulundu": true,
+   "wikidata": "Q344328",
+   "kurulus": 1926,
+   "stat": "Bahçelievler İl Özel İdare Stadyumu",
+   "sehir": "İstanbul",
+   "kurucu": null
+  },
+  "Batman Petrol Spor": {
+   "zaman": 1787614186418,
+   "bulundu": false
+  },
+  "Sivasspor": {
+   "zaman": 1787614189525,
+   "bulundu": true,
+   "wikidata": "Q372599",
+   "kurulus": 1967,
+   "stat": "4 Eylül Stadyumu",
+   "sehir": "Sivas",
+   "kurucu": null
+  },
+  "Van Spor": {
+   "zaman": 1787614190516,
+   "bulundu": false
+  },
+  "Yüksekova": {
+   "zaman": 1787614192482,
+   "bulundu": false
   }
  }
 }
