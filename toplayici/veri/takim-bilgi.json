@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T22:03:50.469Z",
+ "guncellendi": "2026-08-24T22:34:50.196Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -294,6 +294,35 @@
   },
   "Final 1": {
    "zaman": 1787609028447,
+   "bulundu": false
+  },
+  "Final 2": {
+   "zaman": 1787610881262,
+   "bulundu": false
+  },
+  "Trabzon Büyükşehir Bel.": {
+   "zaman": 1787610882243,
+   "bulundu": false
+  },
+  "Güneysuspor": {
+   "zaman": 1787610883217,
+   "bulundu": false
+  },
+  "Giresunspor": {
+   "zaman": 1787610886216,
+   "bulundu": true,
+   "wikidata": "Q1543501",
+   "kurulus": 1967,
+   "stat": "Giresun Atatürk Stadyumu",
+   "sehir": "Giresun",
+   "kurucu": null
+  },
+  "Safi Mcl Bentonit Ünye Kadın": {
+   "zaman": 1787610887185,
+   "bulundu": false
+  },
+  "Haymana": {
+   "zaman": 1787610889275,
    "bulundu": false
   }
  }
