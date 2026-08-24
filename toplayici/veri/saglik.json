@@ -1,31 +1,34 @@
 {
- "kontrolZamani": "2026-08-24T00:54:43.401Z",
- "durum": "sari",
- "hataSayisi": 0,
+ "kontrolZamani": "2026-08-24T02:28:20.088Z",
+ "durum": "kirmizi",
+ "hataSayisi": 1,
  "uyariSayisi": 2,
  "bulgular": [
   {
    "seviye": "uyari",
-   "baslik": "Veri gecikmeli",
-   "detay": "46 dakikadır güncellenmemiş."
+   "baslik": "basketbol boş döndü",
+   "detay": "Sezon dışı olabilir; sezon başladıysa ayrıştırıcı kırılmış demektir."
+  },
+  {
+   "seviye": "hata",
+   "baslik": "Yayın akışı beklenenden küçük",
+   "detay": "0 program bulundu. Normalde binlerce olmalı — ayrıştırıcı kırık."
   },
   {
    "seviye": "uyari",
-   "baslik": "Yayın akışı önbelleği yok",
-   "detay": "Kanal doğrulaması henüz hiç çalışmamış."
+   "baslik": "Kanal çözüm oranı çok düşük",
+   "detay": "Yaklaşan 8 maçın yalnızca 0 tanesinde kanal var. Eşleştirme bozulmuş olabilir."
   }
  ],
  "ozet": {
-  "toplamMac": 13,
+  "toplamMac": 104,
   "bransBazinda": {
-   "futbol": 10,
-   "basketbol": 1,
-   "hentbol": 1,
-   "voleybol": 1
+   "futbol": 89,
+   "hentbol": 15
   },
-  "veriYasiDk": 46,
+  "veriYasiDk": 0,
   "yayinProgram": 0,
-  "yaklasanMac": 4,
-  "kanalliYaklasan": 4
+  "yaklasanMac": 8,
+  "kanalliYaklasan": 0
  }
 }
