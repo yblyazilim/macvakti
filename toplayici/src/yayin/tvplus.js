@@ -58,6 +58,7 @@ function damgaToUtc(s) {
 /** Oturum çerezi alır. */
 async function oturumAc() {
   const y = await fetch(KOK + 'Authenticate', {
+    signal: AbortSignal.timeout(30000),
     method: 'POST',
     headers: { 'Content-Type': 'application/json',
                'User-Agent': 'MacVakti/1.0 (fikstur bilgilendirme uygulamasi)' },
@@ -87,9 +88,10 @@ async function kanaliGetir(cerez, id, bas, bit) {
 }
 
 async function topla(gunSayisi = 3) {
-  let cerez;
-  try { cerez = await oturumAc(); }
-  catch (e) { console.error('[tvplus] ' + e.message); return []; }
+  // Oturum acilamazsa HATA FIRLAT. Sessizce bos donmek, raporda
+  // 'tamam, 0 program' gibi gorunur ve sorunun sebebi gizlenir.
+  const cerez = await oturumAc();
+  if (!cerez) throw new Error('TV+ oturum cerezi bos dondu');
 
   const bugun = new Date();
   const bas = damga(new Date(Date.UTC(bugun.getUTCFullYear(), bugun.getUTCMonth(), bugun.getUTCDate())));
@@ -99,6 +101,7 @@ async function topla(gunSayisi = 3) {
   for (const [id, kanal] of Object.entries(KANALLAR)) {
     try {
       const liste = await kanaliGetir(cerez, id, bas, bit);
+      console.log('[tvplus] ' + kanal.ad + ': ' + liste.length + ' program alindi');
       let atlanan = 0;
       for (const p of liste) {
         const baslik = String(p.name || '').trim();
