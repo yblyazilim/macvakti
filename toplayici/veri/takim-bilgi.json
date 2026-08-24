@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T20:12:42.137Z",
+ "guncellendi": "2026-08-24T20:56:10.391Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -218,6 +218,37 @@
    "stat": "Alanya Oba Stadyumu",
    "sehir": "Alanya",
    "kurucu": null
+  },
+  "Beşiktaş": {
+   "zaman": 1787604962496,
+   "bulundu": true,
+   "wikidata": "Q172567",
+   "kurulus": 1903,
+   "stat": "Beşiktaş Stadyumu",
+   "sehir": "İstanbul",
+   "kurucu": null
+  },
+  "Göztepe": {
+   "zaman": 1787604965468,
+   "bulundu": true,
+   "wikidata": "Q1423118",
+   "kurulus": 1925,
+   "stat": "İzmir Atatürk Stadyumu",
+   "sehir": "İzmir",
+   "kurucu": null
+  },
+  "Gençlerbirliği": {
+   "zaman": 1787604968487,
+   "bulundu": true,
+   "wikidata": "Q641373",
+   "kurulus": 1923,
+   "stat": "Eryaman Stadyumu",
+   "sehir": "Ankara",
+   "kurucu": null
+  },
+  "Sms Grup Sarıyer": {
+   "zaman": 1787604969470,
+   "bulundu": false
   }
  }
 }

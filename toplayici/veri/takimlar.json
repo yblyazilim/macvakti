@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T20:12:42.143Z",
+ "guncellendi": "2026-08-24T20:56:10.398Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -455,7 +455,12 @@
    "ligler": [
     "futbol:1000",
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
   },
   "erzurumspor": {
    "ad": "Erzurumspor",
@@ -535,7 +540,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1923,
+    "sehir": "Ankara",
+    "stat": "Eryaman Stadyumu"
+   }
   },
   "goztepe": {
    "ad": "Göztepe",
@@ -548,7 +558,12 @@
     "basketbol:tbf-TBL",
     "futbol:198",
     "hentbol:diger"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1925,
+    "sehir": "İzmir",
+    "stat": "İzmir Atatürk Stadyumu"
+   }
   },
   "kasimpasa": {
    "ad": "Kasımpaşa",
