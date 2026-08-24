@@ -1,34 +1,87 @@
-// tani: TV+ program alan bicimleri
+// tani: TBF (basketbol) GitHub sunuculardan erisilebiliyor mu?
+// Farkli baslik profillerini dener; hangisi gecerse onu kullanacagiz.
 'use strict';
-const UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36';
-const KOK='https://izmaottvsc14.tvplus.com.tr:33207/EPG/JSON/';
-function damga(d){const p=n=>String(n).padStart(2,'0');return d.getUTCFullYear()+p(d.getUTCMonth()+1)+p(d.getUTCDate())+p(d.getUTCHours())+p(d.getUTCMinutes())+p(d.getUTCSeconds());}
-async function calistir(){
-  const a=await fetch(KOK+'Authenticate',{method:'POST',headers:{'Content-Type':'application/json','User-Agent':UA},
-    body:JSON.stringify({terminaltype:'webtv',terminalvendor:'5.0',osversion:'Win32',userType:'3',utcEnable:'1',timezone:'Europe/Istanbul'}),signal:AbortSignal.timeout(30000)});
-  const setC=a.headers.getSetCookie?a.headers.getSetCookie():[];
-  const cerez=setC.map(c=>c.split(';')[0]).join('; ');
-  await a.text();
-  const bugun=new Date();
-  const bas=damga(new Date(Date.UTC(bugun.getUTCFullYear(),bugun.getUTCMonth(),bugun.getUTCDate())));
-  const bit=damga(new Date(bugun.getTime()+2*86400000));
-  const y=await fetch(KOK+'PlayBillList',{method:'POST',headers:{'Content-Type':'application/json','User-Agent':UA,Cookie:cerez},
-    body:JSON.stringify({type:'2',channelid:'31',begintime:bas,endtime:bit,isFillProgram:1}),signal:AbortSignal.timeout(30000)});
-  const j=await y.json();
-  const lst=j.playbilllist||j.playbillList||[];
-  console.log('program sayisi:', lst.length);
-  console.log('begintime gonderilen:', bas, '-> bitis:', bit);
-  if(lst.length){
-    const p=lst[0];
-    console.log('ALANLAR:', JSON.stringify(Object.keys(p)));
-    console.log('name:', JSON.stringify(p.name));
-    console.log('starttime:', JSON.stringify(p.starttime));
-    console.log('endtime:', JSON.stringify(p.endtime));
-    console.log('introduce ilk80:', JSON.stringify(String(p.introduce||'').slice(0,80)));
-    console.log('');
-    console.log('ilk 8 program adi + saat:');
-    for(const x of lst.slice(0,8)) console.log('   ', JSON.stringify(x.starttime), '|', String(x.name||'').slice(0,70));
+
+const TARAYICI = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
+  '(KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36';
+
+const PROFILLER = [
+  { ad: 'sade', baslik: {} },
+  { ad: 'tarayici-UA', baslik: { 'User-Agent': TARAYICI } },
+  { ad: 'tam-tarayici', baslik: {
+      'User-Agent': TARAYICI,
+      'Accept': 'application/json, text/plain, */*',
+      'Accept-Language': 'tr-TR,tr;q=0.9,en;q=0.8',
+      'Referer': 'https://www.tbf.org.tr/ligler/bsl-2025-2026',
+      'Origin': 'https://www.tbf.org.tr',
+      'Sec-Fetch-Site': 'same-origin',
+      'Sec-Fetch-Mode': 'cors',
+      'Sec-Fetch-Dest': 'empty'
+  } }
+];
+
+const HEDEFLER = [
+  ['takim-listesi', 'https://www.tbf.org.tr/api/Team/get-teams-by-leauge?leaugeId=20728'],
+  ['lig-bilgisi',   'https://www.tbf.org.tr/api/League/get-league-info?leagueId=20728'],
+  ['ana-sayfa',     'https://www.tbf.org.tr/']
+];
+const ARACILAR = [
+  ['allorigins', (u) => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u)],
+  ['codetabs',   (u) => 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(u)],
+  ['jina',       (u) => 'https://r.jina.ai/' + u],
+  ['thingproxy', (u) => 'https://thingproxy.freeboard.io/fetch/' + u]
+];
+
+async function dene(etiket, url, baslik) {
+  const t0 = Date.now();
+  try {
+    const y = await fetch(url, { headers: baslik || {}, signal: AbortSignal.timeout(20000) });
+    const m = await y.text();
+    let adet = '-';
+    try {
+      const j = JSON.parse(m);
+      const d = Array.isArray(j) ? j : (j.data || j.result || null);
+      if (Array.isArray(d)) adet = d.length;
+      else if (d && d.ligIsmi) adet = 'lig:' + d.ligIsmi;
+    } catch (_) {}
+    console.log('  ' + etiket.padEnd(28) + ' HTTP ' + y.status +
+      '  ' + String(m.length).padStart(7) + ' bayt  adet=' + adet +
+      '  ' + (Date.now() - t0) + 'ms');
+    console.log('      bas: ' + m.slice(0, 110).replace(/\s+/g, ' '));
+    return y.ok;
+  } catch (e) {
+    console.log('  ' + etiket.padEnd(28) + ' HATA ' + (e.message || e));
+    return false;
   }
 }
-calistir().catch(e=>{console.error(e);process.exit(1);});
-// tetikleme 71283
+async function calistir() {
+  console.log('=== TBF DOGRUDAN ERISIM ===');
+  for (const [ad, url] of HEDEFLER) {
+    console.log('- ' + ad);
+    for (const p of PROFILLER) {
+      await dene(p.ad, url, p.baslik);
+      await new Promise(r => setTimeout(r, 400));
+    }
+  }
+
+  console.log('');
+  console.log('=== TBF ARACI SUNUCU UZERINDEN ===');
+  const hedef = HEDEFLER[0][1];
+  for (const [ad, kur] of ARACILAR) {
+    await dene(ad, kur(hedef), { 'User-Agent': TARAYICI });
+    await new Promise(r => setTimeout(r, 600));
+  }
+
+  console.log('');
+  console.log('=== TVF (voleybol) ===');
+  await dene('tvf-ana', 'https://tvf.org.tr/', { 'User-Agent': TARAYICI });
+  await dene('tvf-efeler', 'https://tvf.org.tr/lig/efeler-ligi', { 'User-Agent': TARAYICI });
+
+  console.log('');
+  console.log('=== WIKIDATA (kunye) ===');
+  await dene('wikidata-arama',
+    'https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=tr&type=item&limit=3&search=Galatasaray',
+    { 'User-Agent': 'MacVakti/1.0 (tani)' });
+}
+
+calistir().catch(e => { console.error('COKTU: ' + e.message); });
