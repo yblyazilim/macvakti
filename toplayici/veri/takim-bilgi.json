@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T17:44:09.966Z",
+ "guncellendi": "2026-08-24T17:53:10.296Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -71,6 +71,42 @@
   "Iğdır": {
    "zaman": 1787593447071,
    "bulundu": false
+  },
+  "Kayserispor": {
+   "zaman": 1787593980145,
+   "bulundu": true,
+   "wikidata": "Q608122",
+   "kurulus": 1966,
+   "stat": "Kayseri Kadir Has Şehir Stadyumu",
+   "sehir": "Kayseri",
+   "kurucu": null
+  },
+  "Ümraniyespor": {
+   "zaman": 1787593983366,
+   "bulundu": true,
+   "wikidata": "Q6062228",
+   "kurulus": 1938,
+   "stat": "Ümraniye Hekimbaşı Şehir Stadyumu",
+   "sehir": "Ümraniye",
+   "kurucu": null
+  },
+  "Esenler Erokspor": {
+   "zaman": 1787593985308,
+   "bulundu": true,
+   "wikidata": "Q31192116",
+   "kurulus": null,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Fenerbahçe": {
+   "zaman": 1787593988348,
+   "bulundu": true,
+   "wikidata": "Q6601875",
+   "kurulus": 1907,
+   "stat": "Şükrü Saracoğlu Stadyumu",
+   "sehir": "Kadıköy",
+   "kurucu": null
   }
  }
 }

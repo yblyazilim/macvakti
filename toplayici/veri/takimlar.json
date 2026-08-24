@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T17:44:09.969Z",
+ "guncellendi": "2026-08-24T17:53:10.299Z",
  "surum": 1,
  "bransSayisi": 2,
  "takimSayisi": 153,
@@ -300,7 +300,12 @@
    "ligler": [
     "futbol:1000",
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1907,
+    "sehir": "Kadıköy",
+    "stat": "Şükrü Saracoğlu Stadyumu"
+   }
   },
   "galatasaray": {
    "ad": "Galatasaray",
@@ -524,7 +529,12 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1966,
+    "sehir": "Kayseri",
+    "stat": "Kayseri Kadir Has Şehir Stadyumu"
+   }
   },
   "keciorengucu": {
    "ad": "Keçiörengücü",
@@ -605,7 +615,12 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1938,
+    "sehir": "Ümraniye",
+    "stat": "Ümraniye Hekimbaşı Şehir Stadyumu"
+   }
   },
   "istanbulspor": {
    "ad": "İstanbulspor",
