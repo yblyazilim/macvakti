@@ -30,9 +30,29 @@ function damga(d) {
 
 /** "20260824193000" (TR yerel) -> UTC ISO */
 function damgaToUtc(s) {
-  const m = String(s || '').match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})/);
-  if (!m) return null;
-  return O.trSaatiniUtcYap(+m[1], +m[2], +m[3], +m[4], +m[5]);
+  // TV+ zaman damgasi birden cok bicimde gelebilir. Tek bicime bel
+  // baglamak, tum programlarin sessizce elenmesine yol acar.
+  if (s === null || s === undefined) return null;
+  const str = String(s).trim();
+  if (!str) return null;
+
+  // 20260824193000
+  let m = str.match(/^(\d{4})(\d{2})(\d{2})(\d{2})(\d{2})/);
+  if (m) return O.trSaatiniUtcYap(+m[1], +m[2], +m[3], +m[4], +m[5]);
+
+  // 2026-08-24 19:30:00  ya da  2026-08-24T19:30:00
+  m = str.match(/^(\d{4})-(\d{2})-(\d{2})[T ](\d{2}):(\d{2})/);
+  if (m) return O.trSaatiniUtcYap(+m[1], +m[2], +m[3], +m[4], +m[5]);
+
+  // 24.08.2026 19:30
+  m = str.match(/^(\d{2})\.(\d{2})\.(\d{4})[ T](\d{2}):(\d{2})/);
+  if (m) return O.trSaatiniUtcYap(+m[3], +m[2], +m[1], +m[4], +m[5]);
+
+  // epoch (saniye veya milisaniye)
+  if (/^\d{13}$/.test(str)) return new Date(+str).toISOString();
+  if (/^\d{10}$/.test(str)) return new Date(+str * 1000).toISOString();
+
+  return null;
 }
 
 /** Oturum çerezi alır. */
@@ -79,11 +99,12 @@ async function topla(gunSayisi = 3) {
   for (const [id, kanal] of Object.entries(KANALLAR)) {
     try {
       const liste = await kanaliGetir(cerez, id, bas, bit);
+      let atlanan = 0;
       for (const p of liste) {
         const baslik = String(p.name || '').trim();
         if (!baslik) continue;
         const baslangicUtc = damgaToUtc(p.starttime);
-        if (!baslangicUtc) continue;
+        if (!baslangicUtc) { atlanan++; continue; }
         hepsi.push({
           kanal: kanal.ad,
           dijital: kanal.dijital,
@@ -95,6 +116,11 @@ async function topla(gunSayisi = 3) {
           takimlar: Y.takimlariCikar(baslik),
           kaynak: 'tvplus'
         });
+      }
+      if (atlanan) {
+        console.error('[tvplus] ' + kanal.ad + ': ' + atlanan +
+          ' program zaman damgasi cozulemedigi icin atlandi (ornek: ' +
+          JSON.stringify((liste[0] || {}).starttime) + ')');
       }
     } catch (e) {
       console.error('[tvplus] ' + kanal.ad + ' alınamadı: ' + e.message);
