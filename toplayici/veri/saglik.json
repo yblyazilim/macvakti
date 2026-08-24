@@ -1,8 +1,8 @@
 {
- "kontrolZamani": "2026-08-24T02:42:24.691Z",
+ "kontrolZamani": "2026-08-24T03:49:26.210Z",
  "durum": "kirmizi",
  "hataSayisi": 1,
- "uyariSayisi": 2,
+ "uyariSayisi": 1,
  "bulgular": [
   {
    "seviye": "uyari",
@@ -13,11 +13,6 @@
    "seviye": "hata",
    "baslik": "Yayın akışı beklenenden küçük",
    "detay": "0 program bulundu. Normalde binlerce olmalı — ayrıştırıcı kırık."
-  },
-  {
-   "seviye": "uyari",
-   "baslik": "Kanal çözüm oranı çok düşük",
-   "detay": "Yaklaşan 8 maçın yalnızca 0 tanesinde kanal var. Eşleştirme bozulmuş olabilir."
   }
  ],
  "ozet": {
@@ -29,6 +24,6 @@
   "veriYasiDk": 0,
   "yayinProgram": 0,
   "yaklasanMac": 8,
-  "kanalliYaklasan": 0
+  "kanalliYaklasan": 2
  }
 }

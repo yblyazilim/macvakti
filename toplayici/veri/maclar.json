@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T02:42:24.644Z",
+ "guncellendi": "2026-08-24T03:49:26.174Z",
  "surum": 1,
  "adet": 104,
  "rapor": {
@@ -25,10 +25,14 @@
    "eslesen": 0,
    "caprazDogrulanan": 0,
    "kaynaklar": {
-    "onbellek": true,
-    "bayat": false,
-    "yasDk": 14,
-    "sebep": "sakin-donem"
+    "digiturk": {
+     "durum": "tamam",
+     "adet": 0
+    },
+    "tvplus": {
+     "durum": "tamam",
+     "adet": 0
+    }
    }
   },
   "kanalOzet": {
@@ -36,8 +40,8 @@
    "elle": 0,
    "yayinAkisi": 0,
    "kaynak": 0,
-   "kural": 0,
-   "yok": 104,
+   "kural": 48,
+   "yok": 56,
    "dijital": 0
   }
  },
@@ -58,14 +62,16 @@
    "durum": "bitti",
    "skorEv": 0,
    "skorDep": 4,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.345Z",
+   "guncellendi": "2026-08-24T03:38:51.278Z",
    "kaynak": "tff"
   },
   {
@@ -84,14 +90,17 @@
    "durum": "bitti",
    "skorEv": 2,
    "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.361Z",
+   "guncellendi": "2026-08-24T03:38:51.284Z",
    "kaynak": "tff"
   },
   {
@@ -110,14 +119,16 @@
    "durum": "bitti",
    "skorEv": 0,
    "skorDep": 2,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.346Z",
+   "guncellendi": "2026-08-24T03:38:51.278Z",
    "kaynak": "tff"
   },
   {
@@ -136,14 +147,16 @@
    "durum": "bitti",
    "skorEv": 0,
    "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.347Z",
+   "guncellendi": "2026-08-24T03:38:51.278Z",
    "kaynak": "tff"
   },
   {
@@ -162,14 +175,17 @@
    "durum": "bitti",
    "skorEv": 0,
    "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.361Z",
+   "guncellendi": "2026-08-24T03:38:51.284Z",
    "kaynak": "tff"
   },
   {
@@ -188,14 +204,17 @@
    "durum": "bitti",
    "skorEv": 1,
    "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.361Z",
+   "guncellendi": "2026-08-24T03:38:51.285Z",
    "kaynak": "tff"
   },
   {
@@ -214,14 +233,16 @@
    "durum": "bitti",
    "skorEv": 4,
    "skorDep": 2,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.347Z",
+   "guncellendi": "2026-08-24T03:38:51.278Z",
    "kaynak": "tff"
   },
   {
@@ -240,14 +261,17 @@
    "durum": "bitti",
    "skorEv": 2,
    "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.362Z",
+   "guncellendi": "2026-08-24T03:38:51.285Z",
    "kaynak": "tff"
   },
   {
@@ -266,14 +290,17 @@
    "durum": "bitti",
    "skorEv": 0,
    "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.362Z",
+   "guncellendi": "2026-08-24T03:38:51.285Z",
    "kaynak": "tff"
   },
   {
@@ -292,14 +319,17 @@
    "durum": "bitti",
    "skorEv": 1,
    "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.362Z",
+   "guncellendi": "2026-08-24T03:38:51.285Z",
    "kaynak": "tff"
   },
   {
@@ -318,14 +348,16 @@
    "durum": "bitti",
    "skorEv": 2,
    "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.348Z",
+   "guncellendi": "2026-08-24T03:38:51.279Z",
    "kaynak": "tff"
   },
   {
@@ -344,14 +376,16 @@
    "durum": "bitti",
    "skorEv": 0,
    "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.348Z",
+   "guncellendi": "2026-08-24T03:38:51.279Z",
    "kaynak": "tff"
   },
   {
@@ -370,14 +404,17 @@
    "durum": "bitti",
    "skorEv": 0,
    "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.362Z",
+   "guncellendi": "2026-08-24T03:38:51.285Z",
    "kaynak": "tff"
   },
   {
@@ -396,14 +433,16 @@
    "durum": "bitti",
    "skorEv": 1,
    "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.349Z",
+   "guncellendi": "2026-08-24T03:38:51.279Z",
    "kaynak": "tff"
   },
   {
@@ -422,14 +461,16 @@
    "durum": "bitti",
    "skorEv": 0,
    "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.349Z",
+   "guncellendi": "2026-08-24T03:38:51.279Z",
    "kaynak": "tff"
   },
   {
@@ -448,14 +489,17 @@
    "durum": "bitti",
    "skorEv": 1,
    "skorDep": 2,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.363Z",
+   "guncellendi": "2026-08-24T03:38:51.285Z",
    "kaynak": "tff"
   },
   {
@@ -474,14 +518,17 @@
    "durum": "bitti",
    "skorEv": 3,
    "skorDep": 2,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.363Z",
+   "guncellendi": "2026-08-24T03:38:51.286Z",
    "kaynak": "tff"
   },
   {
@@ -500,14 +547,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.350Z",
+   "guncellendi": "2026-08-24T03:38:51.279Z",
    "kaynak": "tff"
   },
   {
@@ -526,14 +575,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.363Z",
+   "guncellendi": "2026-08-24T03:38:51.286Z",
    "kaynak": "tff"
   },
   {
@@ -559,7 +611,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.557Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -585,7 +637,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.557Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -611,7 +663,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.557Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -637,7 +689,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.557Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -663,7 +715,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.558Z",
+   "guncellendi": "2026-08-24T03:47:27.581Z",
    "kaynak": "thf"
   },
   {
@@ -689,7 +741,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.558Z",
+   "guncellendi": "2026-08-24T03:47:27.581Z",
    "kaynak": "thf"
   },
   {
@@ -708,14 +760,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.329Z",
+   "guncellendi": "2026-08-24T03:38:52.216Z",
    "kaynak": "tff"
   },
   {
@@ -734,14 +789,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.329Z",
+   "guncellendi": "2026-08-24T03:38:52.216Z",
    "kaynak": "tff"
   },
   {
@@ -760,14 +818,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.456Z",
+   "guncellendi": "2026-08-24T03:38:51.715Z",
    "kaynak": "tff"
   },
   {
@@ -786,14 +846,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.329Z",
+   "guncellendi": "2026-08-24T03:38:52.216Z",
    "kaynak": "tff"
   },
   {
@@ -812,14 +875,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.330Z",
+   "guncellendi": "2026-08-24T03:38:52.217Z",
    "kaynak": "tff"
   },
   {
@@ -845,7 +911,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.557Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -871,7 +937,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.557Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -897,7 +963,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.558Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -923,7 +989,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:39.582Z",
+   "guncellendi": "2026-08-24T03:38:55.953Z",
    "kaynak": "tff"
   },
   {
@@ -949,7 +1015,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:39.582Z",
+   "guncellendi": "2026-08-24T03:38:55.953Z",
    "kaynak": "tff"
   },
   {
@@ -975,7 +1041,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:39.583Z",
+   "guncellendi": "2026-08-24T03:38:55.953Z",
    "kaynak": "tff"
   },
   {
@@ -1001,7 +1067,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:39.583Z",
+   "guncellendi": "2026-08-24T03:38:55.953Z",
    "kaynak": "tff"
   },
   {
@@ -1027,7 +1093,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.558Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -1046,14 +1112,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.457Z",
+   "guncellendi": "2026-08-24T03:38:51.715Z",
    "kaynak": "tff"
   },
   {
@@ -1072,14 +1140,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.330Z",
+   "guncellendi": "2026-08-24T03:38:52.217Z",
    "kaynak": "tff"
   },
   {
@@ -1098,14 +1169,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.330Z",
+   "guncellendi": "2026-08-24T03:38:52.217Z",
    "kaynak": "tff"
   },
   {
@@ -1124,14 +1198,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.457Z",
+   "guncellendi": "2026-08-24T03:38:51.716Z",
    "kaynak": "tff"
   },
   {
@@ -1150,14 +1226,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.457Z",
+   "guncellendi": "2026-08-24T03:38:51.716Z",
    "kaynak": "tff"
   },
   {
@@ -1176,14 +1254,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.330Z",
+   "guncellendi": "2026-08-24T03:38:52.217Z",
    "kaynak": "tff"
   },
   {
@@ -1202,14 +1283,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.331Z",
+   "guncellendi": "2026-08-24T03:38:52.217Z",
    "kaynak": "tff"
   },
   {
@@ -1235,7 +1319,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.558Z",
+   "guncellendi": "2026-08-24T03:47:27.581Z",
    "kaynak": "thf"
   },
   {
@@ -1261,7 +1345,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:39.583Z",
+   "guncellendi": "2026-08-24T03:38:55.953Z",
    "kaynak": "tff"
   },
   {
@@ -1287,7 +1371,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.558Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -1313,7 +1397,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.558Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -1339,7 +1423,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.558Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -1365,7 +1449,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:42:20.558Z",
+   "guncellendi": "2026-08-24T03:47:27.580Z",
    "kaynak": "thf"
   },
   {
@@ -1391,7 +1475,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:39.583Z",
+   "guncellendi": "2026-08-24T03:38:55.953Z",
    "kaynak": "tff"
   },
   {
@@ -1417,7 +1501,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:39.584Z",
+   "guncellendi": "2026-08-24T03:38:55.954Z",
    "kaynak": "tff"
   },
   {
@@ -1443,7 +1527,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:39.584Z",
+   "guncellendi": "2026-08-24T03:38:55.954Z",
    "kaynak": "tff"
   },
   {
@@ -1462,14 +1546,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.458Z",
+   "guncellendi": "2026-08-24T03:38:51.716Z",
    "kaynak": "tff"
   },
   {
@@ -1488,14 +1574,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.331Z",
+   "guncellendi": "2026-08-24T03:38:52.217Z",
    "kaynak": "tff"
   },
   {
@@ -1514,14 +1603,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.458Z",
+   "guncellendi": "2026-08-24T03:38:51.716Z",
    "kaynak": "tff"
   },
   {
@@ -1540,14 +1631,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.458Z",
+   "guncellendi": "2026-08-24T03:38:51.716Z",
    "kaynak": "tff"
   },
   {
@@ -1566,14 +1659,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:35.331Z",
+   "guncellendi": "2026-08-24T03:38:52.218Z",
    "kaynak": "tff"
   },
   {
@@ -1592,14 +1688,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.458Z",
+   "guncellendi": "2026-08-24T03:38:51.716Z",
    "kaynak": "tff"
   },
   {
@@ -1618,14 +1716,16 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:34.459Z",
+   "guncellendi": "2026-08-24T03:38:51.717Z",
    "kaynak": "tff"
   },
   {
@@ -1644,14 +1744,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.208Z",
+   "guncellendi": "2026-08-24T03:38:52.896Z",
    "kaynak": "tff"
   },
   {
@@ -1670,14 +1773,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.208Z",
+   "guncellendi": "2026-08-24T03:38:52.896Z",
    "kaynak": "tff"
   },
   {
@@ -1696,14 +1802,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.209Z",
+   "guncellendi": "2026-08-24T03:38:52.897Z",
    "kaynak": "tff"
   },
   {
@@ -1722,14 +1831,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.209Z",
+   "guncellendi": "2026-08-24T03:38:52.897Z",
    "kaynak": "tff"
   },
   {
@@ -1748,14 +1860,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.209Z",
+   "guncellendi": "2026-08-24T03:38:52.897Z",
    "kaynak": "tff"
   },
   {
@@ -1774,14 +1889,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.209Z",
+   "guncellendi": "2026-08-24T03:38:52.897Z",
    "kaynak": "tff"
   },
   {
@@ -1800,14 +1918,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.210Z",
+   "guncellendi": "2026-08-24T03:38:52.897Z",
    "kaynak": "tff"
   },
   {
@@ -1826,14 +1947,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.210Z",
+   "guncellendi": "2026-08-24T03:38:52.897Z",
    "kaynak": "tff"
   },
   {
@@ -1852,14 +1976,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.210Z",
+   "guncellendi": "2026-08-24T03:38:52.897Z",
    "kaynak": "tff"
   },
   {
@@ -1878,14 +2005,17 @@
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
    "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:36.211Z",
+   "guncellendi": "2026-08-24T03:38:52.898Z",
    "kaynak": "tff"
   },
   {
@@ -1911,7 +2041,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.786Z",
+   "guncellendi": "2026-08-24T03:38:53.999Z",
    "kaynak": "tff"
   },
   {
@@ -1937,7 +2067,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.786Z",
+   "guncellendi": "2026-08-24T03:38:54.000Z",
    "kaynak": "tff"
   },
   {
@@ -1963,7 +2093,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.799Z",
+   "guncellendi": "2026-08-24T03:38:54.011Z",
    "kaynak": "tff"
   },
   {
@@ -1989,7 +2119,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.799Z",
+   "guncellendi": "2026-08-24T03:38:54.011Z",
    "kaynak": "tff"
   },
   {
@@ -2015,7 +2145,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.787Z",
+   "guncellendi": "2026-08-24T03:38:54.000Z",
    "kaynak": "tff"
   },
   {
@@ -2041,7 +2171,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.787Z",
+   "guncellendi": "2026-08-24T03:38:54.000Z",
    "kaynak": "tff"
   },
   {
@@ -2067,7 +2197,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.799Z",
+   "guncellendi": "2026-08-24T03:38:54.011Z",
    "kaynak": "tff"
   },
   {
@@ -2093,7 +2223,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.800Z",
+   "guncellendi": "2026-08-24T03:38:54.011Z",
    "kaynak": "tff"
   },
   {
@@ -2119,7 +2249,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.800Z",
+   "guncellendi": "2026-08-24T03:38:54.011Z",
    "kaynak": "tff"
   },
   {
@@ -2145,7 +2275,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.800Z",
+   "guncellendi": "2026-08-24T03:38:54.012Z",
    "kaynak": "tff"
   },
   {
@@ -2171,7 +2301,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.800Z",
+   "guncellendi": "2026-08-24T03:38:54.012Z",
    "kaynak": "tff"
   },
   {
@@ -2197,7 +2327,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:40.883Z",
+   "guncellendi": "2026-08-24T03:38:56.985Z",
    "kaynak": "tff"
   },
   {
@@ -2223,7 +2353,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:40.884Z",
+   "guncellendi": "2026-08-24T03:38:56.985Z",
    "kaynak": "tff"
   },
   {
@@ -2249,7 +2379,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:40.884Z",
+   "guncellendi": "2026-08-24T03:38:56.985Z",
    "kaynak": "tff"
   },
   {
@@ -2275,7 +2405,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:40.884Z",
+   "guncellendi": "2026-08-24T03:38:56.985Z",
    "kaynak": "tff"
   },
   {
@@ -2301,7 +2431,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:40.884Z",
+   "guncellendi": "2026-08-24T03:38:56.985Z",
    "kaynak": "tff"
   },
   {
@@ -2327,7 +2457,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:40.885Z",
+   "guncellendi": "2026-08-24T03:38:56.985Z",
    "kaynak": "tff"
   },
   {
@@ -2353,7 +2483,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:40.885Z",
+   "guncellendi": "2026-08-24T03:38:56.986Z",
    "kaynak": "tff"
   },
   {
@@ -2379,7 +2509,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:40.885Z",
+   "guncellendi": "2026-08-24T03:38:56.986Z",
    "kaynak": "tff"
   },
   {
@@ -2405,7 +2535,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.787Z",
+   "guncellendi": "2026-08-24T03:38:54.000Z",
    "kaynak": "tff"
   },
   {
@@ -2431,7 +2561,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.787Z",
+   "guncellendi": "2026-08-24T03:38:54.000Z",
    "kaynak": "tff"
   },
   {
@@ -2457,7 +2587,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.788Z",
+   "guncellendi": "2026-08-24T03:38:54.000Z",
    "kaynak": "tff"
   },
   {
@@ -2483,7 +2613,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.788Z",
+   "guncellendi": "2026-08-24T03:38:54.001Z",
    "kaynak": "tff"
   },
   {
@@ -2509,7 +2639,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.801Z",
+   "guncellendi": "2026-08-24T03:38:54.012Z",
    "kaynak": "tff"
   },
   {
@@ -2535,7 +2665,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:37.801Z",
+   "guncellendi": "2026-08-24T03:38:54.012Z",
    "kaynak": "tff"
   },
   {
@@ -2561,7 +2691,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:41.395Z",
+   "guncellendi": "2026-08-24T03:38:57.644Z",
    "kaynak": "tff"
   },
   {
@@ -2587,7 +2717,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:41.395Z",
+   "guncellendi": "2026-08-24T03:38:57.644Z",
    "kaynak": "tff"
   },
   {
@@ -2613,7 +2743,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:41.396Z",
+   "guncellendi": "2026-08-24T03:38:57.644Z",
    "kaynak": "tff"
   },
   {
@@ -2639,7 +2769,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:41.396Z",
+   "guncellendi": "2026-08-24T03:38:57.644Z",
    "kaynak": "tff"
   },
   {
@@ -2665,7 +2795,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:41.396Z",
+   "guncellendi": "2026-08-24T03:38:57.645Z",
    "kaynak": "tff"
   },
   {
@@ -2691,7 +2821,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:41.397Z",
+   "guncellendi": "2026-08-24T03:38:57.645Z",
    "kaynak": "tff"
   },
   {
@@ -2717,7 +2847,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:41.397Z",
+   "guncellendi": "2026-08-24T03:38:57.645Z",
    "kaynak": "tff"
   },
   {
@@ -2743,7 +2873,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-08-24T02:33:41.397Z",
+   "guncellendi": "2026-08-24T03:38:57.645Z",
    "kaynak": "tff"
   }
  ]
