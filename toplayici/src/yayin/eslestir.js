@@ -19,7 +19,10 @@ const ESIK = 60;           // bu puanın altındaki eşleşme kabul edilmez
 const GUCLU_ESIK = 95;     // aynı saat + isim tam tutuyor
 
 /** Tüm yayın kaynaklarını toplar. */
-async function programlariTopla(gunSayisi = 3) {
+async function programlariTopla(gunSayisi = 7) {
+  // Pencere en az KAPSAM_GUN kadar olmali; cagiran daha darini isterse
+  // eslesecek mac kalmaz. Bu yuzden asagi cekilmesine izin verilmez.
+  const gun = Math.max(Number(gunSayisi) || 0, 7);
   const sonuc = { programlar: [], rapor: {} };
   const kaynaklar = [
     { ad: 'digiturk', mod: digiturk },
@@ -27,7 +30,7 @@ async function programlariTopla(gunSayisi = 3) {
   ];
   for (const k of kaynaklar) {
     try {
-      const p = await k.mod.topla(gunSayisi);
+      const p = await k.mod.topla(gun);
       sonuc.programlar.push(...p);
       // Sadece adet degil, ORNEK de kaydet. Bos donen bir kaynagin
       // sebebi ancak boyle gorunur olur.
@@ -46,7 +49,6 @@ async function programlariTopla(gunSayisi = 3) {
   }
   return sonuc;
 }
-
 /**
  * Maçlara kanal atar. Maç nesnelerini yerinde günceller.
  * Yalnızca gerçekten eşleşenlere dokunur; eşleşmeyeni boş bırakır.
@@ -115,7 +117,6 @@ function maclaraUygula(maclar, programlar) {
 
   return { atanan, capraz, adayProgram: adaylar.length };
 }
-
 // --- Önbellek ---
 // Yayın akışı büyük veridir (Digiturk günlük ~3 MB). Her çalıştırmada
 // yeniden indirmek hem yavaş hem kaynağa saygısızdır. Bu yüzden akış
@@ -150,7 +151,6 @@ function programlariOku(tazelikSaat = 6) {
   }
 }
 
-
 /**
  * Yayın akışının şimdi tazelenmesi gerekiyor mu?
  *
@@ -162,10 +162,12 @@ function programlariOku(tazelikSaat = 6) {
  *   - Yaklaşan maç varsa (önümüzdeki YAKIN_SAAT içinde) → 15 dakikada bir tazele.
  *     Kanal ve saat değişiklikleri tam bu pencerede olur.
  *   - Yaklaşan maç yoksa → 6 saatte bir yeter (günlük bakım).
+ *   - Önbellek ileriyi yeterince kapsamıyorsa → saatte bir tazele.
  */
 const YAKIN_SAAT = 5;
 const YOGUN_DK = 15;
 const SAKIN_SAAT = 6;
+const KAPSAM_GUN = 5;      // önbellek en az bu kadar ileriyi kapsamalı
 
 function tazelemeGerekli(maclar, simdi) {
   const an = simdi ? simdi.getTime() : Date.now();
@@ -190,6 +192,20 @@ function tazelemeGerekli(maclar, simdi) {
   // bir daha hic denenmez -> kanal bilgisi asla gelmez.
   if (!o.programlar.length) {
     return { gerekli: true, sebep: 'onbellek-bos', yasDk: Math.round(yasDk), esikDk: 0 };
+  }
+
+  // Onbellek yeterince ileriyi kapsamiyorsa tazele. Yayin akisi penceresi
+  // genisletildiginde dar kalmis eski onbellek boylece kendiliginden yenilenir.
+  const enUzak = o.programlar.reduce((s, p) => {
+    const t = new Date(p.baslangicUtc).getTime();
+    return Number.isFinite(t) && t > s ? t : s;
+  }, 0);
+  const kapsamGun = (enUzak - an) / 86400000;
+  if (kapsamGun < KAPSAM_GUN && yasDk >= 60) {
+    return {
+      gerekli: true, sebep: 'kapsam-dar', yasDk: Math.round(yasDk), esikDk: 60,
+      kapsamGun: Math.round(kapsamGun * 10) / 10
+    };
   }
 
   const esikDk = yakindaMac ? YOGUN_DK : SAKIN_SAAT * 60;
