@@ -1,0 +1,17 @@
+program sayisi: 29
+begintime gonderilen: 20260824000000 -> bitis: 20260826042924
+ALANLAR: ["country","starttime","type","isBlackout","rerun","ppvsubscribed","foreignsn","isLive","ratingid","episodeTotalCount","id","keyword","contentType","isnpvr","slsType","iscpvr","advisory","extensionInfo","genreIds","istvod","name","tvodStatus","pictures","externalContentCode","genres","visittimes","issubscribed","programType","gapFiller","introduce","priceType","endtime","seasonTotalCount","recordedMediaIds","picture","isLoyalty","isppv","mainGenre","contentRight","channelid"]
+name: "Bandırma S.-Keçiörengücü"
+starttime: "2026-08-24 02:00:00 UTC+03:00"
+endtime: "2026-08-24 04:00:00 UTC+03:00"
+introduce ilk80: "Trendyol 1. lig 3. hafta maçında Bandırma Spor ve Keçtaş Keçiörengücü takımları "
+
+ilk 8 program adi + saat:
+    "2026-08-24 02:00:00 UTC+03:00" | Bandırma S.-Keçiörengücü
+    "2026-08-24 04:00:00 UTC+03:00" | Sarıyer - Batman Petrol Spor
+    "2026-08-24 06:00:00 UTC+03:00" | Teknik Analiz
+    "2026-08-24 06:58:00 UTC+03:00" | İstiklal Marşı
+    "2026-08-24 07:00:00 UTC+03:00" | UEFA Temsilcilerimizin Eleme Maç Özetleri
+    "2026-08-24 07:30:00 UTC+03:00" | Trendyol Süper Lig Özetler
+    "2026-08-24 08:00:00 UTC+03:00" | İlk Baskı
+    "2026-08-24 10:00:00 UTC+03:00" | İşitme Engelliler Spor Bülteni
