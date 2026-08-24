@@ -90,13 +90,10 @@ async function cagir(cerez, yol, govde) {
  * Başarısız olursa sabit listeye düşer; böylece akış hiç durmaz.
  */
 async function kanallariBul(cerez) {
-  const govde = {
-    channelid: '',
-    isReturnAllMedia: '1',
-    filterlist: [{ key: 'IsHide', value: '-1' }],
-    properties: [{ name: 'logicalChannel',
-      include: '/channelid,/name,/logicalChannelNumber,/introduce' }]
-  };
+  // Alan listesi DARALTILMAZ: servis 'name' yerine baska bir alan
+  // kullanabiliyor, daraltinca ad bos gelip tum kanallar eleniyordu.
+  const govde = { channelid: '', isReturnAllMedia: '1',
+                  filterlist: [{ key: 'IsHide', value: '-1' }] };
   for (const yol of ['AllChannelDynamic', 'QueryAllChannel', 'ChannelList']) {
     let j;
     try { j = await cagir(cerez, yol, govde); } catch (e) {
@@ -106,16 +103,23 @@ async function kanallariBul(cerez) {
     const ham = j.channellist || j.channelList || j.chanellist || [];
     if (!ham.length) { console.error('[tvplus] ' + yol + ': liste boş'); continue; }
 
+    console.log('[tvplus] ' + yol + ' kanal alanlari: ' +
+      Object.keys(ham[0] || {}).join(','));
+
     const bulunan = {};
+    let adsiz = 0;
     for (const k of ham) {
-      const ad = String(k.name || '').trim();
-      const id = String(k.channelid || k.channelID || '').trim();
-      if (!ad || !id) continue;
+      const ad = String(k.name || k.channelName || k.chanName || k.title ||
+                        k.channelname || k.displayName || '').trim();
+      const id = String(k.channelid || k.channelID || k.chanid ||
+                        k.channelId || k.id || '').trim();
+      if (!ad || !id) { adsiz++; continue; }
       if (!SPOR_DESENI.test(ad) || ELE.test(ad)) continue;
       bulunan[id] = { ad, dijital: DIJITAL_DESENI.test(ad) };
     }
     const adet = Object.keys(bulunan).length;
-    console.log('[tvplus] ' + yol + ': ' + ham.length + ' kanal, ' + adet + ' spor kanalı');
+    console.log('[tvplus] ' + yol + ': ' + ham.length + ' kanal, ' + adet +
+      ' spor kanalı, ' + adsiz + ' adsiz');
     if (adet >= 5) {
       console.log('[tvplus] spor kanalları: ' +
         Object.values(bulunan).map(x => x.ad).join(', '));
@@ -132,53 +136,3 @@ async function kanaliGetir(cerez, id, bas, bit) {
   });
   return j.playbilllist || j.playbillList || [];
 }
-async function topla(gunSayisi = 7) {
-  const cerez = await oturumAc();
-  if (!cerez) throw new Error('TV+ oturum cerezi bos dondu');
-
-  const kanallar = await kanallariBul(cerez);
-
-  const bugun = new Date();
-  const bas = damga(new Date(Date.UTC(bugun.getUTCFullYear(), bugun.getUTCMonth(), bugun.getUTCDate())));
-  const bit = damga(new Date(bugun.getTime() + gunSayisi * 86400000));
-
-  const hepsi = [];
-  let hataliKanal = 0;
-  for (const [id, kanal] of Object.entries(kanallar)) {
-    try {
-      const liste = await kanaliGetir(cerez, id, bas, bit);
-      console.log('[tvplus] ' + kanal.ad + ': ' + liste.length + ' program alindi');
-      let atlanan = 0;
-      for (const p of liste) {
-        const baslik = String(p.name || '').trim();
-        if (!baslik) continue;
-        const baslangicUtc = damgaToUtc(p.starttime);
-        if (!baslangicUtc) { atlanan++; continue; }
-        hepsi.push({
-          kanal: kanal.ad,
-          dijital: kanal.dijital,
-          baslik,
-          baslangicUtc,
-          sureDk: null,
-          tur: Y.yayinTuru(baslik + ' ' + (p.introduce || '')),
-          macDisi: Y.MAC_DISI.test(baslik),
-          takimlar: Y.takimlariCikar(baslik),
-          kaynak: 'tvplus'
-        });
-      }
-      if (atlanan) {
-        console.error('[tvplus] ' + kanal.ad + ': ' + atlanan +
-          ' program zaman damgasi cozulemedigi icin atlandi');
-      }
-    } catch (e) {
-      hataliKanal++;
-      console.error('[tvplus] ' + kanal.ad + ' alınamadı: ' + e.message);
-    }
-    await O.uyu(250);
-  }
-  console.log('[tvplus] toplam ' + hepsi.length + ' program, ' +
-    hataliKanal + ' kanal hatali');
-  return hepsi;
-}
-
-module.exports = { topla, oturumAc, damgaToUtc, kanallariBul, KANALLAR, _KOK: KOK };
