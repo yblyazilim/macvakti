@@ -63,7 +63,7 @@ function skorAyir(s) {
   return { ev: +m[1], dep: +m[2], oynandi: true };
 }
 
-function sayfayiAyristir(html, lig) {
+function sayfayiAyristir(html, lig, grupEtiket) {
   const akis = htmlToAkis(html);
 
   let hafta = '';
@@ -78,11 +78,15 @@ function sayfayiAyristir(html, lig) {
   // Yalnizca gercekten gruplara ayrilan ligler icin grup etiketi kullan.
   // Super Lig ve 1. Lig tek gruptur; oralarda 'Grup' kelimesi sayfanin
   // baska bir yerinden (menu, arsiv) sizabilir ve yanlis etiket uretir.
+  // Grup etiketi: cagiran biliyorsa onu kullan (en guvenilir).
+  // Bilmiyorsa sayfadan cikarmayi dene. TFF gruplari "Beyaz/Kirmizi"
+  // ya da "01/02/03" gibi adlandirir; sayisal varsayim yapilmaz.
   let grup = '';
-  let gm = null;
-  if (lig.kisa === '2L' || lig.kisa === '3L') {
-    gm = akis.match(/(\d+)\s*\.\s*Grup/);
-    if (gm) grup = gm[1] + '. Grup';
+  if (grupEtiket) {
+    grup = String(grupEtiket).trim();
+  } else if (lig.kisa === '2L' || lig.kisa === '3L') {
+    const gm = akis.match(/Gruplar:\s*([^\n\t]{1,40})/);
+    if (gm) grup = gm[1].trim().split(/\s+/)[0];
   }
 
   const maclar = [];
@@ -110,8 +114,8 @@ function sayfayiAyristir(html, lig) {
     maclar.push(O.macOlustur({
       id: 'futbol:tff:' + lig.kisa + ':' + kimlik.slice(0, 44),
       brans: 'futbol',
-      lig: grup ? (lig.ad + ' ' + grup) : lig.ad,
-      ligId: lig.id + (grup ? '-' + gm[1] : ''),
+      lig: grup ? (lig.ad + ' ' + grup + ' Grubu') : lig.ad,
+      ligId: lig.id + (grup ? '-' + grup.replace(/[^A-Za-z0-9]/g, '') : ''),
       sezon,
       hafta,
       baslangicUtc,
@@ -127,15 +131,49 @@ function sayfayiAyristir(html, lig) {
   return maclar;
 }
 
-/** Belirli bir haftayı çeker (hafta verilmezse güncel hafta gelir). */
-async function ligiTopla(lig, hafta) {
+const GECERLI_FIKSTUR = (h) => /Detaylar/i.test(h) && /\d{2}\.\d{2}\.\d{4}/.test(h);
+
+function ligUrl(lig, hafta, grupId) {
   let url = KOK + '?pageID=' + lig.id;
+  if (grupId) url += '&grupID=' + grupId;
   if (hafta) url += '&hafta=' + hafta;
-  const html = await O.getir(url, {
-    // Gelen sayfa gerçekten fikstür sayfası mı? Koruma/hata sayfalarını ele.
-    gecerliMi: (h) => /Detaylar/i.test(h) && /\d{2}\.\d{2}\.\d{4}/.test(h)
-  });
-  return sayfayiAyristir(html, lig);
+  return url;
+}
+
+/**
+ * Bir ligin GRUPLARINI kesfeder.
+ * 2. Lig "Beyaz/Kirmizi", 3. Lig "01/02/03" gibi adlandirir; sayisal
+ * varsayim yapmayiz, sayfadaki baglantilardan okuruz. Grup yoksa
+ * tek elemanli liste doner ve akis degismez.
+ */
+async function gruplariBul(lig) {
+  let html;
+  try {
+    html = await O.getir(ligUrl(lig), { gecerliMi: GECERLI_FIKSTUR });
+  } catch (e) {
+    console.error('[tff] ' + lig.ad + ' grup listesi alinamadi: ' + e.message);
+    return [{ id: null, etiket: '' }];
+  }
+  const bulunan = new Map();
+  const desen = /grupID=(\d+)[^>]*>\s*([^<>\n]{1,24}?)\s*</g;
+  let m;
+  while ((m = desen.exec(html))) {
+    const id = m[1], etiket = m[2].trim();
+    if (!etiket || /^\d{1,2}$/.test(etiket) && etiket.length > 2) continue;
+    if (!bulunan.has(id)) bulunan.set(id, etiket);
+  }
+  if (!bulunan.size) return [{ id: null, etiket: '' }];
+  const liste = [...bulunan.entries()].map(([id, etiket]) => ({ id, etiket }));
+  console.log('[tff] ' + lig.ad + ': ' + liste.length + ' grup (' +
+    liste.map(g => g.etiket).join(', ') + ')');
+  return liste;
+}
+
+/** Belirli bir haftayı/grubu çeker (hafta verilmezse güncel hafta gelir). */
+async function ligiTopla(lig, hafta, grup) {
+  const g = grup || {};
+  const html = await O.getir(ligUrl(lig, hafta, g.id), { gecerliMi: GECERLI_FIKSTUR });
+  return sayfayiAyristir(html, lig, g.etiket);
 }
 
 /**
@@ -144,25 +182,72 @@ async function ligiTopla(lig, hafta) {
  * hafta parametresi denenir. Desteklenmiyorsa güncel hafta döner.
  */
 async function ligiGenisTopla(lig, haftaSayisi = 2) {
+  const gruplar = await gruplariBul(lig);
   const hepsi = new Map();
-  const guncel = await ligiTopla(lig);
-  for (const m of guncel) hepsi.set(m.id, m);
 
-  const hm = guncel.length && guncel[0].hafta && guncel[0].hafta.match(/(\d+)/);
-  const baslangicHafta = hm ? +hm[1] : null;
-
-  if (baslangicHafta) {
-    for (let h = baslangicHafta + 1; h <= baslangicHafta + haftaSayisi; h++) {
-      try {
-        const ek = await ligiTopla(lig, h);
-        let yeni = 0;
-        for (const m of ek) if (!hepsi.has(m.id)) { hepsi.set(m.id, m); yeni++; }
-        if (!yeni) break; // hafta parametresi işlemiyor, boşuna isteme
-        await O.uyu(500);
-      } catch (_) { break; }
+  for (const grup of gruplar) {
+    let guncel = [];
+    try {
+      guncel = await ligiTopla(lig, null, grup);
+    } catch (e) {
+      console.error('[tff] ' + lig.ad + ' ' + (grup.etiket || '') +
+        ' alinamadi: ' + e.message);
+      continue;
     }
+    for (const m of guncel) hepsi.set(m.id, m);
+
+    const hm = guncel.length && guncel[0].hafta && guncel[0].hafta.match(/(\d+)/);
+    const bas = hm ? +hm[1] : null;
+    if (bas) {
+      for (let h = bas + 1; h <= bas + haftaSayisi; h++) {
+        try {
+          const ek = await ligiTopla(lig, h, grup);
+          let yeni = 0;
+          for (const m of ek) if (!hepsi.has(m.id)) { hepsi.set(m.id, m); yeni++; }
+          if (!yeni) break;
+          await O.uyu(400);
+        } catch (_) { break; }
+      }
+    }
+    await O.uyu(400);
   }
   return [...hepsi.values()];
+}
+
+/**
+ * KULUP KUTUGU: her grubun ilk iki haftasi o gruptaki TUM takimlari
+ * icerir (tek devrede her takim bir kez oynar; tek sayili gruplarda
+ * bir takim bay gecer, ikinci hafta onu da yakalar).
+ * Boylece fikstur yayinlanmamis olsa bile kulup listesi tam olur.
+ */
+async function kulupleriTopla(ligler = LIGLER) {
+  const sonuc = [];
+  for (const lig of ligler) {
+    const gruplar = await gruplariBul(lig);
+    for (const grup of gruplar) {
+      const takimlar = new Set();
+      for (const hafta of [1, 2]) {
+        try {
+          const maclar = await ligiTopla(lig, hafta, grup);
+          for (const m of maclar) {
+            if (m.evSahibi) takimlar.add(m.evSahibi);
+            if (m.deplasman) takimlar.add(m.deplasman);
+          }
+        } catch (e) {
+          console.error('[tff] kulup: ' + lig.ad + ' ' + (grup.etiket || '') +
+            ' h' + hafta + ' alinamadi: ' + e.message);
+        }
+        await O.uyu(350);
+      }
+      if (takimlar.size) {
+        const ad = grup.etiket ? lig.ad + ' ' + grup.etiket + ' Grubu' : lig.ad;
+        const id = lig.id + (grup.etiket ? '-' + grup.etiket.replace(/[^A-Za-z0-9]/g, '') : '');
+        sonuc.push({ brans: 'futbol', ligId: id, lig: ad, takimlar: [...takimlar].sort() });
+        console.log('[tff] kulup: ' + ad + ' -> ' + takimlar.size + ' takim');
+      }
+    }
+  }
+  return sonuc;
 }
 
 async function topla(ligler = LIGLER) {
@@ -181,6 +266,7 @@ async function topla(ligler = LIGLER) {
 }
 
 module.exports = {
-  topla, ligiTopla, ligiGenisTopla, sayfayiAyristir, htmlToAkis,
+  topla, ligiTopla, ligiGenisTopla, kulupleriTopla, gruplariBul,
+  sayfayiAyristir, htmlToAkis,
   LIGLER, CEKIRDEK_ADLAR, _KOK: KOK
 };

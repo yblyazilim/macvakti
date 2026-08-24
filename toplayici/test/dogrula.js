@@ -343,6 +343,47 @@ ol('künyede boş alan hiç yazılmaz',
 ol('ağaç anahtarı ile konu anahtarı aynı',
    takimAgac.anahtar('Beşiktaş') === bildirim.konuAnahtar('Beşiktaş'));
 
+// ---------- Kulüp kütüğü / gruplar ----------
+baslik('KULÜP KÜTÜĞÜ');
+const kutukLig = [
+  { brans: 'futbol', ligId: '976-Beyaz', lig: '2. Lig Beyaz Grubu',
+    takimlar: ['Hatayspor', 'Somaspor', 'Muş Spor Kulübü'] },
+  { brans: 'futbol', ligId: '976-Kirmizi', lig: '2. Lig Kırmızı Grubu',
+    takimlar: ['Kepez Spor', 'Menemen FK'] }
+];
+const agac2 = takimAgac.agacKur([], {}, kutukLig);
+ol('kütükteki gruplar ayrı lig olarak durur',
+   agac2.branslar[0].ligler.length === 2,
+   agac2.branslar[0].ligler.map(l => l.ad).join(' / '));
+ol('FİKSTÜRSÜZ takım da listede görünür',
+   !!agac2.takimlar[takimAgac.anahtar('Muş Spor Kulübü')]);
+ol('grup adları sayı varsayımı yapmıyor',
+   agac2.branslar[0].ligler.some(l => /Beyaz/.test(l.ad)) &&
+   agac2.branslar[0].ligler.some(l => /Kırmızı/.test(l.ad)));
+
+// Kütük + fikstür birleşimi: aynı takım iki kez sayılmamalı
+const macKutuk = [O.macOlustur({ id: 'z', brans: 'futbol', ligId: '976-Beyaz',
+  lig: '2. Lig Beyaz Grubu', baslangicUtc: '2026-01-01T00:00:00.000Z',
+  evSahibi: 'Hatayspor', deplasman: 'Somaspor' })];
+const agac3 = takimAgac.agacKur(macKutuk, {}, kutukLig);
+ol('kütük ve fikstür birleşince takım tekrar etmez',
+   agac3.branslar[0].ligler.find(l => l.id === '976-Beyaz').takimlar.length === 3,
+   String(agac3.branslar[0].ligler.find(l => l.id === '976-Beyaz').takimlar.length));
+
+// TFF grup etiketi: dışarıdan verilen etiket kullanılmalı
+const sahteSayfa = '<html><body>' +
+  '2026-2027 Sezonu 1. Hafta ' +
+  '<input name="x" value="yyy">' +
+  '<table><tr><td>06.09.2026 16:30 HATAYSPOR - SOMASPOR Detaylar</td></tr></table>' +
+  '</body></html>';
+const cikan = futbol.sayfayiAyristir(sahteSayfa, { id: '976', ad: '2. Lig', kisa: '2L' }, 'Beyaz');
+ol('grup etiketi lig adına işlenir',
+   cikan.length > 0 && /Beyaz Grubu/.test(cikan[0].lig),
+   cikan.length ? cikan[0].lig : 'maç yok');
+ol('grup etiketi lig kimliğine işlenir',
+   cikan.length > 0 && cikan[0].ligId === '976-Beyaz',
+   cikan.length ? cikan[0].ligId : '-');
+
 // ---------- Logo sızıntısı (telif) ----------
 baslik('TELİF');
 ol('istemcide logo/amblem alanı kullanılmıyor',

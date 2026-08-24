@@ -8,6 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const bilgi = require('./kaynaklar/takim-bilgi');
+const kutuk = require('./kaynaklar/kulup-kutugu');
 
 const VERI = path.join(__dirname, '..', 'veri');
 
@@ -37,12 +38,39 @@ function macOku() {
  * Ağacı kurar.
  * Dönen yapı uygulamanın doğrudan çizebileceği biçimdedir.
  */
-function agacKur(maclar, kunyeler) {
+function agacKur(maclar, kunyeler, kutukLigleri) {
   // brans -> ligId -> { ad, takimlar:Set }
   const branslar = new Map();
   // anahtar -> { ad, branslar:Set, ligler:Set }
   const takimlar = new Map();
 
+  // 1) KÜTÜK: yetkili kulüp listesi. Fikstür yayınlanmamış olsa bile
+  //    ligin tüm takımları burada bulunur.
+  for (const l of (kutukLigleri || [])) {
+    const b = l.brans || 'futbol';
+    if (!branslar.has(b)) branslar.set(b, new Map());
+    const ligler = branslar.get(b);
+    const ligId = String(l.ligId);
+    if (!ligler.has(ligId)) {
+      ligler.set(ligId, { id: ligId, ad: l.lig || 'Diğer', takimlar: new Set() });
+    }
+    const lig = ligler.get(ligId);
+    for (const ad of (l.takimlar || [])) {
+      const a = anahtar(ad);
+      if (!a) continue;
+      lig.takimlar.add(a);
+      if (!takimlar.has(a)) {
+        takimlar.set(a, { anahtar: a, ad: ad, branslar: new Set(), ligler: new Set() });
+      }
+      const t = takimlar.get(a);
+      t.branslar.add(b);
+      t.ligler.add(b + ':' + ligId);
+      if (ad.length < t.ad.length) t.ad = ad;
+    }
+  }
+
+  // 2) FİKSTÜR: kütükte olmayan ligleri/takımları tamamlar
+  //    (ör. hentbol gibi kütüğü henüz olmayan branşlar).
   for (const m of maclar) {
     const b = m.brans || 'diger';
     if (!branslar.has(b)) branslar.set(b, new Map());
@@ -115,8 +143,11 @@ async function calistir(secenek) {
   }
 
   // Fikstürdeki benzersiz takım adları
-  const adlar = [...new Set(maclar.flatMap(m => [m.evSahibi, m.deplasman])
-    .filter(a => a && String(a).trim()))];
+  const kutukOn = kutuk.oku();
+  const adlar = [...new Set([
+    ...maclar.flatMap(m => [m.evSahibi, m.deplasman]),
+    ...((kutukOn.ligler || []).flatMap(l => l.takimlar || []))
+  ].filter(a => a && String(a).trim()))];
 
   let ob = bilgi.oku();
   if (!s.kunyesiz) {
@@ -127,7 +158,17 @@ async function calistir(secenek) {
     }
   }
 
-  const agac = agacKur(maclar, ob.takimlar || {});
+  // Kulüp kütüğü (lig bazlı tam liste). Başarısız olursa eski kütük döner.
+  let kutukVeri = kutuk.oku();
+  if (!s.kutuksuz) {
+    try {
+      kutukVeri = await kutuk.topla({ zorla: !!s.kutugZorla });
+    } catch (e) {
+      console.error('[takimlar] kutuk alinamadi: ' + e.message);
+    }
+  }
+
+  const agac = agacKur(maclar, ob.takimlar || {}, (kutukVeri || {}).ligler || []);
   const cikti = {
     guncellendi: new Date().toISOString(),
     surum: 1,
@@ -148,7 +189,11 @@ async function calistir(secenek) {
 }
 
 if (require.main === module) {
-  calistir({ kunyesiz: process.argv.includes('--kunyesiz') })
+  calistir({
+    kunyesiz: process.argv.includes('--kunyesiz'),
+    kutuksuz: process.argv.includes('--kutuksuz'),
+    kutugZorla: process.argv.includes('--kutugZorla')
+  })
     .catch(e => { console.error(e); process.exit(1); });
 }
 
