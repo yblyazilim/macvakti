@@ -189,3 +189,51 @@ async function topla(gunSayisi = 7) {
 
 module.exports = { topla, oturumAc, damgaToUtc, kanallariBul, KANALLAR, _KOK: KOK };
 
+async function topla(gunSayisi = 7) {
+  const cerez = await oturumAc();
+  if (!cerez) throw new Error('TV+ oturum cerezi bos dondu');
+
+  const kanallar = await kanallariBul(cerez);
+
+  const bugun = new Date();
+  const bas = damga(new Date(Date.UTC(bugun.getUTCFullYear(), bugun.getUTCMonth(), bugun.getUTCDate())));
+  const bit = damga(new Date(bugun.getTime() + gunSayisi * 86400000));
+
+  const hepsi = [];
+  let hataliKanal = 0;
+  for (const [id, kanal] of Object.entries(kanallar)) {
+    try {
+      const liste = await kanaliGetir(cerez, id, bas, bit);
+      console.log('[tvplus] ' + kanal.ad + ': ' + liste.length + ' program alindi');
+      let atlanan = 0;
+      for (const p of liste) {
+        const baslik = String(p.name || '').trim();
+        if (!baslik) continue;
+        const baslangicUtc = damgaToUtc(p.starttime);
+        if (!baslangicUtc) { atlanan++; continue; }
+        hepsi.push({
+          kanal: kanal.ad,
+          dijital: kanal.dijital,
+          baslik,
+          baslangicUtc,
+          sureDk: null,
+          tur: Y.yayinTuru(baslik + ' ' + (p.introduce || '')),
+          macDisi: Y.MAC_DISI.test(baslik),
+          takimlar: Y.takimlariCikar(baslik),
+          kaynak: 'tvplus'
+        });
+      }
+      if (atlanan) {
+        console.error('[tvplus] ' + kanal.ad + ': ' + atlanan + ' program atlandi');
+      }
+    } catch (e) {
+      hataliKanal++;
+      console.error('[tvplus] ' + kanal.ad + ' alinamadi: ' + e.message);
+    }
+    await O.uyu(250);
+  }
+  console.log('[tvplus] toplam ' + hepsi.length + ' program, ' + hataliKanal + ' kanal hatali');
+  return hepsi;
+}
+
+module.exports = { topla, oturumAc, damgaToUtc, kanallariBul, KANALLAR, _KOK: KOK };
