@@ -151,8 +151,11 @@ async function calistir(secenek) {
 
   let ob = bilgi.oku();
   if (!s.kunyesiz) {
+    // Hiz siniri yuzunden yazilmis eski hata kayitlarini unut, yoksa
+    // o takimlar 45 gun boyunca hic sorulmaz.
+    try { bilgi.geciciHatalariUnut(); } catch (_) {}
     try {
-      ob = await bilgi.topla(adlar, s.sinir || 40);
+      ob = await bilgi.topla(adlar, s.sinir || 12);
     } catch (e) {
       console.error('[takimlar] kunye toplama hatasi: ' + e.message);
     }

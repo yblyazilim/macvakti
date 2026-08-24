@@ -194,7 +194,7 @@ async function calistir(secilenBrans, kuru, atlaYayin, zorlaYayin) {
   // Branş > lig > takım ağacı ve kulüp künyeleri.
   // Maçlar yazıldıktan SONRA çalışır; ağacı fikstürden türetiyor.
   try {
-    await takimlar.calistir({ sinir: 25 });
+    await takimlar.calistir({ sinir: 12 });
   } catch (e) {
     console.error('[topla] takim agaci kurulamadi: ' + e.message);
   }
