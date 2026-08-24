@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T12:18:34.930Z",
+ "guncellendi": "2026-08-24T13:02:36.968Z",
  "surum": 1,
  "bransSayisi": 2,
  "takimSayisi": 101,
@@ -421,7 +421,10 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 2015
+   }
   },
   "alanyaspor": {
    "ad": "Alanyaspor",
@@ -430,7 +433,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1948,
+    "sehir": "Alanya",
+    "stat": "Alanya Oba Stadyumu"
+   }
   },
   "besiktas": {
    "ad": "Beşiktaş",
@@ -440,7 +448,12 @@
    "ligler": [
     "futbol:1000",
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
   },
   "goztepe": {
    "ad": "Göztepe",
@@ -451,7 +464,12 @@
    "ligler": [
     "futbol:198",
     "hentbol:diger"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1925,
+    "sehir": "İzmir",
+    "stat": "İzmir Atatürk Stadyumu"
+   }
   },
   "genclerbirligi": {
    "ad": "Gençlerbirliği",
@@ -460,7 +478,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1923,
+    "sehir": "Ankara",
+    "stat": "Eryaman Stadyumu"
+   }
   },
   "smsgrupsariyer": {
    "ad": "Sms Grup Sarıyer",
