@@ -1,6 +1,76 @@
 {
- "guncellendi": "2026-08-24T01:06:00.443Z",
+ "guncellendi": "2026-08-24T02:06:36.015Z",
  "eksikler": [
+  {
+   "id": "futbol:tff:1L:20260822alagzholdngıdırfutbolkulbmetroholdng",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Alag�z Hold�ng I�dır Futbol Kul�b� - Metro Hold�ng Kayser�spor",
+   "tarih": "2026-08-22T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260822emnevmmranyesporesenlererokspor1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Em�nev�m �mran�yespor - Esenler Erokspor",
+   "tarih": "2026-08-22T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260822antalyasporaorfayapıpendksporfutbola",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Antalyaspor A.�. - Orfa Yapı Pend�kspor Futbol A.�.",
+   "tarih": "2026-08-22T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260822bodrummulasporkulb1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Bodrum - Mu�laspor Kul�b�",
+   "tarih": "2026-08-22T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260823bandırmasporketaankarakerengc1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Bandırma Spor - Ke�ta� Ankara Ke���reng�c�",
+   "tarih": "2026-08-23T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260823boluspormardn1969spor1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Boluspor - Mard�n 1969 Spor",
+   "tarih": "2026-08-23T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260823smsgrupsarıyerbatmanpetrolspora1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Sms Grup Sarıyer - Batman Petrol Spor A.�.",
+   "tarih": "2026-08-23T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260823vansporfutbolkulbstanbulspora1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Van Spor Futbol Kul�b� - �stanbulspor A.�.",
+   "tarih": "2026-08-23T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:SL:20260824kocaelsporamedsportffaalyetler1grup",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "Kocael�spor - Amed Sport�f Faal�yetler",
+   "tarih": "2026-08-24T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260824ekenlerbetonsvasspormansafutbolkulb1",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Ekenler Beton S�vasspor - Man�sa Futbol Kul�b�",
+   "tarih": "2026-08-24T18:30:00.000Z"
+  },
   {
    "id": "hentbol:thf:3035",
    "brans": "hentbol",
@@ -44,6 +114,41 @@
    "tarih": "2026-08-26T15:00:00.000Z"
   },
   {
+   "id": "futbol:tff:1L:20260828ketaankarakerengcemnevmmranyespor1gr",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Ke�ta� Ankara Ke���reng�c� - Em�nev�m �mran�yespor",
+   "tarih": "2026-08-28T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260828orfayapıpendksporfutbolabandırmaspor",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Orfa Yapı Pend�kspor Futbol A.�. - Bandırma Spor",
+   "tarih": "2026-08-28T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:SL:20260828genlerbrlerzurumspor1grup",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "Gen�lerb�rl��� - Erzurumspor",
+   "tarih": "2026-08-28T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260828antalyasporasmsgrupsarıyer1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Antalyaspor A.�. - Sms Grup Sarıyer",
+   "tarih": "2026-08-28T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260828mulasporkulbboluspor1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Mu�laspor Kul�b� - Boluspor",
+   "tarih": "2026-08-28T18:30:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3053",
    "brans": "hentbol",
    "lig": "",
@@ -65,6 +170,34 @@
    "tarih": "2026-08-29T12:00:00.000Z"
   },
   {
+   "id": "futbol:tff:KSL:20260829galatasarayatrabzonspora",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Galatasaray A.�. - Trabzonspor A.�.",
+   "tarih": "2026-08-29T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260829safmclbentontnyekadınsporkulbbektaa",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Saf� Mcl Benton�t �nye Kadın Spor Kul�b� - Be��kta� A.�.",
+   "tarih": "2026-08-29T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260829haymanasporkulbantalyasporkadınfutbo",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Haymana Spor Kul�b� - Antalyaspor Kadın Futbol Kul�b�",
+   "tarih": "2026-08-29T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260829gresunsanaysporamedsportffaalyetler",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "G�resun Sanay�spor - Amed Sport�f Faal�yetler",
+   "tarih": "2026-08-29T14:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3055",
    "brans": "hentbol",
    "lig": "",
@@ -72,11 +205,67 @@
    "tarih": "2026-08-29T14:00:00.000Z"
   },
   {
+   "id": "futbol:tff:SL:20260829konyasporkocaelspor1grup",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "Konyaspor - Kocael�spor",
+   "tarih": "2026-08-29T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260829metroholdngkaysersporbursaspor1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Metro Hold�ng Kayser�spor - Bursaspor",
+   "tarih": "2026-08-29T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260829stanbulsporamısırlıcomtrfathkaragmrk",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "�stanbulspor A.�. - Mısırlıcomtr Fat�h Karag�mr�k A.�.",
+   "tarih": "2026-08-29T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:SL:20260829gazantepfutbolkulbaaykurrzespora1gru",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "Gaz�antep Futbol Kul�b� A.�. - �aykur R�zespor A.�.",
+   "tarih": "2026-08-29T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:SL:20260829galatasarayagztepea1grup",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "Galatasaray A.�. - G�ztepe A.�.",
+   "tarih": "2026-08-29T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260829batmanpetrolsporaekenlerbetonsvasspo",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Batman Petrol Spor A.�. - Ekenler Beton S�vasspor",
+   "tarih": "2026-08-29T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260829mardn1969sporvansporfutbolkulb1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Mard�n 1969 Spor - Van Spor Futbol Kul�b�",
+   "tarih": "2026-08-29T18:30:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3060",
    "brans": "hentbol",
    "lig": "",
    "mac": "Ortahisar Belediyesi - Armada Praxıs Yalıkavak",
    "tarih": "2026-08-30T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260830yksekovasporkulbleblgdoasportfyatırı",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Y�ksekova Spor Kul�b� - ��le B�lg�do�a Sport�f Yatırım H�zmetler� A.�",
+   "tarih": "2026-08-30T13:00:00.000Z"
   },
   {
    "id": "hentbol:thf:3056",
@@ -105,6 +294,377 @@
    "lig": "",
    "mac": "Üsküdar Belediyesi - Manisa Büyükşehir Belediye",
    "tarih": "2026-08-30T13:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260830fenerbaheaankarabykehrbeledyesfomget",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Fenerbah�e A.�. - Ankara B�y�k�eh�r Beled�yes� Fomget Spor Kul�b�",
+   "tarih": "2026-08-30T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260830kayserkadınfutbolkulbsultanbeylgcspo",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Kayser� Kadın Futbol Kul�b� - Sultanbeyl� G�c� Spor Kul�b�",
+   "tarih": "2026-08-30T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260830bakırkykadınfutbolsporkulbhakkargcsp",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Bakırk�y Kadın Futbol Spor Kul�b� - Hakkar�g�c� Spor",
+   "tarih": "2026-08-30T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:SL:20260830eypsporalanyaspor1grup",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "Ey�pspor - Alanyaspor",
+   "tarih": "2026-08-30T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260830esenlereroksporalagzholdngıdırfutbol",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Esenler Erokspor - Alag�z Hold�ng I�dır Futbol Kul�b�",
+   "tarih": "2026-08-30T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:SL:20260830stanbulbaakehrkasımpaaa1grup",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "�stanbul Ba�ak�eh�r - Kasımpa�a A.�.",
+   "tarih": "2026-08-30T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:SL:20260830samsunsporafenerbahea1grup",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "Samsunspor A.�. - Fenerbah�e A.�.",
+   "tarih": "2026-08-30T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260830mansafutbolkulbbodrum1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Man�sa Futbol Kul�b� - Bodrum",
+   "tarih": "2026-08-30T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:SL:20260831amedsportffaalyetlertrabzonspora1gru",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "Amed Sport�f Faal�yetler - Trabzonspor A.�.",
+   "tarih": "2026-08-31T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:SL:20260831bektaaarcaorum1grup",
+   "brans": "futbol",
+   "lig": "Süper Lig 1. Grup",
+   "mac": "Be��kta� A.�. - Arca �orum",
+   "tarih": "2026-08-31T18:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260901bandırmasporantalyaspora1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Bandırma Spor - Antalyaspor A.�.",
+   "tarih": "2026-09-01T13:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260901emnevmmranyespormulasporkulb1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Em�nev�m �mran�yespor - Mu�laspor Kul�b�",
+   "tarih": "2026-09-01T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260901smsgrupsarıyerorfayapıpendksporfutbo",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Sms Grup Sarıyer - Orfa Yapı Pend�kspor Futbol A.�.",
+   "tarih": "2026-09-01T17:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260901bolusporketaankarakerengc1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Boluspor - Ke�ta� Ankara Ke���reng�c�",
+   "tarih": "2026-09-01T17:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260902vansporfutbolkulbbatmanpetrolspora1g",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Van Spor Futbol Kul�b� - Batman Petrol Spor A.�.",
+   "tarih": "2026-09-02T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260902mısırlıcomtrfathkaragmrkametroholdng",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Mısırlıcomtr Fat�h Karag�mr�k A.�. - Metro Hold�ng Kayser�spor",
+   "tarih": "2026-09-02T17:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260902ekenlerbetonsvasspormardn1969spor1gr",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Ekenler Beton S�vasspor - Mard�n 1969 Spor",
+   "tarih": "2026-09-02T17:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260903alagzholdngıdırfutbolkulbmansafutbol",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Alag�z Hold�ng I�dır Futbol Kul�b� - Man�sa Futbol Kul�b�",
+   "tarih": "2026-09-03T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260903bursasporstanbulspora1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Bursaspor - �stanbulspor A.�.",
+   "tarih": "2026-09-03T17:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:1L:20260903bodrumesenlererokspor1grup",
+   "brans": "futbol",
+   "lig": "1. Lig 1. Grup",
+   "mac": "Bodrum - Esenler Erokspor",
+   "tarih": "2026-09-03T17:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906gmgkastamonuspororluspor19471grup",
+   "brans": "futbol",
+   "lig": "2. Lig 1. Grup",
+   "mac": "Gmg Kastamonuspor - �orlu Spor 1947",
+   "tarih": "2026-09-06T13:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906hataysporgzdegebzesporkulb1grup",
+   "brans": "futbol",
+   "lig": "2. Lig 1. Grup",
+   "mac": "Hatayspor - G�z�de Gebze Spor Kul�b�",
+   "tarih": "2026-09-06T13:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260906amasyasporglckspor1grup",
+   "brans": "futbol",
+   "lig": "3. Lig 1. Grup",
+   "mac": "Amasyaspor - G�lc�kspor",
+   "tarih": "2026-09-06T13:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260906kdzerelbeledyesporfatsabeledyespor1g",
+   "brans": "futbol",
+   "lig": "3. Lig 1. Grup",
+   "mac": "Kdz.Ere�l� Beled�ye Spor - Fatsa Beled�yespor",
+   "tarih": "2026-09-06T13:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906arnavutkybeledyesfutbolalaafutbola1g",
+   "brans": "futbol",
+   "lig": "2. Lig 1. Grup",
+   "mac": "Arnavutk�y Beled�yes� Futbol - Al�a�a Futbol A.�.",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906somaspor68aksaraybeledyespor1grup",
+   "brans": "futbol",
+   "lig": "2. Lig 1. Grup",
+   "mac": "Somaspor - 68 Aksaray Beled�ye Spor",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260906yalovafk77sporkulbtokatbeledyesporku",
+   "brans": "futbol",
+   "lig": "3. Lig 1. Grup",
+   "mac": "Yalova Fk 77 Spor Kul�b� - Tokat Beled�ye Spor Kul�b�",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260906beykozanadolusporakkekmecesnopspora1",
+   "brans": "futbol",
+   "lig": "3. Lig 1. Grup",
+   "mac": "Beykoz Anadolu Spor A.�. - K���k�ekmece S�nop Spor A.�.",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260906nkılapfutbolsporkulbzonguldaksporfut",
+   "brans": "futbol",
+   "lig": "3. Lig 1. Grup",
+   "mac": "�nkılap Futbol Spor Kul�b� - Zonguldak Spor Futbol Kul�b� A.�.",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260906galatasporkulbpazarspor1grup",
+   "brans": "futbol",
+   "lig": "3. Lig 1. Grup",
+   "mac": "Galata Spor Kul�b� - Pazarspor",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260906slvrsporbeykozshaklısporfaalyetlera1",
+   "brans": "futbol",
+   "lig": "3. Lig 1. Grup",
+   "mac": "S�l�vr�spor - Beykoz �shaklı Spor Faal�yetler� A.�.",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260906bektaayksekovasporkulb",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Be��kta� A.�. - Y�ksekova Spor Kul�b�",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260906hakkargcsporgalatasaraya",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Hakkar�g�c� Spor - Galatasaray A.�.",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260906trabzonsporabakırkykadınfutbolsporku",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Trabzonspor A.�. - Bakırk�y Kadın Futbol Spor Kul�b�",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260906ankarabykehrbeledyesfomgetsporkulbgr",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Ankara B�y�k�eh�r Beled�yes� Fomget Spor Kul�b� - G�resun Sanay�spor",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260906sultanbeylgcsporkulbsafmclbentontnye",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Sultanbeyl� G�c� Spor Kul�b� - Saf� Mcl Benton�t �nye Kadın Spor Kul�b�",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260906antalyasporkadınfutbolkulbkayserkadı",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Antalyaspor Kadın Futbol Kul�b� - Kayser� Kadın Futbol Kul�b�",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260906amedsportffaalyetlerfenerbahea",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Amed Sport�f Faal�yetler - Fenerbah�e A.�.",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260906leblgdoasportfyatırımhzmetlerahayman",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "��le B�lg�do�a Sport�f Yatırım H�zmetler� A.� - Haymana Spor Kul�b�",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906sezamentoelazısporsebatsporkulb1grup",
+   "brans": "futbol",
+   "lig": "2. Lig 1. Grup",
+   "mac": "Seza ��mento Elazı�spor - Sebat Spor Kul�b�",
+   "tarih": "2026-09-06T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906menemenfutbolkulbneglkafkassporkulb1",
+   "brans": "futbol",
+   "lig": "2. Lig 1. Grup",
+   "mac": "Menemen Futbol Kul�b� - �neg�l Kafkas Spor Kul�b�",
+   "tarih": "2026-09-06T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906ısparta32sporkulbadanademrspora1grup",
+   "brans": "futbol",
+   "lig": "2. Lig 1. Grup",
+   "mac": "Isparta 32 Spor Kul�b� - Adana Dem�rspor A.�.",
+   "tarih": "2026-09-06T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906kızılkayatarımanlıurfasporankaraspor",
+   "brans": "futbol",
+   "lig": "2. Lig 1. Grup",
+   "mac": "Kızılkaya Tarım �anlıurfaspor - Ankaraspor",
+   "tarih": "2026-09-06T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260906karabkdmanyurdusporbulvarspor1grup",
+   "brans": "futbol",
+   "lig": "3. Lig 1. Grup",
+   "mac": "Karab�k �dmanyurdu Spor - Bulvarspor",
+   "tarih": "2026-09-06T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260906orduspor1967adzcespor1grup",
+   "brans": "futbol",
+   "lig": "3. Lig 1. Grup",
+   "mac": "Orduspor 1967 A.�. - D�zcespor",
+   "tarih": "2026-09-06T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913galatasarayaankarabykehrbeledyesfomg",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Galatasaray A.�. - Ankara B�y�k�eh�r Beled�yes� Fomget Spor Kul�b�",
+   "tarih": "2026-09-13T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913hakkargcsportrabzonspora",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Hakkar�g�c� Spor - Trabzonspor A.�.",
+   "tarih": "2026-09-13T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913safmclbentontnyekadınsporkulbyksekov",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Saf� Mcl Benton�t �nye Kadın Spor Kul�b� - Y�ksekova Spor Kul�b�",
+   "tarih": "2026-09-13T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913haymanasporkulbbektaa",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Haymana Spor Kul�b� - Be��kta� A.�.",
+   "tarih": "2026-09-13T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913fenerbahealeblgdoasportfyatırımhzmet",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Fenerbah�e A.�. - ��le B�lg�do�a Sport�f Yatırım H�zmetler� A.�",
+   "tarih": "2026-09-13T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913gresunsanaysporantalyasporkadınfutbo",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "G�resun Sanay�spor - Antalyaspor Kadın Futbol Kul�b�",
+   "tarih": "2026-09-13T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913kayserkadınfutbolkulbamedsportffaaly",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Kayser� Kadın Futbol Kul�b� - Amed Sport�f Faal�yetler",
+   "tarih": "2026-09-13T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913bakırkykadınfutbolsporkulbsultanbeyl",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Bakırk�y Kadın Futbol Spor Kul�b� - Sultanbeyl� G�c� Spor Kul�b�",
+   "tarih": "2026-09-13T14:00:00.000Z"
   }
  ]
 }
