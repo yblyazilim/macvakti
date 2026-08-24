@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T21:35:51.082Z",
+ "guncellendi": "2026-08-24T22:03:50.469Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -274,6 +274,27 @@
    "stat": "Beşiktaş Stadyumu",
    "sehir": "İstanbul",
    "kurucu": null
+  },
+  "İstanbul Gençlik": {
+   "zaman": 1787609021616,
+   "bulundu": true,
+   "wikidata": "Q136784879",
+   "kurulus": 2024,
+   "stat": null,
+   "sehir": "İstanbul",
+   "kurucu": null
+  },
+  "Nilüfer Belediyesi": {
+   "zaman": 1787609023750,
+   "bulundu": false
+  },
+  "Spor Toto": {
+   "zaman": 1787609025941,
+   "bulundu": false
+  },
+  "Final 1": {
+   "zaman": 1787609028447,
+   "bulundu": false
   }
  }
 }
