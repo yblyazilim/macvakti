@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T17:12:14.154Z",
+ "guncellendi": "2026-08-24T17:44:09.966Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -27,6 +27,50 @@
    "stat": "Vefa Stadyumu",
    "sehir": "İstanbul",
    "kurucu": null
+  },
+  "Bursaspor": {
+   "zaman": 1787593434098,
+   "bulundu": true,
+   "wikidata": "Q203573",
+   "kurulus": 1963,
+   "stat": "Bursa Atatürk Stadyumu",
+   "sehir": "Bursa",
+   "kurucu": null
+  },
+  "Rizespor": {
+   "zaman": 1787593437070,
+   "bulundu": true,
+   "wikidata": "Q272712",
+   "kurulus": 1953,
+   "stat": "Yeni Rize Şehir Stadyumu",
+   "sehir": "Rize",
+   "kurucu": null
+  },
+  "Samsunspor": {
+   "zaman": 1787593440080,
+   "bulundu": true,
+   "wikidata": "Q430107",
+   "kurulus": 1965,
+   "stat": "Samsun 19 Mayıs Stadyumu",
+   "sehir": "Samsun",
+   "kurucu": "Kadri Ersan"
+  },
+  "Çorum": {
+   "zaman": 1787593442051,
+   "bulundu": false
+  },
+  "Kasımpaşa": {
+   "zaman": 1787593445039,
+   "bulundu": true,
+   "wikidata": "Q138230",
+   "kurulus": 1921,
+   "stat": "Recep Tayyip Erdoğan Stadyumu",
+   "sehir": "İstanbul",
+   "kurucu": null
+  },
+  "Iğdır": {
+   "zaman": 1787593447071,
+   "bulundu": false
   }
  }
 }

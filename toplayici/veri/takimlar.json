@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T17:12:38.574Z",
+ "guncellendi": "2026-08-24T17:44:09.969Z",
  "surum": 1,
  "bransSayisi": 2,
  "takimSayisi": 153,
@@ -353,7 +353,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1921,
+    "sehir": "İstanbul",
+    "stat": "Recep Tayyip Erdoğan Stadyumu"
+   }
   },
   "kocaelispor": {
    "ad": "Kocaelispor",
@@ -380,7 +385,12 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1953,
+    "sehir": "Rize",
+    "stat": "Yeni Rize Şehir Stadyumu"
+   }
   },
   "samsunspor": {
    "ad": "Samsunspor",
@@ -389,7 +399,13 @@
    ],
    "ligler": [
     "futbol:198"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1965,
+    "sehir": "Samsun",
+    "stat": "Samsun 19 Mayıs Stadyumu",
+    "kurucu": "Kadri Ersan"
+   }
   },
   "trabzonspor": {
    "ad": "Trabzonspor",
@@ -462,7 +478,12 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1963,
+    "sehir": "Bursa",
+    "stat": "Bursa Atatürk Stadyumu"
+   }
   },
   "esenlererokspor": {
    "ad": "Esenler Erokspor",
