@@ -114,6 +114,11 @@ function maclaraUygula(maclar, programlar) {
 const ONBELLEK = path.join(__dirname, '..', '..', 'veri', 'yayin-akisi.json');
 
 function programlariKaydet(programlar, rapor) {
+  // Bos sonucu onbellege yazma - eski (dolu) onbellek korunsun.
+  if (!programlar || !programlar.length) {
+    console.log('[yayin] toplama bos dondu, onbellek korunuyor');
+    return;
+  }
   fs.mkdirSync(path.dirname(ONBELLEK), { recursive: true });
   fs.writeFileSync(ONBELLEK, JSON.stringify({
     guncellendi: new Date().toISOString(),
@@ -168,6 +173,13 @@ function tazelemeGerekli(maclar, simdi) {
   // kanal doğrulanamaz -> maçlar kanalsız kalır.
   if (yasDk === Infinity) {
     return { gerekli: true, sebep: 'onbellek-yok', yasDk: null, esikDk: 0 };
+  }
+
+  // BOS onbellek de tazelenmeli. Aksi halde kisir dongu olusur:
+  // toplama basarisiz -> bos onbellek yazilir -> 'taze' sayilir ->
+  // bir daha hic denenmez -> kanal bilgisi asla gelmez.
+  if (!o.programlar.length) {
+    return { gerekli: true, sebep: 'onbellek-bos', yasDk: Math.round(yasDk), esikDk: 0 };
   }
 
   const esikDk = yakindaMac ? YOGUN_DK : SAKIN_SAAT * 60;
