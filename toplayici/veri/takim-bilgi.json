@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T19:51:25.567Z",
+ "guncellendi": "2026-08-24T20:12:42.137Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -190,6 +190,33 @@
    "kurulus": 1969,
    "stat": "Kamil Ocak Stadyumu",
    "sehir": "Gaziantep",
+   "kurucu": null
+  },
+  "Boluspor": {
+   "zaman": 1787602354112,
+   "bulundu": true,
+   "wikidata": "Q891679",
+   "kurulus": 1965,
+   "stat": null,
+   "sehir": "Bolu",
+   "kurucu": null
+  },
+  "Mardin 1969 Spor": {
+   "zaman": 1787602356089,
+   "bulundu": true,
+   "wikidata": "Q97205551",
+   "kurulus": 2015,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Alanyaspor": {
+   "zaman": 1787602359229,
+   "bulundu": true,
+   "wikidata": "Q1636019",
+   "kurulus": 1948,
+   "stat": "Alanya Oba Stadyumu",
+   "sehir": "Alanya",
    "kurucu": null
   }
  }

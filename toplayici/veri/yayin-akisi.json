@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-24T19:51:15.409Z",
- "adet": 941,
+ "guncellendi": "2026-08-24T20:12:31.919Z",
+ "adet": 943,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 941,
+   "adet": 943,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Barcelona Dev Maçlar",
@@ -6842,6 +6842,17 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-08-31T20:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Sporla Değişen Hayatlar",
@@ -8772,6 +8783,17 @@
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Gece Yarısı",
+   "baslangicUtc": "2026-08-31T20:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
   },
