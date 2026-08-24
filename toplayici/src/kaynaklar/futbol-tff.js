@@ -137,7 +137,7 @@ async function ligiTopla(lig, hafta) {
  * TFF varsayılan olarak güncel haftayı gösterir; ileriyi görmek için
  * hafta parametresi denenir. Desteklenmiyorsa güncel hafta döner.
  */
-async function ligiGenisTopla(lig, haftaSayisi = 4) {
+async function ligiGenisTopla(lig, haftaSayisi = 2) {
   const hepsi = new Map();
   const guncel = await ligiTopla(lig);
   for (const m of guncel) hepsi.set(m.id, m);
@@ -160,14 +160,16 @@ async function ligiGenisTopla(lig, haftaSayisi = 4) {
 }
 
 async function topla(ligler = LIGLER) {
+  // Ligler ikişerli gruplar hâlinde paralel çekilir: hem hızlı hem kaynağa nazik.
   const hepsi = [];
-  for (const lig of ligler) {
-    try {
-      hepsi.push(...await ligiGenisTopla(lig));
-    } catch (e) {
-      console.error('[tff] ' + lig.ad + ' alınamadı: ' + e.message);
-    }
-    await O.uyu(700);
+  for (let i = 0; i < ligler.length; i += 2) {
+    const grup = ligler.slice(i, i + 2);
+    const sonuclar = await Promise.allSettled(grup.map(l => ligiGenisTopla(l)));
+    sonuclar.forEach((s, j) => {
+      if (s.status === 'fulfilled') hepsi.push(...s.value);
+      else console.error('[tff] ' + grup[j].ad + ' alınamadı: ' + s.reason.message);
+    });
+    if (i + 2 < ligler.length) await O.uyu(500);
   }
   return hepsi;
 }

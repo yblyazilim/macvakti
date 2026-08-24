@@ -172,6 +172,34 @@ function degisiklikBul(eski, yeni) {
  * Hangi katmanın işe yaradığı sonuçta bildirilir (izleme için).
  */
 
+// --- ERİŞİM YÖNTEMİ HAFIZASI ---
+// İlk çalıştırmada her katman denenir; bu pahalıdır. Hangi host'un hangi
+// katmanla çalıştığı öğrenilip diske yazılır, sonraki çalıştırmalar doğrudan
+// bilinen yöntemle başlar. Böylece ilk tur yavaş, sonrakiler hızlıdır.
+const _fs = require('fs');
+const _path = require('path');
+const YONTEM_DOSYA = _path.join(__dirname, '..', 'veri', 'erisim-yontemi.json');
+let _yontemler = null;
+
+function yontemleriOku() {
+  if (_yontemler) return _yontemler;
+  try { _yontemler = JSON.parse(_fs.readFileSync(YONTEM_DOSYA, 'utf8')); }
+  catch (_) { _yontemler = {}; }
+  return _yontemler;
+}
+
+function yontemYaz(host, ad) {
+  const y = yontemleriOku();
+  if (y[host] && y[host].ad === ad) return;
+  y[host] = { ad, ogrenildi: new Date().toISOString() };
+  try {
+    _fs.mkdirSync(_path.dirname(YONTEM_DOSYA), { recursive: true });
+    _fs.writeFileSync(YONTEM_DOSYA, JSON.stringify(y, null, 1), 'utf8');
+  } catch (_) {}
+}
+
+function hostAl(u) { try { return new URL(u).host; } catch (_) { return u; } }
+
 // Genel erişim aracıları. Yalnızca doğrudan erişim başarısız olunca kullanılır.
 const ARACILAR = [
   (u) => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u),
@@ -186,7 +214,7 @@ const VARSAYILAN_BASLIKLAR = {
 
 /** Tek bir denemeyi yapar; içerik geçerli değilse hata fırlatır. */
 async function tekDeneme(url, secenek) {
-  const { basliklar = {}, tur = 'text', zamanAsimi = 30000, gecerliMi } = secenek;
+  const { basliklar = {}, tur = 'text', zamanAsimi = 20000, gecerliMi } = secenek;
   const y = await fetch(url, {
     headers: { ...VARSAYILAN_BASLIKLAR, ...basliklar },
     signal: AbortSignal.timeout(zamanAsimi),
@@ -218,16 +246,26 @@ async function tekDeneme(url, secenek) {
  *  secenek.araciKullan : false verilirse aracıya düşülmez.
  */
 async function getir(url, secenek = {}) {
-  const { deneme = 2, bekleme = 1200, araciKullan = true } = secenek;
+  const { deneme = 1, bekleme = 800, araciKullan = true } = secenek;
+  const host = hostAl(url);
 
-  const adaylar = [{ ad: 'dogrudan', url }];
+  const tumAdaylar = [{ ad: 'dogrudan', url }];
   if (url.startsWith('https://')) {
-    adaylar.push({ ad: 'http', url: 'http://' + url.slice(8) });
+    tumAdaylar.push({ ad: 'http', url: 'http://' + url.slice(8) });
   }
   if (araciKullan) {
     for (let i = 0; i < ARACILAR.length; i++) {
-      adaylar.push({ ad: 'araci' + (i + 1), url: ARACILAR[i](url) });
+      tumAdaylar.push({ ad: 'araci' + (i + 1), url: ARACILAR[i](url) });
     }
+  }
+
+  // Bu host için çalıştığı bilinen katmanı en öne al.
+  const bilinen = yontemleriOku()[host];
+  let adaylar = tumAdaylar;
+  if (bilinen) {
+    const oncelikli = tumAdaylar.filter(a => a.ad === bilinen.ad);
+    const digerleri = tumAdaylar.filter(a => a.ad !== bilinen.ad);
+    adaylar = oncelikli.concat(digerleri);
   }
 
   const hatalar = [];
@@ -235,8 +273,11 @@ async function getir(url, secenek = {}) {
     for (let d = 0; d < deneme; d++) {
       try {
         const sonuc = await tekDeneme(aday.url, secenek);
-        if (aday.ad !== 'dogrudan') {
-          console.log('   (' + aday.ad + ' katmanı kullanıldı: ' + url.slice(0, 60) + ')');
+        if (!bilinen || bilinen.ad !== aday.ad) {
+          yontemYaz(host, aday.ad);
+          if (aday.ad !== 'dogrudan') {
+            console.log('   (' + host + ' için "' + aday.ad + '" katmanı öğrenildi)');
+          }
         }
         return sonuc;
       } catch (e) {

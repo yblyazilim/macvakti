@@ -1,0 +1,21 @@
+{
+ "www.tff.org": {
+  "ad": "http",
+  "ogrenildi": "2026-08-24T01:30:00.000Z",
+  "_not": "HTTPS sertifika zinciri yurt disindan dogrulanamiyor; HTTP calisiyor"
+ },
+ "www.tbf.org.tr": {
+  "ad": "araci1",
+  "ogrenildi": "2026-08-24T01:30:00.000Z",
+  "_not": "Yurt disina JSON yerine koruma sayfasi donuyor"
+ },
+ "www.digiturk.com.tr": {
+  "ad": "araci1",
+  "ogrenildi": "2026-08-24T01:30:00.000Z",
+  "_not": "Yurt disindan 403"
+ },
+ "api.thf.org.tr": {
+  "ad": "dogrudan",
+  "ogrenildi": "2026-08-24T01:30:00.000Z"
+ }
+}

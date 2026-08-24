@@ -80,7 +80,7 @@ function ayristir(html, tarih) {
 }
 
 /** gunSayisi kadar günün akışını getirir. */
-async function topla(gunSayisi = 3) {
+async function topla(gunSayisi = 2) {
   const hepsi = [];
   const bugun = new Date();
   for (let i = 0; i < gunSayisi; i++) {
