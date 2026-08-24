@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-24T14:52:39.851Z",
- "adet": 922,
+ "guncellendi": "2026-08-24T15:35:36.531Z",
+ "adet": 923,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 922,
+   "adet": 923,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Barcelona Dev Maçlar",
@@ -8717,6 +8717,17 @@
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Ana Haber Bülteni",
+   "baslangicUtc": "2026-08-31T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
    "takimlar": null,
    "kaynak": "tvplus"
   },

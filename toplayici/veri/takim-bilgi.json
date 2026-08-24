@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T14:52:50.612Z",
+ "guncellendi": "2026-08-24T15:35:37.386Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787573906269,
@@ -572,6 +572,16 @@
    "zaman": 1787583159885,
    "bulundu": false,
    "hata": "HTTP 429"
+  },
+  "Düzcespor": {
+   "zaman": 1787585736559,
+   "bulundu": true,
+   "wikidata": "Q2856376",
+   "resmiAd": "Düzcespor",
+   "kurulus": 1967,
+   "stat": null,
+   "sehir": "Düzce",
+   "kurucu": null
   }
  }
 }
