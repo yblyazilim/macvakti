@@ -1,15 +1,13 @@
 name: Veri Topla
 
-# Sunucu maliyeti sıfır: GitHub Actions üzerinde çalışır, sonucu
-# depoya yazar ve GitHub Pages üzerinden yayınlar.
+# Tek dongu, 15 dakikada bir. Mac verisi her seferinde tazelenir.
+# Yayin akisi akilli davranir: mac saati yaklasiyorsa 15 dakikada bir,
+# sakin donemde 6 saatte bir indirilir.
 on:
   schedule:
-    # Her 15 dakikada bir: maç saati ve kanal değişikliklerini hızlı yakalar.
-    # Yayın akışı önbellekten okunur, bu yüzden hafif çalışır.
     - cron: '*/15 * * * *'
-  workflow_dispatch:        # Elle tetikleme
+  workflow_dispatch:
 
-# Aynı anda birden fazla çalışma veriyi bozmasın
 concurrency:
   group: veri-topla
   cancel-in-progress: false
@@ -20,7 +18,7 @@ permissions:
 jobs:
   topla:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 
@@ -28,29 +26,41 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Doğrulama testleri
+      - name: Dogrulama testleri
         run: node toplayici/test/dogrula.js
 
-      - name: Veriyi topla (yayın akışı önbellekten)
+      - name: Veriyi topla
         id: topla
-        run: node toplayici/src/topla.js --yayinsiz
+        run: node toplayici/src/topla.js
         continue-on-error: true
 
-      - name: Değişiklik varsa yayınla
+      - name: Saglik kontrolu
+        id: saglik
+        run: node toplayici/src/saglik.js
+        continue-on-error: true
+
+      - name: Degisiklik varsa yayinla
         run: |
           cd "$GITHUB_WORKSPACE"
           if [ -z "$(git status --porcelain toplayici/veri)" ]; then
-            echo "Değişiklik yok, commit atlanıyor."
+            echo "Degisiklik yok."
             exit 0
           fi
           git config user.name "macvakti-bot"
           git config user.email "bot@users.noreply.github.com"
           git add toplayici/veri
-          git commit -m "veri: otomatik güncelleme $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "veri: otomatik guncelleme"
+          git pull --rebase --autostash origin main || true
           git push
 
-      - name: Toplama başarısızsa uyar
+      - name: Toplama basarisizsa uyar
         if: steps.topla.outcome == 'failure'
         run: |
-          echo "::warning::Veri toplama hata verdi. Kaynak sitelerden biri değişmiş olabilir."
-          echo "Son çıktı kontrol edilmeli."
+          echo "::warning::Veri toplama hata verdi."
+          exit 1
+
+      - name: Saglik kirmizi ise uyar
+        if: steps.saglik.outcome == 'failure'
+        run: |
+          echo "::error::Saglik kontrolu kirmizi."
+          exit 1
