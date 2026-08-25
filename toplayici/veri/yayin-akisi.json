@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-25T05:19:08.254Z",
- "adet": 943,
+ "guncellendi": "2026-08-25T06:02:08.325Z",
+ "adet": 944,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 943,
+   "adet": 944,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -7588,6 +7588,17 @@
    "baslangicUtc": "2026-09-01T05:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-09-01T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
