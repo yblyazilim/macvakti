@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T18:12:52.994Z",
+ "guncellendi": "2026-08-25T19:06:15.151Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -1146,6 +1146,41 @@
   "Konya Büyükşehir Belediyesi Spor": {
    "zaman": 1787681571080,
    "bulundu": false
+  },
+  "Mke Ankaragücü Basketbol": {
+   "zaman": 1787684765899,
+   "bulundu": true,
+   "wikidata": "Q118928474",
+   "kurulus": null,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Ogm Ormanspor": {
+   "zaman": 1787684768982,
+   "bulundu": true,
+   "wikidata": "Q28662594",
+   "kurulus": 1971,
+   "stat": null,
+   "sehir": "Ankara",
+   "kurucu": null
+  },
+  "Parmos Bordo Bk": {
+   "zaman": 1787684770032,
+   "bulundu": false
+  },
+  "Pizzabulls Cedi Osman Basketbol": {
+   "zaman": 1787684771116,
+   "bulundu": false
+  },
+  "Yalovaspor Basketbol": {
+   "zaman": 1787684774180,
+   "bulundu": true,
+   "wikidata": "Q107148341",
+   "kurulus": null,
+   "stat": null,
+   "sehir": "Yalova",
+   "kurucu": null
   }
  }
 }

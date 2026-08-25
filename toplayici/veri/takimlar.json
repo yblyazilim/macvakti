@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T18:12:53.002Z",
+ "guncellendi": "2026-08-25T19:06:15.158Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 277,
@@ -2184,7 +2184,11 @@
    "ligler": [
     "basketbol:tbf-KBSL",
     "basketbol:tbf-TBL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1971,
+    "sehir": "Ankara"
+   }
   },
   "parmosbordobk": {
    "ad": "Parmos Bordo Bk",
@@ -2211,7 +2215,10 @@
    ],
    "ligler": [
     "basketbol:tbf-TBL"
-   ]
+   ],
+   "kunye": {
+    "sehir": "Yalova"
+   }
   },
   "abbegospor": {
    "ad": "A.B.B. Egospor",
