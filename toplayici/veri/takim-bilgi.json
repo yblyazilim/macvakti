@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T09:22:43.101Z",
+ "guncellendi": "2026-08-25T10:04:20.020Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -768,6 +768,36 @@
    "stat": null,
    "sehir": "Silivri",
    "kurucu": null
+  },
+  "Beykoz İshaklı Spor Faaliyetleri": {
+   "zaman": 1787652249670,
+   "bulundu": false
+  },
+  "Bigaspor": {
+   "zaman": 1787652251668,
+   "bulundu": true,
+   "wikidata": "Q6088263",
+   "kurulus": null,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Uşak Spor": {
+   "zaman": 1787652254635,
+   "bulundu": true,
+   "wikidata": "Q14624949",
+   "kurulus": 2006,
+   "stat": "Uşak Üniversitesi Spor Salonu",
+   "sehir": "Uşak",
+   "kurucu": null
+  },
+  "Seza Çimento Elazığspor": {
+   "zaman": 1787652255608,
+   "bulundu": false
+  },
+  "Sebat": {
+   "zaman": 1787652258100,
+   "bulundu": false
   }
  }
 }
