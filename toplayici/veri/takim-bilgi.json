@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T04:38:10.743Z",
+ "guncellendi": "2026-08-25T05:19:19.149Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -567,6 +567,37 @@
    "kurulus": null,
    "stat": null,
    "sehir": null,
+   "kurucu": null
+  },
+  "Adana 01": {
+   "zaman": 1787635150594,
+   "bulundu": true,
+   "wikidata": "Q118928730",
+   "kurulus": null,
+   "stat": null,
+   "sehir": "Adana",
+   "kurucu": null
+  },
+  "Erzincan": {
+   "zaman": 1787635152929,
+   "bulundu": false
+  },
+  "Amasyaspor": {
+   "zaman": 1787635155010,
+   "bulundu": true,
+   "wikidata": "Q6067294",
+   "kurulus": null,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Gölcükspor": {
+   "zaman": 1787635158178,
+   "bulundu": true,
+   "wikidata": "Q1559309",
+   "kurulus": null,
+   "stat": null,
+   "sehir": "Gölcük",
    "kurucu": null
   }
  }
