@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T08:36:10.554Z",
+ "guncellendi": "2026-08-25T09:22:43.107Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -1330,7 +1330,11 @@
    ],
    "ligler": [
     "futbol:971-01"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1973,
+    "sehir": "Pazar"
+   }
   },
   "silivrispor": {
    "ad": "Silivrispor",
@@ -1339,7 +1343,11 @@
    ],
    "ligler": [
     "futbol:971-01"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1957,
+    "sehir": "Silivri"
+   }
   },
   "tokatbelediye": {
    "ad": "Tokat Belediye",

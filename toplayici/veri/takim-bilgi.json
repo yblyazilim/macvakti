@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T08:36:10.550Z",
+ "guncellendi": "2026-08-25T09:22:43.101Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -738,6 +738,36 @@
   "Küçükçekmece Sinop Spor": {
    "zaman": 1787646969642,
    "bulundu": false
+  },
+  "İnkılap Futbol": {
+   "zaman": 1787649752548,
+   "bulundu": false
+  },
+  "Zonguldak Spor": {
+   "zaman": 1787649753592,
+   "bulundu": false
+  },
+  "Galata": {
+   "zaman": 1787649755915,
+   "bulundu": false
+  },
+  "Pazarspor": {
+   "zaman": 1787649759074,
+   "bulundu": true,
+   "wikidata": "Q472707",
+   "kurulus": 1973,
+   "stat": null,
+   "sehir": "Pazar",
+   "kurucu": null
+  },
+  "Silivrispor": {
+   "zaman": 1787649762138,
+   "bulundu": true,
+   "wikidata": "Q6053055",
+   "kurulus": 1957,
+   "stat": null,
+   "sehir": "Silivri",
+   "kurucu": null
   }
  }
 }
