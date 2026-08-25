@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T11:17:56.256Z",
+ "guncellendi": "2026-08-25T11:56:32.478Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -856,6 +856,37 @@
    "stat": null,
    "sehir": null,
    "kurucu": null
+  },
+  "52 Orduspor": {
+   "zaman": 1787658983081,
+   "bulundu": true,
+   "wikidata": "Q113349346",
+   "kurulus": null,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Ankaragücü": {
+   "zaman": 1787658986266,
+   "bulundu": true,
+   "wikidata": "Q492826",
+   "kurulus": 1910,
+   "stat": "Ankara 19 Mayıs Stadyumu",
+   "sehir": "Ankara",
+   "kurucu": null
+  },
+  "Ankara Demirspor": {
+   "zaman": 1787658989453,
+   "bulundu": true,
+   "wikidata": "Q556437",
+   "kurulus": 1932,
+   "stat": "Cebeci İnönü Stadyumu",
+   "sehir": "Ankara",
+   "kurucu": null
+  },
+  "Karabük İdmanyurdu Spor": {
+   "zaman": 1787658990474,
+   "bulundu": false
   }
  }
 }

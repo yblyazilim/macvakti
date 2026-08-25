@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T11:17:56.261Z",
+ "guncellendi": "2026-08-25T11:56:32.483Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -1113,7 +1113,12 @@
    ],
    "ligler": [
     "futbol:976-Krmz"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1932,
+    "sehir": "Ankara",
+    "stat": "Cebeci İnönü Stadyumu"
+   }
   },
   "ankaragucu": {
    "ad": "Ankaragücü",
@@ -1122,7 +1127,12 @@
    ],
    "ligler": [
     "futbol:976-Krmz"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1910,
+    "sehir": "Ankara",
+    "stat": "Ankara 19 Mayıs Stadyumu"
+   }
   },
   "beyogluyenicarsisporfaaliyetleri": {
    "ad": "Beyoğlu Yeni Çarşı Spor Faaliyetleri",
