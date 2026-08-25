@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-24T23:55:13.963Z",
+ "guncellendi": "2026-08-25T01:20:26.652Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -414,6 +414,35 @@
    "stat": null,
    "sehir": "Manisa",
    "kurucu": null
+  },
+  "Ankara Büyükşehir Belediyesi Fomget": {
+   "zaman": 1787620817464,
+   "bulundu": false
+  },
+  "Kayseri Kadın": {
+   "zaman": 1787620818441,
+   "bulundu": false
+  },
+  "Sultanbeyli Gücü": {
+   "zaman": 1787620819415,
+   "bulundu": false
+  },
+  "Bakırköy Kadın Futbol": {
+   "zaman": 1787620820642,
+   "bulundu": false
+  },
+  "Hakkarigücü Spor": {
+   "zaman": 1787620822676,
+   "bulundu": true,
+   "wikidata": "Q56640629",
+   "kurulus": 2008,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Manisa": {
+   "zaman": 1787620824673,
+   "bulundu": false
   }
  }
 }
