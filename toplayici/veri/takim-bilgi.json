@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T02:45:22.735Z",
+ "guncellendi": "2026-08-25T03:40:36.763Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -473,6 +473,36 @@
    "stat": "Hüseyin Avni Aker Stadyumu",
    "sehir": "Trabzon",
    "kurucu": null
+  },
+  "Sakaryaspor": {
+   "zaman": 1787629228134,
+   "bulundu": true,
+   "wikidata": "Q1369461",
+   "kurulus": 1965,
+   "stat": "Sakarya Atatürk Stadı",
+   "sehir": "Adapazarı",
+   "kurucu": null
+  },
+  "Yeni Malatyaspor": {
+   "zaman": 1787629231376,
+   "bulundu": true,
+   "wikidata": "Q303121",
+   "kurulus": 1986,
+   "stat": "Malatya İnönü Stadyumu",
+   "sehir": "Malatya",
+   "kurucu": null
+  },
+  "Karaman": {
+   "zaman": 1787629233640,
+   "bulundu": false
+  },
+  "Bitlis 1916 Futbol": {
+   "zaman": 1787629234678,
+   "bulundu": false
+  },
+  "1964 Silifke": {
+   "zaman": 1787629235792,
+   "bulundu": false
   }
  }
 }
