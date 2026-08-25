@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-08-25T17:41:12.375Z",
+ "guncellendi": "2026-08-25T18:12:53.002Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 279,
+ "takimSayisi": 277,
  "branslar": [
   {
    "k": "basketbol",
@@ -388,8 +388,6 @@
       "besiktasjimnastik",
       "beykozbelediyesi",
       "bursabuyuksehirbelediyesi",
-      "final1",
-      "final2",
       "giresunspor",
       "goztepe",
       "guneysuspor",
@@ -2126,7 +2124,12 @@
    ],
    "ligler": [
     "basketbol:tbf-TBL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 2007,
+    "sehir": "Gaziantep",
+    "stat": "Karataş Şahinbey Spor Salonu"
+   }
   },
   "ilabbasketbol": {
    "ad": "iLab BASKETBOL",
@@ -3139,24 +3142,6 @@
   },
   "sportoto": {
    "ad": "Spor Toto",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "final1": {
-   "ad": "Final 1",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "final2": {
-   "ad": "Final 2",
    "branslar": [
     "hentbol"
    ],
