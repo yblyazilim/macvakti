@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T10:04:20.025Z",
+ "guncellendi": "2026-08-25T10:45:14.601Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -912,7 +912,12 @@
    ],
    "ligler": [
     "futbol:976-Beyaz"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1940,
+    "sehir": "Adana",
+    "stat": "5 Ocak Stadyumu"
+   }
   },
   "aliagafutbol": {
    "ad": "Aliağa Futbol",
@@ -979,7 +984,10 @@
    ],
    "ligler": [
     "futbol:976-Beyaz"
-   ]
+   ],
+   "kunye": {
+    "sehir": "Isparta"
+   }
   },
   "menemen": {
    "ad": "Menemen",

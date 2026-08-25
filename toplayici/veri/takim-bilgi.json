@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T10:04:20.020Z",
+ "guncellendi": "2026-08-25T10:45:14.595Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -798,6 +798,37 @@
   "Sebat": {
    "zaman": 1787652258100,
    "bulundu": false
+  },
+  "Menemen": {
+   "zaman": 1787654705796,
+   "bulundu": false
+  },
+  "İnegöl Kafkas": {
+   "zaman": 1787654707748,
+   "bulundu": true,
+   "wikidata": "Q117874587",
+   "kurulus": null,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Isparta 32": {
+   "zaman": 1787654710676,
+   "bulundu": true,
+   "wikidata": "Q97947252",
+   "kurulus": null,
+   "stat": null,
+   "sehir": "Isparta",
+   "kurucu": null
+  },
+  "Adana Demirspor": {
+   "zaman": 1787654713690,
+   "bulundu": true,
+   "wikidata": "Q352251",
+   "kurulus": 1940,
+   "stat": "5 Ocak Stadyumu",
+   "sehir": "Adana",
+   "kurucu": null
   }
  }
 }
