@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-25T07:45:13.703Z",
- "adet": 947,
+ "guncellendi": "2026-08-25T08:35:59.543Z",
+ "adet": 950,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 947,
+   "adet": 950,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -1567,7 +1567,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Volleyball Beach Pro Tour (kanada)",
+   "baslik": "Volleyball Beach Pro Tour",
    "baslangicUtc": "2026-08-27T00:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -1943,7 +1943,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Fiba Dünya Kupası Elemeleri",
+   "baslik": "FIBA Dünya Kupası Elemeleri",
    "baslangicUtc": "2026-08-29T00:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -2164,7 +2164,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Fiba Dünya Kupası Elemeleri",
+   "baslik": "FIBA Dünya Kupası Elemeleri",
    "baslangicUtc": "2026-08-30T01:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -7637,6 +7637,39 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Taha Erpulat İle Pilates",
+   "baslangicUtc": "2026-09-01T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Spor ve Çocuk",
+   "baslangicUtc": "2026-09-01T08:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-01T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Elmas Lig Silesia",
@@ -9598,13 +9631,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Play Off 1. Tur Futbol Karşılaşması Levski - Aek",
+   "baslik": "Levski - Aek",
    "baslangicUtc": "2026-08-26T15:10:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Play Off 1. Tur Futbol Karşılaşması Levski",
+    "Levski",
     "Aek"
    ],
    "kaynak": "tvplus"
@@ -9637,14 +9670,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Play Off 1.tur Futbol Karşılaşmasınec Nıjmegen - Bodo Glımt",
+   "baslik": "AEK - Levski Sofia",
    "baslangicUtc": "2026-08-26T19:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Play Off 1.tur Futbol Karşılaşmasınec Nıjmegen",
-    "Bodo Glımt"
+    "AEK",
+    "Levski Sofia"
    ],
    "kaynak": "tvplus"
   },
