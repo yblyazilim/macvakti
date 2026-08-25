@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T20:55:21.641Z",
+ "guncellendi": "2026-08-25T21:36:14.116Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 277,
@@ -3092,26 +3092,8 @@
     "hentbol:diger"
    ]
   },
-  "ortahisarbelediyesi": {
-   "ad": "Ortahisar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "armadapraxisyalikavak": {
    "ad": "Armada Praxıs Yalıkavak",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "uskudarbelediyesi": {
-   "ad": "Üsküdar Belediyesi",
    "branslar": [
     "hentbol"
    ],
@@ -3133,19 +3115,6 @@
     "stat": "Beşiktaş Stadyumu"
    }
   },
-  "istanbulgenclik": {
-   "ad": "İstanbul Gençlik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 2024,
-    "sehir": "İstanbul"
-   }
-  },
   "niluferbelediyesi": {
    "ad": "Nilüfer Belediyesi",
    "branslar": [
@@ -3155,8 +3124,8 @@
     "hentbol:diger"
    ]
   },
-  "sportoto": {
-   "ad": "Spor Toto",
+  "trabzonbuyuksehirbel": {
+   "ad": "Trabzon Büyükşehir Bel.",
    "branslar": [
     "hentbol"
    ],
@@ -3164,8 +3133,8 @@
     "hentbol:diger"
    ]
   },
-  "trabzonbuyuksehirbel": {
-   "ad": "Trabzon Büyükşehir Bel.",
+  "sportoto": {
+   "ad": "Spor Toto",
    "branslar": [
     "hentbol"
    ],
@@ -3196,8 +3165,30 @@
     "stat": "Giresun Atatürk Stadyumu"
    }
   },
+  "istanbulgenclik": {
+   "ad": "İstanbul Gençlik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 2024,
+    "sehir": "İstanbul"
+   }
+  },
   "mihaliccikbelediyesi": {
    "ad": "Mihalıççık Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ortahisarbelediyesi": {
+   "ad": "Ortahisar Belediyesi",
    "branslar": [
     "hentbol"
    ],
@@ -3225,6 +3216,15 @@
   },
   "odunpazari": {
    "ad": "Odunpazarı",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "uskudarbelediyesi": {
+   "ad": "Üsküdar Belediyesi",
    "branslar": [
     "hentbol"
    ],
