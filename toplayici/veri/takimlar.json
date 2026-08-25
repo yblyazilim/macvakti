@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T15:35:45.460Z",
+ "guncellendi": "2026-08-25T16:23:05.990Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -1944,7 +1944,12 @@
    ],
    "ligler": [
     "basketbol:tbf-BSL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 2014,
+    "sehir": "Bursa",
+    "stat": "Bursa Atatürk Spor Salonu"
+   }
   },
   "fenerbahcebeko": {
    "ad": "Fenerbahçe Beko",
@@ -1953,7 +1958,12 @@
    ],
    "ligler": [
     "basketbol:tbf-BSL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1913,
+    "sehir": "Ataşehir",
+    "stat": "Ülker Spor ve Etkinlik Salonu"
+   }
   },
   "galatasaraymcttechnic": {
    "ad": "Galatasaray Mct Technıc",

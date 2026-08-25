@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-25T15:35:34.143Z",
- "adet": 1086,
+ "guncellendi": "2026-08-25T16:22:36.716Z",
+ "adet": 1087,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1086,
+   "adet": 1087,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -8263,6 +8263,17 @@
    "dijital": false,
    "baslik": "İtalya Kadınlar Voleybol Ligi",
    "baslangicUtc": "2026-09-01T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-09-01T16:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
