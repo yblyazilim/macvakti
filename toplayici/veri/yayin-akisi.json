@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-25T02:45:12.702Z",
- "adet": 938,
+ "guncellendi": "2026-08-25T04:37:53.480Z",
+ "adet": 942,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 938,
+   "adet": 942,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -6218,6 +6218,17 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "S SPORT 2",
+   "dijital": false,
+   "baslik": "İtalya Serie A",
+   "baslangicUtc": "2026-09-01T04:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "SPORTS TV HD",
    "dijital": false,
    "baslik": "İtalya Kadınlar Voleybol Ligi",
@@ -7553,6 +7564,17 @@
    "dijital": false,
    "baslik": "İtalya Kadınlar Voleybol Ligi",
    "baslangicUtc": "2026-08-31T20:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-09-01T03:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -9264,7 +9286,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Contenders",
-   "baslangicUtc": "2026-08-25T08:40:00.000Z",
+   "baslangicUtc": "2026-08-25T08:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9313,8 +9335,19 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Arsenal - Manchester City",
+   "baslik": "Road to Glory",
    "baslangicUtc": "2026-08-25T12:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Arsenal - Manchester City",
+   "baslangicUtc": "2026-08-25T12:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9327,7 +9360,7 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslik": "Dünya Kupası Efsaneler",
    "baslangicUtc": "2026-08-25T14:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -9339,7 +9372,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Levski - Aek",
-   "baslangicUtc": "2026-08-25T15:00:00.000Z",
+   "baslangicUtc": "2026-08-25T14:40:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9353,7 +9386,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Contenders",
-   "baslangicUtc": "2026-08-25T16:45:00.000Z",
+   "baslangicUtc": "2026-08-25T16:20:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9364,7 +9397,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Nec Nijmegen - Bodo Glimt",
-   "baslangicUtc": "2026-08-25T17:15:00.000Z",
+   "baslangicUtc": "2026-08-25T16:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9377,8 +9410,19 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-08-25T18:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
    "baslik": "Bodo Glimt - Nec Nijmegen",
-   "baslangicUtc": "2026-08-25T19:00:00.000Z",
+   "baslangicUtc": "2026-08-25T18:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
