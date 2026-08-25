@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T10:45:14.601Z",
+ "guncellendi": "2026-08-25T11:17:56.261Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -935,7 +935,12 @@
    ],
    "ligler": [
     "futbol:976-Beyaz"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1978,
+    "sehir": "Ankara",
+    "stat": "Yenikent ASAŞ Stadyumu"
+   }
   },
   "arnavutkoybelediyesifutbol": {
    "ad": "Arnavutköy Belediyesi Futbol",
@@ -1050,7 +1055,12 @@
    ],
    "ligler": [
     "futbol:976-Beyaz"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1969,
+    "sehir": "Şanlıurfa",
+    "stat": "11 Nisan Stadyumu"
+   }
   },
   "12bingolspor": {
    "ad": "12 Bingöl Spor",
@@ -1139,7 +1149,10 @@
    ],
    "ligler": [
     "futbol:976-Krmz"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1933
+   }
   },
   "kahramanmarasistiklalspor": {
    "ad": "Kahramanmaraş İstiklal Spor",

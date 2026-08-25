@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T10:45:14.595Z",
+ "guncellendi": "2026-08-25T11:17:56.256Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -828,6 +828,33 @@
    "kurulus": 1940,
    "stat": "5 Ocak Stadyumu",
    "sehir": "Adana",
+   "kurucu": null
+  },
+  "Şanlıurfaspor": {
+   "zaman": 1787656668350,
+   "bulundu": true,
+   "wikidata": "Q388487",
+   "kurulus": 1969,
+   "stat": "11 Nisan Stadyumu",
+   "sehir": "Şanlıurfa",
+   "kurucu": null
+  },
+  "Ankaraspor": {
+   "zaman": 1787656671318,
+   "bulundu": true,
+   "wikidata": "Q556570",
+   "kurulus": 1978,
+   "stat": "Yenikent ASAŞ Stadyumu",
+   "sehir": "Ankara",
+   "kurucu": null
+  },
+  "Fethiyespor": {
+   "zaman": 1787656674294,
+   "bulundu": true,
+   "wikidata": "Q1351072",
+   "kurulus": 1933,
+   "stat": null,
+   "sehir": null,
    "kurucu": null
   }
  }
