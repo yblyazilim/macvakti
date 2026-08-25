@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T16:23:05.990Z",
+ "guncellendi": "2026-08-25T17:08:10.842Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -1990,7 +1990,12 @@
    ],
    "ligler": [
     "basketbol:tbf-BSL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 2019,
+    "sehir": "Mersin",
+    "stat": "Servet Tazegül Spor Salonu"
+   }
   },
   "onvobuyukcekmecebasketbol": {
    "ad": "Onvo Büyükçekmece Basketbol",
@@ -2026,7 +2031,10 @@
    ],
    "ligler": [
     "basketbol:tbf-BSL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1954
+   }
   },
   "yukatelmerkezefendibelediyesibasket": {
    "ad": "Yukatel Merkezefendi Belediyesi Basket",
@@ -2044,7 +2052,11 @@
    ],
    "ligler": [
     "basketbol:tbf-TBL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1985,
+    "sehir": "Balıkesir"
+   }
   },
   "bullsyatirimtedankarakolejliler": {
    "ad": "Bulls Yatırım Ted Ankara Kolejliler",
