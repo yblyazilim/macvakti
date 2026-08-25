@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T11:56:32.478Z",
+ "guncellendi": "2026-08-25T12:30:20.604Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -887,6 +887,33 @@
   "Karabük İdmanyurdu Spor": {
    "zaman": 1787658990474,
    "bulundu": false
+  },
+  "Bulvarspor": {
+   "zaman": 1787661012766,
+   "bulundu": true,
+   "wikidata": "Q118928501",
+   "kurulus": 1985,
+   "stat": null,
+   "sehir": "Kartal",
+   "kurucu": null
+  },
+  "Orduspor 1967": {
+   "zaman": 1787661014723,
+   "bulundu": true,
+   "wikidata": "Q109452493",
+   "kurulus": null,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Düzcespor": {
+   "zaman": 1787661017704,
+   "bulundu": true,
+   "wikidata": "Q2856376",
+   "kurulus": 1967,
+   "stat": null,
+   "sehir": "Düzce",
+   "kurucu": null
   }
  }
 }

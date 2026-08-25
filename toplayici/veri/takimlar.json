@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T11:56:32.483Z",
+ "guncellendi": "2026-08-25T12:30:20.610Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -1274,7 +1274,11 @@
    ],
    "ligler": [
     "futbol:971-01"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1985,
+    "sehir": "Kartal"
+   }
   },
   "duzcespor": {
    "ad": "Düzcespor",
@@ -1283,7 +1287,11 @@
    ],
    "ligler": [
     "futbol:971-01"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1967,
+    "sehir": "Düzce"
+   }
   },
   "fatsabelediyespor": {
    "ad": "Fatsa Belediyespor",
