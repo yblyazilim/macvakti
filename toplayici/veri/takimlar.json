@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T12:30:20.610Z",
+ "guncellendi": "2026-08-25T13:41:54.471Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -1467,7 +1467,12 @@
    ],
    "ligler": [
     "futbol:971-02"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1966,
+    "sehir": "Balıkesir",
+    "stat": "Balıkesir Atatürk Stadyumu"
+   }
   },
   "bigaspor": {
    "ad": "Bigaspor",
@@ -1485,7 +1490,11 @@
    ],
    "ligler": [
     "futbol:971-02"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1922,
+    "sehir": "Buca"
+   }
   },
   "bursaniluferfutbol": {
    "ad": "Bursa Nilüfer Futbol",
@@ -1530,7 +1539,12 @@
    ],
    "ligler": [
     "futbol:971-02"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1965,
+    "sehir": "Eskişehir",
+    "stat": "Yeni Eskişehir Stadyumu"
+   }
   },
   "etimesgut": {
    "ad": "Etimesgut",

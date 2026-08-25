@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T12:30:20.604Z",
+ "guncellendi": "2026-08-25T13:41:54.465Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -914,6 +914,37 @@
    "stat": null,
    "sehir": "Düzce",
    "kurucu": null
+  },
+  "Balıkesirspor": {
+   "zaman": 1787665306507,
+   "bulundu": true,
+   "wikidata": "Q805909",
+   "kurulus": 1966,
+   "stat": "Balıkesir Atatürk Stadyumu",
+   "sehir": "Balıkesir",
+   "kurucu": null
+  },
+  "Bucaspor 1928": {
+   "zaman": 1787665309442,
+   "bulundu": true,
+   "wikidata": "Q18145129",
+   "kurulus": 1922,
+   "stat": null,
+   "sehir": "Buca",
+   "kurucu": null
+  },
+  "Eskişehirspor": {
+   "zaman": 1787665312558,
+   "bulundu": true,
+   "wikidata": "Q748445",
+   "kurulus": 1965,
+   "stat": "Yeni Eskişehir Stadyumu",
+   "sehir": "Eskişehir",
+   "kurucu": null
+  },
+  "Alanya 1221 Futbol": {
+   "zaman": 1787665313543,
+   "bulundu": false
   }
  }
 }
