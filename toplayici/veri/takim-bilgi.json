@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T22:03:55.467Z",
+ "guncellendi": "2026-08-25T22:35:31.581Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -1351,6 +1351,39 @@
   },
   "Karamürselbey Spor": {
    "zaman": 1787695434529,
+   "bulundu": false
+  },
+  "Marmaris Belediyesi": {
+   "zaman": 1787697321469,
+   "bulundu": false
+  },
+  "Mersin Barosu": {
+   "zaman": 1787697323517,
+   "bulundu": false
+  },
+  "Selçuklu Belediye": {
+   "zaman": 1787697325569,
+   "bulundu": true,
+   "wikidata": "Q56346335",
+   "kurulus": 1997,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Serdivan Belediyesi": {
+   "zaman": 1787697326585,
+   "bulundu": false
+  },
+  "Spaceacademy": {
+   "zaman": 1787697327597,
+   "bulundu": false
+  },
+  "Suadiye Basketbol": {
+   "zaman": 1787697328610,
+   "bulundu": false
+  },
+  "Tavşanlı Moymul": {
+   "zaman": 1787697329619,
    "bulundu": false
   }
  }
