@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T23:04:57.709Z",
+ "guncellendi": "2026-08-25T23:39:32.189Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 277,
@@ -2742,7 +2742,12 @@
    ],
    "ligler": [
     "basketbol:tbf-KBSL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1954,
+    "sehir": "İstanbul",
+    "stat": "Ülker Spor ve Etkinlik Salonu"
+   }
   },
   "galatasaraycagdasfaktoring": {
    "ad": "Galatasaray Çağdaş Faktorıng",
@@ -2760,7 +2765,10 @@
    ],
    "ligler": [
     "basketbol:tbf-KBSL"
-   ]
+   ],
+   "kunye": {
+    "sehir": "İzmit"
+   }
   },
   "melikgazikayseribasketbol": {
    "ad": "Melikgazi Kayseri Basketbol",
