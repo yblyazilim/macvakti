@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T14:35:26.934Z",
+ "guncellendi": "2026-08-25T15:35:45.460Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -1907,7 +1907,12 @@
    ],
    "ligler": [
     "basketbol:tbf-BSL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1976,
+    "sehir": "İstanbul",
+    "stat": "Basketbol Gelişim Merkezi"
+   }
   },
   "bahcesehirkoleji": {
    "ad": "Bahçeşehir Koleji",
@@ -1916,7 +1921,12 @@
    ],
    "ligler": [
     "basketbol:tbf-BSL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 2017,
+    "sehir": "İstanbul",
+    "stat": "Ülker Spor ve Etkinlik Salonu"
+   }
   },
   "besiktasgain": {
    "ad": "Beşiktaş Gain",
