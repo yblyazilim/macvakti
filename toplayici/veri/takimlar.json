@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-25T17:08:10.842Z",
+ "guncellendi": "2026-08-25T17:41:12.375Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 279,
@@ -2083,7 +2083,10 @@
    ],
    "ligler": [
     "basketbol:tbf-TBL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 2016
+   }
   },
   "darussafakalassa": {
    "ad": "Darüşşafaka Lassa",
@@ -2110,7 +2113,11 @@
    ],
    "ligler": [
     "basketbol:tbf-TBL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 2006,
+    "sehir": "Bursa"
+   }
   },
   "gaziantepbasketbol": {
    "ad": "Gaziantep Basketbol",
