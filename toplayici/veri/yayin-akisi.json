@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-26T08:38:59.743Z",
- "adet": 955,
+ "guncellendi": "2026-08-26T09:24:34.152Z",
+ "adet": 956,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 955,
+   "adet": 956,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Transfer Raporu",
@@ -7157,6 +7157,17 @@
    "dijital": false,
    "baslik": "Yoga",
    "baslangicUtc": "2026-09-02T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "FEI Ride Series",
+   "baslangicUtc": "2026-09-02T09:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
