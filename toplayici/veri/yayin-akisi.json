@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-26T11:26:06.957Z",
- "adet": 971,
+ "guncellendi": "2026-08-26T12:00:51.268Z",
+ "adet": 972,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 971,
+   "adet": 972,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Transfer Raporu",
@@ -7192,6 +7192,17 @@
    "baslangicUtc": "2026-09-02T11:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-02T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
