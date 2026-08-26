@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-26T01:20:31.107Z",
+ "guncellendi": "2026-08-26T02:50:16.500Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 277,
@@ -2888,7 +2888,12 @@
    ],
    "ligler": [
     "basketbol:tbf-TKBL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1925,
+    "sehir": "Mersin",
+    "stat": "Tevfik Sırrı Gür Stadyumu"
+   }
   },
   "secilkaucukmersinbasketball": {
    "ad": "Seçil Kauçuk Mersin Basketball",
@@ -2906,7 +2911,10 @@
    ],
    "ligler": [
     "basketbol:tbf-TKBL"
-   ]
+   ],
+   "kunye": {
+    "sehir": "Turgutlu"
+   }
   },
   "urlabelediyesi": {
    "ad": "Urla Belediyesi",
