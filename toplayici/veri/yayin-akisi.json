@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-26T07:58:27.001Z",
- "adet": 951,
+ "guncellendi": "2026-08-26T08:38:59.743Z",
+ "adet": 955,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 951,
+   "adet": 955,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Transfer Raporu",
@@ -5712,6 +5712,17 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "S SPORT 2",
+   "dijital": false,
+   "baslik": "İtalya Serie A",
+   "baslangicUtc": "2026-09-02T04:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "SPORTS TV HD",
    "dijital": false,
    "baslik": "Euroformula Open",
@@ -7115,6 +7126,39 @@
    "baslangicUtc": "2026-09-02T07:45:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Taha Erpulat İle Pilates",
+   "baslangicUtc": "2026-09-02T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Spor ve Çocuk",
+   "baslangicUtc": "2026-09-02T08:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-02T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
