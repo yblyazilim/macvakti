@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-26T09:24:34.152Z",
- "adet": 956,
+ "guncellendi": "2026-08-26T10:11:27.816Z",
+ "adet": 957,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 956,
+   "adet": 957,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Transfer Raporu",
@@ -7170,6 +7170,17 @@
    "baslangicUtc": "2026-09-02T09:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Mobil 1 Grid",
+   "baslangicUtc": "2026-09-02T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
