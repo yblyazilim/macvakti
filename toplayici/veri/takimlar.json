@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-08-26T13:05:07.948Z",
+ "guncellendi": "2026-08-26T14:08:09.710Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 280,
+ "takimSayisi": 277,
  "branslar": [
   {
    "k": "basketbol",
@@ -213,31 +213,6 @@
      ]
     },
     {
-     "id": "971-03",
-     "ad": "3. Lig 03 Grubu",
-     "takimlar": [
-      "1964silifke",
-      "acikalinerciyes38futbol",
-      "adanaspor",
-      "agri1970",
-      "ayososmaniyespor",
-      "bitlis1916futbol",
-      "diyarbekirspor",
-      "ejderoglukirsehirfutbol",
-      "etigubremazidagifosfatspor",
-      "halilbayraminsaatkarakoprubelediyespor",
-      "karaman",
-      "kirikkale",
-      "malatyayesilyurt",
-      "nigdebelediyesispor",
-      "osmaniyespor",
-      "yazsigortaadaletgucuspor",
-      "yenimalatyaspor",
-      "yenimersinidmanyurdufutbol",
-      "yozgatbelediyesibozokspor"
-     ]
-    },
-    {
      "id": "971-01",
      "ad": "3. Lig 01 Grubu",
      "takimlar": [
@@ -286,6 +261,30 @@
      ]
     },
     {
+     "id": "971-03",
+     "ad": "3. Lig 03 Grubu",
+     "takimlar": [
+      "1964silifke",
+      "acikalinerciyes38futbol",
+      "adanaspor",
+      "agri1970",
+      "ayososmaniyespor",
+      "bitlis1916futbol",
+      "diyarbekirspor",
+      "ejderoglukirsehirfutbol",
+      "etigubremazidagifosfatspor",
+      "halilbayraminsaatkarakoprubelediyespor",
+      "karaman",
+      "kirikkale",
+      "malatyayesilyurt",
+      "nigdebelediyesispor",
+      "yazsigortaadaletgucuspor",
+      "yenimalatyaspor",
+      "yenimersinidmanyurdufutbol",
+      "yozgatbelediyesibozokspor"
+     ]
+    },
+    {
      "id": "198",
      "ad": "Süper Lig",
      "takimlar": [
@@ -324,7 +323,6 @@
       "hatayspor",
       "inegolkafkas",
       "isbasisparta32",
-      "isparta32",
       "menemen",
       "sanliurfaspor",
       "sebat",
@@ -347,7 +345,6 @@
       "erzincan",
       "fethiyespor",
       "iskenderunspor",
-      "kahramanmarasistiklalspor",
       "karacabeybelediyespor",
       "kutahyasporfutbol",
       "sakaryaspor",
@@ -3292,39 +3289,6 @@
    "kunye": {
     "kurulus": 1994,
     "sehir": "Manisa"
-   }
-  },
-  "kahramanmarasistiklalspor": {
-   "ad": "Kahramanmaraş İstiklal Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Krmz"
-   ]
-  },
-  "osmaniyespor": {
-   "ad": "Osmaniyespor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-03"
-   ],
-   "kunye": {
-    "sehir": "Osmaniye"
-   }
-  },
-  "isparta32": {
-   "ad": "Isparta 32",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Beyaz"
-   ],
-   "kunye": {
-    "sehir": "Isparta"
    }
   }
  }

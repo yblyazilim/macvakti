@@ -1,3 +1,45 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20260829kayserisporbursaspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_kayserispor",
+    "takim_bursaspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Kayserispor - Bursaspor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-08-26T14:08:06.640Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260829batmanpetrolsporsivasspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_batmanpetrolspor",
+    "takim_sivasspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Batman Petrol Spor - Sivasspor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-08-26T14:08:06.640Z"
+  },
+  {
+   "macId": "hentbol:thf:3061",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_bursabüyükşehirbelediyesi",
+    "takim_armadapraxısyalıkavak"
+   ],
+   "baslik": "Bitti: Bursa Büyükşehir Belediyesi 31-34 Armada Praxıs Yalıkavak",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-26T14:08:06.640Z"
+  }
+ ]
 }
