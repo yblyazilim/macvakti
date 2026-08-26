@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-08-26T12:00:51.331Z",
+ "guncellendi": "2026-08-26T13:05:07.948Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 277,
+ "takimSayisi": 280,
  "branslar": [
   {
    "k": "basketbol",
@@ -213,6 +213,31 @@
      ]
     },
     {
+     "id": "971-03",
+     "ad": "3. Lig 03 Grubu",
+     "takimlar": [
+      "1964silifke",
+      "acikalinerciyes38futbol",
+      "adanaspor",
+      "agri1970",
+      "ayososmaniyespor",
+      "bitlis1916futbol",
+      "diyarbekirspor",
+      "ejderoglukirsehirfutbol",
+      "etigubremazidagifosfatspor",
+      "halilbayraminsaatkarakoprubelediyespor",
+      "karaman",
+      "kirikkale",
+      "malatyayesilyurt",
+      "nigdebelediyesispor",
+      "osmaniyespor",
+      "yazsigortaadaletgucuspor",
+      "yenimalatyaspor",
+      "yenimersinidmanyurdufutbol",
+      "yozgatbelediyesibozokspor"
+     ]
+    },
+    {
      "id": "971-01",
      "ad": "3. Lig 01 Grubu",
      "takimlar": [
@@ -261,30 +286,6 @@
      ]
     },
     {
-     "id": "971-03",
-     "ad": "3. Lig 03 Grubu",
-     "takimlar": [
-      "1964silifke",
-      "acikalinerciyes38futbol",
-      "adanaspor",
-      "agri1970",
-      "bitlis1916futbol",
-      "diyarbekirspor",
-      "ejderoglukirsehirfutbol",
-      "etigubremazidagifosfatspor",
-      "halilbayraminsaatkarakoprubelediyespor",
-      "karaman",
-      "kirikkale",
-      "malatyayesilyurt",
-      "nigdebelediyesispor",
-      "osmaniyespor",
-      "yazsigortaadaletgucuspor",
-      "yenimalatyaspor",
-      "yenimersinidmanyurdufutbol",
-      "yozgatbelediyesibozokspor"
-     ]
-    },
-    {
      "id": "198",
      "ad": "Süper Lig",
      "takimlar": [
@@ -322,6 +323,7 @@
       "guzidegebze",
       "hatayspor",
       "inegolkafkas",
+      "isbasisparta32",
       "isparta32",
       "menemen",
       "sanliurfaspor",
@@ -338,6 +340,7 @@
       "1461trabzon",
       "52orduspor",
       "adana01",
+      "akedaskahramanmarasistiklalspor",
       "ankarademirspor",
       "ankaragucu",
       "beyogluyenicarsisporfaaliyetleri",
@@ -980,17 +983,14 @@
     "sehir": "Antakya"
    }
   },
-  "isparta32": {
-   "ad": "Isparta 32",
+  "isbasisparta32": {
+   "ad": "Isbaş Isparta 32",
    "branslar": [
     "futbol"
    ],
    "ligler": [
     "futbol:976-Beyaz"
-   ],
-   "kunye": {
-    "sehir": "Isparta"
-   }
+   ]
   },
   "menemen": {
    "ad": "Menemen",
@@ -1104,6 +1104,15 @@
     "sehir": "Adana"
    }
   },
+  "akedaskahramanmarasistiklalspor": {
+   "ad": "Akedaş Kahramanmaraş İstiklal Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Krmz"
+   ]
+  },
   "ankarademirspor": {
    "ad": "Ankara Demirspor",
    "branslar": [
@@ -1161,15 +1170,6 @@
    "kunye": {
     "kurulus": 1933
    }
-  },
-  "kahramanmarasistiklalspor": {
-   "ad": "Kahramanmaraş İstiklal Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Krmz"
-   ]
   },
   "karacabeybelediyespor": {
    "ad": "Karacabey Belediye Spor",
@@ -1635,6 +1635,15 @@
     "stat": "5 Ocak Stadyumu"
    }
   },
+  "ayososmaniyespor": {
+   "ad": "Ayos Osmaniyespor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-03"
+   ]
+  },
   "acikalinerciyes38futbol": {
    "ad": "Açıkalın Erciyes 38 Futbol",
    "branslar": [
@@ -1733,18 +1742,6 @@
    "ligler": [
     "futbol:971-03"
    ]
-  },
-  "osmaniyespor": {
-   "ad": "Osmaniyespor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-03"
-   ],
-   "kunye": {
-    "sehir": "Osmaniye"
-   }
   },
   "yazsigortaadaletgucuspor": {
    "ad": "Yaz Sigorta Adaletgücü Spor",
@@ -3295,6 +3292,39 @@
    "kunye": {
     "kurulus": 1994,
     "sehir": "Manisa"
+   }
+  },
+  "kahramanmarasistiklalspor": {
+   "ad": "Kahramanmaraş İstiklal Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Krmz"
+   ]
+  },
+  "osmaniyespor": {
+   "ad": "Osmaniyespor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-03"
+   ],
+   "kunye": {
+    "sehir": "Osmaniye"
+   }
+  },
+  "isparta32": {
+   "ad": "Isparta 32",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Beyaz"
+   ],
+   "kunye": {
+    "sehir": "Isparta"
    }
   }
  }
