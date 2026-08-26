@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-26T04:33:32.235Z",
+ "guncellendi": "2026-08-26T05:14:33.862Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 277,
@@ -3045,7 +3045,11 @@
    ],
    "ligler": [
     "basketbol:tbf-KBBL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1979,
+    "sehir": "İzmir"
+   }
   },
   "izmitzirve": {
    "ad": "İzmit Zirve",
@@ -3081,7 +3085,10 @@
    ],
    "ligler": [
     "basketbol:tbf-KBBL"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1997
+   }
   },
   "magdeburgersigortabesas": {
    "ad": "Magdeburger Sigorta Beşas",
