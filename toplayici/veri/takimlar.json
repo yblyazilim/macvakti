@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-08-27T03:26:15.321Z",
+ "guncellendi": "2026-08-27T14:41:23.326Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 277,
+ "takimSayisi": 280,
  "branslar": [
   {
    "k": "basketbol",
@@ -226,6 +226,7 @@
       "golcukspor",
       "inkilapfutbol",
       "karabukidmanyurduspor",
+      "kartalbulvarkartalimenspor",
       "kdzereglibelediyespor",
       "kucukcekmecesinopspor",
       "orduspor1967",
@@ -253,6 +254,7 @@
       "eskisehiranadolusporfaaliyetleri",
       "eskisehirspor",
       "etimesgut",
+      "gaziemirgogsporyat",
       "karsiyaka",
       "kepezsporfutbol",
       "soke1970",
@@ -309,6 +311,29 @@
      ]
     },
     {
+     "id": "976-Krmz",
+     "ad": "2. Lig Kırmızı Grubu",
+     "takimlar": [
+      "12bingolspor",
+      "1461trabzon",
+      "52orduspor",
+      "adana01",
+      "akedaskahramanmarasistiklalspor",
+      "ankarademirspor",
+      "ankaragucu",
+      "beyogluyenicarsisporfaaliyetleri",
+      "erzincan",
+      "erzincanfutbolyatirimlari",
+      "fethiyespor",
+      "iskenderunspor",
+      "karacabeybelediyespor",
+      "kutahyasporfutbol",
+      "sakaryaspor",
+      "seriksporfutbol",
+      "sultansuinegolspor"
+     ]
+    },
+    {
      "id": "976-Beyaz",
      "ad": "2. Lig Beyaz Grubu",
      "takimlar": [
@@ -328,28 +353,6 @@
       "sebat",
       "sezacimentoelazigspor",
       "somaspor"
-     ]
-    },
-    {
-     "id": "976-Krmz",
-     "ad": "2. Lig Kırmızı Grubu",
-     "takimlar": [
-      "12bingolspor",
-      "1461trabzon",
-      "52orduspor",
-      "adana01",
-      "akedaskahramanmarasistiklalspor",
-      "ankarademirspor",
-      "ankaragucu",
-      "beyogluyenicarsisporfaaliyetleri",
-      "erzincan",
-      "fethiyespor",
-      "iskenderunspor",
-      "karacabeybelediyespor",
-      "kutahyasporfutbol",
-      "sakaryaspor",
-      "seriksporfutbol",
-      "sultansuinegolspor"
      ]
     },
     {
@@ -1147,8 +1150,8 @@
     "futbol:976-Krmz"
    ]
   },
-  "erzincan": {
-   "ad": "Erzincan",
+  "erzincanfutbolyatirimlari": {
+   "ad": "Erzincan Futbol Yatırımları",
    "branslar": [
     "futbol"
    ],
@@ -1262,19 +1265,6 @@
     "futbol:971-01"
    ]
   },
-  "bulvarspor": {
-   "ad": "Bulvarspor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ],
-   "kunye": {
-    "kurulus": 1985,
-    "sehir": "Kartal"
-   }
-  },
   "duzcespor": {
    "ad": "Düzcespor",
    "branslar": [
@@ -1323,6 +1313,15 @@
   },
   "karabukidmanyurduspor": {
    "ad": "Karabük İdmanyurdu Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
+   ]
+  },
+  "kartalbulvarkartalimenspor": {
+   "ad": "Kartal Bulvar Kartalimen Spor",
    "branslar": [
     "futbol"
    ],
@@ -1554,6 +1553,15 @@
     "futbol:971-02"
    ]
   },
+  "gaziemirgogsporyat": {
+   "ad": "Gaziemir G.O.G. Spor Yat.",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-02"
+   ]
+  },
   "karsiyaka": {
    "ad": "Karşıyaka",
    "branslar": [
@@ -1585,15 +1593,6 @@
    "kunye": {
     "kurulus": 2006
    }
-  },
-  "tire2021": {
-   "ad": "Tire 2021",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
-   ]
   },
   "usakspor": {
    "ad": "Uşak Spor",
@@ -3290,6 +3289,37 @@
     "kurulus": 1994,
     "sehir": "Manisa"
    }
+  },
+  "erzincan": {
+   "ad": "Erzincan",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Krmz"
+   ]
+  },
+  "bulvarspor": {
+   "ad": "Bulvarspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
+   ],
+   "kunye": {
+    "kurulus": 1985,
+    "sehir": "Kartal"
+   }
+  },
+  "tire2021": {
+   "ad": "Tire 2021",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-02"
+   ]
   }
  }
 }

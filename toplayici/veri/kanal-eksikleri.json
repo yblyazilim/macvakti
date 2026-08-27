@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-27T03:26:15.309Z",
+ "guncellendi": "2026-08-27T14:41:04.828Z",
  "eksikler": [
   {
    "id": "hentbol:thf:3053",
@@ -121,11 +121,74 @@
    "tarih": "2026-08-30T14:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:3150",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Manisa Büyükşehir Belediye - Ortahisar Belediyesi",
+   "tarih": "2026-09-05T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3066",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Giresunspor - Beykoz Belediyesi",
+   "tarih": "2026-09-05T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3148",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Odunpazarı - Üsküdar Belediyesi",
+   "tarih": "2026-09-05T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3149",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Bursa Büyükşehir Belediyesi - Yozgat Gsk",
+   "tarih": "2026-09-05T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3063",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Spor Toto - Beşiktaş Jimnastik",
+   "tarih": "2026-09-05T13:00:00.000Z"
+  },
+  {
    "id": "futbol:tff:3L:20260905bursayıldırımsöke197002",
    "brans": "futbol",
    "lig": "3. Lig 02 Grubu",
    "mac": "Bursa Yıldırım - Söke 1970",
    "tarih": "2026-09-05T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3064",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Güneysuspor - Trabzon Büyükşehir Bel.",
+   "tarih": "2026-09-05T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3067",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Mihalıççık Belediyesi - Nilüfer Belediyesi",
+   "tarih": "2026-09-05T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3151",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Armada Praxıs Yalıkavak - Göztepe",
+   "tarih": "2026-09-05T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3065",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Göztepe - İstanbul Gençlik",
+   "tarih": "2026-09-05T15:00:00.000Z"
   },
   {
    "id": "futbol:tff:2L:20260906akedaşkahramanmaraşistiklalsporbeyoğ",
@@ -478,6 +541,55 @@
    "tarih": "2026-09-06T16:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:3068",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Trabzon Büyükşehir Bel. - Nilüfer Belediyesi",
+   "tarih": "2026-09-12T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3070",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Göztepe - Mihalıççık Belediyesi",
+   "tarih": "2026-09-12T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3069",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Beşiktaş Jimnastik - Güneysuspor",
+   "tarih": "2026-09-12T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3154",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Ortahisar Belediyesi - Odunpazarı",
+   "tarih": "2026-09-13T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3155",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Manisa Büyükşehir Belediye - Armada Praxıs Yalıkavak",
+   "tarih": "2026-09-13T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3152",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Yozgat Gsk - Göztepe",
+   "tarih": "2026-09-13T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3153",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Üsküdar Belediyesi - Bursa Büyükşehir Belediyesi",
+   "tarih": "2026-09-13T13:00:00.000Z"
+  },
+  {
    "id": "futbol:tff:KSL:20260913galatasarayankarabüyükşehirbelediyes",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
@@ -532,6 +644,328 @@
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Bakırköy Kadın Futbol - Sultanbeyli Gücü",
    "tarih": "2026-09-13T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3156",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Odunpazarı - Manisa Büyükşehir Belediye",
+   "tarih": "2026-09-19T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3157",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Bursa Büyükşehir Belediyesi - Ortahisar Belediyesi",
+   "tarih": "2026-09-19T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3158",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Göztepe - Üsküdar Belediyesi",
+   "tarih": "2026-09-19T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3159",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Armada Praxıs Yalıkavak - Yozgat Gsk",
+   "tarih": "2026-09-19T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3075",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Mihalıççık Belediyesi - Trabzon Büyükşehir Bel.",
+   "tarih": "2026-09-20T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3073",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Güneysuspor - Beykoz Belediyesi",
+   "tarih": "2026-09-20T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3074",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Nilüfer Belediyesi - Beşiktaş Jimnastik",
+   "tarih": "2026-09-20T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3072",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "İstanbul Gençlik - Giresunspor",
+   "tarih": "2026-09-23T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3071",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Beykoz Belediyesi - Spor Toto",
+   "tarih": "2026-09-23T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3078",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Beşiktaş Jimnastik - Trabzon Büyükşehir Bel.",
+   "tarih": "2026-09-26T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3081",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Giresunspor - Mihalıççık Belediyesi",
+   "tarih": "2026-09-26T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3080",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Göztepe - Spor Toto",
+   "tarih": "2026-09-26T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3079",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "İstanbul Gençlik - Güneysuspor",
+   "tarih": "2026-09-26T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3082",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Beykoz Belediyesi - Nilüfer Belediyesi",
+   "tarih": "2026-09-27T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3077",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Giresunspor - Göztepe",
+   "tarih": "2026-09-30T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3076",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Spor Toto - İstanbul Gençlik",
+   "tarih": "2026-09-30T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3161",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Ortahisar Belediyesi - Göztepe",
+   "tarih": "2026-10-03T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3087",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Mihalıççık Belediyesi - Beşiktaş Jimnastik",
+   "tarih": "2026-10-03T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3086",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Trabzon Büyükşehir Bel. - Beykoz Belediyesi",
+   "tarih": "2026-10-03T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3083",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Spor Toto - Giresunspor",
+   "tarih": "2026-10-03T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3160",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Üsküdar Belediyesi - Yozgat Gsk",
+   "tarih": "2026-10-03T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3084",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Güneysuspor - Göztepe",
+   "tarih": "2026-10-03T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3085",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Nilüfer Belediyesi - İstanbul Gençlik",
+   "tarih": "2026-10-03T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3091",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Mihalıççık Belediyesi - Spor Toto",
+   "tarih": "2026-10-10T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3090",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Giresunspor - Güneysuspor",
+   "tarih": "2026-10-10T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3089",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Göztepe - Nilüfer Belediyesi",
+   "tarih": "2026-10-10T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3092",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "İstanbul Gençlik - Trabzon Büyükşehir Bel.",
+   "tarih": "2026-10-10T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3088",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Beykoz Belediyesi - Beşiktaş Jimnastik",
+   "tarih": "2026-10-10T15:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3164",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Göztepe - Manisa Büyükşehir Belediye",
+   "tarih": "2026-10-11T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3165",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Yozgat Gsk - Ortahisar Belediyesi",
+   "tarih": "2026-10-11T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3162",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Manisa Büyükşehir Belediye - Bursa Büyükşehir Belediyesi",
+   "tarih": "2026-10-14T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3163",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Armada Praxıs Yalıkavak - Odunpazarı",
+   "tarih": "2026-10-14T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3168",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Odunpazarı - Göztepe",
+   "tarih": "2026-10-17T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3169",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Ortahisar Belediyesi - Üsküdar Belediyesi",
+   "tarih": "2026-10-17T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3170",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Manisa Büyükşehir Belediye - Yozgat Gsk",
+   "tarih": "2026-10-17T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3095",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Trabzon Büyükşehir Bel. - Göztepe",
+   "tarih": "2026-10-17T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3171",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Armada Praxıs Yalıkavak - Bursa Büyükşehir Belediyesi",
+   "tarih": "2026-10-17T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3093",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Güneysuspor - Spor Toto",
+   "tarih": "2026-10-18T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3094",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Nilüfer Belediyesi - Giresunspor",
+   "tarih": "2026-10-18T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3096",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Beşiktaş Jimnastik - İstanbul Gençlik",
+   "tarih": "2026-10-18T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3097",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Beykoz Belediyesi - Mihalıççık Belediyesi",
+   "tarih": "2026-10-18T16:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3102",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Mihalıççık Belediyesi - Güneysuspor",
+   "tarih": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3101",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Giresunspor - Trabzon Büyükşehir Bel.",
+   "tarih": "2026-10-24T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3098",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Spor Toto - Nilüfer Belediyesi",
+   "tarih": "2026-10-24T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3100",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Göztepe - Beşiktaş Jimnastik",
+   "tarih": "2026-10-24T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3099",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "İstanbul Gençlik - Beykoz Belediyesi",
+   "tarih": "2026-10-24T14:00:00.000Z"
   }
  ]
 }
