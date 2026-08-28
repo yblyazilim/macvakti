@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-28T00:03:15.053Z",
+ "guncellendi": "2026-08-28T09:59:01.752Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1787591525580,
@@ -1675,6 +1675,32 @@
   "Gaziemir G.O.G. Spor Yat.": {
    "zaman": 1787875394154,
    "bulundu": false
+  },
+  "Bucaspor": {
+   "zaman": 1787911134569,
+   "bulundu": true,
+   "wikidata": "Q630348",
+   "kurulus": 1928,
+   "stat": "Buca Arena",
+   "sehir": "İzmir",
+   "kurucu": null
+  },
+  "Akşehir": {
+   "zaman": 1787911136749,
+   "bulundu": false
+  },
+  "Efor Çay Erbaaspor": {
+   "zaman": 1787911137777,
+   "bulundu": false
+  },
+  "Kırklarelispor": {
+   "zaman": 1787911140851,
+   "bulundu": true,
+   "wikidata": "Q1797516",
+   "kurulus": 1968,
+   "stat": null,
+   "sehir": "Kırklareli",
+   "kurucu": null
   }
  }
 }
