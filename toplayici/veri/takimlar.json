@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-08-28T09:59:01.759Z",
+ "guncellendi": "2026-08-28T21:20:40.082Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 284,
+ "takimSayisi": 286,
  "branslar": [
   {
    "k": "basketbol",
@@ -247,6 +247,7 @@
       "beykozanadoluspor",
       "beykozishaklisporfaaliyetleri",
       "bulvarspor",
+      "duzcecamduzcespor",
       "duzcespor",
       "fatsabelediyespor",
       "galata",
@@ -281,6 +282,7 @@
       "fethiyespor",
       "iskenderunspor",
       "karacabeybelediyespor",
+      "kct1461trabzon",
       "kirklarelispor",
       "kutahyasporfutbol",
       "sakaryaspor",
@@ -956,6 +958,15 @@
     "futbol:976-Beyaz"
    ]
   },
+  "eforcayerbaaspor": {
+   "ad": "Efor Çay Erbaaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Beyaz"
+   ]
+  },
   "gmgkastamonuspor": {
    "ad": "Gmg Kastamonuspor",
    "branslar": [
@@ -1154,6 +1165,15 @@
     "futbol:976-Krmz"
    ]
   },
+  "erzincan": {
+   "ad": "Erzincan",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Krmz"
+   ]
+  },
   "erzincanfutbolyatirimlari": {
    "ad": "Erzincan Futbol Yatırımları",
    "branslar": [
@@ -1188,6 +1208,15 @@
     "sehir": "Karacabey"
    }
   },
+  "kct1461trabzon": {
+   "ad": "Kct 1461 Trabzon",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Krmz"
+   ]
+  },
   "kutahyasporfutbol": {
    "ad": "Kütahyaspor Futbol",
    "branslar": [
@@ -1196,6 +1225,19 @@
    "ligler": [
     "futbol:976-Krmz"
    ]
+  },
+  "kirklarelispor": {
+   "ad": "Kırklarelispor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Krmz"
+   ],
+   "kunye": {
+    "kurulus": 1968,
+    "sehir": "Kırklareli"
+   }
   },
   "sakaryaspor": {
    "ad": "Sakaryaspor",
@@ -1262,6 +1304,28 @@
   },
   "beykozishaklisporfaaliyetleri": {
    "ad": "Beykoz İshaklı Spor Faaliyetleri",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
+   ]
+  },
+  "bulvarspor": {
+   "ad": "Bulvarspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
+   ],
+   "kunye": {
+    "kurulus": 1985,
+    "sehir": "Kartal"
+   }
+  },
+  "duzcecamduzcespor": {
+   "ad": "Düzce Cam Düzcespor",
    "branslar": [
     "futbol"
    ],
@@ -1431,6 +1495,15 @@
     "futbol:971-02"
    ]
   },
+  "aksehir": {
+   "ad": "Akşehir",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-02"
+   ]
+  },
   "alanya1221futbol": {
    "ad": "Alanya 1221 Futbol",
    "branslar": [
@@ -1484,6 +1557,20 @@
    "ligler": [
     "futbol:971-02"
    ]
+  },
+  "bucaspor": {
+   "ad": "Bucaspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-02"
+   ],
+   "kunye": {
+    "kurulus": 1928,
+    "sehir": "İzmir",
+    "stat": "Buca Arena"
+   }
   },
   "bucaspor1928": {
    "ad": "Bucaspor 1928",
@@ -1597,6 +1684,15 @@
    "kunye": {
     "kurulus": 2006
    }
+  },
+  "tire2021": {
+   "ad": "Tire 2021",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-02"
+   ]
   },
   "usakspor": {
    "ad": "Uşak Spor",
@@ -3292,82 +3388,6 @@
    "kunye": {
     "kurulus": 1994,
     "sehir": "Manisa"
-   }
-  },
-  "erzincan": {
-   "ad": "Erzincan",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Krmz"
-   ]
-  },
-  "bulvarspor": {
-   "ad": "Bulvarspor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ],
-   "kunye": {
-    "kurulus": 1985,
-    "sehir": "Kartal"
-   }
-  },
-  "tire2021": {
-   "ad": "Tire 2021",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
-   ]
-  },
-  "bucaspor": {
-   "ad": "Bucaspor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
-   ],
-   "kunye": {
-    "kurulus": 1928,
-    "sehir": "İzmir",
-    "stat": "Buca Arena"
-   }
-  },
-  "aksehir": {
-   "ad": "Akşehir",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
-   ]
-  },
-  "eforcayerbaaspor": {
-   "ad": "Efor Çay Erbaaspor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Beyaz"
-   ]
-  },
-  "kirklarelispor": {
-   "ad": "Kırklarelispor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Krmz"
-   ],
-   "kunye": {
-    "kurulus": 1968,
-    "sehir": "Kırklareli"
    }
   }
  }

@@ -1,3 +1,74 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20260828gençlerbirliğierzurumspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_gençlerbirliği",
+    "takim_erzurumspor"
+   ],
+   "baslik": "Sona erdi: Gençlerbirliği 1-1 Erzurumspor",
+   "govde": "Süper Lig · 3. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-28T21:20:26.675Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260828keçiörengücüümraniyespor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_keçiörengücü",
+    "takim_ümraniyespor"
+   ],
+   "baslik": "Sona erdi: Keçiörengücü 2-2 Ümraniyespor",
+   "govde": "1. Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-28T21:20:26.675Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260828pendiksporfutbolbandırmaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_pendiksporfutbol",
+    "takim_bandırmaspor"
+   ],
+   "baslik": "Pendikspor Futbol 1-1 Bandırma Spor · Maç sona erdi",
+   "govde": "1. Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-28T21:20:26.675Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260828antalyasporsmsgrupsarıyer",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_antalyaspor",
+    "takim_smsgrupsarıyer"
+   ],
+   "baslik": "Antalyaspor 1-2 Sms Grup Sarıyer · Maç sona erdi",
+   "govde": "1. Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-28T21:20:26.675Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260828muğlasporboluspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_muğlaspor",
+    "takim_boluspor"
+   ],
+   "baslik": "Muğlaspor 2-0 Boluspor · Maç sona erdi",
+   "govde": "1. Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-28T21:20:26.675Z"
+  }
+ ]
 }
