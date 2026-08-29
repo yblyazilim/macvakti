@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-29T03:19:07.820Z",
+ "guncellendi": "2026-08-29T10:17:21.601Z",
  "eksikler": [
   {
    "id": "hentbol:thf:3053",
@@ -128,6 +128,13 @@
    "tarih": "2026-09-05T10:00:00.000Z"
   },
   {
+   "id": "futbol:tff:KSL:20260905hakkarigücüsporgalatasaray",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Hakkarigücü Spor - Galatasaray",
+   "tarih": "2026-09-05T12:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3066",
    "brans": "hentbol",
    "lig": "",
@@ -163,6 +170,27 @@
    "tarih": "2026-09-05T14:00:00.000Z"
   },
   {
+   "id": "futbol:tff:KSL:20260905ankarabüyükşehirbelediyesifomgetgire",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Ankara Büyükşehir Belediyesi Fomget - Giresun Sanayispor",
+   "tarih": "2026-09-05T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260905sultanbeyligücüsafimclbentonitünyeka",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Sultanbeyli Gücü - Safi Mcl Bentonit Ünye Kadın",
+   "tarih": "2026-09-05T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260905antalyasporkadınkayserikadın",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Antalyaspor Kadın - Kayseri Kadın",
+   "tarih": "2026-09-05T14:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3064",
    "brans": "hentbol",
    "lig": "",
@@ -189,6 +217,13 @@
    "lig": "",
    "mac": "Göztepe - İstanbul Gençlik",
    "tarih": "2026-09-05T15:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260906şilebilgidoğasportifyatırımhizmetler",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Şile Bilgidoğa Sportif Yatırım Hizmetleri - Haymana",
+   "tarih": "2026-09-06T12:00:00.000Z"
   },
   {
    "id": "futbol:tff:2L:20260906akedaşkahramanmaraşistiklalsporbeyoğ",
@@ -401,13 +436,6 @@
    "tarih": "2026-09-06T14:00:00.000Z"
   },
   {
-   "id": "futbol:tff:KSL:20260906hakkarigücüsporgalatasaray",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Hakkarigücü Spor - Galatasaray",
-   "tarih": "2026-09-06T14:00:00.000Z"
-  },
-  {
    "id": "futbol:tff:KSL:20260906trabzonsporbakırköykadınfutbol",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
@@ -415,38 +443,10 @@
    "tarih": "2026-09-06T14:00:00.000Z"
   },
   {
-   "id": "futbol:tff:KSL:20260906ankarabüyükşehirbelediyesifomgetgire",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Ankara Büyükşehir Belediyesi Fomget - Giresun Sanayispor",
-   "tarih": "2026-09-06T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260906sultanbeyligücüsafimclbentonitünyeka",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Sultanbeyli Gücü - Safi Mcl Bentonit Ünye Kadın",
-   "tarih": "2026-09-06T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260906antalyasporkadınkayserikadın",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Antalyaspor Kadın - Kayseri Kadın",
-   "tarih": "2026-09-06T14:00:00.000Z"
-  },
-  {
    "id": "futbol:tff:KSL:20260906amedsportiffaaliyetlerfenerbahçe",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Amed Sportif Faaliyetler - Fenerbahçe",
-   "tarih": "2026-09-06T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260906şilebilgidoğasportifyatırımhizmetler",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Şile Bilgidoğa Sportif Yatırım Hizmetleri - Haymana",
    "tarih": "2026-09-06T14:00:00.000Z"
   },
   {
@@ -539,6 +539,13 @@
    "lig": "3. Lig 03 Grubu",
    "mac": "Yozgat Belediyesi Bozok Spor - Ejderoğlu Kırşehir Futbol",
    "tarih": "2026-09-06T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260912hakkarigücüsportrabzonspor",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Hakkarigücü Spor - Trabzonspor",
+   "tarih": "2026-09-12T12:00:00.000Z"
   },
   {
    "id": "hentbol:thf:3068",
@@ -674,6 +681,27 @@
    "tarih": "2026-09-12T13:30:00.000Z"
   },
   {
+   "id": "futbol:tff:KSL:20260912haymanabeşiktaş",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Haymana - Beşiktaş",
+   "tarih": "2026-09-12T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260912kayserikadınamedsportiffaaliyetler",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Kayseri Kadın - Amed Sportif Faaliyetler",
+   "tarih": "2026-09-12T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260912bakırköykadınfutbolsultanbeyligücü",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Bakırköy Kadın Futbol - Sultanbeyli Gücü",
+   "tarih": "2026-09-12T14:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3069",
    "brans": "hentbol",
    "lig": "",
@@ -707,6 +735,27 @@
    "lig": "3. Lig 03 Grubu",
    "mac": "Malatya Yeşilyurt - Kırıkkale",
    "tarih": "2026-09-12T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913safimclbentonitünyekadınyüksekova",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Safi Mcl Bentonit Ünye Kadın - Yüksekova",
+   "tarih": "2026-09-13T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913fenerbahçeşilebilgidoğasportifyatırı",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Fenerbahçe - Şile Bilgidoğa Sportif Yatırım Hizmetleri",
+   "tarih": "2026-09-13T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260913giresunsanayisporantalyasporkadın",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Giresun Sanayispor - Antalyaspor Kadın",
+   "tarih": "2026-09-13T12:00:00.000Z"
   },
   {
    "id": "hentbol:thf:3154",
@@ -853,55 +902,6 @@
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Galatasaray - Ankara Büyükşehir Belediyesi Fomget",
-   "tarih": "2026-09-13T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260913hakkarigücüsportrabzonspor",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Hakkarigücü Spor - Trabzonspor",
-   "tarih": "2026-09-13T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260913safimclbentonitünyekadınyüksekova",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Safi Mcl Bentonit Ünye Kadın - Yüksekova",
-   "tarih": "2026-09-13T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260913haymanabeşiktaş",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Haymana - Beşiktaş",
-   "tarih": "2026-09-13T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260913fenerbahçeşilebilgidoğasportifyatırı",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Fenerbahçe - Şile Bilgidoğa Sportif Yatırım Hizmetleri",
-   "tarih": "2026-09-13T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260913giresunsanayisporantalyasporkadın",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Giresun Sanayispor - Antalyaspor Kadın",
-   "tarih": "2026-09-13T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260913kayserikadınamedsportiffaaliyetler",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Kayseri Kadın - Amed Sportif Faaliyetler",
-   "tarih": "2026-09-13T14:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20260913bakırköykadınfutbolsultanbeyligücü",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Bakırköy Kadın Futbol - Sultanbeyli Gücü",
    "tarih": "2026-09-13T14:00:00.000Z"
   },
   {
@@ -1087,10 +1087,10 @@
    "tarih": "2026-09-20T12:00:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:20260920kct1461trabzonankarademirsporkırmızı",
+   "id": "futbol:tff:2L:202609201461trabzonankarademirsporkırmızı",
    "brans": "futbol",
    "lig": "2. Lig Kırmızı Grubu",
-   "mac": "Kct 1461 Trabzon - Ankara Demirspor",
+   "mac": "1461 Trabzon - Ankara Demirspor",
    "tarih": "2026-09-20T12:00:00.000Z"
   },
   {
@@ -1199,10 +1199,10 @@
    "tarih": "2026-09-20T13:00:00.000Z"
   },
   {
-   "id": "futbol:tff:3L:20260920galatadüzcecamdüzcespor01",
+   "id": "futbol:tff:3L:20260920galatadüzcespor01",
    "brans": "futbol",
    "lig": "3. Lig 01 Grubu",
-   "mac": "Galata - Düzce Cam Düzcespor",
+   "mac": "Galata - Düzcespor",
    "tarih": "2026-09-20T13:00:00.000Z"
   },
   {
