@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-29T15:17:15.743Z",
- "adet": 869,
+ "guncellendi": "2026-08-29T18:42:32.388Z",
+ "adet": 871,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 869,
+   "adet": 871,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Bayern Münih Dev Maçlar",
@@ -6220,6 +6220,28 @@
    "dijital": false,
    "baslik": "İtalya Basketbol Ligi",
    "baslangicUtc": "2026-09-05T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-05T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-09-05T18:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,

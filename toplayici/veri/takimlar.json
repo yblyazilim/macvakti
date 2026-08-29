@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-08-29T15:17:15.825Z",
+ "guncellendi": "2026-08-29T18:42:58.145Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 286,
+ "takimSayisi": 281,
  "branslar": [
   {
    "k": "basketbol",
@@ -187,33 +187,6 @@
    "ad": "Futbol",
    "ligler": [
     {
-     "id": "971-02",
-     "ad": "3. Lig 02 Grubu",
-     "takimlar": [
-      "1922aksehir",
-      "aksehir",
-      "alanya1221futbol",
-      "altay",
-      "ayvalikgucubelediyespor",
-      "balikesirspor",
-      "bigaspor",
-      "bucaspor",
-      "bucaspor1928",
-      "bursaniluferfutbol",
-      "bursayildirim",
-      "denizliidmanyurdu1959",
-      "eskisehiranadolusporfaaliyetleri",
-      "eskisehirspor",
-      "etimesgut",
-      "gaziemirgogsporyat",
-      "karsiyaka",
-      "kepezsporfutbol",
-      "soke1970",
-      "tire2021",
-      "usakspor"
-     ]
-    },
-    {
      "id": "142",
      "ad": "1. Lig",
      "takimlar": [
@@ -240,15 +213,39 @@
      ]
     },
     {
+     "id": "971-02",
+     "ad": "3. Lig 02 Grubu",
+     "takimlar": [
+      "1922aksehir",
+      "aksehir",
+      "alanya1221futbol",
+      "altay",
+      "ayvalikgucubelediyespor",
+      "balikesirspor",
+      "bigaspor",
+      "bucaspor",
+      "bucaspor1928",
+      "bursaniluferfutbol",
+      "bursayildirim",
+      "denizliidmanyurdu1959",
+      "eskisehiranadolusporfaaliyetleri",
+      "eskisehirspor",
+      "etimesgut",
+      "gaziemirgogsporyat",
+      "karsiyaka",
+      "kepezsporfutbol",
+      "soke1970",
+      "usakspor"
+     ]
+    },
+    {
      "id": "971-01",
      "ad": "3. Lig 01 Grubu",
      "takimlar": [
       "amasyaspor",
       "beykozanadoluspor",
       "beykozishaklisporfaaliyetleri",
-      "bulvarspor",
       "duzcecamduzcespor",
-      "duzcespor",
       "fatsabelediyespor",
       "galata",
       "golcukspor",
@@ -263,31 +260,6 @@
       "tokatbelediye",
       "yalovafk77",
       "zonguldakspor"
-     ]
-    },
-    {
-     "id": "976-Krmz",
-     "ad": "2. Lig Kırmızı Grubu",
-     "takimlar": [
-      "12bingolspor",
-      "1461trabzon",
-      "52orduspor",
-      "adana01",
-      "akedaskahramanmarasistiklalspor",
-      "ankarademirspor",
-      "ankaragucu",
-      "beyogluyenicarsisporfaaliyetleri",
-      "erzincan",
-      "erzincanfutbolyatirimlari",
-      "fethiyespor",
-      "iskenderunspor",
-      "karacabeybelediyespor",
-      "kct1461trabzon",
-      "kirklarelispor",
-      "kutahyasporfutbol",
-      "sakaryaspor",
-      "seriksporfutbol",
-      "sultansuinegolspor"
      ]
     },
     {
@@ -359,6 +331,29 @@
       "sebat",
       "sezacimentoelazigspor",
       "somaspor"
+     ]
+    },
+    {
+     "id": "976-Krmz",
+     "ad": "2. Lig Kırmızı Grubu",
+     "takimlar": [
+      "12bingolspor",
+      "52orduspor",
+      "adana01",
+      "akedaskahramanmarasistiklalspor",
+      "ankarademirspor",
+      "ankaragucu",
+      "beyogluyenicarsisporfaaliyetleri",
+      "erzincanfutbolyatirimlari",
+      "fethiyespor",
+      "iskenderunspor",
+      "karacabeybelediyespor",
+      "kct1461trabzon",
+      "kirklarelispor",
+      "kutahyasporfutbol",
+      "sakaryaspor",
+      "seriksporfutbol",
+      "sultansuinegolspor"
      ]
     },
     {
@@ -1084,20 +1079,6 @@
     "futbol:976-Krmz"
    ]
   },
-  "1461trabzon": {
-   "ad": "1461 Trabzon",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Krmz"
-   ],
-   "kunye": {
-    "kurulus": 2008,
-    "sehir": "Trabzon",
-    "stat": "Hüseyin Avni Aker Stadyumu"
-   }
-  },
   "52orduspor": {
    "ad": "52 Orduspor",
    "branslar": [
@@ -1158,15 +1139,6 @@
   },
   "beyogluyenicarsisporfaaliyetleri": {
    "ad": "Beyoğlu Yeni Çarşı Spor Faaliyetleri",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Krmz"
-   ]
-  },
-  "erzincan": {
-   "ad": "Erzincan",
    "branslar": [
     "futbol"
    ],
@@ -1311,19 +1283,6 @@
     "futbol:971-01"
    ]
   },
-  "bulvarspor": {
-   "ad": "Bulvarspor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ],
-   "kunye": {
-    "kurulus": 1985,
-    "sehir": "Kartal"
-   }
-  },
   "duzcecamduzcespor": {
    "ad": "Düzce Cam Düzcespor",
    "branslar": [
@@ -1332,19 +1291,6 @@
    "ligler": [
     "futbol:971-01"
    ]
-  },
-  "duzcespor": {
-   "ad": "Düzcespor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ],
-   "kunye": {
-    "kurulus": 1967,
-    "sehir": "Düzce"
-   }
   },
   "fatsabelediyespor": {
    "ad": "Fatsa Belediyespor",
@@ -1684,15 +1630,6 @@
    "kunye": {
     "kurulus": 2006
    }
-  },
-  "tire2021": {
-   "ad": "Tire 2021",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
-   ]
   },
   "usakspor": {
    "ad": "Uşak Spor",
