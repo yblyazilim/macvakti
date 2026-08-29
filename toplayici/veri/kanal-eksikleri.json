@@ -1,27 +1,6 @@
 {
- "guncellendi": "2026-08-29T10:17:21.601Z",
+ "guncellendi": "2026-08-29T15:17:15.812Z",
  "eksikler": [
-  {
-   "id": "hentbol:thf:3053",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Trabzon Büyükşehir Bel. - Spor Toto",
-   "tarih": "2026-08-29T11:00:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:3052",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Nilüfer Belediyesi - Güneysuspor",
-   "tarih": "2026-08-29T12:00:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:3054",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Beşiktaş Jimnastik - Giresunspor",
-   "tarih": "2026-08-29T12:00:00.000Z"
-  },
   {
    "id": "futbol:tff:KSL:20260829safimclbentonitünyekadınbeşiktaş",
    "brans": "futbol",
@@ -48,13 +27,6 @@
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Giresun Sanayispor - Amed Sportif Faaliyetler",
-   "tarih": "2026-08-29T14:00:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:3055",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "İstanbul Gençlik - Mihalıççık Belediyesi",
    "tarih": "2026-08-29T14:00:00.000Z"
   },
   {
@@ -233,10 +205,10 @@
    "tarih": "2026-09-06T13:00:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:202609061461trabzonsakaryasporkırmızı",
+   "id": "futbol:tff:2L:20260906kct1461trabzonsakaryasporkırmızı",
    "brans": "futbol",
    "lig": "2. Lig Kırmızı Grubu",
-   "mac": "1461 Trabzon - Sakaryaspor",
+   "mac": "Kct 1461 Trabzon - Sakaryaspor",
    "tarih": "2026-09-06T13:00:00.000Z"
   },
   {
@@ -499,10 +471,10 @@
    "tarih": "2026-09-06T16:00:00.000Z"
   },
   {
-   "id": "futbol:tff:3L:20260906orduspor1967düzcespor01",
+   "id": "futbol:tff:3L:20260906orduspor1967düzcecamdüzcespor01",
    "brans": "futbol",
    "lig": "3. Lig 01 Grubu",
-   "mac": "Orduspor 1967 - Düzcespor",
+   "mac": "Orduspor 1967 - Düzce Cam Düzcespor",
    "tarih": "2026-09-06T16:00:00.000Z"
   },
   {
@@ -611,10 +583,10 @@
    "tarih": "2026-09-12T13:00:00.000Z"
   },
   {
-   "id": "futbol:tff:3L:20260912düzcesporbeykozanadoluspor01",
+   "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
    "brans": "futbol",
    "lig": "3. Lig 01 Grubu",
-   "mac": "Düzcespor - Beykoz Anadolu Spor",
+   "mac": "Düzce Cam Düzcespor - Beykoz Anadolu Spor",
    "tarih": "2026-09-12T13:00:00.000Z"
   },
   {
@@ -905,10 +877,10 @@
    "tarih": "2026-09-13T14:00:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:2026091352orduspor1461trabzonkırmızı",
+   "id": "futbol:tff:2L:2026091352ordusporkct1461trabzonkırmızı",
    "brans": "futbol",
    "lig": "2. Lig Kırmızı Grubu",
-   "mac": "52 Orduspor - 1461 Trabzon",
+   "mac": "52 Orduspor - Kct 1461 Trabzon",
    "tarih": "2026-09-13T16:00:00.000Z"
   },
   {
@@ -1087,10 +1059,10 @@
    "tarih": "2026-09-20T12:00:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:202609201461trabzonankarademirsporkırmızı",
+   "id": "futbol:tff:2L:20260920kct1461trabzonankarademirsporkırmızı",
    "brans": "futbol",
    "lig": "2. Lig Kırmızı Grubu",
-   "mac": "1461 Trabzon - Ankara Demirspor",
+   "mac": "Kct 1461 Trabzon - Ankara Demirspor",
    "tarih": "2026-09-20T12:00:00.000Z"
   },
   {
@@ -1199,10 +1171,10 @@
    "tarih": "2026-09-20T13:00:00.000Z"
   },
   {
-   "id": "futbol:tff:3L:20260920galatadüzcespor01",
+   "id": "futbol:tff:3L:20260920galatadüzcecamdüzcespor01",
    "brans": "futbol",
    "lig": "3. Lig 01 Grubu",
-   "mac": "Galata - Düzcespor",
+   "mac": "Galata - Düzce Cam Düzcespor",
    "tarih": "2026-09-20T13:00:00.000Z"
   },
   {
