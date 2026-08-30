@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20260830başakşehirkasımpaşa",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_başakşehir",
+    "takim_kasımpaşa"
+   ],
+   "baslik": "Sona erdi: Başakşehir 1-1 Kasımpaşa",
+   "govde": "Süper Lig · 3. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-30T22:35:05.286Z"
+  },
+  {
+   "macId": "futbol:tff:SL:20260830samsunsporfenerbahçe",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_samsunspor",
+    "takim_fenerbahçe"
+   ],
+   "baslik": "Bitti: Samsunspor 0-2 Fenerbahçe",
+   "govde": "Süper Lig · 3. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-30T22:35:05.286Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260830manisabodrum",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_manisa",
+    "takim_bodrum"
+   ],
+   "baslik": "Bitti: Manisa 0-0 Bodrum",
+   "govde": "1. Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-30T22:35:05.286Z"
+  }
+ ]
 }

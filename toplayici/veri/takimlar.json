@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-30T20:05:17.470Z",
+ "guncellendi": "2026-08-30T22:35:05.308Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 281,
@@ -3165,6 +3165,19 @@
     "basketbol:tbf-KBBL"
    ]
   },
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1994,
+    "sehir": "Manisa"
+   }
+  },
   "ortahisarbelediyesi": {
    "ad": "Ortahisar Belediyesi",
    "branslar": [
@@ -3174,35 +3187,22 @@
     "hentbol:diger"
    ]
   },
-  "armadapraxisyalikavak": {
-   "ad": "Armada Praxıs Yalıkavak",
+  "giresunspor": {
+   "ad": "Giresunspor",
    "branslar": [
     "hentbol"
    ],
    "ligler": [
     "hentbol:diger"
-   ]
+   ],
+   "kunye": {
+    "kurulus": 1967,
+    "sehir": "Giresun",
+    "stat": "Giresun Atatürk Stadyumu"
+   }
   },
   "beykozbelediyesi": {
    "ad": "Beykoz Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "bursabuyuksehirbelediyesi": {
-   "ad": "Bursa Büyükşehir Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "yozgatgsk": {
-   "ad": "Yozgat Gsk",
    "branslar": [
     "hentbol"
    ],
@@ -3228,32 +3228,23 @@
     "hentbol:diger"
    ]
   },
-  "manisabuyuksehirbelediye": {
-   "ad": "Manisa Büyükşehir Belediye",
+  "bursabuyuksehirbelediyesi": {
+   "ad": "Bursa Büyükşehir Belediyesi",
    "branslar": [
     "hentbol"
    ],
    "ligler": [
     "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1994,
-    "sehir": "Manisa"
-   }
+   ]
   },
-  "giresunspor": {
-   "ad": "Giresunspor",
+  "yozgatgsk": {
+   "ad": "Yozgat Gsk",
    "branslar": [
     "hentbol"
    ],
    "ligler": [
     "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1967,
-    "sehir": "Giresun",
-    "stat": "Giresun Atatürk Stadyumu"
-   }
+   ]
   },
   "sportoto": {
    "ad": "Spor Toto",
@@ -3307,6 +3298,15 @@
   },
   "niluferbelediyesi": {
    "ad": "Nilüfer Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "armadapraxisyalikavak": {
+   "ad": "Armada Praxıs Yalıkavak",
    "branslar": [
     "hentbol"
    ],
