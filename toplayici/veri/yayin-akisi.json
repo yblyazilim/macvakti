@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-30T01:39:27.178Z",
- "adet": 761,
+ "guncellendi": "2026-08-30T07:27:07.948Z",
+ "adet": 766,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 761,
+   "adet": 766,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Inter Dev Maçlar",
@@ -5759,6 +5759,61 @@
    "dijital": false,
    "baslik": "Euroformula Open",
    "baslangicUtc": "2026-09-05T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-06T03:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-09-06T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-09-06T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-09-06T06:20:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-06T07:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
