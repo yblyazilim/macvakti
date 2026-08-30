@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20260830eyüpsporalanyaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_eyüpspor",
+    "takim_alanyaspor"
+   ],
+   "baslik": "Sona erdi: Eyüpspor 2-1 Alanyaspor",
+   "govde": "Süper Lig · 3. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-30T20:05:17.449Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260830esenlereroksporığdır",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_esenlererokspor",
+    "takim_ığdır"
+   ],
+   "baslik": "Bitti: Esenler Erokspor 0-1 Iğdır",
+   "govde": "1. Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-08-30T20:05:17.450Z"
+  }
+ ]
 }

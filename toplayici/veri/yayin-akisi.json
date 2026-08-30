@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-08-30T17:27:46.153Z",
- "adet": 811,
+ "guncellendi": "2026-08-30T20:05:17.399Z",
+ "adet": 812,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 811,
+   "adet": 812,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Inter Dev Maçlar",
@@ -5926,6 +5926,17 @@
    "baslangicUtc": "2026-09-06T17:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-09-06T20:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
