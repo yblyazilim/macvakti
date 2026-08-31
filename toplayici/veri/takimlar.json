@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-08-31T06:54:30.654Z",
+ "guncellendi": "2026-08-31T14:41:29.256Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 281,
@@ -3187,6 +3187,37 @@
     "hentbol:diger"
    ]
   },
+  "bursabuyuksehirbelediyesi": {
+   "ad": "Bursa Büyükşehir Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yozgatgsk": {
+   "ad": "Yozgat Gsk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "istanbulgenclik": {
+   "ad": "İstanbul Gençlik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 2024,
+    "sehir": "İstanbul"
+   }
+  },
   "giresunspor": {
    "ad": "Giresunspor",
    "branslar": [
@@ -3221,24 +3252,6 @@
   },
   "uskudarbelediyesi": {
    "ad": "Üsküdar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "bursabuyuksehirbelediyesi": {
-   "ad": "Bursa Büyükşehir Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "yozgatgsk": {
-   "ad": "Yozgat Gsk",
    "branslar": [
     "hentbol"
    ],
@@ -3313,19 +3326,6 @@
    "ligler": [
     "hentbol:diger"
    ]
-  },
-  "istanbulgenclik": {
-   "ad": "İstanbul Gençlik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 2024,
-    "sehir": "İstanbul"
-   }
   }
  }
 }

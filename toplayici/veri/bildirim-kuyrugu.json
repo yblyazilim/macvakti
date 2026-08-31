@@ -1,3 +1,30 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "hentbol:thf:3065",
+   "tip": "saat",
+   "konular": [
+    "brans_hentbol",
+    "takim_göztepe",
+    "takim_istanbulgençlik"
+   ],
+   "baslik": "Saat değişti: Göztepe - İstanbul Gençlik",
+   "govde": "Karşılaşma 18:00 yerine 15:00'de oynanacak. Cumartesi, 5 Eylül.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-08-31T14:41:11.041Z"
+  },
+  {
+   "macId": "hentbol:thf:3149",
+   "tip": "saat",
+   "konular": [
+    "brans_hentbol",
+    "takim_bursabüyükşehirbelediyesi",
+    "takim_yozgatgsk"
+   ],
+   "baslik": "Saat değişti: Bursa Büyükşehir Belediyesi - Yozgat Gsk",
+   "govde": "Karşılaşma 15:00 yerine 14:00'de oynanacak. Cumartesi, 5 Eylül.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-08-31T14:41:11.042Z"
+  }
+ ]
 }
