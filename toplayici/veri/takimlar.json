@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-08-31T14:41:29.256Z",
+ "guncellendi": "2026-08-31T20:31:43.037Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 281,
+ "takimSayisi": 282,
  "branslar": [
   {
    "k": "basketbol",
@@ -239,6 +239,30 @@
      ]
     },
     {
+     "id": "976-Beyaz",
+     "ad": "2. Lig Beyaz Grubu",
+     "takimlar": [
+      "68aksaraybelediyespor",
+      "adanademirspor",
+      "aliagafutbol",
+      "ankaraspor",
+      "arnavutkoybelediyesifutbol",
+      "corluspor1947",
+      "eforcayerbaaspor",
+      "gmgkastamonuspor",
+      "guzidegebze",
+      "hatayspor",
+      "inegolkafkas",
+      "isbasisparta32",
+      "menemen",
+      "mus",
+      "sanliurfaspor",
+      "sebat",
+      "sezacimentoelazigspor",
+      "somaspor"
+     ]
+    },
+    {
      "id": "971-01",
      "ad": "3. Lig 01 Grubu",
      "takimlar": [
@@ -308,29 +332,6 @@
       "rizespor",
       "samsunspor",
       "trabzonspor"
-     ]
-    },
-    {
-     "id": "976-Beyaz",
-     "ad": "2. Lig Beyaz Grubu",
-     "takimlar": [
-      "68aksaraybelediyespor",
-      "adanademirspor",
-      "aliagafutbol",
-      "ankaraspor",
-      "arnavutkoybelediyesifutbol",
-      "corluspor1947",
-      "eforcayerbaaspor",
-      "gmgkastamonuspor",
-      "guzidegebze",
-      "hatayspor",
-      "inegolkafkas",
-      "isbasisparta32",
-      "menemen",
-      "sanliurfaspor",
-      "sebat",
-      "sezacimentoelazigspor",
-      "somaspor"
      ]
     },
     {
@@ -3325,6 +3326,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "mus": {
+   "ad": "Muş",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Beyaz"
    ]
   }
  }
