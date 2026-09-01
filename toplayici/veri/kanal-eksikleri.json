@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-01T18:11:45.938Z",
+ "guncellendi": "2026-09-01T21:03:22.431Z",
  "eksikler": [
   {
    "id": "hentbol:thf:3149",
@@ -1066,6 +1066,13 @@
    "tarih": "2026-09-20T12:30:00.000Z"
   },
   {
+   "id": "futbol:tff:2L:20260920eforçayerbaasporsebatbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Efor Çay Erbaaspor - Sebat",
+   "tarih": "2026-09-20T12:30:00.000Z"
+  },
+  {
    "id": "futbol:tff:3L:20260920kepezsporfutbolsöke197002",
    "brans": "futbol",
    "lig": "3. Lig 02 Grubu",
@@ -1519,6 +1526,27 @@
    "lig": "",
    "mac": "Armada Praxıs Yalıkavak - Ortahisar Belediyesi",
    "tarih": "2026-10-31T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3172",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Bursa Büyükşehir Belediyesi - Göztepe",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3173",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Odunpazarı - Mc Sistem Yozgat Gsk",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3174",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Manisa Büyükşehir Belediye - Üsküdar Belediyesi",
+   "tarih": "2026-11-01T12:00:00.000Z"
   }
  ]
 }
