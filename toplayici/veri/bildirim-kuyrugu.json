@@ -1,3 +1,60 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20260902vansporbatmanpetrolspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_vanspor",
+    "takim_batmanpetrolspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Van Spor - Batman Petrol Spor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-01T05:07:17.311Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260902sivasspormardin1969spor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_sivasspor",
+    "takim_mardin1969spor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Sivasspor - Mardin 1969 Spor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-01T05:07:17.311Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260903ığdırmanisa",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_ığdır",
+    "takim_manisa"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Iğdır - Manisa karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-01T05:07:17.311Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260903bursasporistanbulspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bursaspor",
+    "takim_istanbulspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Bursaspor - İstanbulspor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-01T05:07:17.311Z"
+  }
+ ]
 }
