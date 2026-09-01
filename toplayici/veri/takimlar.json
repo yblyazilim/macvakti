@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-01T09:59:57.080Z",
+ "guncellendi": "2026-09-01T14:46:22.935Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 281,
+ "takimSayisi": 283,
  "branslar": [
   {
    "k": "basketbol",
@@ -239,6 +239,30 @@
      ]
     },
     {
+     "id": "976-Beyaz",
+     "ad": "2. Lig Beyaz Grubu",
+     "takimlar": [
+      "68aksaraybelediyespor",
+      "adanademirspor",
+      "aliagafutbol",
+      "ankaraspor",
+      "arnavutkoybelediyesifutbol",
+      "corluspor1947",
+      "eforcayerbaaspor",
+      "gmgkastamonuspor",
+      "guzidegebze",
+      "hatayspor",
+      "inegolkafkas",
+      "isbasisparta32",
+      "menemen",
+      "mus",
+      "sanliurfaspor",
+      "sebat",
+      "sezacimentoelazigspor",
+      "somaspor"
+     ]
+    },
+    {
      "id": "971-01",
      "ad": "3. Lig 01 Grubu",
      "takimlar": [
@@ -311,29 +335,6 @@
      ]
     },
     {
-     "id": "976-Beyaz",
-     "ad": "2. Lig Beyaz Grubu",
-     "takimlar": [
-      "68aksaraybelediyespor",
-      "adanademirspor",
-      "aliagafutbol",
-      "ankaraspor",
-      "arnavutkoybelediyesifutbol",
-      "corluspor1947",
-      "eforcayerbaaspor",
-      "gmgkastamonuspor",
-      "guzidegebze",
-      "hatayspor",
-      "inegolkafkas",
-      "isbasisparta32",
-      "menemen",
-      "sanliurfaspor",
-      "sebat",
-      "sezacimentoelazigspor",
-      "somaspor"
-     ]
-    },
-    {
      "id": "976-Krmz",
      "ad": "2. Lig Kırmızı Grubu",
      "takimlar": [
@@ -366,6 +367,7 @@
       "bakirkoykadinfutbol",
       "besiktas",
       "fenerbahce",
+      "fenerbahcearsavevkadinfutboltakimi",
       "galatasaray",
       "giresunsanayispor",
       "hakkarigucuspor",
@@ -1004,6 +1006,15 @@
   },
   "menemen": {
    "ad": "Menemen",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Beyaz"
+   ]
+  },
+  "mus": {
+   "ad": "Muş",
    "branslar": [
     "futbol"
    ],
@@ -1837,6 +1848,15 @@
   },
   "bakirkoykadinfutbol": {
    "ad": "Bakırköy Kadın Futbol",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
+  "fenerbahcearsavevkadinfutboltakimi": {
+   "ad": "Fenerbahçe Arsavev Kadın Futbol Takımı",
    "branslar": [
     "futbol"
    ],
@@ -3165,28 +3185,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "manisabuyuksehirbelediye": {
-   "ad": "Manisa Büyükşehir Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1994,
-    "sehir": "Manisa"
-   }
-  },
-  "ortahisarbelediyesi": {
-   "ad": "Ortahisar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "bursabuyuksehirbelediyesi": {
    "ad": "Bursa Büyükşehir Belediyesi",
    "branslar": [
@@ -3320,6 +3318,28 @@
   },
   "armadapraxisyalikavak": {
    "ad": "Armada Praxıs Yalıkavak",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1994,
+    "sehir": "Manisa"
+   }
+  },
+  "ortahisarbelediyesi": {
+   "ad": "Ortahisar Belediyesi",
    "branslar": [
     "hentbol"
    ],
