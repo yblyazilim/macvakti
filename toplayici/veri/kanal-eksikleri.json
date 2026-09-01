@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-01T14:46:02.439Z",
+ "guncellendi": "2026-09-01T18:11:45.938Z",
  "eksikler": [
   {
    "id": "hentbol:thf:3149",
@@ -149,6 +149,13 @@
    "tarih": "2026-09-06T13:00:00.000Z"
   },
   {
+   "id": "futbol:tff:2L:20260906hataysporgüzidegebzebeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Hatayspor - Güzide Gebze",
+   "tarih": "2026-09-06T13:30:00.000Z"
+  },
+  {
    "id": "futbol:tff:2L:20260906gmgkastamonusporçorluspor1947beyaz",
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
@@ -156,10 +163,10 @@
    "tarih": "2026-09-06T13:30:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:20260906hataysporgüzidegebzebeyaz",
+   "id": "futbol:tff:2L:20260906eforçayerbaaspormuşbeyaz",
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
-   "mac": "Hatayspor - Güzide Gebze",
+   "mac": "Efor Çay Erbaaspor - Muş",
    "tarih": "2026-09-06T13:30:00.000Z"
   },
   {
@@ -219,17 +226,17 @@
    "tarih": "2026-09-06T13:30:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:20260906arnavutköybelediyesifutbolaliağafutb",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Arnavutköy Belediyesi Futbol - Aliağa Futbol",
-   "tarih": "2026-09-06T14:00:00.000Z"
-  },
-  {
    "id": "futbol:tff:2L:20260906somaspor68aksaraybelediyesporbeyaz",
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
    "mac": "Somaspor - 68 Aksaray Belediye Spor",
+   "tarih": "2026-09-06T14:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906arnavutköybelediyesifutbolaliağafutb",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Arnavutköy Belediyesi Futbol - Aliağa Futbol",
    "tarih": "2026-09-06T14:00:00.000Z"
   },
   {
@@ -324,13 +331,6 @@
    "tarih": "2026-09-06T14:00:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:20260906sezaçimentoelazığsporsebatbeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Seza Çimento Elazığspor - Sebat",
-   "tarih": "2026-09-06T16:00:00.000Z"
-  },
-  {
    "id": "futbol:tff:2L:20260906menemeninegölkafkasbeyaz",
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
@@ -349,6 +349,13 @@
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
    "mac": "Şanlıurfaspor - Ankaraspor",
+   "tarih": "2026-09-06T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260906sezaçimentoelazığsporsebatbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Seza Çimento Elazığspor - Sebat",
    "tarih": "2026-09-06T16:00:00.000Z"
   },
   {
@@ -562,10 +569,10 @@
    "tarih": "2026-09-12T13:30:00.000Z"
   },
   {
-   "id": "futbol:tff:KSL:20260912fenerbahçeşilebilgidoğasportifyatırı",
+   "id": "futbol:tff:KSL:20260912fenerbahçearsavevkadınfutboltakımışi",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Fenerbahçe - Şile Bilgidoğa Sportif Yatırım Hizmetleri",
+   "mac": "Fenerbahçe Arsavev Kadın Futbol Takımı - Şile Bilgidoğa Sportif Yatırım Hizmetleri",
    "tarih": "2026-09-12T14:00:00.000Z"
   },
   {
@@ -762,6 +769,13 @@
    "brans": "futbol",
    "lig": "2. Lig Kırmızı Grubu",
    "mac": "Beyoğlu Yeni Çarşı Spor Faaliyetleri - Kütahyaspor Futbol",
+   "tarih": "2026-09-13T13:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20260913zonguldaksporkarabükidmanyurduspor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Zonguldak Spor - Karabük İdmanyurdu Spor",
    "tarih": "2026-09-13T13:30:00.000Z"
   },
   {
