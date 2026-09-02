@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-02T14:57:20.352Z",
- "adet": 855,
+ "guncellendi": "2026-09-02T18:21:01.058Z",
+ "adet": 857,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 855,
+   "adet": 857,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'dan Futbol",
@@ -2340,7 +2340,7 @@
   {
    "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "İtalya Seri A Özetler",
+   "baslik": "İtalya Serie A Özetler",
    "baslangicUtc": "2026-09-03T05:45:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
@@ -2450,13 +2450,13 @@
   {
    "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Trendyol 1.lig Futbol Karşılaşması 5.haftaalagöz Holding Iğdır  - Manisa",
+   "baslik": "Alagöz Holding Iğdır  - Manisa",
    "baslangicUtc": "2026-09-03T14:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Trendyol Futbol Karşılaşması 5.haftaalagöz Holding Iğdır",
+    "Alagöz Holding Iğdır",
     "Manisa"
    ],
    "kaynak": "tvplus"
@@ -2475,27 +2475,27 @@
   {
    "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Trendyol 1.lig Futbol Karşılaşması 5.haftabursaspor - İstanbulspor A.ş.",
+   "baslik": "Bursaspor - İstanbulspor AŞ",
    "baslangicUtc": "2026-09-03T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Trendyol Futbol Karşılaşması 5.haftabursaspor",
-    "İstanbulspor A.ş."
+    "Bursaspor",
+    "İstanbulspor AŞ"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "İtalya Kupasıfutbol Karşılaşmasıcaglıarı - Hellas Verona",
+   "baslik": "Cagliari - Hellas Verona",
    "baslangicUtc": "2026-09-03T19:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "İtalya Kupasıfutbol Karşılaşmasıcaglıarı",
+    "Cagliari",
     "Hellas Verona"
    ],
    "kaynak": "tvplus"
@@ -6377,6 +6377,28 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-09T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-09-09T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Spor Her Yerde",
@@ -8436,14 +8458,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Udinese - Venezia",
+   "baslik": "İspanya – Arjantin",
    "baslangicUtc": "2026-09-02T16:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Udinese",
-    "Venezia"
+    "İspanya",
+    "Arjantin"
    ],
    "kaynak": "tvplus"
   },
