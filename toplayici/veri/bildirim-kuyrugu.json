@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20260901bandırmasporantalyaspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bandırmaspor",
+    "takim_antalyaspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Bandırma Spor - Antalyaspor karşılaşması beIN Sports, TRT Spor ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-02T01:15:17.897Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260901smsgrupsarıyerpendiksporfutbol",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_smsgrupsarıyer",
+    "takim_pendiksporfutbol"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Sms Grup Sarıyer - Pendikspor Futbol karşılaşması beIN Sports, TRT Spor ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-02T01:15:17.898Z"
+  }
+ ]
 }
