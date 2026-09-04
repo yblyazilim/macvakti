@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-04T10:55:44.828Z",
+ "guncellendi": "2026-09-04T14:48:15.535Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 283,
+ "takimSayisi": 284,
  "branslar": [
   {
    "k": "basketbol",
@@ -239,6 +239,31 @@
      ]
     },
     {
+     "id": "971-03",
+     "ad": "3. Lig 03 Grubu",
+     "takimlar": [
+      "1964silifke",
+      "acikalinerciyes38futbol",
+      "adanaadaletgucusporsportiffaaliyetler",
+      "adanaspor",
+      "agri1970",
+      "ayososmaniyespor",
+      "bitlis1916futbol",
+      "diyarbekirspor",
+      "ejderoglukirsehirfutbol",
+      "etigubremazidagifosfatspor",
+      "halilbayraminsaatkarakoprubelediyespor",
+      "karaman",
+      "kirikkale",
+      "malatyayesilyurt",
+      "nigdebelediyesispor",
+      "yazsigortaadaletgucuspor",
+      "yenimalatyaspor",
+      "yenimersinidmanyurdufutbol",
+      "yozgatbelediyesibozokspor"
+     ]
+    },
+    {
      "id": "976-Beyaz",
      "ad": "2. Lig Beyaz Grubu",
      "takimlar": [
@@ -284,30 +309,6 @@
       "tokatbelediye",
       "yalovafk77",
       "zonguldakspor"
-     ]
-    },
-    {
-     "id": "971-03",
-     "ad": "3. Lig 03 Grubu",
-     "takimlar": [
-      "1964silifke",
-      "acikalinerciyes38futbol",
-      "adanaspor",
-      "agri1970",
-      "ayososmaniyespor",
-      "bitlis1916futbol",
-      "diyarbekirspor",
-      "ejderoglukirsehirfutbol",
-      "etigubremazidagifosfatspor",
-      "halilbayraminsaatkarakoprubelediyespor",
-      "karaman",
-      "kirikkale",
-      "malatyayesilyurt",
-      "nigdebelediyesispor",
-      "yazsigortaadaletgucuspor",
-      "yenimalatyaspor",
-      "yenimersinidmanyurdufutbol",
-      "yozgatbelediyesibozokspor"
      ]
     },
     {
@@ -3321,6 +3322,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "adanaadaletgucusporsportiffaaliyetler": {
+   "ad": "Adana Adaletgücü Spor Sportif Faaliyetler",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-03"
    ]
   },
   "manisabuyuksehirbelediye": {
