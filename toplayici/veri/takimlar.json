@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-04T14:48:15.535Z",
+ "guncellendi": "2026-09-04T18:01:39.686Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 284,
+ "takimSayisi": 287,
  "branslar": [
   {
    "k": "basketbol",
@@ -187,6 +187,33 @@
    "ad": "Futbol",
    "ligler": [
     {
+     "id": "971-02",
+     "ad": "3. Lig 02 Grubu",
+     "takimlar": [
+      "1922aksehir",
+      "aksehir",
+      "alanya1221futbol",
+      "altay",
+      "ayvalikgucubelediyespor",
+      "balikesirspor",
+      "bigaspor",
+      "bucaspor",
+      "bucaspor1928",
+      "bursaniluferfutbol",
+      "bursayildirim",
+      "denizliidmanyurdu1959",
+      "eskisehiranadolusporfaaliyetleri",
+      "eskisehirspor",
+      "etimesgut",
+      "gaziemirgogsporyat",
+      "gemliksumerbeyfutbolspor",
+      "karsiyaka",
+      "kepezsporfutbol",
+      "soke1970",
+      "usakspor"
+     ]
+    },
+    {
      "id": "142",
      "ad": "1. Lig",
      "takimlar": [
@@ -213,57 +240,6 @@
      ]
     },
     {
-     "id": "971-02",
-     "ad": "3. Lig 02 Grubu",
-     "takimlar": [
-      "1922aksehir",
-      "aksehir",
-      "alanya1221futbol",
-      "altay",
-      "ayvalikgucubelediyespor",
-      "balikesirspor",
-      "bigaspor",
-      "bucaspor",
-      "bucaspor1928",
-      "bursaniluferfutbol",
-      "bursayildirim",
-      "denizliidmanyurdu1959",
-      "eskisehiranadolusporfaaliyetleri",
-      "eskisehirspor",
-      "etimesgut",
-      "gaziemirgogsporyat",
-      "karsiyaka",
-      "kepezsporfutbol",
-      "soke1970",
-      "usakspor"
-     ]
-    },
-    {
-     "id": "971-03",
-     "ad": "3. Lig 03 Grubu",
-     "takimlar": [
-      "1964silifke",
-      "acikalinerciyes38futbol",
-      "adanaadaletgucusporsportiffaaliyetler",
-      "adanaspor",
-      "agri1970",
-      "ayososmaniyespor",
-      "bitlis1916futbol",
-      "diyarbekirspor",
-      "ejderoglukirsehirfutbol",
-      "etigubremazidagifosfatspor",
-      "halilbayraminsaatkarakoprubelediyespor",
-      "karaman",
-      "kirikkale",
-      "malatyayesilyurt",
-      "nigdebelediyesispor",
-      "yazsigortaadaletgucuspor",
-      "yenimalatyaspor",
-      "yenimersinidmanyurdufutbol",
-      "yozgatbelediyesibozokspor"
-     ]
-    },
-    {
      "id": "976-Beyaz",
      "ad": "2. Lig Beyaz Grubu",
      "takimlar": [
@@ -271,6 +247,7 @@
       "adanademirspor",
       "aliagafutbol",
       "ankaraspor",
+      "arkentarnavutkoybelediyesifutbol",
       "arnavutkoybelediyesifutbol",
       "corluspor1947",
       "eforcayerbaaspor",
@@ -301,6 +278,7 @@
       "inkilapfutbol",
       "karabukidmanyurduspor",
       "kartalbulvarkartalimenspor",
+      "kdzeregli1980",
       "kdzereglibelediyespor",
       "kucukcekmecesinopspor",
       "orduspor1967",
@@ -309,6 +287,31 @@
       "tokatbelediye",
       "yalovafk77",
       "zonguldakspor"
+     ]
+    },
+    {
+     "id": "971-03",
+     "ad": "3. Lig 03 Grubu",
+     "takimlar": [
+      "1964silifke",
+      "acikalinerciyes38futbol",
+      "adanaadaletgucusporsportiffaaliyetler",
+      "adanaspor",
+      "agri1970",
+      "ayososmaniyespor",
+      "bitlis1916futbol",
+      "diyarbekirspor",
+      "ejderoglukirsehirfutbol",
+      "etigubremazidagifosfatspor",
+      "halilbayraminsaatkarakoprubelediyespor",
+      "karaman",
+      "kirikkale",
+      "malatyayesilyurt",
+      "nigdebelediyesispor",
+      "yazsigortaadaletgucuspor",
+      "yenimalatyaspor",
+      "yenimersinidmanyurdufutbol",
+      "yozgatbelediyesibozokspor"
      ]
     },
     {
@@ -3331,6 +3334,33 @@
    ],
    "ligler": [
     "futbol:971-03"
+   ]
+  },
+  "kdzeregli1980": {
+   "ad": "Kdz.Ereğli 1980",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
+   ]
+  },
+  "gemliksumerbeyfutbolspor": {
+   "ad": "Gemlik Sümerbey Futbol Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-02"
+   ]
+  },
+  "arkentarnavutkoybelediyesifutbol": {
+   "ad": "Arkent Arnavutköy Belediyesi Futbol",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Beyaz"
    ]
   },
   "manisabuyuksehirbelediye": {
