@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-05T00:32:01.261Z",
+ "guncellendi": "2026-09-05T04:57:41.454Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 287,
@@ -3327,6 +3327,15 @@
     "hentbol:diger"
    ]
   },
+  "adanaadaletgucusporsportiffaaliyetler": {
+   "ad": "Adana Adaletgücü Spor Sportif Faaliyetler",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-03"
+   ]
+  },
   "kdzeregli1980": {
    "ad": "Kdz.Ereğli 1980",
    "branslar": [
@@ -3334,6 +3343,15 @@
    ],
    "ligler": [
     "futbol:971-01"
+   ]
+  },
+  "gemliksumerbeyfutbolspor": {
+   "ad": "Gemlik Sümerbey Futbol Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-02"
    ]
   },
   "arkentarnavutkoybelediyesifutbol": {
@@ -3365,24 +3383,6 @@
    ],
    "ligler": [
     "hentbol:diger"
-   ]
-  },
-  "adanaadaletgucusporsportiffaaliyetler": {
-   "ad": "Adana Adaletgücü Spor Sportif Faaliyetler",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-03"
-   ]
-  },
-  "gemliksumerbeyfutbolspor": {
-   "ad": "Gemlik Sümerbey Futbol Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
    ]
   }
  }
