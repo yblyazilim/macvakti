@@ -1,3 +1,60 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20260905fenerbahçebeşiktaş",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_fenerbahçe",
+    "takim_beşiktaş"
+   ],
+   "baslik": "Bitti: Fenerbahçe 1-2 Beşiktaş",
+   "govde": "Süper Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T19:32:12.052Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260905keçiörengücüsmsgrupsarıyer",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_keçiörengücü",
+    "takim_smsgrupsarıyer"
+   ],
+   "baslik": "Bitti: Keçiörengücü 3-0 Sms Grup Sarıyer",
+   "govde": "1. Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T19:32:12.052Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260905pendiksporfutbolümraniyespor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_pendiksporfutbol",
+    "takim_ümraniyespor"
+   ],
+   "baslik": "Sona erdi: Pendikspor Futbol 1-0 Ümraniyespor",
+   "govde": "1. Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T19:32:12.052Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20260905bursayıldırımsöke197002",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_bursayıldırım",
+    "takim_söke1970"
+   ],
+   "baslik": "Bitti: Bursa Yıldırım 1-0 Söke 1970",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T19:32:12.053Z"
+  }
+ ]
 }
