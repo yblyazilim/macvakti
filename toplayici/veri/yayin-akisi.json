@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-05T09:02:59.125Z",
- "adet": 850,
+ "guncellendi": "2026-09-05T12:39:13.021Z",
+ "adet": 851,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 850,
+   "adet": 851,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -4415,37 +4415,26 @@
   {
    "kanal": "S SPORT 2",
    "dijital": false,
-   "baslik": "Made In Italy",
+   "baslik": "Fenerbahçe Tarfin - Olimpia Milano",
    "baslangicUtc": "2026-09-06T15:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "World Of Free Sports",
-   "baslangicUtc": "2026-09-06T15:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Bologna - Sassuolo",
-   "baslangicUtc": "2026-09-06T16:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
    "takimlar": [
-    "Bologna",
-    "Sassuolo"
+    "Fenerbahçe Tarfin",
+    "Olimpia Milano"
    ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT 2",
+   "dijital": false,
+   "baslik": "Super Cars 2026",
+   "baslangicUtc": "2026-09-06T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
@@ -6170,6 +6159,28 @@
    "dijital": false,
    "baslik": "Auto Life",
    "baslangicUtc": "2026-09-12T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Brand & Sport Summit",
+   "baslangicUtc": "2026-09-12T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-09-12T11:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
