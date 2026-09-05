@@ -1,3 +1,72 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20260905erzurumsporkonyaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_erzurumspor",
+    "takim_konyaspor"
+   ],
+   "baslik": "Erzurumspor 1-0 Konyaspor · Maç sona erdi",
+   "govde": "Süper Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T17:39:58.029Z"
+  },
+  {
+   "macId": "futbol:tff:KSL:20260905ankarabüyükşehirbelediyesifomgetgire",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_ankarabüyükşehirbelediyesifomget",
+    "takim_giresunsanayispor"
+   ],
+   "baslik": "Bitti: Ankara Büyükşehir Belediyesi Fomget 23-0 Giresun Sanayispor",
+   "govde": "Kadın Futbol Süper Ligi · 2. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T17:39:58.029Z"
+  },
+  {
+   "macId": "futbol:tff:KSL:20260905sultanbeyligücüsafimclbentonitünyeka",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_sultanbeyligücü",
+    "takim_safimclbentonitünyekadın"
+   ],
+   "baslik": "Bitti: Sultanbeyli Gücü 4-2 Safi Mcl Bentonit Ünye Kadın",
+   "govde": "Kadın Futbol Süper Ligi · 2. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T17:39:58.029Z"
+  },
+  {
+   "macId": "hentbol:thf:3064",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_güneysuspor",
+    "takim_trabzonbüyükşehirbel"
+   ],
+   "baslik": "Bitti: Güneysuspor 25-25 Trabzon Büyükşehir Bel.",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T17:39:58.029Z"
+  },
+  {
+   "macId": "hentbol:thf:3067",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_mihalıççıkbelediyesi",
+    "takim_nilüferbelediyesi"
+   ],
+   "baslik": "Bitti: Mihalıççık Belediyesi 29-27 Nilüfer Belediyesi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T17:39:58.029Z"
+  }
+ ]
 }
