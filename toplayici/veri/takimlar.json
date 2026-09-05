@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-05T04:57:41.454Z",
+ "guncellendi": "2026-09-05T09:03:12.795Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 287,
+ "takimSayisi": 285,
  "branslar": [
   {
    "k": "basketbol",
@@ -187,33 +187,6 @@
    "ad": "Futbol",
    "ligler": [
     {
-     "id": "971-02",
-     "ad": "3. Lig 02 Grubu",
-     "takimlar": [
-      "1922aksehir",
-      "aksehir",
-      "alanya1221futbol",
-      "altay",
-      "ayvalikgucubelediyespor",
-      "balikesirspor",
-      "bigaspor",
-      "bucaspor",
-      "bucaspor1928",
-      "bursaniluferfutbol",
-      "bursayildirim",
-      "denizliidmanyurdu1959",
-      "eskisehiranadolusporfaaliyetleri",
-      "eskisehirspor",
-      "etimesgut",
-      "gaziemirgogsporyat",
-      "gemliksumerbeyfutbolspor",
-      "karsiyaka",
-      "kepezsporfutbol",
-      "soke1970",
-      "usakspor"
-     ]
-    },
-    {
      "id": "142",
      "ad": "1. Lig",
      "takimlar": [
@@ -237,6 +210,32 @@
       "smsgrupsariyer",
       "umraniyespor",
       "vanspor"
+     ]
+    },
+    {
+     "id": "971-02",
+     "ad": "3. Lig 02 Grubu",
+     "takimlar": [
+      "1922aksehir",
+      "aksehir",
+      "alanya1221futbol",
+      "altay",
+      "ayvalikgucubelediyespor",
+      "balikesirspor",
+      "bigaspor",
+      "bucaspor",
+      "bucaspor1928",
+      "bursayildirim",
+      "denizliidmanyurdu1959",
+      "eskisehiranadolusporfaaliyetleri",
+      "eskisehirspor",
+      "etimesgut",
+      "gaziemirgogsporyat",
+      "gemliksumerbeyfutbolspor",
+      "karsiyaka",
+      "kepezsporfutbol",
+      "soke1970",
+      "usakspor"
      ]
     },
     {
@@ -308,7 +307,6 @@
       "kirikkale",
       "malatyayesilyurt",
       "nigdebelediyesispor",
-      "yazsigortaadaletgucuspor",
       "yenimalatyaspor",
       "yenimersinidmanyurdufutbol",
       "yozgatbelediyesibozokspor"
@@ -948,6 +946,15 @@
     "stat": "Yenikent ASAŞ Stadyumu"
    }
   },
+  "arkentarnavutkoybelediyesifutbol": {
+   "ad": "Arkent Arnavutköy Belediyesi Futbol",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Beyaz"
+   ]
+  },
   "arnavutkoybelediyesifutbol": {
    "ad": "Arnavutköy Belediyesi Futbol",
    "branslar": [
@@ -1356,6 +1363,15 @@
     "futbol:971-01"
    ]
   },
+  "kdzeregli1980": {
+   "ad": "Kdz.Ereğli 1980",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
+   ]
+  },
   "kdzereglibelediyespor": {
    "ad": "Kdz.Ereğli Belediye Spor",
    "branslar": [
@@ -1544,15 +1560,6 @@
     "sehir": "Buca"
    }
   },
-  "bursaniluferfutbol": {
-   "ad": "Bursa Nilüfer Futbol",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
-   ]
-  },
   "bursayildirim": {
    "ad": "Bursa Yıldırım",
    "branslar": [
@@ -1612,6 +1619,15 @@
     "futbol:971-02"
    ]
   },
+  "gemliksumerbeyfutbolspor": {
+   "ad": "Gemlik Sümerbey Futbol Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-02"
+   ]
+  },
   "karsiyaka": {
    "ad": "Karşıyaka",
    "branslar": [
@@ -1660,6 +1676,15 @@
   },
   "1964silifke": {
    "ad": "1964 Silifke",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-03"
+   ]
+  },
+  "adanaadaletgucusporsportiffaaliyetler": {
+   "ad": "Adana Adaletgücü Spor Sportif Faaliyetler",
    "branslar": [
     "futbol"
    ],
@@ -1782,15 +1807,6 @@
   },
   "nigdebelediyesispor": {
    "ad": "Niğde Belediyesi Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-03"
-   ]
-  },
-  "yazsigortaadaletgucuspor": {
-   "ad": "Yaz Sigorta Adaletgücü Spor",
    "branslar": [
     "futbol"
    ],
@@ -3325,42 +3341,6 @@
    ],
    "ligler": [
     "hentbol:diger"
-   ]
-  },
-  "adanaadaletgucusporsportiffaaliyetler": {
-   "ad": "Adana Adaletgücü Spor Sportif Faaliyetler",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-03"
-   ]
-  },
-  "kdzeregli1980": {
-   "ad": "Kdz.Ereğli 1980",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ]
-  },
-  "gemliksumerbeyfutbolspor": {
-   "ad": "Gemlik Sümerbey Futbol Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
-   ]
-  },
-  "arkentarnavutkoybelediyesifutbol": {
-   "ad": "Arkent Arnavutköy Belediyesi Futbol",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Beyaz"
    ]
   },
   "manisabuyuksehirbelediye": {
