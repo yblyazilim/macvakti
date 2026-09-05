@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-05T19:32:12.075Z",
+ "guncellendi": "2026-09-05T21:38:38.079Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 285,
+ "takimSayisi": 276,
  "branslar": [
   {
    "k": "basketbol",
@@ -391,23 +391,14 @@
      "id": "diger",
      "ad": "Diğer",
      "takimlar": [
-      "armadapraxisyalikavak",
       "besiktasjimnastik",
-      "beykozbelediyesi",
-      "bursabuyuksehirbelediyesi",
-      "giresunspor",
       "goztepe",
       "guneysuspor",
-      "istanbulgenclik",
       "manisabuyuksehirbelediye",
-      "mcsistemyozgatgsk",
       "mihaliccikbelediyesi",
       "niluferbelediyesi",
-      "odunpazari",
       "ortahisarbelediyesi",
-      "sportoto",
-      "trabzonbuyuksehirbel",
-      "uskudarbelediyesi"
+      "trabzonbuyuksehirbel"
      ]
     }
    ]
@@ -3203,26 +3194,8 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "bursabuyuksehirbelediyesi": {
-   "ad": "Bursa Büyükşehir Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "mcsistemyozgatgsk": {
-   "ad": "Mc Sistem Yozgat Gsk",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "istanbulgenclik": {
-   "ad": "İstanbul Gençlik",
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
    "branslar": [
     "hentbol"
    ],
@@ -3230,26 +3203,12 @@
     "hentbol:diger"
    ],
    "kunye": {
-    "kurulus": 2024,
-    "sehir": "İstanbul"
+    "kurulus": 1994,
+    "sehir": "Manisa"
    }
   },
-  "giresunspor": {
-   "ad": "Giresunspor",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1967,
-    "sehir": "Giresun",
-    "stat": "Giresun Atatürk Stadyumu"
-   }
-  },
-  "beykozbelediyesi": {
-   "ad": "Beykoz Belediyesi",
+  "ortahisarbelediyesi": {
+   "ad": "Ortahisar Belediyesi",
    "branslar": [
     "hentbol"
    ],
@@ -3257,8 +3216,8 @@
     "hentbol:diger"
    ]
   },
-  "odunpazari": {
-   "ad": "Odunpazarı",
+  "trabzonbuyuksehirbel": {
+   "ad": "Trabzon Büyükşehir Bel.",
    "branslar": [
     "hentbol"
    ],
@@ -3266,8 +3225,8 @@
     "hentbol:diger"
    ]
   },
-  "uskudarbelediyesi": {
-   "ad": "Üsküdar Belediyesi",
+  "niluferbelediyesi": {
+   "ad": "Nilüfer Belediyesi",
    "branslar": [
     "hentbol"
    ],
@@ -3275,8 +3234,8 @@
     "hentbol:diger"
    ]
   },
-  "sportoto": {
-   "ad": "Spor Toto",
+  "mihaliccikbelediyesi": {
+   "ad": "Mihalıççık Belediyesi",
    "branslar": [
     "hentbol"
    ],
@@ -3300,64 +3259,6 @@
   },
   "guneysuspor": {
    "ad": "Güneysuspor",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "trabzonbuyuksehirbel": {
-   "ad": "Trabzon Büyükşehir Bel.",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "mihaliccikbelediyesi": {
-   "ad": "Mihalıççık Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "niluferbelediyesi": {
-   "ad": "Nilüfer Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "armadapraxisyalikavak": {
-   "ad": "Armada Praxıs Yalıkavak",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "manisabuyuksehirbelediye": {
-   "ad": "Manisa Büyükşehir Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1994,
-    "sehir": "Manisa"
-   }
-  },
-  "ortahisarbelediyesi": {
-   "ad": "Ortahisar Belediyesi",
    "branslar": [
     "hentbol"
    ],
