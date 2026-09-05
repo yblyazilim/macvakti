@@ -1,3 +1,83 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20260905bandırmasporboluspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bandırmaspor",
+    "takim_boluspor"
+   ],
+   "baslik": "Sona erdi: Bandırma Spor 6-0 Boluspor",
+   "govde": "1. Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T15:41:00.958Z"
+  },
+  {
+   "macId": "hentbol:thf:3063",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_sportoto",
+    "takim_beşiktaşjimnastik"
+   ],
+   "baslik": "Sona erdi: Spor Toto 27-36 Beşiktaş Jimnastik",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T15:41:00.959Z"
+  },
+  {
+   "macId": "hentbol:thf:3065",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_göztepe",
+    "takim_istanbulgençlik"
+   ],
+   "baslik": "Göztepe 29-32 İstanbul Gençlik · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T15:41:00.959Z"
+  },
+  {
+   "macId": "hentbol:thf:3066",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_giresunspor",
+    "takim_beykozbelediyesi"
+   ],
+   "baslik": "Sona erdi: Giresunspor 43-40 Beykoz Belediyesi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T15:41:00.959Z"
+  },
+  {
+   "macId": "hentbol:thf:3148",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_odunpazarı",
+    "takim_üsküdarbelediyesi"
+   ],
+   "baslik": "Bitti: Odunpazarı 24-28 Üsküdar Belediyesi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T15:41:00.959Z"
+  },
+  {
+   "macId": "hentbol:thf:3151",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_armadapraxısyalıkavak",
+    "takim_göztepe"
+   ],
+   "baslik": "Bitti: Armada Praxıs Yalıkavak 32-24 Göztepe",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-05T15:41:00.959Z"
+  }
+ ]
 }
