@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20260905bandırmasporboluspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bandırmaspor",
+    "takim_boluspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Bandırma Spor - Boluspor karşılaşması beIN Sports, TRT Spor ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-06T01:27:57.657Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260905keçiörengücüsmsgrupsarıyer",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_keçiörengücü",
+    "takim_smsgrupsarıyer"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Keçiörengücü - Sms Grup Sarıyer karşılaşması beIN Sports, TRT Spor ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-06T01:27:57.657Z"
+  }
+ ]
 }
