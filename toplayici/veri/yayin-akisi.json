@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-06T06:12:55.834Z",
- "adet": 724,
+ "guncellendi": "2026-09-06T10:59:47.775Z",
+ "adet": 732,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 724,
+   "adet": 732,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'dan Futbol",
@@ -5497,6 +5497,94 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-09-13T06:20:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-13T07:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-09-13T07:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Taha Erpulat İle Pilates",
+   "baslangicUtc": "2026-09-13T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Spor ve Çocuk",
+   "baslangicUtc": "2026-09-13T08:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-13T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Auto Life",
+   "baslangicUtc": "2026-09-13T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-09-13T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "İzlanda - Türkiye , Fıba 2027 Basketbol Dünya Kupası Eleme Maçı",
@@ -5777,13 +5865,13 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Fıba Kadınlar Basketbol Dünya Kupası İtalya - Abd",
+   "baslik": "İtalya - Abd",
    "baslangicUtc": "2026-09-06T18:40:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Fıba Kadınlar Basketbol Dünya Kupası İtalya",
+    "İtalya",
     "Abd"
    ],
    "kaynak": "tvplus"
@@ -6864,14 +6952,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşmasılask - Celtıc",
+   "baslik": "Lask - Celtic",
    "baslangicUtc": "2026-09-06T10:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşmasılask",
-    "Celtıc"
+    "Lask",
+    "Celtic"
    ],
    "kaynak": "tvplus"
   },
@@ -6889,13 +6977,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşması Nk Jeice - S. Bratislava",
+   "baslik": "Nk Jeice - S. Bratislava",
    "baslangicUtc": "2026-09-06T14:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşması Nk Jeice",
+    "Nk Jeice",
     "S. Bratislava"
    ],
    "kaynak": "tvplus"
@@ -6903,13 +6991,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "İtalya Kupasıfutbol Karşılaşmasıcaglıarı - Hellas Verona",
+   "baslik": "Cagliari - Hellas Verona",
    "baslangicUtc": "2026-09-06T16:10:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "İtalya Kupasıfutbol Karşılaşmasıcaglıarı",
+    "Cagliari",
     "Hellas Verona"
    ],
    "kaynak": "tvplus"
@@ -6928,13 +7016,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Fıfa 2026 Dünya Kupası Final Futbol Karşılaşmasıispanya - Arjantin",
+   "baslik": "İspanya - Arjantin",
    "baslangicUtc": "2026-09-06T18:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Fıfa 2026 Dünya Kupası Final Futbol Karşılaşmasıispanya",
+    "İspanya",
     "Arjantin"
    ],
    "kaynak": "tvplus"
