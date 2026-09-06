@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-06T01:27:57.677Z",
+ "guncellendi": "2026-09-06T06:13:11.358Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 276,
+ "takimSayisi": 274,
  "branslar": [
   {
    "k": "basketbol",
@@ -247,7 +247,6 @@
       "aliagafutbol",
       "ankaraspor",
       "arkentarnavutkoybelediyesifutbol",
-      "arnavutkoybelediyesifutbol",
       "corluspor1947",
       "eforcayerbaaspor",
       "gmgkastamonuspor",
@@ -278,7 +277,6 @@
       "karabukidmanyurduspor",
       "kartalbulvarkartalimenspor",
       "kdzeregli1980",
-      "kdzereglibelediyespor",
       "kucukcekmecesinopspor",
       "orduspor1967",
       "pazarspor",
@@ -946,15 +944,6 @@
     "futbol:976-Beyaz"
    ]
   },
-  "arnavutkoybelediyesifutbol": {
-   "ad": "Arnavutköy Belediyesi Futbol",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Beyaz"
-   ]
-  },
   "eforcayerbaaspor": {
    "ad": "Efor Çay Erbaaspor",
    "branslar": [
@@ -1356,15 +1345,6 @@
   },
   "kdzeregli1980": {
    "ad": "Kdz.Ereğli 1980",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ]
-  },
-  "kdzereglibelediyespor": {
-   "ad": "Kdz.Ereğli Belediye Spor",
    "branslar": [
     "futbol"
    ],
