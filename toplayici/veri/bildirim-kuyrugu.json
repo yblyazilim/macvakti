@@ -1,3 +1,130 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20260906trabzonsporgençlerbirliği",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_trabzonspor",
+    "takim_gençlerbirliği"
+   ],
+   "baslik": "Bitti: Trabzonspor 5-0 Gençlerbirliği",
+   "govde": "Süper Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-06T21:13:13.415Z"
+  },
+  {
+   "macId": "futbol:tff:SL:20260906kocaelisporsamsunspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_kocaelispor",
+    "takim_samsunspor"
+   ],
+   "baslik": "Bitti: Kocaelispor 1-0 Samsunspor",
+   "govde": "Süper Lig · 4. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-06T21:13:13.415Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260906antalyasporsivasspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_antalyaspor",
+    "takim_sivasspor"
+   ],
+   "baslik": "Bitti: Antalyaspor 1-2 Sivasspor",
+   "govde": "1. Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-06T21:13:13.415Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260906batmanpetrolsporkaragümrük",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_batmanpetrolspor",
+    "takim_karagümrük"
+   ],
+   "baslik": "Bitti: Batman Petrol Spor 4-3 Karagümrük",
+   "govde": "1. Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-06T21:13:13.415Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260906muğlasporvanspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_muğlaspor",
+    "takim_vanspor"
+   ],
+   "baslik": "Sona erdi: Muğlaspor 2-2 Van Spor",
+   "govde": "1. Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-06T21:13:13.415Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20260906menemeninegölkafkasbeyaz",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_menemen",
+    "takim_inegölkafkas"
+   ],
+   "baslik": "Sona erdi: Menemen 1-3 İnegöl Kafkas",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-06T21:13:13.415Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20260906ısbaşısparta32adanademirsporbeyaz",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_ısbaşısparta32",
+    "takim_adanademirspor"
+   ],
+   "baslik": "Sona erdi: Isbaş Isparta 32 1-2 Adana Demirspor",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-06T21:13:13.415Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20260906şanlıurfasporankarasporbeyaz",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_şanlıurfaspor",
+    "takim_ankaraspor"
+   ],
+   "baslik": "Bitti: Şanlıurfaspor 1-0 Ankaraspor",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-06T21:13:13.415Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20260906sezaçimentoelazığsporsebatbeyaz",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_sezaçimentoelazığspor",
+    "takim_sebat"
+   ],
+   "baslik": "Sona erdi: Seza Çimento Elazığspor 3-1 Sebat",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-06T21:13:13.415Z"
+  }
+ ]
 }
