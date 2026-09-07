@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20260907istanbulsporığdır",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_istanbulspor",
+    "takim_ığdır"
+   ],
+   "baslik": "Sona erdi: İstanbulspor 1-2 Iğdır",
+   "govde": "1. Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-07T16:19:05.229Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260907esenlereroksporkayserispor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_esenlererokspor",
+    "takim_kayserispor"
+   ],
+   "baslik": "Bitti: Esenler Erokspor 0-3 Kayserispor",
+   "govde": "1. Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-07T16:19:05.229Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20260906ayososmaniyesporadanaadaletgücüspors",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_ayososmaniyespor",
+    "takim_adanaadaletgücüsporsportiffaaliyetler"
+   ],
+   "baslik": "Ayos Osmaniyespor 3-2 Adana Adaletgücü Spor Sportif Faaliyetler · Maç sona erdi",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-07T16:19:05.229Z"
+  }
+ ]
 }

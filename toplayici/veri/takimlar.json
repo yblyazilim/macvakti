@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-07T10:48:58.946Z",
+ "guncellendi": "2026-09-07T16:19:06.301Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 279,
+ "takimSayisi": 280,
  "branslar": [
   {
    "k": "basketbol",
@@ -371,6 +371,7 @@
       "giresunsanayispor",
       "hakkarigucuspor",
       "haymana",
+      "karademirgrupkayserikadin",
       "kayserikadin",
       "safimclbentonitunyekadin",
       "silebilgidogasportifyatirimhizmetleri",
@@ -3226,6 +3227,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "karademirgrupkayserikadin": {
+   "ad": "Karademir Grup Kayseri Kadın",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
    ]
   },
   "besiktasjimnastik": {

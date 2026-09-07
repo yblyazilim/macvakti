@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-07T10:48:58.878Z",
- "adet": 766,
+ "guncellendi": "2026-09-07T16:19:05.173Z",
+ "adet": 777,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 766,
+   "adet": 777,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -5671,6 +5671,39 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-09-14T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-09-14T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-09-14T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Bisiklet / Tour Of İstanbul",
@@ -6089,7 +6122,7 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Elmas Lig Zürih",
+   "baslik": "Elmas Lig Brüksel",
    "baslangicUtc": "2026-09-08T04:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -6136,8 +6169,8 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Kuralına Göre Oyna",
-   "baslangicUtc": "2026-09-08T08:45:00.000Z",
+   "baslik": "Spor Her Yerde",
+   "baslangicUtc": "2026-09-08T09:05:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -6147,29 +6180,7 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Haber Bülteni",
-   "baslangicUtc": "2026-09-08T09:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Sporun İkonları",
-   "baslangicUtc": "2026-09-08T09:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Sail GP",
+   "baslik": "Kadraj",
    "baslangicUtc": "2026-09-08T09:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -6180,8 +6191,19 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
+   "baslik": "Haber Bülteni",
+   "baslangicUtc": "2026-09-08T09:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
    "baslik": "Tenis Dünyası",
-   "baslangicUtc": "2026-09-08T10:30:00.000Z",
+   "baslangicUtc": "2026-09-08T09:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -6191,19 +6213,8 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Spor Her Yerde",
-   "baslangicUtc": "2026-09-08T10:45:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Yapabilir Misin?",
-   "baslangicUtc": "2026-09-08T11:00:00.000Z",
+   "baslik": "11. Uluslararası Edirne Yarı Maratonu",
+   "baslangicUtc": "2026-09-08T10:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -6224,7 +6235,7 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Açık Hava Sporları",
+   "baslik": "Sail GP",
    "baslangicUtc": "2026-09-08T11:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -6236,28 +6247,6 @@
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Albümdeki Yıldızlar",
-   "baslangicUtc": "2026-09-08T12:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Spor Her Yerde",
-   "baslangicUtc": "2026-09-08T12:40:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Avrupa Para Yüzme Şampiyonası",
    "baslangicUtc": "2026-09-08T12:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -6268,8 +6257,8 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Tenis Dünyası",
-   "baslangicUtc": "2026-09-08T16:45:00.000Z",
+   "baslik": "Olimpiyat Yıldızları",
+   "baslangicUtc": "2026-09-08T13:20:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -6280,7 +6269,7 @@
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Açık Hava Sporları",
-   "baslangicUtc": "2026-09-08T17:00:00.000Z",
+   "baslangicUtc": "2026-09-08T13:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -6290,8 +6279,8 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Yapabilir Misin?",
-   "baslangicUtc": "2026-09-08T17:25:00.000Z",
+   "baslik": "Avrupa Para Yüzme Şampiyonası",
+   "baslangicUtc": "2026-09-08T13:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -6301,12 +6290,48 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "O Benim Hocam",
+   "baslik": "Tenis Dünyası",
    "baslangicUtc": "2026-09-08T17:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Spor Her Yerde",
+   "baslangicUtc": "2026-09-08T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Albümdeki Yıldızlar",
+   "baslangicUtc": "2026-09-08T18:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Türkiye - İtalya",
+   "baslangicUtc": "2026-09-08T18:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Türkiye",
+    "İtalya"
+   ],
    "kaynak": "tvplus"
   },
   {
@@ -7525,36 +7550,19 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Fıfa 2026 Dünya Kupası 3.lük Maçı Futbol Karşılaşmasıfransa - İngiltere",
+   "baslik": "Contenders",
    "baslangicUtc": "2026-09-08T06:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": [
-    "Fıfa 2026 Dünya Kupası 3.lük Maçı Futbol Karşılaşmasıfransa",
-    "İngiltere"
-   ],
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Play Off 1.tur Futbol Karşılaşmasıfenerbahçe - Lyon",
-   "baslangicUtc": "2026-09-08T08:40:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Uefa Şampiyonlar Ligi Play Off 1.tur Futbol Karşılaşmasıfenerbahçe",
-    "Lyon"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Dünya Kupalarında Efsaneler",
-   "baslangicUtc": "2026-09-08T10:20:00.000Z",
+   "baslik": "Elmas Lig",
+   "baslangicUtc": "2026-09-08T07:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7564,21 +7572,10 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Yapabilir Misin?",
-   "baslangicUtc": "2026-09-08T10:25:00.000Z",
+   "baslik": "Şampiyonlar Ligi Özetler",
+   "baslangicUtc": "2026-09-08T09:25:00.000Z",
    "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Contenders",
-   "baslangicUtc": "2026-09-08T10:45:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -7587,7 +7584,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşmasılask - Celtıc",
-   "baslangicUtc": "2026-09-08T11:10:00.000Z",
+   "baslangicUtc": "2026-09-08T10:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7600,69 +7597,8 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Sporun İkonları",
-   "baslangicUtc": "2026-09-08T13:25:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Lyon - Fenerbahçe , Uefa Şampiyonlar Ligi Play Off Maçı",
-   "baslangicUtc": "2026-09-08T13:50:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Lyon",
-    "Fenerbahçe , Uefa Şampiyonlar Ligi Play Off Maçı"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Şampiyonlar Ligi Özetler",
-   "baslangicUtc": "2026-09-08T15:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşması Nk Jeice - S. Bratislava",
-   "baslangicUtc": "2026-09-08T16:20:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşması Nk Jeice",
-    "S. Bratislava"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Futbolun En Büyük Sahnesi",
-   "baslangicUtc": "2026-09-08T18:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
    "baslik": "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşmasıbodo Glımt - Nec Nıjmegen",
-   "baslangicUtc": "2026-09-08T18:55:00.000Z",
+   "baslangicUtc": "2026-09-08T12:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7675,12 +7611,76 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Contenders",
-   "baslangicUtc": "2026-09-08T20:35:00.000Z",
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-09-08T14:10:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Play Off 1.tur Futbol Karşılaşmasıfenerbahçe - Lyon",
+   "baslangicUtc": "2026-09-08T14:35:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Play Off 1.tur Futbol Karşılaşmasıfenerbahçe",
+    "Lyon"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-09-08T16:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "AEK - Lask",
+   "baslangicUtc": "2026-09-08T16:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "AEK",
+    "Lask"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Road to Glory",
+   "baslangicUtc": "2026-09-08T18:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Real Madrid - Inter",
+   "baslangicUtc": "2026-09-08T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Real Madrid",
+    "Inter"
+   ],
    "kaynak": "tvplus"
   },
   {
@@ -7692,6 +7692,148 @@
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-09-09T06:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-09-09T06:55:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıclub Brugge - Aston Vılla",
+   "baslangicUtc": "2026-09-09T07:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Şampiyonlar Ligi Futbol Karşılaşmasıclub Brugge",
+    "Aston Vılla"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıaek - Lask",
+   "baslangicUtc": "2026-09-09T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıaek",
+    "Lask"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-09-09T10:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıporto - Manchester Cıty",
+   "baslangicUtc": "2026-09-09T11:05:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıporto",
+    "Manchester Cıty"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıborussıa Dortmund - Vıllarreal",
+   "baslangicUtc": "2026-09-09T12:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıborussıa Dortmund",
+    "Vıllarreal"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-09-09T14:35:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasılılle - Real Betıs",
+   "baslangicUtc": "2026-09-09T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasılılle",
+    "Real Betıs"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Barcelona - Feyenoord",
+   "baslangicUtc": "2026-09-09T16:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Barcelona",
+    "Feyenoord"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Liverpool - Atletico Madrid",
+   "baslangicUtc": "2026-09-09T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Liverpool",
+    "Atletico Madrid"
+   ],
    "kaynak": "tvplus"
   },
   {
