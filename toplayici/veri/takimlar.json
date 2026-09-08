@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-08T18:13:24.258Z",
+ "guncellendi": "2026-09-08T21:12:32.051Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 280,
@@ -3180,28 +3180,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "manisabuyuksehirbelediye": {
-   "ad": "Manisa Büyükşehir Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1994,
-    "sehir": "Manisa"
-   }
-  },
-  "ortahisarbelediyesi": {
-   "ad": "Ortahisar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "mihaliccikbelediyesi": {
    "ad": "Mihalıççık Belediyesi",
    "branslar": [
@@ -3261,6 +3239,15 @@
     "hentbol:diger"
    ]
   },
+  "ortahisarbelediyesi": {
+   "ad": "Ortahisar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "odunpazari": {
    "ad": "Odunpazarı",
    "branslar": [
@@ -3269,6 +3256,19 @@
    "ligler": [
     "hentbol:diger"
    ]
+  },
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1994,
+    "sehir": "Manisa"
+   }
   },
   "armadapraxisyalikavak": {
    "ad": "Armada Praxıs Yalıkavak",
