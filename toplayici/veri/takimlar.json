@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-08T05:31:32.831Z",
+ "guncellendi": "2026-09-08T10:09:44.600Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 280,
@@ -3202,6 +3202,15 @@
     "hentbol:diger"
    ]
   },
+  "mihaliccikbelediyesi": {
+   "ad": "Mihalıççık Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "trabzonbuyuksehirbel": {
    "ad": "Trabzon Büyükşehir Bel.",
    "branslar": [
@@ -3213,15 +3222,6 @@
   },
   "niluferbelediyesi": {
    "ad": "Nilüfer Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "mihaliccikbelediyesi": {
-   "ad": "Mihalıççık Belediyesi",
    "branslar": [
     "hentbol"
    ],

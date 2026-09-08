@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-08T05:31:18.981Z",
- "adet": 689,
+ "guncellendi": "2026-09-08T10:09:44.537Z",
+ "adet": 696,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 689,
+   "adet": 696,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Bayern Münih Dev Maçlar",
@@ -5168,6 +5168,105 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-09-15T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Taha Erpulat İle Pilates",
+   "baslangicUtc": "2026-09-15T06:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-15T06:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-09-15T07:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Taha Erpulat İle Pilates",
+   "baslangicUtc": "2026-09-15T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Spor ve Çocuk",
+   "baslangicUtc": "2026-09-15T08:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-15T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-09-15T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-15T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Yapabilir Misin?",
@@ -5429,7 +5528,7 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Albümdeki Yıldızlar",
+   "baslik": "Yapabilir Misin?",
    "baslangicUtc": "2026-09-08T18:20:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -5454,8 +5553,8 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Yapabilir Misin?",
-   "baslangicUtc": "2026-09-08T21:05:00.000Z",
+   "baslik": "Albümdeki Yıldızlar",
+   "baslangicUtc": "2026-09-08T20:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -5465,7 +5564,18 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Sporun İkonları",
+   "baslik": "Pedalın Senfonisi",
+   "baslangicUtc": "2026-09-08T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Jordan Etkisi",
    "baslangicUtc": "2026-09-08T21:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -5477,7 +5587,7 @@
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Haber Bülteni",
-   "baslangicUtc": "2026-09-08T21:30:00.000Z",
+   "baslangicUtc": "2026-09-08T22:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -5487,52 +5597,22 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Pedalın Senfonisi",
-   "baslangicUtc": "2026-09-08T21:45:00.000Z",
+   "baslik": "Türkiye - İtalya",
+   "baslangicUtc": "2026-09-08T22:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Türkiye",
+    "İtalya"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Elmas Lig Brüksel",
-   "baslangicUtc": "2026-09-08T22:10:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Olimpiyat Yıldızları",
-   "baslangicUtc": "2026-09-09T00:05:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "11. Uluslararası Edirne Yarı Maratonu",
-   "baslangicUtc": "2026-09-09T00:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Albümdeki Yıldızlar",
-   "baslangicUtc": "2026-09-09T01:35:00.000Z",
+   "baslangicUtc": "2026-09-09T00:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -5543,7 +5623,7 @@
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Sail GP",
-   "baslangicUtc": "2026-09-09T02:00:00.000Z",
+   "baslangicUtc": "2026-09-09T02:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -5553,19 +5633,19 @@
   {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Jordan Etkisi",
-   "baslangicUtc": "2026-09-09T03:05:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "O Benim Hocam",
+   "baslik": "Kadraj",
    "baslangicUtc": "2026-09-09T03:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Olimpiyat Yıldızları",
+   "baslangicUtc": "2026-09-09T03:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
