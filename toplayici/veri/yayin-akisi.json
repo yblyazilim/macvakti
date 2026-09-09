@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-09T11:55:54.478Z",
- "adet": 946,
+ "guncellendi": "2026-09-09T18:59:58.675Z",
+ "adet": 950,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 946,
+   "adet": 950,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'dan Futbol",
@@ -2694,13 +2694,13 @@
   {
    "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Cev Eurovolley 2026 Erkekler Voleybol Karşılaşmasıtürkiye - Almanya",
+   "baslik": "Türkiye - Almanya",
    "baslangicUtc": "2026-09-10T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Cev Eurovolley 2026 Erkekler Voleybol Karşılaşmasıtürkiye",
+    "Türkiye",
     "Almanya"
    ],
    "kaynak": "tvplus"
@@ -6806,6 +6806,50 @@
    "baslangicUtc": "2026-09-16T11:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-16T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-09-16T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-16T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-09-16T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
