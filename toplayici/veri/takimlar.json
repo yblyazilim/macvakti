@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-09T23:40:32.375Z",
+ "guncellendi": "2026-09-10T01:41:34.766Z",
  "surum": 1,
- "bransSayisi": 2,
- "takimSayisi": 268,
+ "bransSayisi": 3,
+ "takimSayisi": 280,
  "branslar": [
   {
    "k": "basketbol",
@@ -381,6 +381,31 @@
      ]
     }
    ]
+  },
+  {
+   "k": "hentbol",
+   "ad": "Hentbol",
+   "ligler": [
+    {
+     "id": "diger",
+     "ad": "Diğer",
+     "takimlar": [
+      "armadapraxisyalikavak",
+      "besiktasjimnastik",
+      "bursabuyuksehirbelediyesi",
+      "goztepe",
+      "guneysuspor",
+      "manisabuyuksehirbelediye",
+      "mcsistemyozgatgsk",
+      "mihaliccikbelediyesi",
+      "niluferbelediyesi",
+      "odunpazari",
+      "ortahisarbelediyesi",
+      "trabzonbuyuksehirbel",
+      "uskudarbelediyesi"
+     ]
+    }
+   ]
   }
  ],
  "takimlar": {
@@ -529,11 +554,13 @@
    "ad": "Göztepe",
    "branslar": [
     "basketbol",
-    "futbol"
+    "futbol",
+    "hentbol"
    ],
    "ligler": [
     "basketbol:tbf-TBL",
-    "futbol:198"
+    "futbol:198",
+    "hentbol:diger"
    ],
    "kunye": {
     "kurulus": 1925,
@@ -3153,6 +3180,33 @@
     "basketbol:tbf-KBBL"
    ]
   },
+  "mihaliccikbelediyesi": {
+   "ad": "Mihalıççık Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "trabzonbuyuksehirbel": {
+   "ad": "Trabzon Büyükşehir Bel.",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "niluferbelediyesi": {
+   "ad": "Nilüfer Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "karademirgrupkayserikadin": {
    "ad": "Karademir Grup Kayseri Kadın",
    "branslar": [
@@ -3160,6 +3214,96 @@
    ],
    "ligler": [
     "futbol:1000"
+   ]
+  },
+  "besiktasjimnastik": {
+   "ad": "Beşiktaş Jimnastik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
+  },
+  "guneysuspor": {
+   "ad": "Güneysuspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ortahisarbelediyesi": {
+   "ad": "Ortahisar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "odunpazari": {
+   "ad": "Odunpazarı",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1994,
+    "sehir": "Manisa"
+   }
+  },
+  "armadapraxisyalikavak": {
+   "ad": "Armada Praxıs Yalıkavak",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "mcsistemyozgatgsk": {
+   "ad": "Mc Sistem Yozgat Gsk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "uskudarbelediyesi": {
+   "ad": "Üsküdar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "bursabuyuksehirbelediyesi": {
+   "ad": "Bursa Büyükşehir Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
    ]
   }
  }

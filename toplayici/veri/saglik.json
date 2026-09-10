@@ -1,28 +1,24 @@
 {
- "kontrolZamani": "2026-09-09T23:40:32.418Z",
- "durum": "kirmizi",
- "hataSayisi": 1,
+ "kontrolZamani": "2026-09-10T01:41:34.812Z",
+ "durum": "sari",
+ "hataSayisi": 0,
  "uyariSayisi": 1,
  "bulgular": [
   {
    "seviye": "uyari",
    "baslik": "basketbol boş döndü",
    "detay": "Sezon dışı olabilir; sezon başladıysa ayrıştırıcı kırılmış demektir."
-  },
-  {
-   "seviye": "hata",
-   "baslik": "hentbol kaynağı hata verdi",
-   "detay": "Getirilemedi: https://api.thf.org.tr/api/v1/Public/GetMatchesFromYesterdayAndNextSixDays — dogrudan: HTTP 522 | http: HTTP 522 | araci1: HTTP 522 | araci2: HTTP 522"
   }
  ],
  "ozet": {
-  "toplamMac": 192,
+  "toplamMac": 199,
   "bransBazinda": {
-   "futbol": 192
+   "futbol": 192,
+   "hentbol": 7
   },
   "veriYasiDk": 0,
-  "yayinProgram": 950,
-  "yaklasanMac": 35,
+  "yayinProgram": 819,
+  "yaklasanMac": 38,
   "kanalliYaklasan": 10
  }
 }
