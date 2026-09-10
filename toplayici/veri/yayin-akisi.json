@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-10T12:03:52.232Z",
- "adet": 860,
+ "guncellendi": "2026-09-10T19:10:55.192Z",
+ "adet": 864,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 860,
+   "adet": 864,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa Gecesi",
@@ -5992,6 +5992,50 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-17T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-09-17T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Brand & Sport Summit",
+   "baslangicUtc": "2026-09-17T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-17T18:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "674. Tarihi Elmalı Yağlı Güreşleri",
@@ -8039,71 +8083,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Elmas Lig",
+   "baslik": "PSG - S. Bratislava",
    "baslangicUtc": "2026-09-11T06:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Yapabilir Misin?",
-   "baslangicUtc": "2026-09-11T09:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşmasılask - Celtıc",
-   "baslangicUtc": "2026-09-11T09:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşmasılask",
-    "Celtıc"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Kısa Liste Magazin",
-   "baslangicUtc": "2026-09-11T11:35:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Contenders",
-   "baslangicUtc": "2026-09-11T12:05:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşması Nk Jeice - S. Bratislava",
-   "baslangicUtc": "2026-09-11T12:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşması Nk Jeice",
+    "PSG",
     "S. Bratislava"
    ],
    "kaynak": "tvplus"
@@ -8111,10 +8097,10 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Play Off Özetler",
-   "baslangicUtc": "2026-09-11T14:40:00.000Z",
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-09-11T08:40:00.000Z",
    "sureDk": null,
-   "tur": "tekrar",
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -8122,28 +8108,28 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Lyon - Fenerbahçe , Uefa Şampiyonlar Ligi Play Off Maçı",
-   "baslangicUtc": "2026-09-11T15:30:00.000Z",
+   "baslik": "Napoli - Arsenal",
+   "baslangicUtc": "2026-09-11T09:05:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Lyon",
-    "Fenerbahçe , Uefa Şampiyonlar Ligi Play Off Maçı"
+    "Napoli",
+    "Arsenal"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "İtalya Kupasıfutbol Karşılaşmasıcaglıarı - Hellas Verona",
-   "baslangicUtc": "2026-09-11T17:10:00.000Z",
+   "baslik": "PSV - Shakhtar Donetsk",
+   "baslangicUtc": "2026-09-11T10:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "İtalya Kupasıfutbol Karşılaşmasıcaglıarı",
-    "Hellas Verona"
+    "PSV",
+    "Shakhtar Donetsk"
    ],
    "kaynak": "tvplus"
   },
@@ -8151,7 +8137,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Futbolun En Büyük Sahnesi",
-   "baslangicUtc": "2026-09-11T18:50:00.000Z",
+   "baslangicUtc": "2026-09-11T12:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8161,15 +8147,79 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Coppa Italıa 2.tur Futbol Karşılaşmasıtorıno - Monza",
-   "baslangicUtc": "2026-09-11T19:15:00.000Z",
+   "baslik": "Bayern Münih - Bodo Glimt",
+   "baslangicUtc": "2026-09-11T12:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Coppa Italıa 2.tur Futbol Karşılaşmasıtorıno",
-    "Monza"
+    "Bayern Münih",
+    "Bodo Glimt"
    ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasımanchester Unıted - Sabah",
+   "baslangicUtc": "2026-09-11T14:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasımanchester Unıted",
+    "Sabah"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-09-11T16:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Sporting Cp - Galatasaray , Uefa Şampiyonlar Ligi Maçı",
+   "baslangicUtc": "2026-09-11T16:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Sporting Cp",
+    "Galatasaray , Uefa Şampiyonlar Ligi Maçı"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Fenerbahçe - Roma",
+   "baslangicUtc": "2026-09-11T18:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Fenerbahçe",
+    "Roma"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Şampiyonlar Ligi Özetler",
+   "baslangicUtc": "2026-09-11T20:05:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
