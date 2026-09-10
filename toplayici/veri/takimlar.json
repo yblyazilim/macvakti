@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-10T12:03:52.309Z",
+ "guncellendi": "2026-09-10T16:02:22.421Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 280,
+ "takimSayisi": 281,
  "branslar": [
   {
    "k": "basketbol",
@@ -191,6 +191,7 @@
      "ad": "1. Lig",
      "takimlar": [
       "antalyaspor",
+      "artidegervanspor",
       "bandirmaspor",
       "batmanpetrolspor",
       "bodrum",
@@ -3205,6 +3206,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "artidegervanspor": {
+   "ad": "Artı Değer Van Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
    ]
   },
   "besiktasjimnastik": {

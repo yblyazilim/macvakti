@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-10T12:03:52.295Z",
+ "guncellendi": "2026-09-10T16:02:21.112Z",
  "eksikler": [
   {
    "id": "futbol:tff:KSL:20260905trabzonsporbakırköykadınfutbol",
@@ -107,13 +107,6 @@
    "tarih": "2026-09-12T13:00:00.000Z"
   },
   {
-   "id": "futbol:tff:KSL:20260912fenerbahçearsavevkadınfutboltakımışi",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Fenerbahçe Arsavev Kadın Futbol Takımı - Şile Bilgidoğa Sportif Yatırım Hizmetleri",
-   "tarih": "2026-09-12T13:00:00.000Z"
-  },
-  {
    "id": "futbol:tff:2L:20260912inegölkafkassomasporbeyaz",
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
@@ -161,6 +154,13 @@
    "lig": "3. Lig 02 Grubu",
    "mac": "Söke 1970 - Gaziemir G.O.G. Spor Yat.",
    "tarih": "2026-09-12T13:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20260912fenerbahçearsavevkadınfutboltakımışi",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Fenerbahçe Arsavev Kadın Futbol Takımı - Şile Bilgidoğa Sportif Yatırım Hizmetleri",
+   "tarih": "2026-09-12T14:00:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20260912bakırköykadınfutbolsultanbeyligücü",
@@ -261,13 +261,6 @@
    "tarih": "2026-09-13T12:30:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:2026091312bingölsporankaragücükırmızı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "mac": "12 Bingöl Spor - Ankaragücü",
-   "tarih": "2026-09-13T12:30:00.000Z"
-  },
-  {
    "id": "futbol:tff:3L:20260913halilbayraminşaatkaraköprübelediyesp",
    "brans": "futbol",
    "lig": "3. Lig 03 Grubu",
@@ -303,17 +296,17 @@
    "tarih": "2026-09-13T13:00:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:20260913iskenderunsporkırklarelisporkırmızı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "mac": "İskenderunspor - Kırklarelispor",
-   "tarih": "2026-09-13T13:00:00.000Z"
-  },
-  {
    "id": "futbol:tff:2L:20260913seriksporfutbolsultansuinegölsporkır",
    "brans": "futbol",
    "lig": "2. Lig Kırmızı Grubu",
    "mac": "Serik Spor Futbol - Sultan Su İnegölspor",
+   "tarih": "2026-09-13T13:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260913iskenderunsporkırklarelisporkırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "İskenderunspor - Kırklarelispor",
    "tarih": "2026-09-13T13:00:00.000Z"
   },
   {
@@ -342,6 +335,13 @@
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
    "mac": "Çorlu Spor 1947 - Hatayspor",
+   "tarih": "2026-09-13T13:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:2026091312bingölsporankaragücükırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "12 Bingöl Spor - Ankaragücü",
    "tarih": "2026-09-13T13:30:00.000Z"
   },
   {
