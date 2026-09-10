@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-10T06:43:13.091Z",
+ "guncellendi": "2026-09-10T12:03:52.309Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 280,
@@ -3239,6 +3239,15 @@
     "futbol:1000"
    ]
   },
+  "mcsistemyozgatgsk": {
+   "ad": "Mc Sistem Yozgat Gsk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "ortahisarbelediyesi": {
    "ad": "Ortahisar Belediyesi",
    "branslar": [
@@ -3272,15 +3281,6 @@
   },
   "armadapraxisyalikavak": {
    "ad": "Armada Praxıs Yalıkavak",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "mcsistemyozgatgsk": {
-   "ad": "Mc Sistem Yozgat Gsk",
    "branslar": [
     "hentbol"
    ],
