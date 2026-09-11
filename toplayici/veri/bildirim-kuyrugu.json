@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20260911beşiktaşerzurumspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_beşiktaş",
+    "takim_erzurumspor"
+   ],
+   "baslik": "Bitti: Beşiktaş 3-0 Erzurumspor",
+   "govde": "Süper Lig · 5. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-11T21:28:34.584Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260911smsgrupsarıyerbandırmaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_smsgrupsarıyer",
+    "takim_bandırmaspor"
+   ],
+   "baslik": "Sms Grup Sarıyer 1-1 Bandırma Spor · Maç sona erdi",
+   "govde": "1. Lig · 7. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-11T21:28:34.584Z"
+  }
+ ]
 }
