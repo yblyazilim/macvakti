@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-11T11:53:17.759Z",
+ "guncellendi": "2026-09-11T15:27:19.190Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 281,
+ "takimSayisi": 282,
  "branslar": [
   {
    "k": "basketbol",
@@ -264,6 +264,30 @@
      ]
     },
     {
+     "id": "976-Krmz",
+     "ad": "2. Lig Kırmızı Grubu",
+     "takimlar": [
+      "12bingolspor",
+      "52orduspor",
+      "adana01",
+      "akedaskahramanmarasistiklalspor",
+      "ankarademirspor",
+      "ankaragucu",
+      "beyogluyenicarsisporfaaliyetleri",
+      "ekincileriskenderunspor",
+      "erzincanfutbolyatirimlari",
+      "fethiyespor",
+      "iskenderunspor",
+      "karacabeybelediyespor",
+      "kct1461trabzon",
+      "kirklarelispor",
+      "kutahyasporfutbol",
+      "sakaryaspor",
+      "seriksporfutbol",
+      "sultansuinegolspor"
+     ]
+    },
+    {
      "id": "971-01",
      "ad": "3. Lig 01 Grubu",
      "takimlar": [
@@ -333,29 +357,6 @@
       "rizespor",
       "samsunspor",
       "trabzonspor"
-     ]
-    },
-    {
-     "id": "976-Krmz",
-     "ad": "2. Lig Kırmızı Grubu",
-     "takimlar": [
-      "12bingolspor",
-      "52orduspor",
-      "adana01",
-      "akedaskahramanmarasistiklalspor",
-      "ankarademirspor",
-      "ankaragucu",
-      "beyogluyenicarsisporfaaliyetleri",
-      "erzincanfutbolyatirimlari",
-      "fethiyespor",
-      "iskenderunspor",
-      "karacabeybelediyespor",
-      "kct1461trabzon",
-      "kirklarelispor",
-      "kutahyasporfutbol",
-      "sakaryaspor",
-      "seriksporfutbol",
-      "sultansuinegolspor"
      ]
     },
     {
@@ -3296,6 +3297,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "ekincileriskenderunspor": {
+   "ad": "Ekinciler İskenderunspor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Krmz"
    ]
   },
   "uskudarbelediyesi": {
