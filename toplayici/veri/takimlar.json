@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-12T19:30:34.639Z",
+ "guncellendi": "2026-09-12T21:41:45.287Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 283,
+ "takimSayisi": 277,
  "branslar": [
   {
    "k": "basketbol",
@@ -393,18 +393,12 @@
      "ad": "Diğer",
      "takimlar": [
       "armadapraxisyalikavak",
-      "besiktasjimnastik",
       "bursabuyuksehirbelediyesi",
       "goztepe",
-      "goztepediyetkapimagelsin",
-      "guneysuspor",
       "manisabuyuksehirbelediye",
       "mcsistemyozgatgsk",
-      "mihaliccikbelediyesi",
-      "niluferbelediyesi",
       "odunpazari",
       "ortahisarbelediyesi",
-      "trabzonbuyuksehirbel",
       "uskudarbelediyesi"
      ]
     }
@@ -3192,42 +3186,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "goztepediyetkapimagelsin": {
-   "ad": "Göztepe Diyet Kapıma Gelsin",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "mihaliccikbelediyesi": {
-   "ad": "Mihalıççık Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "trabzonbuyuksehirbel": {
-   "ad": "Trabzon Büyükşehir Bel.",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "niluferbelediyesi": {
-   "ad": "Nilüfer Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "artidegervanspor": {
    "ad": "Artı Değer Van Spor",
    "branslar": [
@@ -3235,29 +3193,6 @@
    ],
    "ligler": [
     "futbol:142"
-   ]
-  },
-  "besiktasjimnastik": {
-   "ad": "Beşiktaş Jimnastik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1903,
-    "sehir": "İstanbul",
-    "stat": "Beşiktaş Stadyumu"
-   }
-  },
-  "guneysuspor": {
-   "ad": "Güneysuspor",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
    ]
   },
   "karademirgrupkayserikadin": {

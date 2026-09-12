@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:3L:20260912karşıyakaaltay02",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_karşıyaka",
+    "takim_altay"
+   ],
+   "baslik": "Karşıyaka 1-1 Altay · Maç sona erdi",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-12T21:41:45.268Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20260912niğdebelediyesisporyozgatbelediyesib",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_niğdebelediyesispor",
+    "takim_yozgatbelediyesibozokspor"
+   ],
+   "baslik": "Sona erdi: Niğde Belediyesi Spor 3-1 Yozgat Belediyesi Bozok Spor",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-12T21:41:45.268Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20260912malatyayeşilyurtkırıkkale03",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_malatyayeşilyurt",
+    "takim_kırıkkale"
+   ],
+   "baslik": "Sona erdi: Malatya Yeşilyurt 3-1 Kırıkkale",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-12T21:41:45.268Z"
+  }
+ ]
 }
