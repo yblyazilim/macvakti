@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-12T11:18:28.182Z",
- "adet": 973,
+ "guncellendi": "2026-09-12T14:21:59.343Z",
+ "adet": 987,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 973,
+   "adet": 987,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -6949,6 +6949,17 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-09-19T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Toprak Razgatlıoğlu Elturko -  Belgesel",
@@ -9258,14 +9269,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşmasılask - Celtıc",
+   "baslik": "Lask - Celtic",
    "baslangicUtc": "2026-09-13T10:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşmasılask",
-    "Celtıc"
+    "Lask",
+    "Celtic"
    ],
    "kaynak": "tvplus"
   },
@@ -9283,13 +9294,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşması Nk Jeice - S. Bratislava",
+   "baslik": "Nk Jeice - S. Bratislava",
    "baslangicUtc": "2026-09-13T14:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Play Off Rövanş Turu Futbol Karşılaşması Nk Jeice",
+    "Nk Jeice",
     "S. Bratislava"
    ],
    "kaynak": "tvplus"
@@ -9297,13 +9308,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "İtalya Kupasıfutbol Karşılaşmasıcaglıarı - Hellas Verona",
+   "baslik": "Cagliari - Hellas Verona",
    "baslangicUtc": "2026-09-13T16:10:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "İtalya Kupasıfutbol Karşılaşmasıcaglıarı",
+    "Cagliari",
     "Hellas Verona"
    ],
    "kaynak": "tvplus"
@@ -9322,13 +9333,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Fıfa 2026 Dünya Kupası Final Futbol Karşılaşmasıispanya - Arjantin",
+   "baslik": "İspanya - Arjantin",
    "baslangicUtc": "2026-09-13T18:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Fıfa 2026 Dünya Kupası Final Futbol Karşılaşmasıispanya",
+    "İspanya",
     "Arjantin"
    ],
    "kaynak": "tvplus"
@@ -9338,6 +9349,167 @@
    "dijital": true,
    "baslik": "Contenders",
    "baslangicUtc": "2026-09-13T20:35:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "TRT Spor Yıldız Ortak Yayın",
+   "baslangicUtc": "2026-09-13T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-09-14T06:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Real Madrid - Inter",
+   "baslangicUtc": "2026-09-14T06:55:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Real Madrid",
+    "Inter"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Sormazsam Olmaz",
+   "baslangicUtc": "2026-09-14T08:35:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Liverpool - Atletico Madrid",
+   "baslangicUtc": "2026-09-14T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Liverpool",
+    "Atletico Madrid"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Şampiyonlar Ligi Özetler",
+   "baslangicUtc": "2026-09-14T10:40:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-09-14T12:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Sporting Cp - Galatasaray",
+   "baslangicUtc": "2026-09-14T13:10:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Sporting Cp",
+    "Galatasaray"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Fenerbahçe - Roma",
+   "baslangicUtc": "2026-09-14T14:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Fenerbahçe",
+    "Roma"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Manchester United - Sabah",
+   "baslangicUtc": "2026-09-14T16:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Manchester United",
+    "Sabah"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-09-14T18:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıpsv - Shakhtar Donetsk",
+   "baslangicUtc": "2026-09-14T18:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıpsv",
+    "Shakhtar Donetsk"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-09-14T20:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,

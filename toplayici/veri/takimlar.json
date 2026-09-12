@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-12T11:18:28.250Z",
+ "guncellendi": "2026-09-12T14:22:00.624Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 282,
+ "takimSayisi": 283,
  "branslar": [
   {
    "k": "basketbol",
@@ -396,6 +396,7 @@
       "besiktasjimnastik",
       "bursabuyuksehirbelediyesi",
       "goztepe",
+      "goztepediyetkapimagelsin",
       "guneysuspor",
       "manisabuyuksehirbelediye",
       "mcsistemyozgatgsk",
@@ -3189,6 +3190,15 @@
    ],
    "ligler": [
     "basketbol:tbf-KBBL"
+   ]
+  },
+  "goztepediyetkapimagelsin": {
+   "ad": "Göztepe Diyet Kapıma Gelsin",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
    ]
   },
   "mihaliccikbelediyesi": {
