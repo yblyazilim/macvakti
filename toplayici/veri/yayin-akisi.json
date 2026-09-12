@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-12T17:25:26.168Z",
- "adet": 989,
+ "guncellendi": "2026-09-12T23:36:25.090Z",
+ "adet": 1072,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 989,
+   "adet": 1072,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -987,6 +987,248 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Takım Oyunu",
+   "baslangicUtc": "2026-09-18T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Avrupa'dan Futbol",
+   "baslangicUtc": "2026-09-18T23:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Avrupa'da Türk Takımları",
+   "baslangicUtc": "2026-09-19T00:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Arşiv Odası",
+   "baslangicUtc": "2026-09-19T01:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Transfer Raporu",
+   "baslangicUtc": "2026-09-19T03:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Avrupa'dan Futbol",
+   "baslangicUtc": "2026-09-19T04:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Sabah Sporu",
+   "baslangicUtc": "2026-09-19T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Avrupa'dan Futbol",
+   "baslangicUtc": "2026-09-19T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Yaşasın Hafta Sonu",
+   "baslangicUtc": "2026-09-19T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Panorama",
+   "baslangicUtc": "2026-09-19T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Spor Gündemi",
+   "baslangicUtc": "2026-09-19T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Maç Günü",
+   "baslangicUtc": "2026-09-19T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Takım Oyunu",
+   "baslangicUtc": "2026-09-19T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Skorbord",
+   "baslangicUtc": "2026-09-19T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Devre Arası",
+   "baslangicUtc": "2026-09-19T16:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Skorbord",
+   "baslangicUtc": "2026-09-19T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Devre Arası",
+   "baslangicUtc": "2026-09-19T17:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Takım Oyunu",
+   "baslangicUtc": "2026-09-19T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "90+1",
+   "baslangicUtc": "2026-09-19T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Devre Arası",
+   "baslangicUtc": "2026-09-19T19:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Skorbord",
+   "baslangicUtc": "2026-09-19T19:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "90+1",
+   "baslangicUtc": "2026-09-19T20:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "S SPORT",
    "dijital": false,
    "baslik": "FIBA Kadınlar Dünya Kupası",
@@ -1583,6 +1825,17 @@
     "Villareal",
     "Real Betis"
    ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "Özetler",
+   "baslangicUtc": "2026-09-19T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
@@ -3405,6 +3658,215 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Giro d'Abruzzo , 4. Etap",
+   "baslangicUtc": "2026-09-18T22:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Tour de Luxembourg , 3. Etap",
+   "baslangicUtc": "2026-09-18T22:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Lone Star Le Mans , Öne Çıkanlar",
+   "baslangicUtc": "2026-09-18T23:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "İngiliz Açık",
+   "baslangicUtc": "2026-09-19T00:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Giro d'Abruzzo , 4. Etap",
+   "baslangicUtc": "2026-09-19T02:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Tour de Luxembourg , 3. Etap",
+   "baslangicUtc": "2026-09-19T03:15:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "İngiliz Açık",
+   "baslangicUtc": "2026-09-19T04:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "T100 World Tour",
+   "baslangicUtc": "2026-09-19T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "İngiliz Açık",
+   "baslangicUtc": "2026-09-19T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Giro d'Abruzzo , 4. Etap",
+   "baslangicUtc": "2026-09-19T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "UCI Dağ Bisikleti Dünya Serisi",
+   "baslangicUtc": "2026-09-19T11:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Tour de Luxembourg , 3. Etap",
+   "baslangicUtc": "2026-09-19T12:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Flandrien 0.0 Classic",
+   "baslangicUtc": "2026-09-19T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Tour de Luxembourg , 4. Etap",
+   "baslangicUtc": "2026-09-19T15:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Tırmanış Dünya Serisi",
+   "baslangicUtc": "2026-09-19T16:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Tırmanış Dünya Serisi",
+   "baslangicUtc": "2026-09-19T17:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "UCI Dağ Bisikleti Dünya Serisi",
+   "baslangicUtc": "2026-09-19T18:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "UCI Dağ Bisikleti Dünya Serisi",
+   "baslangicUtc": "2026-09-19T19:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 1 HD",
+   "dijital": false,
+   "baslik": "Tırmanış Dünya Serisi",
+   "baslangicUtc": "2026-09-19T20:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "EUROSPORT 2 HD",
    "dijital": false,
    "baslik": "İngiliz Açık",
@@ -4883,6 +5345,193 @@
    "dijital": false,
    "baslik": "Biltmore Championship , 2. Gün",
    "baslangicUtc": "2026-09-18T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "İngiliz Açık",
+   "baslangicUtc": "2026-09-18T22:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Giro d'Abruzzo , 4. Etap",
+   "baslangicUtc": "2026-09-18T23:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "UCI Dağ Bisikleti Dünya Serisi",
+   "baslangicUtc": "2026-09-19T00:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Tour de Luxembourg , 3. Etap",
+   "baslangicUtc": "2026-09-19T01:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "İngiliz Açık",
+   "baslangicUtc": "2026-09-19T02:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Tırmanış Dünya Serisi",
+   "baslangicUtc": "2026-09-19T03:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Giro d'Abruzzo , 4. Etap",
+   "baslangicUtc": "2026-09-19T04:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Tour de Luxembourg , 3. Etap",
+   "baslangicUtc": "2026-09-19T05:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Suzuka 8 Saat",
+   "baslangicUtc": "2026-09-19T06:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Giro d'Abruzzo , 4. Etap",
+   "baslangicUtc": "2026-09-19T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "UCI Dağ Bisikleti Dünya Serisi",
+   "baslangicUtc": "2026-09-19T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Tour de Luxembourg , 3. Etap",
+   "baslangicUtc": "2026-09-19T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Tırmanış Dünya Serisi",
+   "baslangicUtc": "2026-09-19T10:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Tırmanış Dünya Serisi",
+   "baslangicUtc": "2026-09-19T11:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Bol d'Or",
+   "baslangicUtc": "2026-09-19T12:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Biltmore Championship , 3. Gün",
+   "baslangicUtc": "2026-09-19T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "EUROSPORT 2 HD",
+   "dijital": false,
+   "baslik": "Bol d'Or",
+   "baslangicUtc": "2026-09-19T20:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -6975,6 +7624,28 @@
    "dijital": false,
    "baslik": "EHF Euro",
    "baslangicUtc": "2026-09-19T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-09-19T18:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-09-19T21:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9079,6 +9750,94 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Gece Yarısı",
+   "baslangicUtc": "2026-09-19T01:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Kürsü",
+   "baslangicUtc": "2026-09-19T02:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Hafta Sonu Haber",
+   "baslangicUtc": "2026-09-19T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Haber Bülteni",
+   "baslangicUtc": "2026-09-19T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Spor Hattı",
+   "baslangicUtc": "2026-09-19T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Ana Haber Bülteni",
+   "baslangicUtc": "2026-09-19T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Nokta Transfer",
+   "baslangicUtc": "2026-09-19T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Gece Yarısı",
+   "baslangicUtc": "2026-09-19T20:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "TRT Spor Yıldız Ortak Yayın",
@@ -9532,6 +10291,178 @@
    "dijital": true,
    "baslik": "Futbolun En Büyük Sahnesi",
    "baslangicUtc": "2026-09-14T20:25:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "TRT Spor Yıldız Ortak Yayın",
+   "baslangicUtc": "2026-09-14T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-09-15T06:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıaek - Lask",
+   "baslangicUtc": "2026-09-15T06:55:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıaek",
+    "Lask"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Pedalın Senfonisi",
+   "baslangicUtc": "2026-09-15T08:35:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıborussıa Dortmund - Vıllarreal",
+   "baslangicUtc": "2026-09-15T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıborussıa Dortmund",
+    "Vıllarreal"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Şampiyonlar Ligi Özetler",
+   "baslangicUtc": "2026-09-15T10:40:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-09-15T12:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasınapoli - Arsenal",
+   "baslangicUtc": "2026-09-15T13:10:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasınapoli",
+    "Arsenal"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıpsg - S.bratıslava",
+   "baslangicUtc": "2026-09-15T14:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıpsg",
+    "S.bratıslava"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıstuttgart - Vıkıng",
+   "baslangicUtc": "2026-09-15T16:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıstuttgart",
+    "Vıkıng"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-09-15T18:10:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıreal Madrıd - Inter",
+   "baslangicUtc": "2026-09-15T18:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıreal Madrıd",
+    "Inter"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-09-15T20:25:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "TRT Spor Yıldız Ortak Yayın",
+   "baslangicUtc": "2026-09-16T02:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
