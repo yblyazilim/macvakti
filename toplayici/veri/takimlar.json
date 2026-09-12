@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-12T01:40:51.373Z",
+ "guncellendi": "2026-09-12T06:33:08.168Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 282,
@@ -1147,6 +1147,15 @@
   },
   "beyogluyenicarsisporfaaliyetleri": {
    "ad": "Beyoğlu Yeni Çarşı Spor Faaliyetleri",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Krmz"
+   ]
+  },
+  "ekincileriskenderunspor": {
+   "ad": "Ekinciler İskenderunspor",
    "branslar": [
     "futbol"
    ],
@@ -3297,15 +3306,6 @@
    ],
    "ligler": [
     "hentbol:diger"
-   ]
-  },
-  "ekincileriskenderunspor": {
-   "ad": "Ekinciler İskenderunspor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Krmz"
    ]
   },
   "uskudarbelediyesi": {
