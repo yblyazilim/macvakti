@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-13T01:25:19.583Z",
+ "guncellendi": "2026-09-13T06:46:59.913Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 277,
+ "takimSayisi": 275,
  "branslar": [
   {
    "k": "basketbol",
@@ -214,32 +214,6 @@
      ]
     },
     {
-     "id": "971-02",
-     "ad": "3. Lig 02 Grubu",
-     "takimlar": [
-      "1922aksehir",
-      "aksehir",
-      "alanya1221futbol",
-      "altay",
-      "ayvalikgucubelediyespor",
-      "balikesirspor",
-      "bigaspor",
-      "bucaspor",
-      "bucaspor1928",
-      "bursayildirim",
-      "denizliidmanyurdu1959",
-      "eskisehiranadolusporfaaliyetleri",
-      "eskisehirspor",
-      "etimesgut",
-      "gaziemirgogsporyat",
-      "gemliksumerbeyfutbolspor",
-      "karsiyaka",
-      "kepezsporfutbol",
-      "soke1970",
-      "usakspor"
-     ]
-    },
-    {
      "id": "976-Beyaz",
      "ad": "2. Lig Beyaz Grubu",
      "takimlar": [
@@ -309,6 +283,30 @@
       "tokatbelediye",
       "yalovafk77",
       "zonguldakspor"
+     ]
+    },
+    {
+     "id": "971-02",
+     "ad": "3. Lig 02 Grubu",
+     "takimlar": [
+      "1922aksehir",
+      "alanya1221futbol",
+      "altay",
+      "ayvalikgucubelediyespor",
+      "balikesirspor",
+      "bigaspor",
+      "bucaspor1928",
+      "bursayildirim",
+      "denizliidmanyurdu1959",
+      "eskisehiranadolusporfaaliyetleri",
+      "eskisehirspor",
+      "etimesgut",
+      "gaziemirgogsporyat",
+      "gemliksumerbeyfutbolspor",
+      "karsiyaka",
+      "kepezsporfutbol",
+      "soke1970",
+      "usakspor"
      ]
     },
     {
@@ -1453,15 +1451,6 @@
     "futbol:971-02"
    ]
   },
-  "aksehir": {
-   "ad": "Akşehir",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
-   ]
-  },
   "alanya1221futbol": {
    "ad": "Alanya 1221 Futbol",
    "branslar": [
@@ -1515,20 +1504,6 @@
    "ligler": [
     "futbol:971-02"
    ]
-  },
-  "bucaspor": {
-   "ad": "Bucaspor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-02"
-   ],
-   "kunye": {
-    "kurulus": 1928,
-    "sehir": "İzmir",
-    "stat": "Buca Arena"
-   }
   },
   "bucaspor1928": {
    "ad": "Bucaspor 1928",
