@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:2L:20260913muşmenemenbeyaz",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_muş",
+    "takim_menemen"
+   ],
+   "baslik": "Muş 4-0 Menemen · Maç sona erdi",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-13T23:31:30.941Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20260913sakaryasporadana01kırmızı",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Krmz",
+    "takim_sakaryaspor",
+    "takim_adana01"
+   ],
+   "baslik": "Bitti: Sakaryaspor 2-0 Adana 01",
+   "govde": "2. Lig Kırmızı Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-13T23:31:30.941Z"
+  },
+  {
+   "macId": "futbol:tff:2L:2026091352ordusporkct1461trabzonkırmızı",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Krmz",
+    "takim_52orduspor",
+    "takim_kct1461trabzon"
+   ],
+   "baslik": "Sona erdi: 52 Orduspor 1-0 Kct 1461 Trabzon",
+   "govde": "2. Lig Kırmızı Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-13T23:31:30.941Z"
+  }
+ ]
 }
