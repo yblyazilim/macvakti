@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-13T19:07:05.479Z",
+ "guncellendi": "2026-09-13T21:29:14.885Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912ejderoğlukırşehirfutbolyenimalatyasp",
@@ -27,6 +27,20 @@
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
    "mac": "Muş - Menemen",
+   "tarih": "2026-09-13T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20260913sakaryasporadana01kırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "Sakaryaspor - Adana 01",
+   "tarih": "2026-09-13T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:2026091352ordusporkct1461trabzonkırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "52 Orduspor - Kct 1461 Trabzon",
    "tarih": "2026-09-13T16:00:00.000Z"
   },
   {
@@ -86,6 +100,13 @@
    "tarih": "2026-09-19T14:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:3075",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Mihalıççık Belediyesi - Trabzon Büyükşehir Bel.",
+   "tarih": "2026-09-20T11:00:00.000Z"
+  },
+  {
    "id": "futbol:tff:KSL:20260920safimclbentonitünyekadınhaymana",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
@@ -111,6 +132,20 @@
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Şile Bilgidoğa Sportif Yatırım Hizmetleri - Giresun Sanayispor",
+   "tarih": "2026-09-20T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3073",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Güneysuspor - Beykoz Belediyesi",
+   "tarih": "2026-09-20T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3074",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Nilüfer Belediyesi - Beşiktaş Jimnastik",
    "tarih": "2026-09-20T14:00:00.000Z"
   },
   {
