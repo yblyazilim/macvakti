@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-14T06:59:40.863Z",
+ "guncellendi": "2026-09-14T13:38:01.998Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 281,
@@ -390,7 +390,6 @@
      "id": "diger",
      "ad": "Diğer",
      "takimlar": [
-      "armadapraxisyalikavak",
       "besiktasjimnastik",
       "beykozbelediyesi",
       "bursabuyuksehirbelediyesi",
@@ -403,7 +402,8 @@
       "odunpazari",
       "ortahisarbelediyesi",
       "trabzonbuyuksehirbel",
-      "uskudarbelediyesi"
+      "uskudarbelediyesi",
+      "yalikavak"
      ]
     }
    ]
@@ -3234,8 +3234,8 @@
     "hentbol:diger"
    ]
   },
-  "armadapraxisyalikavak": {
-   "ad": "Armada Praxıs Yalıkavak",
+  "yalikavak": {
+   "ad": "Yalıkavak",
    "branslar": [
     "hentbol"
    ],
