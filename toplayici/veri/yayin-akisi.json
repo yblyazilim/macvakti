@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-14T13:37:59.749Z",
- "adet": 943,
+ "guncellendi": "2026-09-14T19:02:56.849Z",
+ "adet": 952,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 943,
+   "adet": 952,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -164,7 +164,7 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Barcelona Dev Maçlar",
+   "baslik": "Artı Futbol",
    "baslangicUtc": "2026-09-14T21:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -175,8 +175,52 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Bayern Münih Dev Maçlar",
+   "baslik": "90+1",
    "baslangicUtc": "2026-09-14T23:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Avrupa'da Türk Takımları",
+   "baslangicUtc": "2026-09-15T00:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Arşiv Odası",
+   "baslangicUtc": "2026-09-15T01:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Artı Futbol",
+   "baslangicUtc": "2026-09-15T03:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Avrupa'dan Futbol",
+   "baslangicUtc": "2026-09-15T04:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -230,19 +274,8 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Ana Haber",
-   "baslangicUtc": "2026-09-15T15:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Avrupa'dan Futbol",
-   "baslangicUtc": "2026-09-15T17:00:00.000Z",
+   "baslik": "Afyonkarahisar SK-Ürgüpspor",
+   "baslangicUtc": "2026-09-15T14:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -252,10 +285,35 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Son Sayfa",
-   "baslangicUtc": "2026-09-15T20:00:00.000Z",
+   "baslik": "Ana Haber",
+   "baslangicUtc": "2026-09-15T16:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Altay - Söke 1970 SK",
+   "baslangicUtc": "2026-09-15T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Altay",
+    "Söke 1970 SK"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Süper Lig Analiz",
+   "baslangicUtc": "2026-09-15T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -7096,6 +7154,50 @@
    "baslangicUtc": "2026-09-21T13:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-09-21T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Brand & Sport Summit",
+   "baslangicUtc": "2026-09-21T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-09-21T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Champions Chess Tour",
+   "baslangicUtc": "2026-09-21T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
