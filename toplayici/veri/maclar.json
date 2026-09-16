@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-16T10:19:23.135Z",
+ "guncellendi": "2026-09-16T15:12:57.191Z",
  "surum": 1,
  "adet": 111,
  "rapor": {
@@ -21,14 +21,24 @@
   },
   "yayinAkisi": {
    "durum": "tamam",
-   "program": 989,
+   "program": 1028,
    "eslesen": 0,
    "caprazDogrulanan": 0,
    "kaynaklar": {
-    "onbellek": true,
-    "bayat": false,
-    "yasDk": 288,
-    "sebep": "sakin-donem"
+    "digiturk": {
+     "durum": "bos",
+     "adet": 0,
+     "ornek": null
+    },
+    "tvplus": {
+     "durum": "tamam",
+     "adet": 1028,
+     "ornek": {
+      "kanal": "A SPOR HD",
+      "baslik": "Avrupa'dan Futbol",
+      "baslangic": "2026-09-16T00:00:00.000Z"
+     }
+    }
    }
   },
   "kanalOzet": {
@@ -65,7 +75,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.826Z",
+   "guncellendi": "2026-09-16T14:58:51.531Z",
    "kaynak": "tff"
   },
   {
@@ -91,7 +101,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.347Z",
+   "guncellendi": "2026-09-16T14:58:45.795Z",
    "kaynak": "tff"
   },
   {
@@ -117,7 +127,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.347Z",
+   "guncellendi": "2026-09-16T14:58:45.796Z",
    "kaynak": "tff"
   },
   {
@@ -143,7 +153,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.347Z",
+   "guncellendi": "2026-09-16T14:58:45.796Z",
    "kaynak": "tff"
   },
   {
@@ -169,7 +179,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:38.728Z",
+   "guncellendi": "2026-09-16T14:58:48.751Z",
    "kaynak": "tff"
   },
   {
@@ -195,7 +205,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:38.728Z",
+   "guncellendi": "2026-09-16T14:58:48.751Z",
    "kaynak": "tff"
   },
   {
@@ -221,7 +231,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:38.729Z",
+   "guncellendi": "2026-09-16T14:58:48.751Z",
    "kaynak": "tff"
   },
   {
@@ -247,7 +257,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:38.729Z",
+   "guncellendi": "2026-09-16T14:58:48.751Z",
    "kaynak": "tff"
   },
   {
@@ -273,7 +283,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.242Z",
+   "guncellendi": "2026-09-16T14:58:46.631Z",
    "kaynak": "tff"
   },
   {
@@ -299,7 +309,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.347Z",
+   "guncellendi": "2026-09-16T14:58:45.796Z",
    "kaynak": "tff"
   },
   {
@@ -325,7 +335,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.853Z",
+   "guncellendi": "2026-09-16T14:58:47.552Z",
    "kaynak": "tff"
   },
   {
@@ -351,7 +361,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.359Z",
+   "guncellendi": "2026-09-16T14:58:45.520Z",
    "kaynak": "tff"
   },
   {
@@ -377,7 +387,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.359Z",
+   "guncellendi": "2026-09-16T14:58:45.521Z",
    "kaynak": "tff"
   },
   {
@@ -403,7 +413,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.348Z",
+   "guncellendi": "2026-09-16T14:58:45.797Z",
    "kaynak": "tff"
   },
   {
@@ -429,7 +439,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.348Z",
+   "guncellendi": "2026-09-16T14:58:45.797Z",
    "kaynak": "tff"
   },
   {
@@ -455,7 +465,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.348Z",
+   "guncellendi": "2026-09-16T14:58:45.797Z",
    "kaynak": "tff"
   },
   {
@@ -481,7 +491,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.853Z",
+   "guncellendi": "2026-09-16T14:58:47.552Z",
    "kaynak": "tff"
   },
   {
@@ -507,7 +517,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.854Z",
+   "guncellendi": "2026-09-16T14:58:47.552Z",
    "kaynak": "tff"
   },
   {
@@ -533,7 +543,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.826Z",
+   "guncellendi": "2026-09-16T14:58:51.531Z",
    "kaynak": "tff"
   },
   {
@@ -559,7 +569,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.826Z",
+   "guncellendi": "2026-09-16T14:58:51.532Z",
    "kaynak": "tff"
   },
   {
@@ -585,7 +595,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.826Z",
+   "guncellendi": "2026-09-16T14:58:51.532Z",
    "kaynak": "tff"
   },
   {
@@ -611,7 +621,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.360Z",
+   "guncellendi": "2026-09-16T14:58:45.521Z",
    "kaynak": "tff"
   },
   {
@@ -637,7 +647,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.854Z",
+   "guncellendi": "2026-09-16T14:58:47.552Z",
    "kaynak": "tff"
   },
   {
@@ -663,7 +673,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.854Z",
+   "guncellendi": "2026-09-16T14:58:47.553Z",
    "kaynak": "tff"
   },
   {
@@ -689,7 +699,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:38.729Z",
+   "guncellendi": "2026-09-16T14:58:48.752Z",
    "kaynak": "tff"
   },
   {
@@ -715,7 +725,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:38.729Z",
+   "guncellendi": "2026-09-16T14:58:48.752Z",
    "kaynak": "tff"
   },
   {
@@ -741,7 +751,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.827Z",
+   "guncellendi": "2026-09-16T14:58:51.532Z",
    "kaynak": "tff"
   },
   {
@@ -767,7 +777,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.827Z",
+   "guncellendi": "2026-09-16T14:58:51.533Z",
    "kaynak": "tff"
   },
   {
@@ -793,7 +803,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.827Z",
+   "guncellendi": "2026-09-16T14:58:51.533Z",
    "kaynak": "tff"
   },
   {
@@ -819,7 +829,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.360Z",
+   "guncellendi": "2026-09-16T14:58:45.521Z",
    "kaynak": "tff"
   },
   {
@@ -845,7 +855,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:38.729Z",
+   "guncellendi": "2026-09-16T14:58:48.752Z",
    "kaynak": "tff"
   },
   {
@@ -871,7 +881,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:38.730Z",
+   "guncellendi": "2026-09-16T14:58:48.753Z",
    "kaynak": "tff"
   },
   {
@@ -897,7 +907,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:38.730Z",
+   "guncellendi": "2026-09-16T14:58:48.753Z",
    "kaynak": "tff"
   },
   {
@@ -923,7 +933,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.360Z",
+   "guncellendi": "2026-09-16T14:58:45.522Z",
    "kaynak": "tff"
   },
   {
@@ -949,7 +959,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.360Z",
+   "guncellendi": "2026-09-16T14:58:45.522Z",
    "kaynak": "tff"
   },
   {
@@ -975,7 +985,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.242Z",
+   "guncellendi": "2026-09-16T14:58:46.631Z",
    "kaynak": "tff"
   },
   {
@@ -1001,7 +1011,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.242Z",
+   "guncellendi": "2026-09-16T14:58:46.631Z",
    "kaynak": "tff"
   },
   {
@@ -1027,7 +1037,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.854Z",
+   "guncellendi": "2026-09-16T14:58:47.553Z",
    "kaynak": "tff"
   },
   {
@@ -1053,7 +1063,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.361Z",
+   "guncellendi": "2026-09-16T14:58:45.522Z",
    "kaynak": "tff"
   },
   {
@@ -1079,7 +1089,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.361Z",
+   "guncellendi": "2026-09-16T14:58:45.523Z",
    "kaynak": "tff"
   },
   {
@@ -1105,7 +1115,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.242Z",
+   "guncellendi": "2026-09-16T14:58:46.632Z",
    "kaynak": "tff"
   },
   {
@@ -1131,7 +1141,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.242Z",
+   "guncellendi": "2026-09-16T14:58:46.632Z",
    "kaynak": "tff"
   },
   {
@@ -1157,7 +1167,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.348Z",
+   "guncellendi": "2026-09-16T14:58:45.798Z",
    "kaynak": "tff"
   },
   {
@@ -1183,7 +1193,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.349Z",
+   "guncellendi": "2026-09-16T14:58:45.798Z",
    "kaynak": "tff"
   },
   {
@@ -1209,7 +1219,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.854Z",
+   "guncellendi": "2026-09-16T14:58:47.553Z",
    "kaynak": "tff"
   },
   {
@@ -1235,7 +1245,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.855Z",
+   "guncellendi": "2026-09-16T14:58:47.554Z",
    "kaynak": "tff"
   },
   {
@@ -1261,7 +1271,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.827Z",
+   "guncellendi": "2026-09-16T14:58:51.533Z",
    "kaynak": "tff"
   },
   {
@@ -1287,7 +1297,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.243Z",
+   "guncellendi": "2026-09-16T14:58:46.632Z",
    "kaynak": "tff"
   },
   {
@@ -1313,7 +1323,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:35.361Z",
+   "guncellendi": "2026-09-16T14:58:45.523Z",
    "kaynak": "tff"
   },
   {
@@ -1339,7 +1349,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.243Z",
+   "guncellendi": "2026-09-16T14:58:46.633Z",
    "kaynak": "tff"
   },
   {
@@ -1365,7 +1375,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.243Z",
+   "guncellendi": "2026-09-16T14:58:46.633Z",
    "kaynak": "tff"
   },
   {
@@ -1391,7 +1401,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:36.855Z",
+   "guncellendi": "2026-09-16T14:58:47.554Z",
    "kaynak": "tff"
   },
   {
@@ -1420,7 +1430,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.822Z",
+   "guncellendi": "2026-09-16T14:58:43.427Z",
    "kaynak": "tff"
   },
   {
@@ -1448,7 +1458,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.303Z",
+   "guncellendi": "2026-09-16T14:58:43.180Z",
    "kaynak": "tff"
   },
   {
@@ -1477,7 +1487,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.823Z",
+   "guncellendi": "2026-09-16T14:58:43.427Z",
    "kaynak": "tff"
   },
   {
@@ -1503,7 +1513,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.836Z",
+   "guncellendi": "2026-09-16T14:58:51.548Z",
    "kaynak": "tff"
   },
   {
@@ -1529,7 +1539,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:19:19.022Z",
+   "guncellendi": "2026-09-16T15:08:18.611Z",
    "kaynak": "thf"
   },
   {
@@ -1555,7 +1565,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:19:19.022Z",
+   "guncellendi": "2026-09-16T15:08:18.611Z",
    "kaynak": "thf"
   },
   {
@@ -1581,7 +1591,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.836Z",
+   "guncellendi": "2026-09-16T14:58:51.549Z",
    "kaynak": "tff"
   },
   {
@@ -1607,7 +1617,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:19:19.022Z",
+   "guncellendi": "2026-09-16T15:08:18.611Z",
    "kaynak": "thf"
   },
   {
@@ -1635,7 +1645,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.303Z",
+   "guncellendi": "2026-09-16T14:58:43.181Z",
    "kaynak": "tff"
   },
   {
@@ -1663,7 +1673,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.304Z",
+   "guncellendi": "2026-09-16T14:58:43.181Z",
    "kaynak": "tff"
   },
   {
@@ -1692,7 +1702,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.823Z",
+   "guncellendi": "2026-09-16T14:58:43.428Z",
    "kaynak": "tff"
   },
   {
@@ -1721,7 +1731,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.824Z",
+   "guncellendi": "2026-09-16T14:58:43.428Z",
    "kaynak": "tff"
   },
   {
@@ -1747,7 +1757,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.836Z",
+   "guncellendi": "2026-09-16T14:58:51.549Z",
    "kaynak": "tff"
   },
   {
@@ -1773,7 +1783,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.837Z",
+   "guncellendi": "2026-09-16T14:58:51.549Z",
    "kaynak": "tff"
   },
   {
@@ -1799,7 +1809,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:19:19.022Z",
+   "guncellendi": "2026-09-16T15:08:18.611Z",
    "kaynak": "thf"
   },
   {
@@ -1827,7 +1837,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.304Z",
+   "guncellendi": "2026-09-16T14:58:43.182Z",
    "kaynak": "tff"
   },
   {
@@ -1855,7 +1865,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.304Z",
+   "guncellendi": "2026-09-16T14:58:43.182Z",
    "kaynak": "tff"
   },
   {
@@ -1884,7 +1894,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.824Z",
+   "guncellendi": "2026-09-16T14:58:43.428Z",
    "kaynak": "tff"
   },
   {
@@ -1913,7 +1923,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.825Z",
+   "guncellendi": "2026-09-16T14:58:43.429Z",
    "kaynak": "tff"
   },
   {
@@ -1939,7 +1949,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:19:19.021Z",
+   "guncellendi": "2026-09-16T15:08:18.611Z",
    "kaynak": "thf"
   },
   {
@@ -1965,7 +1975,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.837Z",
+   "guncellendi": "2026-09-16T14:58:51.550Z",
    "kaynak": "tff"
   },
   {
@@ -1993,7 +2003,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.304Z",
+   "guncellendi": "2026-09-16T14:58:43.182Z",
    "kaynak": "tff"
   },
   {
@@ -2021,7 +2031,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.304Z",
+   "guncellendi": "2026-09-16T14:58:43.182Z",
    "kaynak": "tff"
   },
   {
@@ -2050,7 +2060,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.825Z",
+   "guncellendi": "2026-09-16T14:58:43.429Z",
    "kaynak": "tff"
   },
   {
@@ -2079,7 +2089,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.825Z",
+   "guncellendi": "2026-09-16T14:58:43.429Z",
    "kaynak": "tff"
   },
   {
@@ -2105,7 +2115,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.837Z",
+   "guncellendi": "2026-09-16T14:58:51.550Z",
    "kaynak": "tff"
   },
   {
@@ -2131,7 +2141,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.837Z",
+   "guncellendi": "2026-09-16T14:58:51.550Z",
    "kaynak": "tff"
   },
   {
@@ -2157,7 +2167,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:40.838Z",
+   "guncellendi": "2026-09-16T14:58:51.550Z",
    "kaynak": "tff"
   },
   {
@@ -2183,7 +2193,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:19:19.021Z",
+   "guncellendi": "2026-09-16T15:08:18.611Z",
    "kaynak": "thf"
   },
   {
@@ -2209,7 +2219,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:19:19.021Z",
+   "guncellendi": "2026-09-16T15:08:18.611Z",
    "kaynak": "thf"
   },
   {
@@ -2237,7 +2247,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.305Z",
+   "guncellendi": "2026-09-16T14:58:43.183Z",
    "kaynak": "tff"
   },
   {
@@ -2265,7 +2275,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.305Z",
+   "guncellendi": "2026-09-16T14:58:43.183Z",
    "kaynak": "tff"
   },
   {
@@ -2294,7 +2304,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.825Z",
+   "guncellendi": "2026-09-16T14:58:43.430Z",
    "kaynak": "tff"
   },
   {
@@ -2323,7 +2333,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:31.826Z",
+   "guncellendi": "2026-09-16T14:58:43.430Z",
    "kaynak": "tff"
   },
   {
@@ -2349,7 +2359,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:41.699Z",
+   "guncellendi": "2026-09-16T14:58:52.127Z",
    "kaynak": "tff"
   },
   {
@@ -2375,7 +2385,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:41.699Z",
+   "guncellendi": "2026-09-16T14:58:52.127Z",
    "kaynak": "tff"
   },
   {
@@ -2401,7 +2411,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:41.700Z",
+   "guncellendi": "2026-09-16T14:58:52.128Z",
    "kaynak": "tff"
   },
   {
@@ -2427,7 +2437,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:41.700Z",
+   "guncellendi": "2026-09-16T14:58:52.128Z",
    "kaynak": "tff"
   },
   {
@@ -2453,7 +2463,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:41.700Z",
+   "guncellendi": "2026-09-16T14:58:52.128Z",
    "kaynak": "tff"
   },
   {
@@ -2479,7 +2489,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:41.700Z",
+   "guncellendi": "2026-09-16T14:58:52.129Z",
    "kaynak": "tff"
   },
   {
@@ -2505,7 +2515,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:41.700Z",
+   "guncellendi": "2026-09-16T14:58:52.129Z",
    "kaynak": "tff"
   },
   {
@@ -2533,7 +2543,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.316Z",
+   "guncellendi": "2026-09-16T14:58:43.199Z",
    "kaynak": "tff"
   },
   {
@@ -2561,7 +2571,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.316Z",
+   "guncellendi": "2026-09-16T14:58:43.199Z",
    "kaynak": "tff"
   },
   {
@@ -2589,7 +2599,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.316Z",
+   "guncellendi": "2026-09-16T14:58:43.200Z",
    "kaynak": "tff"
   },
   {
@@ -2617,7 +2627,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.316Z",
+   "guncellendi": "2026-09-16T14:58:43.200Z",
    "kaynak": "tff"
   },
   {
@@ -2645,7 +2655,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.317Z",
+   "guncellendi": "2026-09-16T14:58:43.200Z",
    "kaynak": "tff"
   },
   {
@@ -2673,7 +2683,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.317Z",
+   "guncellendi": "2026-09-16T14:58:43.201Z",
    "kaynak": "tff"
   },
   {
@@ -2701,7 +2711,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.317Z",
+   "guncellendi": "2026-09-16T14:58:43.201Z",
    "kaynak": "tff"
   },
   {
@@ -2729,7 +2739,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.317Z",
+   "guncellendi": "2026-09-16T14:58:43.201Z",
    "kaynak": "tff"
   },
   {
@@ -2757,7 +2767,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.317Z",
+   "guncellendi": "2026-09-16T14:58:43.202Z",
    "kaynak": "tff"
   },
   {
@@ -2785,7 +2795,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.776Z",
+   "guncellendi": "2026-09-16T14:58:43.618Z",
    "kaynak": "tff"
   },
   {
@@ -2813,7 +2823,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.776Z",
+   "guncellendi": "2026-09-16T14:58:43.618Z",
    "kaynak": "tff"
   },
   {
@@ -2841,7 +2851,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.776Z",
+   "guncellendi": "2026-09-16T14:58:43.618Z",
    "kaynak": "tff"
   },
   {
@@ -2869,7 +2879,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.777Z",
+   "guncellendi": "2026-09-16T14:58:43.619Z",
    "kaynak": "tff"
   },
   {
@@ -2897,7 +2907,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.777Z",
+   "guncellendi": "2026-09-16T14:58:43.619Z",
    "kaynak": "tff"
   },
   {
@@ -2925,7 +2935,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.777Z",
+   "guncellendi": "2026-09-16T14:58:43.619Z",
    "kaynak": "tff"
   },
   {
@@ -2953,7 +2963,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.777Z",
+   "guncellendi": "2026-09-16T14:58:43.620Z",
    "kaynak": "tff"
   },
   {
@@ -2981,7 +2991,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.778Z",
+   "guncellendi": "2026-09-16T14:58:43.620Z",
    "kaynak": "tff"
   },
   {
@@ -3009,7 +3019,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T10:10:32.778Z",
+   "guncellendi": "2026-09-16T14:58:43.620Z",
    "kaynak": "tff"
   }
  ]
