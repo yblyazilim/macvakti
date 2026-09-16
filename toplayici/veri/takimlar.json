@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-16T18:58:20.668Z",
+ "guncellendi": "2026-09-16T22:06:49.880Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 281,
+ "takimSayisi": 284,
  "branslar": [
   {
    "k": "basketbol",
@@ -393,14 +393,17 @@
       "besiktasjimnastik",
       "beykozbelediyesi",
       "bursabuyuksehirbelediyesi",
+      "giresunspor",
       "goztepe",
       "guneysuspor",
+      "istanbulgenclik",
       "manisabuyuksehirbelediye",
       "mcsistemyozgatgsk",
       "mihaliccikbelediyesi",
       "niluferbelediyesi",
       "odunpazari",
       "ortahisarbelediyesi",
+      "sportoto",
       "trabzonbuyuksehirbel",
       "uskudarbelediyesi",
       "yalikavak"
@@ -3309,6 +3312,42 @@
    ],
    "ligler": [
     "futbol:142"
+   ]
+  },
+  "istanbulgenclik": {
+   "ad": "İstanbul Gençlik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 2024,
+    "sehir": "İstanbul"
+   }
+  },
+  "giresunspor": {
+   "ad": "Giresunspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1967,
+    "sehir": "Giresun",
+    "stat": "Giresun Atatürk Stadyumu"
+   }
+  },
+  "sportoto": {
+   "ad": "Spor Toto",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
    ]
   }
  }

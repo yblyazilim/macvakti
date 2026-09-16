@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-16T18:58:20.657Z",
- "adet": 7,
+ "guncellendi": "2026-09-16T22:06:49.873Z",
+ "adet": 9,
  "maclar": [
   {
    "id": "hentbol:thf:3156",
@@ -25,7 +25,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T18:58:16.542Z",
+   "guncellendi": "2026-09-16T22:02:20.123Z",
    "kaynak": "thf"
   },
   {
@@ -51,7 +51,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T18:58:16.542Z",
+   "guncellendi": "2026-09-16T22:02:20.123Z",
    "kaynak": "thf"
   },
   {
@@ -77,7 +77,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T18:58:16.542Z",
+   "guncellendi": "2026-09-16T22:02:20.123Z",
    "kaynak": "thf"
   },
   {
@@ -103,7 +103,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T18:58:16.542Z",
+   "guncellendi": "2026-09-16T22:02:20.123Z",
    "kaynak": "thf"
   },
   {
@@ -129,7 +129,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T18:58:16.541Z",
+   "guncellendi": "2026-09-16T22:02:20.123Z",
    "kaynak": "thf"
   },
   {
@@ -155,7 +155,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T18:58:16.541Z",
+   "guncellendi": "2026-09-16T22:02:20.123Z",
    "kaynak": "thf"
   },
   {
@@ -181,7 +181,59 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T18:58:16.541Z",
+   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "hentbol:thf:3072",
+   "brans": "hentbol",
+   "lig": "",
+   "ligId": "",
+   "sezon": "",
+   "hafta": "",
+   "baslangicUtc": "2026-09-23T12:00:00.000Z",
+   "evSahibi": "İstanbul Gençlik",
+   "deplasman": "Giresunspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "hentbol:thf:3071",
+   "brans": "hentbol",
+   "lig": "",
+   "ligId": "",
+   "sezon": "",
+   "hafta": "",
+   "baslangicUtc": "2026-09-23T14:00:00.000Z",
+   "evSahibi": "Beykoz Belediyesi",
+   "deplasman": "Spor Toto",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-16T22:02:20.123Z",
    "kaynak": "thf"
   }
  ]
