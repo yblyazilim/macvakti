@@ -1,11 +1,11 @@
 {
- "guncellendi": "2026-09-16T22:06:49.873Z",
+ "guncellendi": "2026-09-17T00:12:51.484Z",
  "surum": 1,
- "adet": 123,
+ "adet": 133,
  "rapor": {
   "futbol": {
    "durum": "tamam",
-   "adet": 114
+   "adet": 124
   },
   "basketbol": {
    "durum": "tamam",
@@ -25,28 +25,18 @@
    "eslesen": 1,
    "caprazDogrulanan": 0,
    "kaynaklar": {
-    "digiturk": {
-     "durum": "bos",
-     "adet": 0,
-     "ornek": null
-    },
-    "tvplus": {
-     "durum": "tamam",
-     "adet": 1109,
-     "ornek": {
-      "kanal": "A SPOR HD",
-      "baslik": "Avrupa'dan Futbol",
-      "baslangic": "2026-09-16T00:00:00.000Z"
-     }
-    }
+    "onbellek": true,
+    "bayat": false,
+    "yasDk": 126,
+    "sebep": "sakin-donem"
    }
   },
   "kanalOzet": {
-   "toplam": 123,
+   "toplam": 133,
    "elle": 0,
    "yayinAkisi": 1,
    "kaynak": 0,
-   "kural": 46,
+   "kural": 56,
    "yok": 76,
    "dijital": 0
   }
@@ -75,7 +65,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.034Z",
+   "guncellendi": "2026-09-17T00:07:44.219Z",
    "kaynak": "tff"
   },
   {
@@ -101,7 +91,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:52.430Z",
+   "guncellendi": "2026-09-17T00:07:37.981Z",
    "kaynak": "tff"
   },
   {
@@ -127,7 +117,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:52.430Z",
+   "guncellendi": "2026-09-17T00:07:37.981Z",
    "kaynak": "tff"
   },
   {
@@ -153,7 +143,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:52.430Z",
+   "guncellendi": "2026-09-17T00:07:37.981Z",
    "kaynak": "tff"
   },
   {
@@ -179,7 +169,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:55.874Z",
+   "guncellendi": "2026-09-17T00:07:40.234Z",
    "kaynak": "tff"
   },
   {
@@ -205,7 +195,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:55.875Z",
+   "guncellendi": "2026-09-17T00:07:40.234Z",
    "kaynak": "tff"
   },
   {
@@ -231,7 +221,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:55.875Z",
+   "guncellendi": "2026-09-17T00:07:40.235Z",
    "kaynak": "tff"
   },
   {
@@ -257,7 +247,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:55.875Z",
+   "guncellendi": "2026-09-17T00:07:40.235Z",
    "kaynak": "tff"
   },
   {
@@ -283,7 +273,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.713Z",
+   "guncellendi": "2026-09-17T00:07:39.385Z",
    "kaynak": "tff"
   },
   {
@@ -309,7 +299,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:52.430Z",
+   "guncellendi": "2026-09-17T00:07:37.982Z",
    "kaynak": "tff"
   },
   {
@@ -335,7 +325,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.306Z",
+   "guncellendi": "2026-09-17T00:07:39.088Z",
    "kaynak": "tff"
   },
   {
@@ -361,7 +351,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:53.055Z",
+   "guncellendi": "2026-09-17T00:07:38.340Z",
    "kaynak": "tff"
   },
   {
@@ -387,7 +377,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:53.055Z",
+   "guncellendi": "2026-09-17T00:07:38.340Z",
    "kaynak": "tff"
   },
   {
@@ -413,7 +403,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:52.430Z",
+   "guncellendi": "2026-09-17T00:07:37.982Z",
    "kaynak": "tff"
   },
   {
@@ -439,7 +429,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:52.431Z",
+   "guncellendi": "2026-09-17T00:07:37.982Z",
    "kaynak": "tff"
   },
   {
@@ -465,7 +455,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:52.431Z",
+   "guncellendi": "2026-09-17T00:07:37.983Z",
    "kaynak": "tff"
   },
   {
@@ -491,7 +481,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.306Z",
+   "guncellendi": "2026-09-17T00:07:39.089Z",
    "kaynak": "tff"
   },
   {
@@ -517,7 +507,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.306Z",
+   "guncellendi": "2026-09-17T00:07:39.089Z",
    "kaynak": "tff"
   },
   {
@@ -543,7 +533,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.034Z",
+   "guncellendi": "2026-09-17T00:07:44.220Z",
    "kaynak": "tff"
   },
   {
@@ -569,7 +559,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.034Z",
+   "guncellendi": "2026-09-17T00:07:44.220Z",
    "kaynak": "tff"
   },
   {
@@ -595,7 +585,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.034Z",
+   "guncellendi": "2026-09-17T00:07:44.220Z",
    "kaynak": "tff"
   },
   {
@@ -621,7 +611,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:53.055Z",
+   "guncellendi": "2026-09-17T00:07:38.340Z",
    "kaynak": "tff"
   },
   {
@@ -647,7 +637,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.306Z",
+   "guncellendi": "2026-09-17T00:07:39.089Z",
    "kaynak": "tff"
   },
   {
@@ -673,7 +663,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.306Z",
+   "guncellendi": "2026-09-17T00:07:39.089Z",
    "kaynak": "tff"
   },
   {
@@ -699,7 +689,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:55.875Z",
+   "guncellendi": "2026-09-17T00:07:40.235Z",
    "kaynak": "tff"
   },
   {
@@ -725,7 +715,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:55.876Z",
+   "guncellendi": "2026-09-17T00:07:40.235Z",
    "kaynak": "tff"
   },
   {
@@ -751,7 +741,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.034Z",
+   "guncellendi": "2026-09-17T00:07:44.221Z",
    "kaynak": "tff"
   },
   {
@@ -777,7 +767,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.034Z",
+   "guncellendi": "2026-09-17T00:07:44.221Z",
    "kaynak": "tff"
   },
   {
@@ -803,7 +793,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.035Z",
+   "guncellendi": "2026-09-17T00:07:44.221Z",
    "kaynak": "tff"
   },
   {
@@ -829,7 +819,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:53.055Z",
+   "guncellendi": "2026-09-17T00:07:38.341Z",
    "kaynak": "tff"
   },
   {
@@ -855,7 +845,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:55.876Z",
+   "guncellendi": "2026-09-17T00:07:40.236Z",
    "kaynak": "tff"
   },
   {
@@ -881,7 +871,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:55.876Z",
+   "guncellendi": "2026-09-17T00:07:40.236Z",
    "kaynak": "tff"
   },
   {
@@ -907,7 +897,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:55.876Z",
+   "guncellendi": "2026-09-17T00:07:40.236Z",
    "kaynak": "tff"
   },
   {
@@ -933,7 +923,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:53.055Z",
+   "guncellendi": "2026-09-17T00:07:38.341Z",
    "kaynak": "tff"
   },
   {
@@ -959,7 +949,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:53.055Z",
+   "guncellendi": "2026-09-17T00:07:38.341Z",
    "kaynak": "tff"
   },
   {
@@ -985,7 +975,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.714Z",
+   "guncellendi": "2026-09-17T00:07:39.386Z",
    "kaynak": "tff"
   },
   {
@@ -1011,7 +1001,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.714Z",
+   "guncellendi": "2026-09-17T00:07:39.386Z",
    "kaynak": "tff"
   },
   {
@@ -1037,7 +1027,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.306Z",
+   "guncellendi": "2026-09-17T00:07:39.090Z",
    "kaynak": "tff"
   },
   {
@@ -1063,7 +1053,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:53.056Z",
+   "guncellendi": "2026-09-17T00:07:38.341Z",
    "kaynak": "tff"
   },
   {
@@ -1089,7 +1079,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:53.056Z",
+   "guncellendi": "2026-09-17T00:07:38.342Z",
    "kaynak": "tff"
   },
   {
@@ -1115,7 +1105,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.714Z",
+   "guncellendi": "2026-09-17T00:07:39.386Z",
    "kaynak": "tff"
   },
   {
@@ -1141,7 +1131,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.714Z",
+   "guncellendi": "2026-09-17T00:07:39.387Z",
    "kaynak": "tff"
   },
   {
@@ -1167,7 +1157,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:52.431Z",
+   "guncellendi": "2026-09-17T00:07:37.983Z",
    "kaynak": "tff"
   },
   {
@@ -1193,7 +1183,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:52.431Z",
+   "guncellendi": "2026-09-17T00:07:37.983Z",
    "kaynak": "tff"
   },
   {
@@ -1219,7 +1209,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.307Z",
+   "guncellendi": "2026-09-17T00:07:39.090Z",
    "kaynak": "tff"
   },
   {
@@ -1245,7 +1235,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.307Z",
+   "guncellendi": "2026-09-17T00:07:39.090Z",
    "kaynak": "tff"
   },
   {
@@ -1271,7 +1261,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.035Z",
+   "guncellendi": "2026-09-17T00:07:44.221Z",
    "kaynak": "tff"
   },
   {
@@ -1297,7 +1287,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.714Z",
+   "guncellendi": "2026-09-17T00:07:39.387Z",
    "kaynak": "tff"
   },
   {
@@ -1323,7 +1313,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:53.056Z",
+   "guncellendi": "2026-09-17T00:07:38.342Z",
    "kaynak": "tff"
   },
   {
@@ -1349,7 +1339,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.714Z",
+   "guncellendi": "2026-09-17T00:07:39.387Z",
    "kaynak": "tff"
   },
   {
@@ -1375,7 +1365,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.714Z",
+   "guncellendi": "2026-09-17T00:07:39.387Z",
    "kaynak": "tff"
   },
   {
@@ -1401,7 +1391,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:54.307Z",
+   "guncellendi": "2026-09-17T00:07:39.091Z",
    "kaynak": "tff"
   },
   {
@@ -1430,7 +1420,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.780Z",
+   "guncellendi": "2026-09-17T00:07:35.646Z",
    "kaynak": "tff"
   },
   {
@@ -1458,7 +1448,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.184Z",
+   "guncellendi": "2026-09-17T00:07:35.337Z",
    "kaynak": "tff"
   },
   {
@@ -1486,7 +1476,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.780Z",
+   "guncellendi": "2026-09-17T00:07:35.646Z",
    "kaynak": "tff"
   },
   {
@@ -1512,7 +1502,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.072Z",
+   "guncellendi": "2026-09-17T00:07:44.265Z",
    "kaynak": "tff"
   },
   {
@@ -1538,7 +1528,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "guncellendi": "2026-09-17T00:12:46.900Z",
    "kaynak": "thf"
   },
   {
@@ -1564,7 +1554,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "guncellendi": "2026-09-17T00:12:46.900Z",
    "kaynak": "thf"
   },
   {
@@ -1590,7 +1580,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.072Z",
+   "guncellendi": "2026-09-17T00:07:44.265Z",
    "kaynak": "tff"
   },
   {
@@ -1616,7 +1606,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "guncellendi": "2026-09-17T00:12:46.900Z",
    "kaynak": "thf"
   },
   {
@@ -1644,7 +1634,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.185Z",
+   "guncellendi": "2026-09-17T00:07:35.337Z",
    "kaynak": "tff"
   },
   {
@@ -1672,7 +1662,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.185Z",
+   "guncellendi": "2026-09-17T00:07:35.337Z",
    "kaynak": "tff"
   },
   {
@@ -1701,7 +1691,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.780Z",
+   "guncellendi": "2026-09-17T00:07:35.646Z",
    "kaynak": "tff"
   },
   {
@@ -1730,7 +1720,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.780Z",
+   "guncellendi": "2026-09-17T00:07:35.647Z",
    "kaynak": "tff"
   },
   {
@@ -1756,7 +1746,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.072Z",
+   "guncellendi": "2026-09-17T00:07:44.265Z",
    "kaynak": "tff"
   },
   {
@@ -1782,7 +1772,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.072Z",
+   "guncellendi": "2026-09-17T00:07:44.266Z",
    "kaynak": "tff"
   },
   {
@@ -1808,7 +1798,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "guncellendi": "2026-09-17T00:12:46.900Z",
    "kaynak": "thf"
   },
   {
@@ -1836,7 +1826,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.185Z",
+   "guncellendi": "2026-09-17T00:07:35.338Z",
    "kaynak": "tff"
   },
   {
@@ -1864,7 +1854,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.185Z",
+   "guncellendi": "2026-09-17T00:07:35.338Z",
    "kaynak": "tff"
   },
   {
@@ -1893,7 +1883,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.780Z",
+   "guncellendi": "2026-09-17T00:07:35.647Z",
    "kaynak": "tff"
   },
   {
@@ -1922,7 +1912,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.781Z",
+   "guncellendi": "2026-09-17T00:07:35.647Z",
    "kaynak": "tff"
   },
   {
@@ -1948,7 +1938,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "guncellendi": "2026-09-17T00:12:46.900Z",
    "kaynak": "thf"
   },
   {
@@ -1974,7 +1964,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.073Z",
+   "guncellendi": "2026-09-17T00:07:44.266Z",
    "kaynak": "tff"
   },
   {
@@ -2002,7 +1992,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.185Z",
+   "guncellendi": "2026-09-17T00:07:35.338Z",
    "kaynak": "tff"
   },
   {
@@ -2030,7 +2020,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.185Z",
+   "guncellendi": "2026-09-17T00:07:35.339Z",
    "kaynak": "tff"
   },
   {
@@ -2059,7 +2049,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.781Z",
+   "guncellendi": "2026-09-17T00:07:35.647Z",
    "kaynak": "tff"
   },
   {
@@ -2088,7 +2078,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.781Z",
+   "guncellendi": "2026-09-17T00:07:35.648Z",
    "kaynak": "tff"
   },
   {
@@ -2114,7 +2104,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.073Z",
+   "guncellendi": "2026-09-17T00:07:44.266Z",
    "kaynak": "tff"
   },
   {
@@ -2140,7 +2130,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.073Z",
+   "guncellendi": "2026-09-17T00:07:44.267Z",
    "kaynak": "tff"
   },
   {
@@ -2166,7 +2156,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.073Z",
+   "guncellendi": "2026-09-17T00:07:44.267Z",
    "kaynak": "tff"
   },
   {
@@ -2192,7 +2182,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "guncellendi": "2026-09-17T00:12:46.900Z",
    "kaynak": "thf"
   },
   {
@@ -2218,7 +2208,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "guncellendi": "2026-09-17T00:12:46.900Z",
    "kaynak": "thf"
   },
   {
@@ -2246,7 +2236,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.186Z",
+   "guncellendi": "2026-09-17T00:07:35.339Z",
    "kaynak": "tff"
   },
   {
@@ -2274,7 +2264,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.186Z",
+   "guncellendi": "2026-09-17T00:07:35.339Z",
    "kaynak": "tff"
   },
   {
@@ -2303,7 +2293,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.781Z",
+   "guncellendi": "2026-09-17T00:07:35.648Z",
    "kaynak": "tff"
   },
   {
@@ -2332,7 +2322,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.781Z",
+   "guncellendi": "2026-09-17T00:07:35.648Z",
    "kaynak": "tff"
   },
   {
@@ -2358,7 +2348,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "guncellendi": "2026-09-17T00:12:46.900Z",
    "kaynak": "thf"
   },
   {
@@ -2384,7 +2374,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T22:02:20.123Z",
+   "guncellendi": "2026-09-17T00:12:46.899Z",
    "kaynak": "thf"
   },
   {
@@ -2410,7 +2400,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.698Z",
+   "guncellendi": "2026-09-17T00:07:44.872Z",
    "kaynak": "tff"
   },
   {
@@ -2436,7 +2426,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.698Z",
+   "guncellendi": "2026-09-17T00:07:44.872Z",
    "kaynak": "tff"
   },
   {
@@ -2462,7 +2452,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.698Z",
+   "guncellendi": "2026-09-17T00:07:44.872Z",
    "kaynak": "tff"
   },
   {
@@ -2488,7 +2478,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.698Z",
+   "guncellendi": "2026-09-17T00:07:44.873Z",
    "kaynak": "tff"
   },
   {
@@ -2514,7 +2504,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.698Z",
+   "guncellendi": "2026-09-17T00:07:44.873Z",
    "kaynak": "tff"
   },
   {
@@ -2540,7 +2530,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.698Z",
+   "guncellendi": "2026-09-17T00:07:44.873Z",
    "kaynak": "tff"
   },
   {
@@ -2566,7 +2556,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:58.698Z",
+   "guncellendi": "2026-09-17T00:07:44.873Z",
    "kaynak": "tff"
   },
   {
@@ -2595,7 +2585,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.280Z",
+   "guncellendi": "2026-09-17T00:07:35.698Z",
    "kaynak": "tff"
   },
   {
@@ -2624,7 +2614,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.280Z",
+   "guncellendi": "2026-09-17T00:07:35.699Z",
    "kaynak": "tff"
   },
   {
@@ -2652,7 +2642,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.230Z",
+   "guncellendi": "2026-09-17T00:07:35.388Z",
    "kaynak": "tff"
   },
   {
@@ -2681,7 +2671,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.280Z",
+   "guncellendi": "2026-09-17T00:07:35.699Z",
    "kaynak": "tff"
   },
   {
@@ -2710,7 +2700,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.280Z",
+   "guncellendi": "2026-09-17T00:07:35.699Z",
    "kaynak": "tff"
   },
   {
@@ -2738,7 +2728,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.231Z",
+   "guncellendi": "2026-09-17T00:07:35.388Z",
    "kaynak": "tff"
   },
   {
@@ -2767,7 +2757,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.280Z",
+   "guncellendi": "2026-09-17T00:07:35.700Z",
    "kaynak": "tff"
   },
   {
@@ -2795,7 +2785,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.231Z",
+   "guncellendi": "2026-09-17T00:07:35.389Z",
    "kaynak": "tff"
   },
   {
@@ -2823,7 +2813,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.231Z",
+   "guncellendi": "2026-09-17T00:07:35.389Z",
    "kaynak": "tff"
   },
   {
@@ -2852,7 +2842,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.280Z",
+   "guncellendi": "2026-09-17T00:07:35.700Z",
    "kaynak": "tff"
   },
   {
@@ -2880,7 +2870,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.232Z",
+   "guncellendi": "2026-09-17T00:07:35.389Z",
    "kaynak": "tff"
   },
   {
@@ -2909,7 +2899,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.281Z",
+   "guncellendi": "2026-09-17T00:07:35.700Z",
    "kaynak": "tff"
   },
   {
@@ -2938,7 +2928,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.281Z",
+   "guncellendi": "2026-09-17T00:07:35.700Z",
    "kaynak": "tff"
   },
   {
@@ -2966,7 +2956,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.232Z",
+   "guncellendi": "2026-09-17T00:07:35.390Z",
    "kaynak": "tff"
   },
   {
@@ -2994,7 +2984,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.232Z",
+   "guncellendi": "2026-09-17T00:07:35.390Z",
    "kaynak": "tff"
   },
   {
@@ -3023,7 +3013,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.281Z",
+   "guncellendi": "2026-09-17T00:07:35.701Z",
    "kaynak": "tff"
   },
   {
@@ -3051,7 +3041,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.232Z",
+   "guncellendi": "2026-09-17T00:07:35.390Z",
    "kaynak": "tff"
   },
   {
@@ -3080,7 +3070,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:50.281Z",
+   "guncellendi": "2026-09-17T00:07:35.701Z",
    "kaynak": "tff"
   },
   {
@@ -3108,7 +3098,297 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.233Z",
+   "guncellendi": "2026-09-17T00:07:35.391Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261013bandırmasporsivasspor",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-13T11:30:00.000Z",
+   "evSahibi": "Bandırma Spor",
+   "deplasman": "Sivasspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.148Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261013smsgrupsarıyerbodrum",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-13T14:00:00.000Z",
+   "evSahibi": "Sms Grup Sarıyer",
+   "deplasman": "Bodrum",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.148Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261013pendiksporfutbolartıdeğervanspor",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-13T17:00:00.000Z",
+   "evSahibi": "Pendikspor Futbol",
+   "deplasman": "Artı Değer Van Spor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.149Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261014ümraniyesporboluspor",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-14T14:00:00.000Z",
+   "evSahibi": "Ümraniyespor",
+   "deplasman": "Boluspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.149Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261014batmanpetrolsporistanbulspor",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-14T14:00:00.000Z",
+   "evSahibi": "Batman Petrol Spor",
+   "deplasman": "İstanbulspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.149Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261014keçiörengücüığdır",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-14T17:00:00.000Z",
+   "evSahibi": "Keçiörengücü",
+   "deplasman": "Iğdır",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.150Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261014antalyasporkayserispor",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-14T17:00:00.000Z",
+   "evSahibi": "Antalyaspor",
+   "deplasman": "Kayserispor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.150Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261015mardin1969sporkaragümrük",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-15T14:00:00.000Z",
+   "evSahibi": "Mardin 1969 Spor",
+   "deplasman": "Karagümrük",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.150Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261015manisaesenlererokspor",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-15T17:00:00.000Z",
+   "evSahibi": "Manisa",
+   "deplasman": "Esenler Erokspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.151Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:1L:20261015muğlasporbursaspor",
+   "brans": "futbol",
+   "lig": "1. Lig",
+   "ligId": "142",
+   "sezon": "2026-2027",
+   "hafta": "10. Hafta",
+   "baslangicUtc": "2026-10-15T17:00:00.000Z",
+   "evSahibi": "Muğlaspor",
+   "deplasman": "Bursaspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [
+    "beIN Sports",
+    "TRT Spor"
+   ],
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-09-17T00:07:36.151Z",
    "kaynak": "tff"
   },
   {
@@ -3136,7 +3416,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.775Z",
+   "guncellendi": "2026-09-17T00:07:36.265Z",
    "kaynak": "tff"
   },
   {
@@ -3164,7 +3444,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.775Z",
+   "guncellendi": "2026-09-17T00:07:36.265Z",
    "kaynak": "tff"
   },
   {
@@ -3192,7 +3472,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.775Z",
+   "guncellendi": "2026-09-17T00:07:36.266Z",
    "kaynak": "tff"
   },
   {
@@ -3220,7 +3500,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.775Z",
+   "guncellendi": "2026-09-17T00:07:36.266Z",
    "kaynak": "tff"
   },
   {
@@ -3248,7 +3528,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.775Z",
+   "guncellendi": "2026-09-17T00:07:36.266Z",
    "kaynak": "tff"
   },
   {
@@ -3276,7 +3556,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.775Z",
+   "guncellendi": "2026-09-17T00:07:36.266Z",
    "kaynak": "tff"
   },
   {
@@ -3304,7 +3584,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.776Z",
+   "guncellendi": "2026-09-17T00:07:36.267Z",
    "kaynak": "tff"
   },
   {
@@ -3332,7 +3612,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.776Z",
+   "guncellendi": "2026-09-17T00:07:36.267Z",
    "kaynak": "tff"
   },
   {
@@ -3360,7 +3640,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-09-16T21:53:49.776Z",
+   "guncellendi": "2026-09-17T00:07:36.267Z",
    "kaynak": "tff"
   }
  ]
