@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:KSL:20260919yüksekovakarademirgrupkayserikadın",
+   "tip": "saat",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_yüksekova",
+    "takim_karademirgrupkayserikadın"
+   ],
+   "baslik": "Saat değişti: Yüksekova - Karademir Grup Kayseri Kadın",
+   "govde": "Karşılaşma 15:00 yerine 14:00'de oynanacak. Cumartesi, 19 Eylül.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-09-17T18:44:38.611Z"
+  },
+  {
+   "macId": "futbol:tff:KSL:20260919amedsportiffaaliyetlerbakırköykadınf",
+   "tip": "saat",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_amedsportiffaaliyetler",
+    "takim_bakırköykadınfutbol"
+   ],
+   "baslik": "Saat değişti: Amed Sportif Faaliyetler - Bakırköy Kadın Futbol",
+   "govde": "Karşılaşma 17:00 yerine 16:30'de oynanacak. Cumartesi, 19 Eylül.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-09-17T18:44:38.611Z"
+  },
+  {
+   "macId": "futbol:tff:KSL:20260920şilebilgidoğasportifyatırımhizmetler",
+   "tip": "saat",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_şilebilgidoğasportifyatırımhizmetleri",
+    "takim_giresunsanayispor"
+   ],
+   "baslik": "Saat değişti: Şile Bilgidoğa Sportif Yatırım Hizmetleri - Giresun Sanayispor",
+   "govde": "Karşılaşma 17:00 yerine 15:00'de oynanacak. Pazar, 20 Eylül.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-09-17T18:44:38.611Z"
+  }
+ ]
 }
