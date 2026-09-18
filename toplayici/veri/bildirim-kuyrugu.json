@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20260918kasımpaşakonyaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_kasımpaşa",
+    "takim_konyaspor"
+   ],
+   "baslik": "Sona erdi: Kasımpaşa 0-0 Konyaspor",
+   "govde": "Süper Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-18T19:45:57.468Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260918muğlasporığdır",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_muğlaspor",
+    "takim_ığdır"
+   ],
+   "baslik": "Bitti: Muğlaspor 2-2 Iğdır",
+   "govde": "1. Lig · 8. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-18T19:45:57.469Z"
+  }
+ ]
 }
