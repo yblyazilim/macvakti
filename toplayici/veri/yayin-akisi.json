@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-18T13:18:14.090Z",
- "adet": 877,
+ "guncellendi": "2026-09-18T17:17:55.897Z",
+ "adet": 896,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 877,
+   "adet": 896,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'dan Futbol",
@@ -1460,7 +1460,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Moto GP",
+   "baslik": "Maçın Ardından",
    "baslangicUtc": "2026-09-19T16:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -1471,7 +1471,18 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Final Maçı",
+   "baslik": "World Of Free Sports",
+   "baslangicUtc": "2026-09-19T16:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "Euroleague Süper Kupa",
    "baslangicUtc": "2026-09-19T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -1510,7 +1521,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Final",
+   "baslik": "Moto GP",
    "baslangicUtc": "2026-09-19T23:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -2057,6 +2068,180 @@
     "Muğlaspor K.",
     "A.H. Iğdır"
    ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "İstiklal Marşı",
+   "baslangicUtc": "2026-09-19T04:13:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Beşiktaş - Marsilya",
+   "baslangicUtc": "2026-09-19T04:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Beşiktaş",
+    "Marsilya"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Orhan Ayhan'la",
+   "baslangicUtc": "2026-09-19T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Hafta Sonu Manşet",
+   "baslangicUtc": "2026-09-19T06:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Süper Spor",
+   "baslangicUtc": "2026-09-19T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Avrupa Sahnesi",
+   "baslangicUtc": "2026-09-19T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Spor Bülteni",
+   "baslangicUtc": "2026-09-19T10:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Aktüel Futbol",
+   "baslangicUtc": "2026-09-19T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "UEFA Şampiyonlar Ligi Özetler",
+   "baslangicUtc": "2026-09-19T12:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Spor Bülteni",
+   "baslangicUtc": "2026-09-19T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Keçiörengücü - Sivasspor",
+   "baslangicUtc": "2026-09-19T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Keçiörengücü",
+    "Sivasspor"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Stadyum",
+   "baslangicUtc": "2026-09-19T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Batman Petrol Spor - Bursaspor",
+   "baslangicUtc": "2026-09-19T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Batman Petrol Spor",
+    "Bursaspor"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Stadyum",
+   "baslangicUtc": "2026-09-19T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Teknik Analiz",
+   "baslangicUtc": "2026-09-19T20:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
@@ -5413,6 +5598,39 @@
    "dijital": false,
    "baslik": "EHF Euro",
    "baslangicUtc": "2026-09-25T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-09-25T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-09-25T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-09-25T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
