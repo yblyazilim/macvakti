@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-19T18:49:47.935Z",
+ "guncellendi": "2026-09-19T21:11:21.281Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 284,
+ "takimSayisi": 278,
  "branslar": [
   {
    "k": "basketbol",
@@ -392,21 +392,14 @@
      "takimlar": [
       "besiktasjimnastik",
       "beykozbelediyesi",
-      "bursabuyuksehirbelediyesi",
       "giresunspor",
-      "goztepe",
+      "goztepediyetkapimagelsin",
       "guneysuspor",
       "istanbulgenclik",
-      "manisabuyuksehirbelediye",
-      "mcsistemyozgatgsk",
       "mihaliccikbelediyesi",
       "niluferbelediyesi",
-      "odunpazari",
-      "ortahisarbelediyesi",
       "sportoto",
-      "trabzonbuyuksehirbel",
-      "uskudarbelediyesi",
-      "yalikavak"
+      "trabzonbuyuksehirbel"
      ]
     }
    ]
@@ -558,13 +551,11 @@
    "ad": "Göztepe",
    "branslar": [
     "basketbol",
-    "futbol",
-    "hentbol"
+    "futbol"
    ],
    "ligler": [
     "basketbol:tbf-TBL",
-    "futbol:198",
-    "hentbol:diger"
+    "futbol:198"
    ],
    "kunye": {
     "kurulus": 1925,
@@ -3179,73 +3170,6 @@
     "futbol:1000"
    ]
   },
-  "odunpazari": {
-   "ad": "Odunpazarı",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "manisabuyuksehirbelediye": {
-   "ad": "Manisa Büyükşehir Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1994,
-    "sehir": "Manisa"
-   }
-  },
-  "bursabuyuksehirbelediyesi": {
-   "ad": "Bursa Büyükşehir Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "ortahisarbelediyesi": {
-   "ad": "Ortahisar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "uskudarbelediyesi": {
-   "ad": "Üsküdar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "yalikavak": {
-   "ad": "Yalıkavak",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "mcsistemyozgatgsk": {
-   "ad": "Mc Sistem Yozgat Gsk",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "mihaliccikbelediyesi": {
    "ad": "Mihalıççık Belediyesi",
    "branslar": [
@@ -3343,6 +3267,15 @@
   },
   "sportoto": {
    "ad": "Spor Toto",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "goztepediyetkapimagelsin": {
+   "ad": "Göztepe Diyet Kapıma Gelsin",
    "branslar": [
     "hentbol"
    ],
