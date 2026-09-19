@@ -1,3 +1,112 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20260919çorumalanyaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_çorum",
+    "takim_alanyaspor"
+   ],
+   "baslik": "Sona erdi: Çorum 1-2 Alanyaspor",
+   "govde": "Süper Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-19T16:17:14.525Z"
+  },
+  {
+   "macId": "futbol:tff:SL:20260919kocaelisporgaziantep",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_kocaelispor",
+    "takim_gaziantep"
+   ],
+   "baslik": "Kocaelispor 2-0 Gaziantep · Maç sona erdi",
+   "govde": "Süper Lig · 6. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-19T16:17:14.525Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260919keçiörengücüsivasspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_keçiörengücü",
+    "takim_sivasspor"
+   ],
+   "baslik": "Bitti: Keçiörengücü 1-1 Sivasspor",
+   "govde": "1. Lig · 8. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-19T16:17:14.525Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260919smsgrupsarıyerboluspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_smsgrupsarıyer",
+    "takim_boluspor"
+   ],
+   "baslik": "Bitti: Sms Grup Sarıyer 2-1 Boluspor",
+   "govde": "1. Lig · 8. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-19T16:17:14.525Z"
+  },
+  {
+   "macId": "hentbol:thf:3156",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_odunpazarı",
+    "takim_manisabüyükşehirbelediye"
+   ],
+   "baslik": "Sona erdi: Odunpazarı 23-29 Manisa Büyükşehir Belediye",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-19T16:17:14.525Z"
+  },
+  {
+   "macId": "hentbol:thf:3157",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_bursabüyükşehirbelediyesi",
+    "takim_ortahisarbelediyesi"
+   ],
+   "baslik": "Bitti: Bursa Büyükşehir Belediyesi 46-30 Ortahisar Belediyesi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-19T16:17:14.526Z"
+  },
+  {
+   "macId": "hentbol:thf:3158",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_göztepe",
+    "takim_üsküdarbelediyesi"
+   ],
+   "baslik": "Göztepe 29-34 Üsküdar Belediyesi · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-19T16:17:14.526Z"
+  },
+  {
+   "macId": "hentbol:thf:3159",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_yalıkavak",
+    "takim_mcsistemyozgatgsk"
+   ],
+   "baslik": "Sona erdi: Yalıkavak 30-30 Mc Sistem Yozgat Gsk",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-19T16:17:14.526Z"
+  }
+ ]
 }

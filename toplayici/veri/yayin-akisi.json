@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-19T12:45:15.821Z",
- "adet": 958,
+ "guncellendi": "2026-09-19T16:17:14.488Z",
+ "adet": 964,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 958,
+   "adet": 964,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -1358,10 +1358,10 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Tour de France L'etape Türkiye",
-   "baslangicUtc": "2026-09-20T04:50:00.000Z",
+   "baslik": "İspanya Laliga",
+   "baslangicUtc": "2026-09-20T06:00:00.000Z",
    "sureDk": null,
-   "tur": "belirsiz",
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -1535,15 +1535,12 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Moto GP - Moto 2 -Moto 3",
+   "baslik": "Moto Gp -amp; Moto 2 -amp; Moto 3",
    "baslangicUtc": "2026-09-20T23:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": [
-    "Moto GP",
-    "Moto 2 -Moto 3"
-   ],
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
@@ -1628,6 +1625,50 @@
    "dijital": false,
    "baslik": "World Skateboard",
    "baslangicUtc": "2026-09-21T14:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "World Rowing Championships 2026",
+   "baslangicUtc": "2026-09-21T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "Almanya Bundesliga",
+   "baslangicUtc": "2026-09-21T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "NBA",
+   "baslangicUtc": "2026-09-21T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "Euroleague Süper Kupa",
+   "baslangicUtc": "2026-09-21T19:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -6675,6 +6716,28 @@
    "dijital": false,
    "baslik": "İtalya Kadınlar Voleybol Ligi",
    "baslangicUtc": "2026-09-26T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-09-26T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-09-26T15:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
