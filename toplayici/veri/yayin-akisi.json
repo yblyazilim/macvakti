@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-19T08:25:53.803Z",
- "adet": 954,
+ "guncellendi": "2026-09-19T12:45:15.821Z",
+ "adet": 958,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 954,
+   "adet": 958,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -1242,7 +1242,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Üçüncülük Maçı",
+   "baslik": "Fenerbahçe Tarfin-Dubai",
    "baslangicUtc": "2026-09-19T14:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -1275,7 +1275,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Euroleague Süper Kupa",
+   "baslik": "Olympiacos-Real Madrid",
    "baslangicUtc": "2026-09-19T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -1358,10 +1358,10 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "İspanya Laliga",
-   "baslangicUtc": "2026-09-20T06:00:00.000Z",
+   "baslik": "Tour de France L'etape Türkiye",
+   "baslangicUtc": "2026-09-20T04:50:00.000Z",
    "sureDk": null,
-   "tur": "tekrar",
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -6633,6 +6633,50 @@
    "baslangicUtc": "2026-09-26T08:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-26T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Auto Life",
+   "baslangicUtc": "2026-09-26T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Brand & Sport Summit",
+   "baslangicUtc": "2026-09-26T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-09-26T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
