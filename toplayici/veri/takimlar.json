@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-20T06:30:16.072Z",
+ "guncellendi": "2026-09-20T11:56:00.124Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 278,
@@ -3170,24 +3170,6 @@
     "futbol:1000"
    ]
   },
-  "mihaliccikbelediyesi": {
-   "ad": "Mihalıççık Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "trabzonbuyuksehirbel": {
-   "ad": "Trabzon Büyükşehir Bel.",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "guneysuspor": {
    "ad": "Güneysuspor",
    "branslar": [
@@ -3267,6 +3249,24 @@
   },
   "sportoto": {
    "ad": "Spor Toto",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "trabzonbuyuksehirbel": {
+   "ad": "Trabzon Büyükşehir Bel.",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "mihaliccikbelediyesi": {
+   "ad": "Mihalıççık Belediyesi",
    "branslar": [
     "hentbol"
    ],

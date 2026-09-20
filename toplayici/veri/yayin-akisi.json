@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-20T06:30:16.027Z",
- "adet": 813,
+ "guncellendi": "2026-09-20T11:56:00.091Z",
+ "adet": 820,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 813,
+   "adet": 820,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'dan Futbol",
@@ -6058,6 +6058,83 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-27T07:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-09-27T07:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Taha Erpulat İle Pilates",
+   "baslangicUtc": "2026-09-27T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Spor ve Çocuk",
+   "baslangicUtc": "2026-09-27T08:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-09-27T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Auto Life",
+   "baslangicUtc": "2026-09-27T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-09-27T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Üç Damla Mutluluk",
@@ -8125,13 +8202,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıreal Madrıd - Inter",
+   "baslik": "Real Madrid - Inter",
    "baslangicUtc": "2026-09-21T06:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıreal Madrıd",
+    "Real Madrid",
     "Inter"
    ],
    "kaynak": "tvplus"
@@ -8150,14 +8227,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasılıverpool - Atletıco Madrıd",
+   "baslik": "Liverpool - Atletico Madrid",
    "baslangicUtc": "2026-09-21T09:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasılıverpool",
-    "Atletıco Madrıd"
+    "Liverpool",
+    "Atletico Madrid"
    ],
    "kaynak": "tvplus"
   },
@@ -8186,41 +8263,41 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Sporting Cp - Galatasaray , Uefa Şampiyonlar Ligi Maçı",
+   "baslik": "Sporting Cp - Galatasaray",
    "baslangicUtc": "2026-09-21T13:10:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Sporting Cp",
-    "Galatasaray , Uefa Şampiyonlar Ligi Maçı"
+    "Galatasaray"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Fenerbahçe - Roma , Uefa Şampiyonlar Ligi Maçı",
+   "baslik": "Fenerbahçe - Roma",
    "baslangicUtc": "2026-09-21T14:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Fenerbahçe",
-    "Roma , Uefa Şampiyonlar Ligi Maçı"
+    "Roma"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasımanchester Unıted - Sabah",
+   "baslik": "Manchester United - Sabah",
    "baslangicUtc": "2026-09-21T16:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasımanchester Unıted",
+    "Manchester United",
     "Sabah"
    ],
    "kaynak": "tvplus"
@@ -8239,13 +8316,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıpsv - Shakhtar Donetsk",
+   "baslik": "Psv - Shakhtar Donetsk",
    "baslangicUtc": "2026-09-21T18:40:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıpsv",
+    "Psv",
     "Shakhtar Donetsk"
    ],
    "kaynak": "tvplus"
