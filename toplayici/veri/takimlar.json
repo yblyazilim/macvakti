@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-20T20:50:15.502Z",
+ "guncellendi": "2026-09-20T22:51:15.586Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 278,
@@ -3161,46 +3161,23 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "guneysuspor": {
-   "ad": "Güneysuspor",
+  "karademirgrupkayserikadin": {
+   "ad": "Karademir Grup Kayseri Kadın",
    "branslar": [
-    "hentbol"
+    "futbol"
    ],
    "ligler": [
-    "hentbol:diger"
+    "futbol:1000"
    ]
   },
-  "beykozbelediyesi": {
-   "ad": "Beykoz Belediyesi",
+  "artidegervanspor": {
+   "ad": "Artı Değer Van Spor",
    "branslar": [
-    "hentbol"
+    "futbol"
    ],
    "ligler": [
-    "hentbol:diger"
+    "futbol:142"
    ]
-  },
-  "niluferbelediyesi": {
-   "ad": "Nilüfer Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "besiktasjimnastik": {
-   "ad": "Beşiktaş Jimnastik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1903,
-    "sehir": "İstanbul",
-    "stat": "Beşiktaş Stadyumu"
-   }
   },
   "istanbulgenclik": {
    "ad": "İstanbul Gençlik",
@@ -3229,6 +3206,15 @@
     "stat": "Giresun Atatürk Stadyumu"
    }
   },
+  "beykozbelediyesi": {
+   "ad": "Beykoz Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "sportoto": {
    "ad": "Spor Toto",
    "branslar": [
@@ -3238,14 +3224,19 @@
     "hentbol:diger"
    ]
   },
-  "karademirgrupkayserikadin": {
-   "ad": "Karademir Grup Kayseri Kadın",
+  "besiktasjimnastik": {
+   "ad": "Beşiktaş Jimnastik",
    "branslar": [
-    "futbol"
+    "hentbol"
    ],
    "ligler": [
-    "futbol:1000"
-   ]
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
   },
   "trabzonbuyuksehirbel": {
    "ad": "Trabzon Büyükşehir Bel.",
@@ -3274,13 +3265,22 @@
     "hentbol:diger"
    ]
   },
-  "artidegervanspor": {
-   "ad": "Artı Değer Van Spor",
+  "guneysuspor": {
+   "ad": "Güneysuspor",
    "branslar": [
-    "futbol"
+    "hentbol"
    ],
    "ligler": [
-    "futbol:142"
+    "hentbol:diger"
+   ]
+  },
+  "niluferbelediyesi": {
+   "ad": "Nilüfer Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
    ]
   }
  }
