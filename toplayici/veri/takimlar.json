@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-20T18:11:19.531Z",
+ "guncellendi": "2026-09-20T20:50:15.502Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 278,
@@ -3202,15 +3202,6 @@
     "stat": "Beşiktaş Stadyumu"
    }
   },
-  "artidegervanspor": {
-   "ad": "Artı Değer Van Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:142"
-   ]
-  },
   "istanbulgenclik": {
    "ad": "İstanbul Gençlik",
    "branslar": [
@@ -3281,6 +3272,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "artidegervanspor": {
+   "ad": "Artı Değer Van Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
    ]
   }
  }
