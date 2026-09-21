@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20260920antalyasporartıdeğervanspor",
+   "tip": "saat",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_antalyaspor",
+    "takim_artıdeğervanspor"
+   ],
+   "baslik": "Saat değişti: Antalyaspor - Artı Değer Van Spor",
+   "govde": "Karşılaşma 20:00 yerine 20:10'de oynanacak. Pazar, 20 Eylül.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-09-21T11:20:35.598Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20260920yenimalatyasporniğdebelediyesispor03",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_yenimalatyaspor",
+    "takim_niğdebelediyesispor"
+   ],
+   "baslik": "Yeni Malatyaspor 0-3 Niğde Belediyesi Spor · Maç sona erdi",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-21T11:20:35.598Z"
+  }
+ ]
 }
