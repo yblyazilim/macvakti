@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20260920manisaistanbulspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_manisa",
+    "takim_istanbulspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Manisa - İstanbulspor karşılaşması beIN Sports, TRT Spor ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-21T00:39:43.816Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20260920mardin1969sporkayserispor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_mardin1969spor",
+    "takim_kayserispor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Mardin 1969 Spor - Kayserispor karşılaşması beIN Sports, TRT Spor ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-09-21T00:39:43.816Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20260920orduspor1967beykozishaklısporfaaliye",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_orduspor1967",
+    "takim_beykozishaklısporfaaliyetleri"
+   ],
+   "baslik": "Bitti: Orduspor 1967 3-0 Beykoz İshaklı Spor Faaliyetleri",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-21T00:39:43.816Z"
+  }
+ ]
 }
