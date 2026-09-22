@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-22T18:15:01.242Z",
+ "guncellendi": "2026-09-22T21:32:48.873Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -114,13 +114,6 @@
    "tarih": "2026-10-17T10:00:00.000Z"
   },
   {
-   "id": "futbol:tff:KSL:20261017safimclbentonitünyekadıngiresunsanay",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Safi Mcl Bentonit Ünye Kadın - Giresun Sanayispor",
-   "tarih": "2026-10-17T11:00:00.000Z"
-  },
-  {
    "id": "futbol:tff:KSL:20261017sultanbeyligücühakkarigücüspor",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
@@ -146,6 +139,13 @@
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Beşiktaş - Karademir Grup Kayseri Kadın",
+   "tarih": "2026-10-18T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261018safimclbentonitünyekadıngiresunsanay",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Safi Mcl Bentonit Ünye Kadın - Giresun Sanayispor",
    "tarih": "2026-10-18T11:00:00.000Z"
   },
   {
@@ -205,18 +205,18 @@
    "tarih": "2026-10-24T11:00:00.000Z"
   },
   {
+   "id": "futbol:tff:KSL:20261024karademirgrupkayserikadınsafimclbent",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Karademir Grup Kayseri Kadın - Safi Mcl Bentonit Ünye Kadın",
+   "tarih": "2026-10-24T11:00:00.000Z"
+  },
+  {
    "id": "futbol:tff:KSL:20261024bakırköykadınfutbolbeşiktaş",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Bakırköy Kadın Futbol - Beşiktaş",
    "tarih": "2026-10-24T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261025karademirgrupkayserikadınsafimclbent",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Karademir Grup Kayseri Kadın - Safi Mcl Bentonit Ünye Kadın",
-   "tarih": "2026-10-25T11:00:00.000Z"
   }
  ]
 }
