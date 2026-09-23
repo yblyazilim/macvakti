@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-23T20:47:31.923Z",
+ "guncellendi": "2026-09-23T23:18:22.415Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 278,
@@ -3161,51 +3161,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "istanbulgenclik": {
-   "ad": "İstanbul Gençlik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 2024,
-    "sehir": "İstanbul"
-   }
-  },
-  "giresunspor": {
-   "ad": "Giresunspor",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1967,
-    "sehir": "Giresun",
-    "stat": "Giresun Atatürk Stadyumu"
-   }
-  },
-  "beykozbelediyesi": {
-   "ad": "Beykoz Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "sportoto": {
-   "ad": "Spor Toto",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "karademirgrupkayserikadin": {
    "ad": "Karademir Grup Kayseri Kadın",
    "branslar": [
@@ -3238,6 +3193,20 @@
     "hentbol:diger"
    ]
   },
+  "giresunspor": {
+   "ad": "Giresunspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1967,
+    "sehir": "Giresun",
+    "stat": "Giresun Atatürk Stadyumu"
+   }
+  },
   "mihaliccikbelediyesi": {
    "ad": "Mihalıççık Belediyesi",
    "branslar": [
@@ -3256,8 +3225,39 @@
     "hentbol:diger"
    ]
   },
+  "sportoto": {
+   "ad": "Spor Toto",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "istanbulgenclik": {
+   "ad": "İstanbul Gençlik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 2024,
+    "sehir": "İstanbul"
+   }
+  },
   "guneysuspor": {
    "ad": "Güneysuspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "beykozbelediyesi": {
+   "ad": "Beykoz Belediyesi",
    "branslar": [
     "hentbol"
    ],
