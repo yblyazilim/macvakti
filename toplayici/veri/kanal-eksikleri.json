@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-23T13:06:01.852Z",
+ "guncellendi": "2026-09-23T17:52:57.839Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -7,13 +7,6 @@
    "lig": "3. Lig 01 Grubu",
    "mac": "Düzce Cam Düzcespor - Beykoz Anadolu Spor",
    "tarih": "2026-09-12T13:00:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:3071",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Beykoz Belediyesi - Spor Toto",
-   "tarih": "2026-09-23T14:00:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20260926hakkarigücüsporankarabüyükşehirbeled",
@@ -210,6 +203,13 @@
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Karademir Grup Kayseri Kadın - Safi Mcl Bentonit Ünye Kadın",
    "tarih": "2026-10-25T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261118fenerbahçearsavevkadınfutboltakımısa",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Fenerbahçe Arsavev Kadın Futbol Takımı - Safi Mcl Bentonit Ünye Kadın",
+   "tarih": "2026-11-18T11:00:00.000Z"
   }
  ]
 }
