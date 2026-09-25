@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-09-25T17:57:40.308Z",
+ "guncellendi": "2026-09-25T21:14:03.184Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 278,
+ "takimSayisi": 279,
  "branslar": [
   {
    "k": "basketbol",
@@ -393,11 +393,13 @@
       "besiktasjimnastik",
       "beykozbelediyesi",
       "giresunspor",
+      "goztepe",
       "goztepediyetkapimagelsin",
       "guneysuspor",
       "istanbulgenclik",
       "mihaliccikbelediyesi",
       "niluferbelediyesi",
+      "ortahisarbelediyesi",
       "sportoto",
       "trabzonbuyuksehirbel"
      ]
@@ -551,11 +553,13 @@
    "ad": "Göztepe",
    "branslar": [
     "basketbol",
-    "futbol"
+    "futbol",
+    "hentbol"
    ],
    "ligler": [
     "basketbol:tbf-TBL",
-    "futbol:198"
+    "futbol:198",
+    "hentbol:diger"
    ],
    "kunye": {
     "kurulus": 1925,
@@ -3267,6 +3271,15 @@
   },
   "niluferbelediyesi": {
    "ad": "Nilüfer Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ortahisarbelediyesi": {
+   "ad": "Ortahisar Belediyesi",
    "branslar": [
     "hentbol"
    ],
