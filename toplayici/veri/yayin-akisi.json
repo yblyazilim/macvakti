@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-26T14:00:55.979Z",
- "adet": 826,
+ "guncellendi": "2026-09-26T17:46:24.007Z",
+ "adet": 828,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 826,
+   "adet": 828,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "İsveç - Romanya",
@@ -4741,6 +4741,28 @@
    "baslangicUtc": "2026-10-03T13:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-10-03T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-03T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"

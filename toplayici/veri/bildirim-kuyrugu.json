@@ -1,3 +1,86 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:KSL:20260926hakkarigücüsporankarabüyükşehirbeled",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_hakkarigücüspor",
+    "takim_ankarabüyükşehirbelediyesifomget"
+   ],
+   "baslik": "Sona erdi: Hakkarigücü Spor 0-1 Ankara Büyükşehir Belediyesi Fomget",
+   "govde": "Kadın Futbol Süper Ligi · 5. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-26T17:46:24.068Z"
+  },
+  {
+   "macId": "futbol:tff:KSL:20260926karademirgrupkayserikadınşilebilgido",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_karademirgrupkayserikadın",
+    "takim_şilebilgidoğasportifyatırımhizmetleri"
+   ],
+   "baslik": "Bitti: Karademir Grup Kayseri Kadın 7-0 Şile Bilgidoğa Sportif Yatırım Hizmetleri",
+   "govde": "Kadın Futbol Süper Ligi · 5. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-26T17:46:24.068Z"
+  },
+  {
+   "macId": "futbol:tff:KSL:20260926galatasarayamedsportiffaaliyetler",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_galatasaray",
+    "takim_amedsportiffaaliyetler"
+   ],
+   "baslik": "Bitti: Galatasaray 4-1 Amed Sportif Faaliyetler",
+   "govde": "Kadın Futbol Süper Ligi · 5. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-26T17:46:24.068Z"
+  },
+  {
+   "macId": "futbol:tff:KSL:20260926haymanayüksekova",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_haymana",
+    "takim_yüksekova"
+   ],
+   "baslik": "Bitti: Haymana 0-3 Yüksekova",
+   "govde": "Kadın Futbol Süper Ligi · 5. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-26T17:46:24.068Z"
+  },
+  {
+   "macId": "hentbol:thf:3079",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_istanbulgençlik",
+    "takim_güneysuspor"
+   ],
+   "baslik": "Bitti: İstanbul Gençlik 36-30 Güneysuspor",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-26T17:46:24.068Z"
+  },
+  {
+   "macId": "hentbol:thf:3080",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_göztepediyetkapımagelsin",
+    "takim_sportoto"
+   ],
+   "baslik": "Göztepe Diyet Kapıma Gelsin 34-42 Spor Toto · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-09-26T17:46:24.068Z"
+  }
+ ]
 }
