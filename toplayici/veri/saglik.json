@@ -1,18 +1,13 @@
 {
- "kontrolZamani": "2026-09-27T12:36:29.602Z",
+ "kontrolZamani": "2026-09-27T17:24:55.902Z",
  "durum": "sari",
  "hataSayisi": 0,
- "uyariSayisi": 2,
+ "uyariSayisi": 1,
  "bulgular": [
   {
    "seviye": "uyari",
    "baslik": "basketbol boş döndü",
    "detay": "Sezon dışı olabilir; sezon başladıysa ayrıştırıcı kırılmış demektir."
-  },
-  {
-   "seviye": "uyari",
-   "baslik": "Kanal çözüm oranı çok düşük",
-   "detay": "Yaklaşan 22 maçın yalnızca 0 tanesinde kanal var. Eşleştirme bozulmuş olabilir."
   }
  ],
  "ozet": {
@@ -22,8 +17,8 @@
    "hentbol": 13
   },
   "veriYasiDk": 0,
-  "yayinProgram": 671,
-  "yaklasanMac": 22,
+  "yayinProgram": 699,
+  "yaklasanMac": 2,
   "kanalliYaklasan": 0
  }
 }
