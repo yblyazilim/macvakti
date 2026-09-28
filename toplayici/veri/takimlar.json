@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-28T07:46:41.396Z",
+ "guncellendi": "2026-09-28T16:10:38.765Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 295,
@@ -3268,29 +3268,6 @@
     "hentbol:diger"
    ]
   },
-  "mihaliccikbelediyesi": {
-   "ad": "Mihalıççık Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "besiktasjimnastik": {
-   "ad": "Beşiktaş Jimnastik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1903,
-    "sehir": "İstanbul",
-    "stat": "Beşiktaş Stadyumu"
-   }
-  },
   "kepezbelediyesi": {
    "ad": "Kepez Belediyesi",
    "branslar": [
@@ -3375,6 +3352,29 @@
    "ligler": [
     "hentbol:diger"
    ]
+  },
+  "mihaliccikbelediyesi": {
+   "ad": "Mihalıççık Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "besiktasjimnastik": {
+   "ad": "Beşiktaş Jimnastik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
   },
   "aksaraybelediyespor": {
    "ad": "Aksaray Belediye Spor",
