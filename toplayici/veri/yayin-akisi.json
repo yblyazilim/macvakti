@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-30T08:48:56.925Z",
- "adet": 1022,
+ "guncellendi": "2026-09-30T15:34:01.233Z",
+ "adet": 1027,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1022,
+   "adet": 1027,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "İspanya - Hırvatistan",
@@ -5130,33 +5130,36 @@
   {
    "kanal": "S SPORT 2",
    "dijital": false,
-   "baslik": "Beşiktaş - Barcelona",
-   "baslangicUtc": "2026-10-01T17:00:00.000Z",
+   "baslik": "Hapoel Tel Aviv - Real Madrid",
+   "baslangicUtc": "2026-10-01T16:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Beşiktaş",
-    "Barcelona"
+    "Hapoel Tel Aviv",
+    "Real Madrid"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "S SPORT 2",
    "dijital": false,
-   "baslik": "Maçın Ardından",
-   "baslangicUtc": "2026-10-01T19:00:00.000Z",
+   "baslik": "Virtus Bologna - Olympiakos",
+   "baslangicUtc": "2026-10-01T18:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Virtus Bologna",
+    "Olympiakos"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "S SPORT 2",
    "dijital": false,
-   "baslik": "Moto GP",
-   "baslangicUtc": "2026-10-01T19:30:00.000Z",
+   "baslik": "NBA",
+   "baslangicUtc": "2026-10-01T20:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7162,6 +7165,61 @@
    "baslangicUtc": "2026-10-07T08:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "FEI Ride Series",
+   "baslangicUtc": "2026-10-07T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Mobil 1 Grid",
+   "baslangicUtc": "2026-10-07T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-10-07T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-07T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-10-07T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
