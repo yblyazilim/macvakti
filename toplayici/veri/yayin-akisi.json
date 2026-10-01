@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-09-30T15:34:01.233Z",
- "adet": 1027,
+ "guncellendi": "2026-10-01T00:04:10.715Z",
+ "adet": 911,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,167 +9,15 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1027,
+   "adet": 911,
    "ornek": {
     "kanal": "A SPOR HD",
-    "baslik": "İspanya - Hırvatistan",
-    "baslangic": "2026-09-29T23:00:00.000Z"
+    "baslik": "İngiltere - İspanya",
+    "baslangic": "2026-09-30T23:00:00.000Z"
    }
   }
  },
  "programlar": [
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "İspanya - Hırvatistan",
-   "baslangicUtc": "2026-09-29T23:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "İspanya",
-    "Hırvatistan"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Arşiv Odası",
-   "baslangicUtc": "2026-09-30T01:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Son Sayfa",
-   "baslangicUtc": "2026-09-30T02:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Çekya - İngiltere",
-   "baslangicUtc": "2026-09-30T03:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Çekya",
-    "İngiltere"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Sabah Sporu",
-   "baslangicUtc": "2026-09-30T05:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "İspanya - Hırvatistan",
-   "baslangicUtc": "2026-09-30T07:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "İspanya",
-    "Hırvatistan"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Spor Ajansı",
-   "baslangicUtc": "2026-09-30T09:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Uluslar Ligi Özetler",
-   "baslangicUtc": "2026-09-30T11:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Spor Gündemi",
-   "baslangicUtc": "2026-09-30T12:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Ana Haber",
-   "baslangicUtc": "2026-09-30T15:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Uluslar Ligi Özetler",
-   "baslangicUtc": "2026-09-30T17:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Futbol Meydanı",
-   "baslangicUtc": "2026-09-30T18:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Son Sayfa",
-   "baslangicUtc": "2026-09-30T20:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
   {
    "kanal": "A SPOR HD",
    "dijital": false,
@@ -1131,32 +979,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "NBA",
-   "baslangicUtc": "2026-09-30T00:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT",
-   "dijital": false,
-   "baslik": "Euroleague",
-   "baslangicUtc": "2026-09-30T02:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT",
-   "dijital": false,
-   "baslik": "İspanya Laliga",
-   "baslangicUtc": "2026-09-30T04:00:00.000Z",
+   "baslik": "Süper Lig Analiz",
+   "baslangicUtc": "2026-10-06T23:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -1164,10 +990,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "World Skateboard",
-   "baslangicUtc": "2026-09-30T06:00:00.000Z",
+   "baslik": "Avrupa'dan Futbol",
+   "baslangicUtc": "2026-10-07T00:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -1175,10 +1001,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "NBA",
-   "baslangicUtc": "2026-09-30T06:30:00.000Z",
+   "baslik": "Arşiv Odası",
+   "baslangicUtc": "2026-10-07T01:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -1186,10 +1012,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Moto 3",
-   "baslangicUtc": "2026-09-30T08:30:00.000Z",
+   "baslik": "Son Sayfa",
+   "baslangicUtc": "2026-10-07T03:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -1197,32 +1023,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Hollanda Ligi",
-   "baslangicUtc": "2026-09-30T09:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT",
-   "dijital": false,
-   "baslik": "İspanya Laliga",
-   "baslangicUtc": "2026-09-30T10:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT",
-   "dijital": false,
-   "baslik": "Euroleague",
-   "baslangicUtc": "2026-09-30T12:30:00.000Z",
+   "baslik": "Avrupa'da Türk Takımları",
+   "baslangicUtc": "2026-10-07T04:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -1230,10 +1034,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Gearing Up",
-   "baslangicUtc": "2026-09-30T14:30:00.000Z",
+   "baslik": "Sabah Sporu",
+   "baslangicUtc": "2026-10-07T05:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -1241,10 +1045,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Moto GP",
-   "baslangicUtc": "2026-09-30T15:00:00.000Z",
+   "baslik": "Spor Ajansı",
+   "baslangicUtc": "2026-10-07T08:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -1252,21 +1056,21 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "2. Bundesliga",
-   "baslangicUtc": "2026-09-30T16:00:00.000Z",
+   "baslik": "Gün Ortası",
+   "baslangicUtc": "2026-10-07T11:00:00.000Z",
    "sureDk": null,
-   "tur": "tekrar",
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Özel Röportaj",
-   "baslangicUtc": "2026-09-30T17:00:00.000Z",
+   "baslik": "Spor Gündemi",
+   "baslangicUtc": "2026-10-07T12:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -1274,46 +1078,21 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Maccabi Tel Aviv - Beşiktaş",
-   "baslangicUtc": "2026-09-30T18:05:00.000Z",
+   "baslik": "Ana Haber",
+   "baslangicUtc": "2026-10-07T15:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Maccabi Tel Aviv",
-    "Beşiktaş"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT",
-   "dijital": false,
-   "baslik": "Almanya Bundesliga",
-   "baslangicUtc": "2026-09-30T20:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
+   "macDisi": true,
    "takimlar": null,
    "kaynak": "tvplus"
   },
   {
-   "kanal": "S SPORT",
+   "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "İspanya Laliga",
-   "baslangicUtc": "2026-09-30T21:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT",
-   "dijital": false,
-   "baslik": "Moto 2",
-   "baslangicUtc": "2026-09-30T23:00:00.000Z",
+   "baslik": "Son Sayfa",
+   "baslangicUtc": "2026-10-07T20:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -1505,11 +1284,11 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Moto 3",
+   "baslik": "Özel Röportaj",
    "baslangicUtc": "2026-10-01T23:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
-   "macDisi": false,
+   "macDisi": true,
    "takimlar": null,
    "kaynak": "tvplus"
   },
@@ -2120,262 +1899,6 @@
   {
    "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "UEFA Avrupa Ligi Özetler",
-   "baslangicUtc": "2026-09-29T23:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Trendyol 1. Lig Özetler",
-   "baslangicUtc": "2026-09-30T01:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Almanya Bundesliga Özetler",
-   "baslangicUtc": "2026-09-30T01:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "UEFA Şampiyonlar Ligi Özetler",
-   "baslangicUtc": "2026-09-30T02:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "İstiklal Marşı",
-   "baslangicUtc": "2026-09-30T03:58:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Trabzonspor Özetler",
-   "baslangicUtc": "2026-09-30T04:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Galatasaray Özetler",
-   "baslangicUtc": "2026-09-30T04:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "İlk Baskı",
-   "baslangicUtc": "2026-09-30T05:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "İşitme Engelliler Spor Bülteni",
-   "baslangicUtc": "2026-09-30T07:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "UEFA Şampiyonlar Ligi En Güzel Goller",
-   "baslangicUtc": "2026-09-30T07:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Spor Bülteni",
-   "baslangicUtc": "2026-09-30T07:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Spor Manşet",
-   "baslangicUtc": "2026-09-30T08:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Set Sayısı",
-   "baslangicUtc": "2026-09-30T09:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Spor Stüdyosu",
-   "baslangicUtc": "2026-09-30T10:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Spor Merkezi",
-   "baslangicUtc": "2026-09-30T12:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Gündem Futbol",
-   "baslangicUtc": "2026-09-30T13:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Dünyadan Spor",
-   "baslangicUtc": "2026-09-30T14:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Ezgi Sütcü ile Ana Haber",
-   "baslangicUtc": "2026-09-30T15:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Maç Özel",
-   "baslangicUtc": "2026-09-30T16:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Konyaspor - Filistin",
-   "baslangicUtc": "2026-09-30T17:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Konyaspor",
-    "Filistin"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Maç Özel",
-   "baslangicUtc": "2026-09-30T19:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Aktüel Futbol",
-   "baslangicUtc": "2026-09-30T20:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
-   "baslik": "Futbol Aklı",
-   "baslangicUtc": "2026-09-30T21:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR HD",
-   "dijital": false,
    "baslik": "Konyaspor - Filistin",
    "baslangicUtc": "2026-09-30T23:00:00.000Z",
    "sureDk": null,
@@ -2716,43 +2239,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "EUROSPORT 1 HD",
+   "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Shenzhen Açık",
-   "baslangicUtc": "2026-09-29T23:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T01:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T02:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Hall of Fame , Pekin 2008",
-   "baslangicUtc": "2026-09-30T03:00:00.000Z",
+   "baslik": "İstiklal Marşı",
+   "baslangicUtc": "2026-10-02T03:58:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -2760,10 +2250,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "EUROSPORT 1 HD",
+   "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Shenzhen Açık",
-   "baslangicUtc": "2026-09-30T04:00:00.000Z",
+   "baslik": "Hollanda Eredivisie Özetler",
+   "baslangicUtc": "2026-10-02T04:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -2771,10 +2261,32 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "EUROSPORT 1 HD",
+   "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Shenzhen Açık",
-   "baslangicUtc": "2026-09-30T06:00:00.000Z",
+   "baslik": "Almanya Bundesliga Özetler",
+   "baslangicUtc": "2026-10-02T04:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "İlk Baskı",
+   "baslangicUtc": "2026-10-02T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "İşitme Engelliler Spor Bülteni",
+   "baslangicUtc": "2026-10-02T07:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -2782,43 +2294,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "EUROSPORT 1 HD",
+   "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T09:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T09:45:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Shenzhen Açık",
-   "baslangicUtc": "2026-09-30T10:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Shenzhen Açık",
-   "baslangicUtc": "2026-09-30T11:30:00.000Z",
+   "baslik": "UEFA Şampiyonlar Ligi En Güzel Goller",
+   "baslangicUtc": "2026-10-02T07:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -2826,54 +2305,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "EUROSPORT 1 HD",
+   "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Global Şampiyonlar Turu",
-   "baslangicUtc": "2026-09-30T14:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T16:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T17:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Shenzhen Açık",
-   "baslangicUtc": "2026-09-30T18:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 1 HD",
-   "dijital": false,
-   "baslik": "Trail GT World Series",
-   "baslangicUtc": "2026-09-30T20:00:00.000Z",
+   "baslik": "Spor Bülteni",
+   "baslangicUtc": "2026-10-02T07:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -2881,10 +2316,32 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "EUROSPORT 1 HD",
+   "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T20:30:00.000Z",
+   "baslik": "Spor Manşet",
+   "baslangicUtc": "2026-10-02T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Gün Ortası",
+   "baslangicUtc": "2026-10-02T09:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Trabzonspor Özetler",
+   "baslangicUtc": "2026-10-02T10:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -2892,10 +2349,21 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "EUROSPORT 1 HD",
+   "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T21:15:00.000Z",
+   "baslik": "Spor Stüdyosu",
+   "baslangicUtc": "2026-10-02T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Fenerbahçe Özetler",
+   "baslangicUtc": "2026-10-02T12:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -2903,10 +2371,43 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "EUROSPORT 1 HD",
+   "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T22:00:00.000Z",
+   "baslik": "Gündem Futbol",
+   "baslangicUtc": "2026-10-02T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Dünyadan Spor",
+   "baslangicUtc": "2026-10-02T14:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Ezgi Sütcü ile Ana Haber",
+   "baslangicUtc": "2026-10-02T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Galatasaray Özetler",
+   "baslangicUtc": "2026-10-02T16:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -2914,10 +2415,120 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "EUROSPORT 1 HD",
+   "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T22:45:00.000Z",
+   "baslik": "Spor Akşamı",
+   "baslangicUtc": "2026-10-02T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Stadyum",
+   "baslangicUtc": "2026-10-02T17:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "UEFA Şampiyonlar Ligi Özetler",
+   "baslangicUtc": "2026-10-02T18:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Spor Artı",
+   "baslangicUtc": "2026-10-02T19:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Stadyum",
+   "baslangicUtc": "2026-10-02T20:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "UEFA Şampiyonlar Ligi Özetler",
+   "baslangicUtc": "2026-10-02T22:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Stadyum",
+   "baslangicUtc": "2026-10-03T00:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Trendyol Süper Lig En Güzel Goller",
+   "baslangicUtc": "2026-10-03T02:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Suudi Arabistan Pro Lig Özetler",
+   "baslangicUtc": "2026-10-03T02:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "İspanya La Liga Özetler",
+   "baslangicUtc": "2026-10-03T03:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "İtalya Seri A Özetler",
+   "baslangicUtc": "2026-10-03T03:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -3666,292 +3277,6 @@
    "dijital": false,
    "baslik": "Binicilik Uluslar Ligi",
    "baslangicUtc": "2026-10-04T20:15:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-29T23:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T00:15:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Shenzhen Açık",
-   "baslangicUtc": "2026-09-30T01:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T03:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T03:45:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T04:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T05:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "2026 Dünya Yol Bisikleti Şampiyonası",
-   "baslangicUtc": "2026-09-30T06:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T08:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T09:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Fuji 6 Saat , Öne Çıkanlar",
-   "baslangicUtc": "2026-09-30T10:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T11:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T12:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "2026 Dünya Yol Bisikleti Şampiyonası",
-   "baslangicUtc": "2026-09-30T13:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "2026 Dünya Yol Bisikleti Şampiyonası",
-   "baslangicUtc": "2026-09-30T14:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "UCI Dağ Bisikleti Dünya Serisi",
-   "baslangicUtc": "2026-09-30T15:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "UCI Dağ Bisikleti Dünya Serisi",
-   "baslangicUtc": "2026-09-30T16:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "2026 Dünya Yol Bisikleti Şampiyonası",
-   "baslangicUtc": "2026-09-30T17:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T18:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Dünya Motocross Şampiyonası",
-   "baslangicUtc": "2026-09-30T18:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Fuji 6 Saat , Öne Çıkanlar",
-   "baslangicUtc": "2026-09-30T19:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T20:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T20:45:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Trail GT World Series",
-   "baslangicUtc": "2026-09-30T21:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Shenzhen Açık",
-   "baslangicUtc": "2026-09-30T22:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "EUROSPORT 2 HD",
-   "dijital": false,
-   "baslik": "Tırmanış Dünya Serisi",
-   "baslangicUtc": "2026-09-30T23:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -4809,196 +4134,6 @@
    "kanal": "S SPORT 2",
    "dijital": false,
    "baslik": "Euroleague",
-   "baslangicUtc": "2026-09-29T23:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Moto GP",
-   "baslangicUtc": "2026-09-30T01:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "İtalya Serie A",
-   "baslangicUtc": "2026-09-30T02:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Euroleague",
-   "baslangicUtc": "2026-09-30T04:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Moto 3",
-   "baslangicUtc": "2026-09-30T06:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "İtalya Serie A",
-   "baslangicUtc": "2026-09-30T07:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Made In Italy",
-   "baslangicUtc": "2026-09-30T09:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "NBA",
-   "baslangicUtc": "2026-09-30T09:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Hollanda Ligi",
-   "baslangicUtc": "2026-09-30T11:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Moto GP",
-   "baslangicUtc": "2026-09-30T12:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "İtalya Serie A",
-   "baslangicUtc": "2026-09-30T13:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Euroleague",
-   "baslangicUtc": "2026-09-30T15:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Almanya Bundesliga",
-   "baslangicUtc": "2026-09-30T17:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Panathinaikos - Asvel",
-   "baslangicUtc": "2026-09-30T18:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Panathinaikos",
-    "Asvel"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Özetler",
-   "baslangicUtc": "2026-09-30T20:15:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "NBA",
-   "baslangicUtc": "2026-09-30T20:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Tenis Klasik Maç",
-   "baslangicUtc": "2026-09-30T22:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT 2",
-   "dijital": false,
-   "baslik": "Euroleague",
    "baslangicUtc": "2026-09-30T23:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
@@ -5729,199 +4864,12 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "SPORTS TV HD",
+   "kanal": "S SPORT 2",
    "dijital": false,
-   "baslik": "Euroformula Open",
-   "baslangicUtc": "2026-09-29T21:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "EHF Euro",
-   "baslangicUtc": "2026-09-30T03:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Mobil 1 Grid",
-   "baslangicUtc": "2026-09-30T05:00:00.000Z",
+   "baslik": "İtalya Serie A",
+   "baslangicUtc": "2026-10-07T04:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Dinamik Sabahlar",
-   "baslangicUtc": "2026-09-30T06:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Taha Erpulat İle Pilates",
-   "baslangicUtc": "2026-09-30T06:20:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Yoga",
-   "baslangicUtc": "2026-09-30T06:45:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Dinamik Sabahlar",
-   "baslangicUtc": "2026-09-30T07:45:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Taha Erpulat İle Pilates",
-   "baslangicUtc": "2026-09-30T08:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Spor ve Çocuk",
-   "baslangicUtc": "2026-09-30T08:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Yoga",
-   "baslangicUtc": "2026-09-30T08:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "FEI Ride Series",
-   "baslangicUtc": "2026-09-30T09:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Mobil 1 Grid",
-   "baslangicUtc": "2026-09-30T10:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Reaction Sports",
-   "baslangicUtc": "2026-09-30T11:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "EHF Euro",
-   "baslangicUtc": "2026-09-30T12:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "İtalya Kadınlar Voleybol Ligi",
-   "baslangicUtc": "2026-09-30T14:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "EHF Euro",
-   "baslangicUtc": "2026-09-30T16:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Euroformula Open",
-   "baslangicUtc": "2026-09-30T18:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "EHF Euro",
-   "baslangicUtc": "2026-09-30T19:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -7225,10 +6173,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "TRT SPOR YILDIZ",
+   "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Avrupa Boks Şampiyonası",
-   "baslangicUtc": "2026-09-29T22:15:00.000Z",
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-07T16:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7236,10 +6184,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "TRT SPOR YILDIZ",
+   "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Peyk Serüven",
-   "baslangicUtc": "2026-09-30T01:45:00.000Z",
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-10-07T18:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7247,10 +6195,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "TRT SPOR YILDIZ",
+   "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Pedalın Senfonisi",
-   "baslangicUtc": "2026-09-30T02:30:00.000Z",
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-07T19:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7258,442 +6206,12 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "TRT SPOR YILDIZ",
+   "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Tur Günlükleri",
-   "baslangicUtc": "2026-09-30T03:05:00.000Z",
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-10-07T21:00:00.000Z",
    "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "İstiklal Marşı",
-   "baslangicUtc": "2026-09-30T03:58:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Haber Bülteni",
-   "baslangicUtc": "2026-09-30T04:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "TBMM ve Genel Kurmay Başkanlığı, Spor Toto Kupası",
-   "baslangicUtc": "2026-09-30T04:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Haber Bülteni",
-   "baslangicUtc": "2026-09-30T06:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Sıra Sende",
-   "baslangicUtc": "2026-09-30T06:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Yenilmezler",
-   "baslangicUtc": "2026-09-30T06:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "O Benim Hocam",
-   "baslangicUtc": "2026-09-30T06:55:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Yapabilir Misin?",
-   "baslangicUtc": "2026-09-30T07:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Adım Adım",
-   "baslangicUtc": "2026-09-30T07:35:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "7 Metre",
-   "baslangicUtc": "2026-09-30T08:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Ultra",
-   "baslangicUtc": "2026-09-30T08:45:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Haber Bülteni",
-   "baslangicUtc": "2026-09-30T09:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Tofaş - Niners Chemnitz",
-   "baslangicUtc": "2026-09-30T09:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Tofaş",
-    "Niners Chemnitz"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Spor Her Yerde",
-   "baslangicUtc": "2026-09-30T10:55:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Spor Atlası",
-   "baslangicUtc": "2026-09-30T11:10:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Sıra Sende",
-   "baslangicUtc": "2026-09-30T11:20:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Üç Damla Mutluluk",
-   "baslangicUtc": "2026-09-30T11:35:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Açık Hava Sporları",
-   "baslangicUtc": "2026-09-30T11:50:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Onsuz Asla",
-   "baslangicUtc": "2026-09-30T12:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Adım Adım",
-   "baslangicUtc": "2026-09-30T12:20:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Sporun İkonları",
-   "baslangicUtc": "2026-09-30T12:45:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Spor Toto - İstanbul Gençlik",
-   "baslangicUtc": "2026-09-30T12:55:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Spor Toto",
-    "İstanbul Gençlik"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Yapabilir Misin?",
-   "baslangicUtc": "2026-09-30T14:40:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Haber Bülteni",
-   "baslangicUtc": "2026-09-30T15:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Hayat Yeniden Başlasın",
-   "baslangicUtc": "2026-09-30T15:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Sıra Sende",
-   "baslangicUtc": "2026-09-30T15:25:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Spor Her Yerde",
-   "baslangicUtc": "2026-09-30T15:40:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Bahçeşehir Koleji - Roma",
-   "baslangicUtc": "2026-09-30T15:55:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Bahçeşehir Koleji",
-    "Roma"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Ultra",
-   "baslangicUtc": "2026-09-30T17:50:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Adım Adım",
-   "baslangicUtc": "2026-09-30T18:05:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Olimpiyat Yıldızları",
-   "baslangicUtc": "2026-09-30T18:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Hayat Yeniden Başlasın",
-   "baslangicUtc": "2026-09-30T18:45:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Tenerife - Türk Telekom",
-   "baslangicUtc": "2026-09-30T18:55:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Tenerife",
-    "Türk Telekom"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Sporun İkonları",
-   "baslangicUtc": "2026-09-30T20:50:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "O Benim Hocam",
-   "baslangicUtc": "2026-09-30T21:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "7 Metre",
-   "baslangicUtc": "2026-09-30T21:20:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Haber Bülteni",
-   "baslangicUtc": "2026-09-30T22:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "TRT SPOR YILDIZ",
-   "dijital": false,
-   "baslik": "Spor Her Yerde",
-   "baslangicUtc": "2026-09-30T22:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -8137,10 +6655,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Gece Yarısı",
-   "baslangicUtc": "2026-09-30T00:00:00.000Z",
+   "baslik": "Sporun İkonları",
+   "baslangicUtc": "2026-10-01T21:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8148,10 +6666,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Özel Röportaj",
-   "baslangicUtc": "2026-09-30T03:00:00.000Z",
+   "baslik": "Haber Bülteni",
+   "baslangicUtc": "2026-10-01T22:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -8159,10 +6677,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Başlama Vuruşu",
-   "baslangicUtc": "2026-09-30T05:00:00.000Z",
+   "baslik": "Toprak Razgatlıoğlu-Elturko",
+   "baslangicUtc": "2026-10-01T22:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8170,10 +6688,24 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Otospor",
-   "baslangicUtc": "2026-09-30T07:00:00.000Z",
+   "baslik": "Polonya - Fransa",
+   "baslangicUtc": "2026-10-01T23:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Polonya",
+    "Fransa"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Üç Damla Mutluluk",
+   "baslangicUtc": "2026-10-02T01:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8181,10 +6713,98 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "HT Spor Gündem",
-   "baslangicUtc": "2026-09-30T08:00:00.000Z",
+   "baslik": "Tenis Dünyası",
+   "baslangicUtc": "2026-10-02T01:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Süper Spor",
+   "baslangicUtc": "2026-10-02T02:05:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Spor Her Yerde",
+   "baslangicUtc": "2026-10-02T02:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Pedalın Senfonisi",
+   "baslangicUtc": "2026-10-02T02:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "O Benim Hocam",
+   "baslangicUtc": "2026-10-02T03:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Hayat Yeniden Başlasın",
+   "baslangicUtc": "2026-10-02T03:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Sporun İkonları",
+   "baslangicUtc": "2026-10-02T03:55:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "İstiklal Marşı",
+   "baslangicUtc": "2026-10-02T03:58:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Haber Bülteni",
+   "baslangicUtc": "2026-10-02T04:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -8192,10 +6812,24 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Kürsü",
-   "baslangicUtc": "2026-09-30T09:30:00.000Z",
+   "baslik": "Spor Toto - İstanbul Gençlik",
+   "baslangicUtc": "2026-10-02T04:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Spor Toto",
+    "İstanbul Gençlik"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Adım Adım",
+   "baslangicUtc": "2026-10-02T05:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8203,43 +6837,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Bakış Açısı",
-   "baslangicUtc": "2026-09-30T10:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "HT SPOR",
-   "dijital": false,
-   "baslik": "Maç Özet",
-   "baslangicUtc": "2026-09-30T11:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "HT SPOR",
-   "dijital": false,
-   "baslik": "Satır Arası",
-   "baslangicUtc": "2026-09-30T12:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "HT SPOR",
-   "dijital": false,
-   "baslik": "Özel Röportaj",
-   "baslangicUtc": "2026-09-30T13:45:00.000Z",
+   "baslik": "Haber Bülteni",
+   "baslangicUtc": "2026-10-02T06:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -8247,10 +6848,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Dünyadan Futbol",
-   "baslangicUtc": "2026-09-30T14:00:00.000Z",
+   "baslik": "Pedalın Senfonisi",
+   "baslangicUtc": "2026-10-02T06:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8258,32 +6859,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Ana Haber Bülteni",
-   "baslangicUtc": "2026-09-30T15:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "HT SPOR",
-   "dijital": false,
-   "baslik": "Özel Röportaj",
-   "baslangicUtc": "2026-09-30T17:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "HT SPOR",
-   "dijital": false,
-   "baslik": "Futbol X",
-   "baslangicUtc": "2026-09-30T19:00:00.000Z",
+   "baslik": "Süper Spor",
+   "baslangicUtc": "2026-10-02T06:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8291,10 +6870,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Gece Yarısı",
-   "baslangicUtc": "2026-09-30T20:30:00.000Z",
+   "baslik": "Üç Damla Mutluluk",
+   "baslangicUtc": "2026-10-02T07:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8302,13 +6881,437 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "HT SPOR",
+   "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
-   "baslik": "Özel Röportaj",
-   "baslangicUtc": "2026-09-30T22:00:00.000Z",
+   "baslik": "Tenis Dünyası",
+   "baslangicUtc": "2026-10-02T07:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Bahçeşehir Koleji - Roma",
+   "baslangicUtc": "2026-10-02T07:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Bahçeşehir Koleji",
+    "Roma"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Haber Bülteni",
+   "baslangicUtc": "2026-10-02T09:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Sporla Değişen Hayatlar",
+   "baslangicUtc": "2026-10-02T09:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Sporun İkonları",
+   "baslangicUtc": "2026-10-02T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Adım Adım",
+   "baslangicUtc": "2026-10-02T10:25:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Sıra Sende",
+   "baslangicUtc": "2026-10-02T10:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Spor Atlası",
+   "baslangicUtc": "2026-10-02T11:05:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Yenilmezler",
+   "baslangicUtc": "2026-10-02T11:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Fenerbahçe Tarfin-Beşiktaş",
+   "baslangicUtc": "2026-10-02T11:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Tenis Dünyası",
+   "baslangicUtc": "2026-10-02T13:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Üç Damla Mutluluk",
+   "baslangicUtc": "2026-10-02T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Pedalın Senfonisi",
+   "baslangicUtc": "2026-10-02T14:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Açık Hava Sporları",
+   "baslangicUtc": "2026-10-02T14:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Süper Spor",
+   "baslangicUtc": "2026-10-02T15:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Sporla Değişen Hayatlar",
+   "baslangicUtc": "2026-10-02T15:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Hayat Yeniden Başlasın",
+   "baslangicUtc": "2026-10-02T15:55:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Sporun İkonları",
+   "baslangicUtc": "2026-10-02T16:10:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Spor Her Yerde",
+   "baslangicUtc": "2026-10-02T16:35:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Olimpiyat Yıldızları",
+   "baslangicUtc": "2026-10-02T16:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Ultra",
+   "baslangicUtc": "2026-10-02T17:05:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Sporun İkonları",
+   "baslangicUtc": "2026-10-02T17:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Haber Bülteni",
+   "baslangicUtc": "2026-10-02T17:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Spor Toto - İstanbul Gençlik",
+   "baslangicUtc": "2026-10-02T17:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Spor Toto",
+    "İstanbul Gençlik"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Tenis Dünyası",
+   "baslangicUtc": "2026-10-02T19:05:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Üç Damla Mutluluk",
+   "baslangicUtc": "2026-10-02T19:25:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Pedalın Senfonisi",
+   "baslangicUtc": "2026-10-02T19:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Adım Adım",
+   "baslangicUtc": "2026-10-02T20:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Yenilmezler",
+   "baslangicUtc": "2026-10-02T20:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Süper Spor",
+   "baslangicUtc": "2026-10-02T21:05:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Haber Bülteni",
+   "baslangicUtc": "2026-10-02T21:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "T.C. Cumhurbaşkanlığı Kupası Yağlı Güreşleri",
+   "baslangicUtc": "2026-10-02T21:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Olimpiyat Yıldızları",
+   "baslangicUtc": "2026-10-03T02:05:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Sporun İkonları",
+   "baslangicUtc": "2026-10-03T02:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Ultra",
+   "baslangicUtc": "2026-10-03T02:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Spor Her Yerde",
+   "baslangicUtc": "2026-10-03T02:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Hayat Yeniden Başlasın",
+   "baslangicUtc": "2026-10-03T03:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "Açık Hava Sporları",
+   "baslangicUtc": "2026-10-03T03:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR YILDIZ",
+   "dijital": false,
+   "baslik": "O Benim Hocam",
+   "baslangicUtc": "2026-10-03T03:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
   },
@@ -9221,10 +8224,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Futbolun En Büyük Sahnesi",
-   "baslangicUtc": "2026-09-29T20:25:00.000Z",
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Gece Yarısı",
+   "baslangicUtc": "2026-10-07T01:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9232,10 +8235,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "TRT Spor Yıldız Ortak Yayın",
-   "baslangicUtc": "2026-09-30T02:15:00.000Z",
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Başlama Vuruşu",
+   "baslangicUtc": "2026-10-07T05:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9243,121 +8246,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Futbolun En Büyük Sahnesi",
-   "baslangicUtc": "2026-09-30T06:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "UEFA Avrupa Ligi Özetler",
-   "baslangicUtc": "2026-09-30T06:55:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Anderlecht - Lyon",
-   "baslangicUtc": "2026-09-30T08:50:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Anderlecht",
-    "Lyon"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Goller Klip",
-   "baslangicUtc": "2026-09-30T10:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Milan - Benfica",
-   "baslangicUtc": "2026-09-30T10:40:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Milan",
-    "Benfica"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Şampiyonlar Ligi Özetler",
-   "baslangicUtc": "2026-09-30T12:20:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Contenders",
-   "baslangicUtc": "2026-09-30T14:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Crystal Palace - Lech Poznan",
-   "baslangicUtc": "2026-09-30T14:40:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Crystal Palace",
-    "Lech Poznan"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Beşiktaş - Marsilya",
-   "baslangicUtc": "2026-09-30T16:20:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Beşiktaş",
-    "Marsilya"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "UEFA Şampiyonlar Ligi Magazin",
-   "baslangicUtc": "2026-09-30T18:10:00.000Z",
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "HT Spor Gündem",
+   "baslangicUtc": "2026-10-07T08:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -9365,24 +8257,10 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Sporting Cp - Galatasaray",
-   "baslangicUtc": "2026-09-30T18:35:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Sporting Cp",
-    "Galatasaray"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Futbolun En Büyük Sahnesi",
-   "baslangicUtc": "2026-09-30T20:15:00.000Z",
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Kürsü",
+   "baslangicUtc": "2026-10-07T09:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9390,10 +8268,65 @@
    "kaynak": "tvplus"
   },
   {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "UEFA Şampiyonlar Ligi Goller",
-   "baslangicUtc": "2026-09-30T20:40:00.000Z",
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Bakış Açısı",
+   "baslangicUtc": "2026-10-07T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Maç Özet",
+   "baslangicUtc": "2026-10-07T11:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Satır Arası",
+   "baslangicUtc": "2026-10-07T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Dünyadan Futbol",
+   "baslangicUtc": "2026-10-07T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Ana Haber Bülteni",
+   "baslangicUtc": "2026-10-07T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "HT SPOR",
+   "dijital": false,
+   "baslik": "Gece Yarısı",
+   "baslangicUtc": "2026-10-07T20:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9425,28 +8358,28 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasıomonıa - Celta Vıgo",
+   "baslik": "Omonia - Celta Vigo",
    "baslangicUtc": "2026-10-01T06:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Avrupa Ligi Futbol Karşılaşmasıomonıa",
-    "Celta Vıgo"
+    "Omonia",
+    "Celta Vigo"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasımılan - Benfıca",
+   "baslik": "Milan - Benfica",
    "baslangicUtc": "2026-10-01T08:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Avrupa Ligi Futbol Karşılaşmasımılan",
-    "Benfıca"
+    "Milan",
+    "Benfica"
    ],
    "kaynak": "tvplus"
   },
@@ -9464,14 +8397,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasıararat - Armenıa - Sparta Prag",
+   "baslik": "Ararat Armenia - Sparta Prag",
    "baslangicUtc": "2026-10-01T10:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Avrupa Ligi Futbol Karşılaşmasıararat",
-    "Armenıa"
+    "Ararat Armenia",
+    "Sparta Prag"
    ],
    "kaynak": "tvplus"
   },
@@ -9489,13 +8422,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasıanderlecht - Lyon",
+   "baslik": "Anderlecht - Lyon",
    "baslangicUtc": "2026-10-01T12:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Avrupa Ligi Futbol Karşılaşmasıanderlecht",
+    "Anderlecht",
     "Lyon"
    ],
    "kaynak": "tvplus"
@@ -9514,13 +8447,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasıb.leverkusen - Nk Celje",
+   "baslik": "B. Leverkusen - Nk Celje",
    "baslangicUtc": "2026-10-01T14:40:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Avrupa Ligi Futbol Karşılaşmasıb.leverkusen",
+    "B. Leverkusen",
     "Nk Celje"
    ],
    "kaynak": "tvplus"
@@ -9539,14 +8472,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasıofı - Hoffenheım",
+   "baslik": "Ofi - Hoffenheim",
    "baslangicUtc": "2026-10-01T17:05:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Avrupa Ligi Futbol Karşılaşmasıofı",
-    "Hoffenheım"
+    "Ofi",
+    "Hoffenheim"
    ],
    "kaynak": "tvplus"
   },
@@ -9564,14 +8497,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasıjuventus - Nec Nıjmegen",
+   "baslik": "Juventus - Nec Nijmegen",
    "baslangicUtc": "2026-10-01T19:20:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Avrupa Ligi Futbol Karşılaşmasıjuventus",
-    "Nec Nıjmegen"
+    "Juventus",
+    "Nec Nijmegen"
    ],
    "kaynak": "tvplus"
   },
@@ -10069,248 +9002,6 @@
    "dijital": true,
    "baslik": "TRT Spor Yıldız Ortak Yayın",
    "baslangicUtc": "2026-10-04T21:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Modern Doğu Masalları",
-   "baslangicUtc": "2026-09-29T23:38:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Diriliş Ertuğrul",
-   "baslangicUtc": "2026-09-30T00:25:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "En Son Babalar Duyar",
-   "baslangicUtc": "2026-09-30T02:21:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Bizimkiler",
-   "baslangicUtc": "2026-09-30T03:11:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Son Gün",
-   "baslangicUtc": "2026-09-30T03:55:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Modern Doğu Masalları",
-   "baslangicUtc": "2026-09-30T04:48:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Diriliş Ertuğrul",
-   "baslangicUtc": "2026-09-30T05:35:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "En Son Babalar Duyar",
-   "baslangicUtc": "2026-09-30T07:31:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Bizimkiler",
-   "baslangicUtc": "2026-09-30T08:21:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Son Gün",
-   "baslangicUtc": "2026-09-30T09:04:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Modern Doğu Masalları",
-   "baslangicUtc": "2026-09-30T09:58:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Diriliş Ertuğrul",
-   "baslangicUtc": "2026-09-30T10:45:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "En Son Babalar Duyar",
-   "baslangicUtc": "2026-09-30T12:41:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Bizimkiler",
-   "baslangicUtc": "2026-09-30T13:31:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Son Gün",
-   "baslangicUtc": "2026-09-30T14:14:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Modern Doğu Masalları",
-   "baslangicUtc": "2026-09-30T15:08:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Diriliş Ertuğrul",
-   "baslangicUtc": "2026-09-30T15:55:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Son Gün",
-   "baslangicUtc": "2026-09-30T17:51:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Diriliş Ertuğrul",
-   "baslangicUtc": "2026-09-30T18:44:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Çiçek Taksi",
-   "baslangicUtc": "2026-09-30T20:40:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Yeditepe İstanbul",
-   "baslangicUtc": "2026-09-30T21:37:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii TV",
-   "dijital": true,
-   "baslik": "Son Gün",
-   "baslangicUtc": "2026-09-30T22:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,

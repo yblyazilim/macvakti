@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-09-30T20:22:10.105Z",
+ "guncellendi": "2026-10-01T00:04:10.827Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 295,
@@ -3205,51 +3205,6 @@
     "futbol:971-01"
    ]
   },
-  "giresunspor": {
-   "ad": "Giresunspor",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1967,
-    "sehir": "Giresun",
-    "stat": "Giresun Atatürk Stadyumu"
-   }
-  },
-  "goztepediyetkapimagelsin": {
-   "ad": "Göztepe Diyet Kapıma Gelsin",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "sportoto": {
-   "ad": "Spor Toto",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "istanbulgenclik": {
-   "ad": "İstanbul Gençlik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 2024,
-    "sehir": "İstanbul"
-   }
-  },
   "ortahisarbelediyesi": {
    "ad": "Ortahisar Belediyesi",
    "branslar": [
@@ -3335,8 +3290,40 @@
     "hentbol:diger"
    ]
   },
+  "sportoto": {
+   "ad": "Spor Toto",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "giresunspor": {
+   "ad": "Giresunspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1967,
+    "sehir": "Giresun",
+    "stat": "Giresun Atatürk Stadyumu"
+   }
+  },
   "guneysuspor": {
    "ad": "Güneysuspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "goztepediyetkapimagelsin": {
+   "ad": "Göztepe Diyet Kapıma Gelsin",
    "branslar": [
     "hentbol"
    ],
@@ -3461,6 +3448,19 @@
    "ligler": [
     "hentbol:diger"
    ]
+  },
+  "istanbulgenclik": {
+   "ad": "İstanbul Gençlik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 2024,
+    "sehir": "İstanbul"
+   }
   },
   "artidegervanspor": {
    "ad": "Artı Değer Van Spor",
