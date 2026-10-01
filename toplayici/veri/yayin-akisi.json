@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-01T11:20:26.632Z",
- "adet": 921,
+ "guncellendi": "2026-10-01T17:36:52.657Z",
+ "adet": 923,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 921,
+   "adet": 923,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "İngiltere - İspanya",
@@ -2155,10 +2155,10 @@
   {
    "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Özel Yayın/Serdal Adalı",
+   "baslik": "Taktik Analiz",
    "baslangicUtc": "2026-10-01T17:30:00.000Z",
    "sureDk": null,
-   "tur": "belirsiz",
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -2180,8 +2180,19 @@
   {
    "kanal": "TRT SPOR HD",
    "dijital": false,
-   "baslik": "Taktik Analiz",
+   "baslik": "Spor Artı",
    "baslangicUtc": "2026-10-01T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Almanya Bundesliga Özetler",
+   "baslangicUtc": "2026-10-01T22:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -6338,6 +6349,39 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-10-08T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-08T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-10-08T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "T.C. Cumhurbaşkanlığı Kupası Yağlı Güreşleri",
@@ -7572,19 +7616,8 @@
   {
    "kanal": "HT SPOR",
    "dijital": false,
-   "baslik": "Gelmez Dediğin Yerden",
-   "baslangicUtc": "2026-10-01T17:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "HT SPOR",
-   "dijital": false,
    "baslik": "Sahadan",
-   "baslangicUtc": "2026-10-01T18:00:00.000Z",
+   "baslangicUtc": "2026-10-01T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7605,19 +7638,8 @@
   {
    "kanal": "HT SPOR",
    "dijital": false,
-   "baslik": "Gelmez Dediğin Yerden",
-   "baslangicUtc": "2026-10-01T22:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "HT SPOR",
-   "dijital": false,
    "baslik": "Sahadan",
-   "baslangicUtc": "2026-10-01T23:00:00.000Z",
+   "baslangicUtc": "2026-10-01T22:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
