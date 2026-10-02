@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-10-02T19:27:24.287Z",
+ "guncellendi": "2026-10-02T23:22:18.005Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 295,
+ "takimSayisi": 294,
  "branslar": [
   {
    "k": "basketbol",
@@ -398,7 +398,6 @@
       "besiktasjk",
       "beykozbelediyesi",
       "giresunspor",
-      "goztepe",
       "goztepediyetkapimagelsin",
       "guneysuspor",
       "ispartagenclikvesporilmud",
@@ -411,7 +410,6 @@
       "mcsistemyozgatgsk",
       "mihaliccikbelediyesi",
       "niluferbelediyesi",
-      "ortahisarbelediyesi",
       "ozelidarekoroglu",
       "polatlibelediyesiamator",
       "sherininebolu",
@@ -571,13 +569,11 @@
    "ad": "Göztepe",
    "branslar": [
     "basketbol",
-    "futbol",
-    "hentbol"
+    "futbol"
    ],
    "ligler": [
     "basketbol:tbf-TBL",
-    "futbol:198",
-    "hentbol:diger"
+    "futbol:198"
    ],
    "kunye": {
     "kurulus": 1925,
@@ -3203,15 +3199,6 @@
    ],
    "ligler": [
     "futbol:971-01"
-   ]
-  },
-  "ortahisarbelediyesi": {
-   "ad": "Ortahisar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
    ]
   },
   "kepezbelediyesi": {
