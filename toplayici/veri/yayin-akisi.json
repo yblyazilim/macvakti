@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-03T13:18:17.983Z",
- "adet": 1004,
+ "guncellendi": "2026-10-03T17:29:38.081Z",
+ "adet": 1006,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1004,
+   "adet": 1006,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Belçika - Türkiye",
@@ -6623,6 +6623,28 @@
    "baslangicUtc": "2026-10-10T13:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-10-10T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-10T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
