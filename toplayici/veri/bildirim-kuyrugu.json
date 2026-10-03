@@ -1,3 +1,60 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:3L:20261003orduspor1967fatsabelediyespor01",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_orduspor1967",
+    "takim_fatsabelediyespor"
+   ],
+   "baslik": "Sona erdi: Orduspor 1967 0-3 Fatsa Belediyespor",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-03T23:12:17.687Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261003karabükidmanyurdusporamasyaspor01",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_karabükidmanyurduspor",
+    "takim_amasyaspor"
+   ],
+   "baslik": "Sona erdi: Karabük İdmanyurdu Spor 1-2 Amasyaspor",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-03T23:12:17.687Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261003altayalanya1221futbol02",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_altay",
+    "takim_alanya1221futbol"
+   ],
+   "baslik": "Altay 0-0 Alanya 1221 Futbol · Maç sona erdi",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-03T23:12:17.688Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261003yozgatbelediyesibozokspormalatyayeşi",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_yozgatbelediyesibozokspor",
+    "takim_malatyayeşilyurt"
+   ],
+   "baslik": "Sona erdi: Yozgat Belediyesi Bozok Spor 1-9 Malatya Yeşilyurt",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-03T23:12:17.688Z"
+  }
+ ]
 }
