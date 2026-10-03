@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-03T17:29:38.172Z",
+ "guncellendi": "2026-10-03T20:14:15.906Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 294,
@@ -3192,15 +3192,6 @@
     "futbol:1000"
    ]
   },
-  "buyukcekmecegucufkspor": {
-   "ad": "Büyükçekmece Gücü Fk Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ]
-  },
   "kepezbelediyesi": {
    "ad": "Kepez Belediyesi",
    "branslar": [
@@ -3257,6 +3248,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "buyukcekmecegucufkspor": {
+   "ad": "Büyükçekmece Gücü Fk Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
    ]
   },
   "uskudarbelediyesi": {
