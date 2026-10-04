@@ -1,3 +1,73 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:2L:20261004gmgkastamonusporarkentarnavutköybele",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_gmgkastamonuspor",
+    "takim_arkentarnavutköybelediyesifutbol"
+   ],
+   "baslik": "Sona erdi: Gmg Kastamonuspor 2-1 Arkent Arnavutköy Belediyesi Futbol",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-04T18:35:34.552Z"
+  },
+  {
+   "macId": "futbol:tff:2L:2026100468aksaraybelediyesporankarasporbeyaz",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_68aksaraybelediyespor",
+    "takim_ankaraspor"
+   ],
+   "baslik": "Bitti: 68 Aksaray Belediye Spor 0-1 Ankaraspor",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-04T18:35:34.552Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20261004kütahyasporfutbol52ordusporkırmızı",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Krmz",
+    "takim_kütahyasporfutbol",
+    "takim_52orduspor"
+   ],
+   "baslik": "Bitti: Kütahyaspor Futbol 0-4 52 Orduspor",
+   "govde": "2. Lig Kırmızı Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-04T18:35:34.552Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20261004ankaragücüsultansuinegölsporkırmızı",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Krmz",
+    "takim_ankaragücü",
+    "takim_sultansuinegölspor"
+   ],
+   "baslik": "Ankaragücü 4-1 Sultan Su İnegölspor · Maç sona erdi",
+   "govde": "2. Lig Kırmızı Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-04T18:35:34.552Z"
+  },
+  {
+   "macId": "hentbol:thf:3203",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_nilüferbelediyesi",
+    "takim_turangrupırmak"
+   ],
+   "baslik": "Nilüfer Belediyesi 39-36 Turan Grup Irmak · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-04T18:35:34.553Z"
+  }
+ ]
 }
