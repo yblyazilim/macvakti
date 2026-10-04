@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-10-04T18:35:34.575Z",
+ "guncellendi": "2026-10-04T21:54:27.044Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 293,
+ "takimSayisi": 305,
  "branslar": [
   {
    "k": "basketbol",
@@ -392,28 +392,41 @@
      "ad": "Diğer",
      "takimlar": [
       "1954hendek",
+      "1955batmanbelediyesi",
       "aksaraybelediyespor",
-      "aydinptt",
       "besiktasjimnastik",
       "besiktasjk",
       "beykozbelediyesi",
+      "diyarbakirbbsk",
+      "elaziggencsporilmud",
       "eskisehirhentbol",
       "giresunspor",
+      "goztepe",
       "goztepediyetkapimagelsin",
       "guneysuspor",
       "ispartagenclikvesporilmud",
       "istanbulgenclik",
+      "izmirbsb",
       "izmirbuyuksehirbelediyesi",
       "keciorenbelediyesibaglum",
       "kepezbelediyesi",
+      "manisabuyuksehirbelediye",
       "marmarapendikhentbol",
+      "mcsistemyozgatgsk",
       "mihaliccikbelediyesi",
       "niluferbelediyesi",
       "odunpazari",
+      "ordugsim",
+      "ortahisarbelediyesi",
       "ozelidarekoroglu",
       "polatlibelediyesiamator",
+      "saricambelediyesi",
+      "seyhanbelediye",
       "sherininebolu",
+      "sivasioi",
       "sportoto",
+      "tasovabelediyesi",
+      "trabzonbuyuksehirbel",
       "turangrupirmak",
       "yalikavak",
       "yenimahallebelediyesi"
@@ -568,11 +581,13 @@
    "ad": "Göztepe",
    "branslar": [
     "basketbol",
-    "futbol"
+    "futbol",
+    "hentbol"
    ],
    "ligler": [
     "basketbol:tbf-TBL",
-    "futbol:198"
+    "futbol:198",
+    "hentbol:diger"
    ],
    "kunye": {
     "kurulus": 1925,
@@ -3182,6 +3197,15 @@
     "basketbol:tbf-KBBL"
    ]
   },
+  "artidegervanspor": {
+   "ad": "Artı Değer Van Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
   "karademirgrupkayserikadin": {
    "ad": "Karademir Grup Kayseri Kadın",
    "branslar": [
@@ -3200,76 +3224,8 @@
     "futbol:971-01"
    ]
   },
-  "1954hendek": {
-   "ad": "1954 Hendek",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "ozelidarekoroglu": {
-   "ad": "Özel İdare Köroğlu",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "aydinptt": {
-   "ad": "Aydın Ptt",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "marmarapendikhentbol": {
-   "ad": "Marmara Pendik Hentbol",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "besiktasjk": {
-   "ad": "Beşiktaş Jk",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1903,
-    "sehir": "İstanbul",
-    "stat": "Beşiktaş Stadyumu"
-   }
-  },
-  "sherininebolu": {
-   "ad": "Sherin İnebolu",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "niluferbelediyesi": {
    "ad": "Nilüfer Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "turangrupirmak": {
-   "ad": "Turan Grup Irmak",
    "branslar": [
     "hentbol"
    ],
@@ -3289,15 +3245,6 @@
     "kurulus": 2024,
     "sehir": "İstanbul"
    }
-  },
-  "artidegervanspor": {
-   "ad": "Artı Değer Van Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:142"
-   ]
   },
   "mihaliccikbelediyesi": {
    "ad": "Mihalıççık Belediyesi",
@@ -3432,6 +3379,186 @@
   },
   "besiktasjimnastik": {
    "ad": "Beşiktaş Jimnastik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
+  },
+  "sherininebolu": {
+   "ad": "Sherin İnebolu",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "sivasioi": {
+   "ad": "Sivas İöi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "1955batmanbelediyesi": {
+   "ad": "1955 Batman Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "diyarbakirbbsk": {
+   "ad": "Diyarbakır Bbsk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "saricambelediyesi": {
+   "ad": "Sarıçam Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "tasovabelediyesi": {
+   "ad": "Taşova Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ordugsim": {
+   "ad": "Ordu Gsim",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "seyhanbelediye": {
+   "ad": "Seyhan Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "elaziggencsporilmud": {
+   "ad": "Elazığ Genç. Spor İl Müd.",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "trabzonbuyuksehirbel": {
+   "ad": "Trabzon Büyükşehir Bel.",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "mcsistemyozgatgsk": {
+   "ad": "Mc Sistem Yozgat Gsk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ortahisarbelediyesi": {
+   "ad": "Ortahisar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1994,
+    "sehir": "Manisa"
+   }
+  },
+  "ozelidarekoroglu": {
+   "ad": "Özel İdare Köroğlu",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "izmirbsb": {
+   "ad": "İzmir Bşb",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "turangrupirmak": {
+   "ad": "Turan Grup Irmak",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "1954hendek": {
+   "ad": "1954 Hendek",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "marmarapendikhentbol": {
+   "ad": "Marmara Pendik Hentbol",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "besiktasjk": {
+   "ad": "Beşiktaş Jk",
    "branslar": [
     "hentbol"
    ],
