@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-05T06:14:46.426Z",
+ "guncellendi": "2026-10-05T14:51:41.846Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 305,
@@ -3246,6 +3246,19 @@
     "sehir": "İstanbul"
    }
   },
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1994,
+    "sehir": "Manisa"
+   }
+  },
   "mihaliccikbelediyesi": {
    "ad": "Mihalıççık Belediyesi",
    "branslar": [
@@ -3498,19 +3511,6 @@
    "ligler": [
     "hentbol:diger"
    ]
-  },
-  "manisabuyuksehirbelediye": {
-   "ad": "Manisa Büyükşehir Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1994,
-    "sehir": "Manisa"
-   }
   },
   "ozelidarekoroglu": {
    "ad": "Özel İdare Köroğlu",

@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-05T00:41:14.143Z",
- "adet": 831,
+ "guncellendi": "2026-10-05T14:51:41.767Z",
+ "adet": 849,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 831,
+   "adet": 849,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -173,34 +173,15 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Barcelona Dev Maçlar",
-   "baslangicUtc": "2026-10-05T21:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "90+1",
+   "baslik": "Türkiye - İtalya",
    "baslangicUtc": "2026-10-05T23:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Avrupa'da Türk Takımları",
-   "baslangicUtc": "2026-10-06T00:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Türkiye",
+    "İtalya"
+   ],
    "kaynak": "tvplus"
   },
   {
@@ -217,8 +198,8 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Artı Futbol",
-   "baslangicUtc": "2026-10-06T03:00:00.000Z",
+   "baslik": "Son Sayfa",
+   "baslangicUtc": "2026-10-06T02:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -228,12 +209,15 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Avrupa'dan Futbol",
-   "baslangicUtc": "2026-10-06T04:00:00.000Z",
+   "baslik": "İsveç - Polonya",
+   "baslangicUtc": "2026-10-06T03:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "İsveç",
+    "Polonya"
+   ],
    "kaynak": "tvplus"
   },
   {
@@ -250,8 +234,22 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
+   "baslik": "Fransa - Belçika",
+   "baslangicUtc": "2026-10-06T07:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Fransa",
+    "Belçika"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
    "baslik": "Spor Ajansı",
-   "baslangicUtc": "2026-10-06T08:00:00.000Z",
+   "baslangicUtc": "2026-10-06T09:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -261,19 +259,22 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Gün Ortası",
+   "baslik": "Kırklarelispor - Bayburtspor",
    "baslangicUtc": "2026-10-06T11:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Kırklarelispor",
+    "Bayburtspor"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "A SPOR HD",
    "dijital": false,
    "baslik": "Spor Gündemi",
-   "baslangicUtc": "2026-10-06T12:00:00.000Z",
+   "baslangicUtc": "2026-10-06T13:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -283,23 +284,51 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Ana Haber",
-   "baslangicUtc": "2026-10-06T15:00:00.000Z",
+   "baslik": "Sakaryaspor - A. Kayadibi SK",
+   "baslangicUtc": "2026-10-06T14:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
-   "macDisi": true,
+   "macDisi": false,
+   "takimlar": [
+    "Sakaryaspor",
+    "A. Kayadibi SK"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Karşıyaka-1923 Afyonkarahisar",
+   "baslangicUtc": "2026-10-06T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
   },
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Avrupa'dan Futbol",
+   "baslik": "Uluslar Ligi Özel",
    "baslangicUtc": "2026-10-06T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "İngiltere - Çekya",
+   "baslangicUtc": "2026-10-06T18:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "İngiltere",
+    "Çekya"
+   ],
    "kaynak": "tvplus"
   },
   {
@@ -4774,6 +4803,28 @@
   {
    "kanal": "S SPORT 2",
    "dijital": false,
+   "baslik": "Moto 2",
+   "baslangicUtc": "2026-10-06T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT 2",
+   "dijital": false,
+   "baslik": "İtalya Serie A",
+   "baslangicUtc": "2026-10-06T07:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT 2",
+   "dijital": false,
    "baslik": "Inside Sailing",
    "baslangicUtc": "2026-10-06T09:00:00.000Z",
    "sureDk": null,
@@ -4829,10 +4880,43 @@
   {
    "kanal": "S SPORT 2",
    "dijital": false,
-   "baslik": "2. Bundesliga Özetler",
+   "baslik": "Euroleague",
    "baslangicUtc": "2026-10-06T15:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT 2",
+   "dijital": false,
+   "baslik": "İtalya Serie A Geniş Özetler",
+   "baslangicUtc": "2026-10-06T17:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT 2",
+   "dijital": false,
+   "baslik": "İtalya Serie A",
+   "baslangicUtc": "2026-10-06T18:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT 2",
+   "dijital": false,
+   "baslik": "NBA",
+   "baslangicUtc": "2026-10-06T20:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -6206,6 +6290,138 @@
    "dijital": false,
    "baslik": "İtalya Erkekler Voleybol Ligi",
    "baslangicUtc": "2026-10-11T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-12T03:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-10-12T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-10-12T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-10-12T06:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-10-12T06:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-10-12T07:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Taha Erpulat İle Pilates",
+   "baslangicUtc": "2026-10-12T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Spor ve Çocuk",
+   "baslangicUtc": "2026-10-12T08:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-10-12T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-12T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-10-12T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-10-12T13:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
