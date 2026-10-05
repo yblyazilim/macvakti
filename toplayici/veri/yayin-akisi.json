@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-05T14:51:41.767Z",
- "adet": 849,
+ "guncellendi": "2026-10-05T21:52:13.731Z",
+ "adet": 855,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 849,
+   "adet": 855,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -1423,14 +1423,14 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Leganes - Castellon",
+   "baslik": "Las Palmas - Real Valladolid",
    "baslangicUtc": "2026-10-06T04:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Leganes",
-    "Castellon"
+    "Las Palmas",
+    "Real Valladolid"
    ],
    "kaynak": "tvplus"
   },
@@ -1470,7 +1470,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Euroleague Geniş Özetler",
+   "baslik": "Bundesliga Geniş Özetler",
    "baslangicUtc": "2026-10-06T09:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
@@ -1525,7 +1525,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Almanya Bundesliga",
+   "baslik": "Hollanda Ligi",
    "baslangicUtc": "2026-10-06T16:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
@@ -1536,10 +1536,21 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Özetler",
-   "baslangicUtc": "2026-10-06T20:15:00.000Z",
+   "baslik": "NBA",
+   "baslangicUtc": "2026-10-06T17:00:00.000Z",
    "sureDk": null,
-   "tur": "tekrar",
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "Euroleague",
+   "baslangicUtc": "2026-10-06T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -6422,6 +6433,61 @@
    "dijital": false,
    "baslik": "İtalya Erkekler Voleybol Ligi",
    "baslangicUtc": "2026-10-12T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-10-12T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Brand & Sport Summit",
+   "baslangicUtc": "2026-10-12T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-10-12T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Champions Chess Tour",
+   "baslangicUtc": "2026-10-12T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-10-12T20:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,

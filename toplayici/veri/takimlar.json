@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-05T14:51:41.846Z",
+ "guncellendi": "2026-10-05T21:52:13.798Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 305,
@@ -3197,15 +3197,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "artidegervanspor": {
-   "ad": "Artı Değer Van Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:142"
-   ]
-  },
   "karademirgrupkayserikadin": {
    "ad": "Karademir Grup Kayseri Kadın",
    "branslar": [
@@ -3224,27 +3215,14 @@
     "futbol:971-01"
    ]
   },
-  "niluferbelediyesi": {
-   "ad": "Nilüfer Belediyesi",
+  "artidegervanspor": {
+   "ad": "Artı Değer Van Spor",
    "branslar": [
-    "hentbol"
+    "futbol"
    ],
    "ligler": [
-    "hentbol:diger"
+    "futbol:142"
    ]
-  },
-  "istanbulgenclik": {
-   "ad": "İstanbul Gençlik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 2024,
-    "sehir": "İstanbul"
-   }
   },
   "manisabuyuksehirbelediye": {
    "ad": "Manisa Büyükşehir Belediye",
@@ -3338,6 +3316,15 @@
   },
   "goztepediyetkapimagelsin": {
    "ad": "Göztepe Diyet Kapıma Gelsin",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "niluferbelediyesi": {
+   "ad": "Nilüfer Belediyesi",
    "branslar": [
     "hentbol"
    ],
@@ -3484,6 +3471,19 @@
    "ligler": [
     "hentbol:diger"
    ]
+  },
+  "istanbulgenclik": {
+   "ad": "İstanbul Gençlik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 2024,
+    "sehir": "İstanbul"
+   }
   },
   "trabzonbuyuksehirbel": {
    "ad": "Trabzon Büyükşehir Bel.",
