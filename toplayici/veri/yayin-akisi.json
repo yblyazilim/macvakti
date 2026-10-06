@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-06T08:49:21.944Z",
- "adet": 814,
+ "guncellendi": "2026-10-06T15:37:32.260Z",
+ "adet": 833,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 814,
+   "adet": 833,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Türkiye - İtalya",
@@ -1404,6 +1404,17 @@
    "dijital": false,
    "baslik": "NBA",
    "baslangicUtc": "2026-10-06T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "Euroleague",
+   "baslangicUtc": "2026-10-06T19:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -4753,6 +4764,17 @@
   {
    "kanal": "S SPORT 2",
    "dijital": false,
+   "baslik": "NBA",
+   "baslangicUtc": "2026-10-06T20:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT 2",
+   "dijital": false,
    "baslik": "World Skateboard",
    "baslangicUtc": "2026-10-06T22:30:00.000Z",
    "sureDk": null,
@@ -6611,6 +6633,50 @@
    "baslangicUtc": "2026-10-13T08:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-10-13T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-13T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Freeride Dünya Turu",
+   "baslangicUtc": "2026-10-13T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-10-13T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -8513,13 +8579,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "beşiktaş - Marsilya",
+   "baslik": "Beşiktaş - Marsilya",
    "baslangicUtc": "2026-10-06T16:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "beşiktaş",
+    "Beşiktaş",
     "Marsilya"
    ],
    "kaynak": "tvplus"
@@ -8538,13 +8604,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "real Madrıd - Inter",
+   "baslik": "Real Madrid - Inter",
    "baslangicUtc": "2026-10-06T18:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "real Madrıd",
+    "Real Madrid",
     "Inter"
    ],
    "kaynak": "tvplus"
@@ -8576,6 +8642,164 @@
    "dijital": true,
    "baslik": "TRT Spor Yıldız Ortak Yayın",
    "baslangicUtc": "2026-10-07T02:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-10-07T06:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "UEFA Avrupa Ligi Özetler",
+   "baslangicUtc": "2026-10-07T06:55:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasıanderlecht - Lyon",
+   "baslangicUtc": "2026-10-07T08:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Avrupa Ligi Futbol Karşılaşmasıanderlecht",
+    "Lyon"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Goller Klip",
+   "baslangicUtc": "2026-10-07T10:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasımılan - Benfıca",
+   "baslangicUtc": "2026-10-07T10:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Avrupa Ligi Futbol Karşılaşmasımılan",
+    "Benfıca"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Şampiyonlar Ligi Özetler",
+   "baslangicUtc": "2026-10-07T12:20:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-10-07T14:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasıcrystal Palace - Lech Poznan",
+   "baslangicUtc": "2026-10-07T14:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Avrupa Ligi Futbol Karşılaşmasıcrystal Palace",
+    "Lech Poznan"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Beşiktaş - Marsilya , Uefa Avrupa Ligi Maçı",
+   "baslangicUtc": "2026-10-07T16:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Beşiktaş",
+    "Marsilya , Uefa Avrupa Ligi Maçı"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "UEFA Şampiyonlar Ligi Magazin",
+   "baslangicUtc": "2026-10-07T18:10:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasısportıng Cp - Galatasaray",
+   "baslangicUtc": "2026-10-07T18:35:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasısportıng Cp",
+    "Galatasaray"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-10-07T20:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "UEFA Şampiyonlar Ligi Goller",
+   "baslangicUtc": "2026-10-07T20:40:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
