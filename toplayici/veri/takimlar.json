@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-07T06:07:50.138Z",
+ "guncellendi": "2026-10-07T13:24:10.556Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 305,
@@ -3237,24 +3237,6 @@
     "sehir": "Manisa"
    }
   },
-  "mihaliccikbelediyesi": {
-   "ad": "Mihalıççık Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "sportoto": {
-   "ad": "Spor Toto",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "aksaraybelediyespor": {
    "ad": "Aksaray Belediye Spor",
    "branslar": [
@@ -3390,6 +3372,24 @@
     "sehir": "İstanbul",
     "stat": "Beşiktaş Stadyumu"
    }
+  },
+  "mihaliccikbelediyesi": {
+   "ad": "Mihalıççık Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "sportoto": {
+   "ad": "Spor Toto",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
   },
   "sherininebolu": {
    "ad": "Sherin İnebolu",
