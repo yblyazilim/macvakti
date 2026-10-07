@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-07T13:24:10.455Z",
- "adet": 981,
+ "guncellendi": "2026-10-07T19:29:44.293Z",
+ "adet": 986,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 981,
+   "adet": 986,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "İspanya - Hırvatistan",
@@ -193,19 +193,22 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Avrupa'dan Futbol",
-   "baslangicUtc": "2026-10-08T00:00:00.000Z",
+   "baslik": "İspanya - İngiltere",
+   "baslangicUtc": "2026-10-07T23:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "İspanya",
+    "İngiltere"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "A SPOR HD",
    "dijital": false,
    "baslik": "Arşiv Odası",
-   "baslangicUtc": "2026-10-08T01:30:00.000Z",
+   "baslangicUtc": "2026-10-08T01:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -216,7 +219,7 @@
    "kanal": "A SPOR HD",
    "dijital": false,
    "baslik": "Son Sayfa",
-   "baslangicUtc": "2026-10-08T03:00:00.000Z",
+   "baslangicUtc": "2026-10-08T02:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -226,12 +229,15 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Avrupa'da Türk Takımları",
-   "baslangicUtc": "2026-10-08T04:00:00.000Z",
+   "baslik": "Belçika - Fransa",
+   "baslangicUtc": "2026-10-08T03:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Belçika",
+    "Fransa"
+   ],
    "kaynak": "tvplus"
   },
   {
@@ -259,30 +265,47 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Gün Ortası",
+   "baslik": "A. Erciyes 38 - Kahta 02 Spor",
    "baslangicUtc": "2026-10-08T11:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "A. Erciyes 38",
+    "Kahta 02 Spor"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "A SPOR HD",
    "dijital": false,
    "baslik": "Spor Gündemi",
-   "baslangicUtc": "2026-10-08T12:00:00.000Z",
+   "baslangicUtc": "2026-10-08T13:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
    "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Denizli İY 1959 - Serik Spor",
+   "baslangicUtc": "2026-10-08T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Denizli İY 1959",
+    "Serik Spor"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "A SPOR HD",
    "dijital": false,
    "baslik": "Ana Haber",
-   "baslangicUtc": "2026-10-08T15:00:00.000Z",
+   "baslangicUtc": "2026-10-08T16:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -292,19 +315,22 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Avrupa'da Türk Takımları",
+   "baslik": "Orduspor 1967 - K.Ereğli 1980",
    "baslangicUtc": "2026-10-08T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Orduspor 1967",
+    "K.Ereğli 1980"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Son Sayfa",
-   "baslangicUtc": "2026-10-08T20:00:00.000Z",
+   "baslik": "Futbol Meydanı",
+   "baslangicUtc": "2026-10-08T19:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7213,6 +7239,50 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-10-14T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-14T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-10-14T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-14T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "THY - Galatasaray",
@@ -9211,7 +9281,7 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Kısa Liste Magazin",
+   "baslik": "UEFA Avrupa Ligi Magazin",
    "baslangicUtc": "2026-10-08T12:05:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -9286,11 +9356,11 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Contenders",
+   "baslik": "UEFA Şampiyonlar Ligi Magazin",
    "baslangicUtc": "2026-10-08T18:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
-   "macDisi": false,
+   "macDisi": true,
    "takimlar": null,
    "kaynak": "tvplus"
   },
