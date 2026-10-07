@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-10-07T19:29:44.356Z",
+ "guncellendi": "2026-10-07T23:49:09.395Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 305,
+ "takimSayisi": 306,
  "branslar": [
   {
    "k": "basketbol",
@@ -397,6 +397,7 @@
       "besiktasjimnastik",
       "besiktasjk",
       "beykozbelediyesi",
+      "bursabuyuksehirbelediyesi",
       "diyarbakirbbsk",
       "elaziggencsporilmud",
       "eskisehirhentbol",
@@ -3574,6 +3575,15 @@
     "sehir": "İstanbul",
     "stat": "Beşiktaş Stadyumu"
    }
+  },
+  "bursabuyuksehirbelediyesi": {
+   "ad": "Bursa Büyükşehir Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
   }
  }
 }
