@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20261009sivassporpendiksporfutbol",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_sivasspor",
+    "takim_pendiksporfutbol"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Sivasspor - Pendikspor Futbol karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-08T03:09:35.850Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261009artıdeğervansporbandırmaspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_artıdeğervanspor",
+    "takim_bandırmaspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Artı Değer Van Spor - Bandırma Spor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-08T03:09:35.850Z"
+  }
+ ]
 }
