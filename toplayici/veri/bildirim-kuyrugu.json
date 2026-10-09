@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261009galatasaraykasımpaşa",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_galatasaray",
+    "takim_kasımpaşa"
+   ],
+   "baslik": "Galatasaray 3-1 Kasımpaşa · Maç sona erdi",
+   "govde": "Süper Lig · 7. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-09T21:17:00.473Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261009ümraniyesporsmsgrupsarıyer",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_ümraniyespor",
+    "takim_smsgrupsarıyer"
+   ],
+   "baslik": "Ümraniyespor 1-1 Sms Grup Sarıyer · Maç sona erdi",
+   "govde": "1. Lig · 9. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-09T21:17:00.473Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261009artıdeğervansporbandırmaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_artıdeğervanspor",
+    "takim_bandırmaspor"
+   ],
+   "baslik": "Sona erdi: Artı Değer Van Spor 0-2 Bandırma Spor",
+   "govde": "1. Lig · 9. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-09T21:17:00.473Z"
+  }
+ ]
 }
