@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20261009sivassporpendiksporfutbol",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_sivasspor",
+    "takim_pendiksporfutbol"
+   ],
+   "baslik": "Sivasspor 4-1 Pendikspor Futbol · Maç sona erdi",
+   "govde": "1. Lig · 9. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-09T16:40:22.427Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261009bodrumkeçiörengücü",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bodrum",
+    "takim_keçiörengücü"
+   ],
+   "baslik": "Bodrum 0-2 Keçiörengücü · Maç sona erdi",
+   "govde": "1. Lig · 9. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-09T16:40:22.427Z"
+  }
+ ]
 }
