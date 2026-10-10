@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-10-10T18:05:31.803Z",
+ "guncellendi": "2026-10-10T21:22:31.204Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 306,
+ "takimSayisi": 310,
  "branslar": [
   {
    "k": "basketbol",
@@ -393,10 +393,11 @@
      "takimlar": [
       "1954hendek",
       "1955batmanbelediyesi",
+      "adanasehitahmetmehmetorucsporlisesi",
       "aksaraybelediyespor",
+      "ardesenbelediyesi",
       "besiktasjimnastik",
       "besiktasjk",
-      "beykozbelediyesi",
       "bursabuyuksehirbelediyesi",
       "diyarbakirbbsk",
       "elaziggencsporilmud",
@@ -404,31 +405,34 @@
       "giresunspor",
       "goztepe",
       "goztepediyetkapimagelsin",
-      "guneysuspor",
+      "gunesincocuklari",
       "ispartagenclikvesporilmud",
       "istanbulgenclik",
       "izmirbsb",
       "izmirbuyuksehirbelediyesi",
+      "kastamonudinamik",
       "keciorenbelediyesibaglum",
       "kepezbelediyesi",
       "manisabuyuksehirbelediye",
       "marmarapendikhentbol",
       "mcsistemyozgatgsk",
-      "mihaliccikbelediyesi",
       "niluferbelediyesi",
       "odunpazari",
       "ordugsim",
       "ortahisarbelediyesi",
+      "osmaniyearena",
       "ozelidarekoroglu",
-      "polatlibelediyesiamator",
       "saricambelediyesi",
       "seyhanbelediye",
       "sherininebolu",
+      "sinop",
+      "sivasbelediye",
       "sivasioi",
-      "sportoto",
       "tasovabelediyesi",
+      "toroslarbelediyesi",
       "trabzonbuyuksehirbel",
       "turangrupirmak",
+      "uskudarbelediyesi",
       "yalikavak",
       "yenimahallebelediyesi"
      ]
@@ -3225,80 +3229,8 @@
     "futbol:142"
    ]
   },
-  "manisabuyuksehirbelediye": {
-   "ad": "Manisa Büyükşehir Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1994,
-    "sehir": "Manisa"
-   }
-  },
-  "aksaraybelediyespor": {
-   "ad": "Aksaray Belediye Spor",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "kepezbelediyesi": {
-   "ad": "Kepez Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "ispartagenclikvesporilmud": {
-   "ad": "Isparta Gençlik Ve Spor İl Müd.",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "yenimahallebelediyesi": {
-   "ad": "Yenimahalle Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "giresunspor": {
-   "ad": "Giresunspor",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1967,
-    "sehir": "Giresun",
-    "stat": "Giresun Atatürk Stadyumu"
-   }
-  },
-  "guneysuspor": {
-   "ad": "Güneysuspor",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "goztepediyetkapimagelsin": {
-   "ad": "Göztepe Diyet Kapıma Gelsin",
+  "sherininebolu": {
+   "ad": "Sherin İnebolu",
    "branslar": [
     "hentbol"
    ],
@@ -3308,92 +3240,6 @@
   },
   "niluferbelediyesi": {
    "ad": "Nilüfer Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "polatlibelediyesiamator": {
-   "ad": "Polatlı Belediyesi Amatör",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "eskisehirhentbol": {
-   "ad": "Eskişehir Hentbol",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "yalikavak": {
-   "ad": "Yalıkavak",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "odunpazari": {
-   "ad": "Odunpazarı",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "beykozbelediyesi": {
-   "ad": "Beykoz Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "besiktasjimnastik": {
-   "ad": "Beşiktaş Jimnastik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1903,
-    "sehir": "İstanbul",
-    "stat": "Beşiktaş Stadyumu"
-   }
-  },
-  "mihaliccikbelediyesi": {
-   "ad": "Mihalıççık Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "sportoto": {
-   "ad": "Spor Toto",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "sherininebolu": {
-   "ad": "Sherin İnebolu",
    "branslar": [
     "hentbol"
    ],
@@ -3576,8 +3422,202 @@
     "stat": "Beşiktaş Stadyumu"
    }
   },
+  "besiktasjimnastik": {
+   "ad": "Beşiktaş Jimnastik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
+  },
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1994,
+    "sehir": "Manisa"
+   }
+  },
   "bursabuyuksehirbelediyesi": {
    "ad": "Bursa Büyükşehir Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "giresunspor": {
+   "ad": "Giresunspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1967,
+    "sehir": "Giresun",
+    "stat": "Giresun Atatürk Stadyumu"
+   }
+  },
+  "eskisehirhentbol": {
+   "ad": "Eskişehir Hentbol",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "aksaraybelediyespor": {
+   "ad": "Aksaray Belediye Spor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "gunesincocuklari": {
+   "ad": "Güneşin Çocukları",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "kastamonudinamik": {
+   "ad": "Kastamonu Dinamik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "sinop": {
+   "ad": "Sinop",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ardesenbelediyesi": {
+   "ad": "Ardeşen Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "toroslarbelediyesi": {
+   "ad": "Toroslar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "sivasbelediye": {
+   "ad": "Sivas Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "goztepediyetkapimagelsin": {
+   "ad": "Göztepe Diyet Kapıma Gelsin",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "adanasehitahmetmehmetorucsporlisesi": {
+   "ad": "Adana Şehit Ahmet Mehmet Oruç Spor Lisesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "osmaniyearena": {
+   "ad": "Osmaniye Arena",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "odunpazari": {
+   "ad": "Odunpazarı",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yalikavak": {
+   "ad": "Yalıkavak",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "uskudarbelediyesi": {
+   "ad": "Üsküdar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ispartagenclikvesporilmud": {
+   "ad": "Isparta Gençlik Ve Spor İl Müd.",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "kepezbelediyesi": {
+   "ad": "Kepez Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yenimahallebelediyesi": {
+   "ad": "Yenimahalle Belediyesi",
    "branslar": [
     "hentbol"
    ],

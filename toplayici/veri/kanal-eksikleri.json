@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-10T18:05:20.871Z",
+ "guncellendi": "2026-10-10T21:21:49.494Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -7,34 +7,6 @@
    "lig": "3. Lig 01 Grubu",
    "mac": "Düzce Cam Düzcespor - Beykoz Anadolu Spor",
    "tarih": "2026-09-12T13:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261010çorluspor1947şanlıurfasporbeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Çorlu Spor 1947 - Şanlıurfaspor",
-   "tarih": "2026-10-10T12:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261010arkentarnavutköybelediyesifutbolısba",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Arkent Arnavutköy Belediyesi Futbol - Isbaş Isparta 32",
-   "tarih": "2026-10-10T12:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261010aliağafutbolmenemenbeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Aliağa Futbol - Menemen",
-   "tarih": "2026-10-10T16:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261010muşgmgkastamonusporbeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Muş - Gmg Kastamonuspor",
-   "tarih": "2026-10-10T16:00:00.000Z"
   },
   {
    "id": "hentbol:thf:3240",
@@ -198,6 +170,34 @@
    "tarih": "2026-10-17T10:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:3374",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Eskişehir Hentbol - Aksaray Belediye Spor",
+   "tarih": "2026-10-17T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3400",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Güneşin Çocukları - Kastamonu Dinamik",
+   "tarih": "2026-10-17T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3401",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Sinop - Ardeşen Belediyesi",
+   "tarih": "2026-10-17T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3403",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Toroslar Belediyesi - Sivas Belediye",
+   "tarih": "2026-10-17T10:00:00.000Z"
+  },
+  {
    "id": "futbol:tff:KSL:20261017antalyasporkadıngalatasaray",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
@@ -217,6 +217,76 @@
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Şile Bilgidoğa Sportif Yatırım Hizmetleri - Bakırköy Kadın Futbol",
    "tarih": "2026-10-17T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3095",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Trabzon Büyükşehir Bel. - Göztepe Diyet Kapıma Gelsin",
+   "tarih": "2026-10-17T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3402",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Adana Şehit Ahmet Mehmet Oruç Spor Lisesi - Osmaniye Arena",
+   "tarih": "2026-10-17T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3168",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Odunpazarı - Göztepe",
+   "tarih": "2026-10-17T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3170",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Manisa Büyükşehir Belediye - Mc Sistem Yozgat Gsk",
+   "tarih": "2026-10-17T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3171",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Yalıkavak - Bursa Büyükşehir Belediyesi",
+   "tarih": "2026-10-17T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3169",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Ortahisar Belediyesi - Üsküdar Belediyesi",
+   "tarih": "2026-10-17T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3375",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Keçiören Belediyesi Bağlum - Isparta Gençlik Ve Spor İl Müd.",
+   "tarih": "2026-10-17T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3247",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Nilüfer Belediyesi - Marmara Pendik Hentbol",
+   "tarih": "2026-10-17T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3372",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Kepez Belediyesi - İzmir Büyükşehir Belediyesi",
+   "tarih": "2026-10-17T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3373",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Yenimahalle Belediyesi - Manisa Büyükşehir Belediye",
+   "tarih": "2026-10-17T15:30:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20261018yüksekovafenerbahçearsavevkadınfutbo",

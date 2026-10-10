@@ -1,3 +1,102 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261010rizesporfenerbahçe",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_rizespor",
+    "takim_fenerbahçe"
+   ],
+   "baslik": "Rizespor 0-3 Fenerbahçe · Maç sona erdi",
+   "govde": "Süper Lig · 7. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T21:21:49.485Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261010kayserispormanisa",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_kayserispor",
+    "takim_manisa"
+   ],
+   "baslik": "Bitti: Kayserispor 3-2 Manisa",
+   "govde": "1. Lig · 9. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T21:21:49.485Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261010istanbulsporesenlererokspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_istanbulspor",
+    "takim_esenlererokspor"
+   ],
+   "baslik": "İstanbulspor 0-1 Esenler Erokspor · Maç sona erdi",
+   "govde": "1. Lig · 9. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T21:21:49.485Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20261010çorluspor1947şanlıurfasporbeyaz",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_çorluspor1947",
+    "takim_şanlıurfaspor"
+   ],
+   "baslik": "Sona erdi: Çorlu Spor 1947 2-3 Şanlıurfaspor",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T21:21:49.485Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20261010arkentarnavutköybelediyesifutbolısba",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_arkentarnavutköybelediyesifutbol",
+    "takim_ısbaşısparta32"
+   ],
+   "baslik": "Sona erdi: Arkent Arnavutköy Belediyesi Futbol 2-3 Isbaş Isparta 32",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T21:21:49.486Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20261010aliağafutbolmenemenbeyaz",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_aliağafutbol",
+    "takim_menemen"
+   ],
+   "baslik": "Bitti: Aliağa Futbol 1-0 Menemen",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T21:21:49.486Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20261010muşgmgkastamonusporbeyaz",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Beyaz",
+    "takim_muş",
+    "takim_gmgkastamonuspor"
+   ],
+   "baslik": "Bitti: Muş 1-0 Gmg Kastamonuspor",
+   "govde": "2. Lig Beyaz Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T21:21:49.486Z"
+  }
+ ]
 }
