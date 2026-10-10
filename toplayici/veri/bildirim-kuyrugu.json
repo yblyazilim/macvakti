@@ -1,3 +1,137 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261010alanyasporerzurumspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_alanyaspor",
+    "takim_erzurumspor"
+   ],
+   "baslik": "Bitti: Alanyaspor 0-0 Erzurumspor",
+   "govde": "Süper Lig · 7. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.863Z"
+  },
+  {
+   "macId": "futbol:tff:SL:20261010samsunsportrabzonspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_samsunspor",
+    "takim_trabzonspor"
+   ],
+   "baslik": "Sona erdi: Samsunspor 0-3 Trabzonspor",
+   "govde": "Süper Lig · 7. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.863Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261010ığdırbatmanpetrolspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_ığdır",
+    "takim_batmanpetrolspor"
+   ],
+   "baslik": "Sona erdi: Iğdır 2-1 Batman Petrol Spor",
+   "govde": "1. Lig · 9. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.863Z"
+  },
+  {
+   "macId": "hentbol:thf:3088",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_beykozbelediyesi",
+    "takim_beşiktaşjimnastik"
+   ],
+   "baslik": "Bitti: Beykoz Belediyesi 28-45 Beşiktaş Jimnastik",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.864Z"
+  },
+  {
+   "macId": "hentbol:thf:3089",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_göztepediyetkapımagelsin",
+    "takim_nilüferbelediyesi"
+   ],
+   "baslik": "Göztepe Diyet Kapıma Gelsin 20-29 Nilüfer Belediyesi · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.864Z"
+  },
+  {
+   "macId": "hentbol:thf:3090",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_giresunspor",
+    "takim_güneysuspor"
+   ],
+   "baslik": "Sona erdi: Giresunspor 33-32 Güneysuspor",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.864Z"
+  },
+  {
+   "macId": "hentbol:thf:3163",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_yalıkavak",
+    "takim_odunpazarı"
+   ],
+   "baslik": "Bitti: Yalıkavak 31-27 Odunpazarı",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.864Z"
+  },
+  {
+   "macId": "hentbol:thf:3368",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_izmirbüyükşehirbelediyesi",
+    "takim_keçiörenbelediyesibağlum"
+   ],
+   "baslik": "İzmir Büyükşehir Belediyesi 27-19 Keçiören Belediyesi Bağlum · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.864Z"
+  },
+  {
+   "macId": "hentbol:thf:3370",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_polatlıbelediyesiamatör",
+    "takim_eskişehirhentbol"
+   ],
+   "baslik": "Bitti: Polatlı Belediyesi Amatör 39-35 Eskişehir Hentbol",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.864Z"
+  },
+  {
+   "macId": "hentbol:thf:3371",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_ıspartagençlikvesporilmüd",
+    "takim_yenimahallebelediyesi"
+   ],
+   "baslik": "Isparta Gençlik Ve Spor İl Müd. 29-37 Yenimahalle Belediyesi · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-10T18:05:20.864Z"
+  }
+ ]
 }

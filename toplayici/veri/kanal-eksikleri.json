@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-10T13:17:21.406Z",
+ "guncellendi": "2026-10-10T18:05:20.871Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -9,39 +9,32 @@
    "tarih": "2026-09-12T13:00:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:20261003somasporsebatbeyaz",
+   "id": "futbol:tff:2L:20261010çorluspor1947şanlıurfasporbeyaz",
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
-   "mac": "Somaspor - Sebat",
-   "tarih": "2026-10-03T16:00:00.000Z"
+   "mac": "Çorlu Spor 1947 - Şanlıurfaspor",
+   "tarih": "2026-10-10T12:30:00.000Z"
   },
   {
-   "id": "hentbol:thf:3163",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Yalıkavak - Odunpazarı",
-   "tarih": "2026-10-10T14:00:00.000Z"
+   "id": "futbol:tff:2L:20261010arkentarnavutköybelediyesifutbolısba",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Arkent Arnavutköy Belediyesi Futbol - Isbaş Isparta 32",
+   "tarih": "2026-10-10T12:30:00.000Z"
   },
   {
-   "id": "hentbol:thf:3368",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "İzmir Büyükşehir Belediyesi - Keçiören Belediyesi Bağlum",
-   "tarih": "2026-10-10T15:00:00.000Z"
+   "id": "futbol:tff:2L:20261010aliağafutbolmenemenbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Aliağa Futbol - Menemen",
+   "tarih": "2026-10-10T16:00:00.000Z"
   },
   {
-   "id": "hentbol:thf:3088",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Beykoz Belediyesi - Beşiktaş Jimnastik",
-   "tarih": "2026-10-10T15:30:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:3091",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Mihalıççık Belediyesi - Spor Toto",
-   "tarih": "2026-10-10T17:30:00.000Z"
+   "id": "futbol:tff:2L:20261010muşgmgkastamonusporbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Muş - Gmg Kastamonuspor",
+   "tarih": "2026-10-10T16:00:00.000Z"
   },
   {
    "id": "hentbol:thf:3240",
@@ -79,6 +72,13 @@
    "tarih": "2026-10-11T10:00:00.000Z"
   },
   {
+   "id": "futbol:tff:2L:20261011seriksporfutboladana01kırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "Serik Spor Futbol - Adana 01",
+   "tarih": "2026-10-11T11:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3092",
    "brans": "hentbol",
    "lig": "",
@@ -91,6 +91,41 @@
    "lig": "",
    "mac": "Mc Sistem Yozgat Gsk - Ortahisar Belediyesi",
    "tarih": "2026-10-11T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261011hataysporsezaçimentoelazığsporbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Hatayspor - Seza Çimento Elazığspor",
+   "tarih": "2026-10-11T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261011güzidegebzeeforçayerbaasporbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Güzide Gebze - Efor Çay Erbaaspor",
+   "tarih": "2026-10-11T12:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261011sultansuinegölsporfethiyesporkırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "Sultan Su İnegölspor - Fethiyespor",
+   "tarih": "2026-10-11T12:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261011karacabeybelediyesporkct1461trabzonk",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "Karacabey Belediye Spor - Kct 1461 Trabzon",
+   "tarih": "2026-10-11T12:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261011erzincanfutbolyatırımlarıbeyoğluyeni",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "Erzincan Futbol Yatırımları - Beyoğlu Yeni Çarşı Spor Faaliyetleri",
+   "tarih": "2026-10-11T13:00:00.000Z"
   },
   {
    "id": "hentbol:thf:3241",
@@ -107,11 +142,32 @@
    "tarih": "2026-10-11T13:00:00.000Z"
   },
   {
+   "id": "futbol:tff:2L:2026101152ordusporkırklarelisporkırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "52 Orduspor - Kırklarelispor",
+   "tarih": "2026-10-11T14:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3242",
    "brans": "hentbol",
    "lig": "",
    "mac": "Marmara Pendik Hentbol - Beşiktaş Jk",
    "tarih": "2026-10-11T15:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261011adanademirsporsomasporbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Adana Demirspor - Somaspor",
+   "tarih": "2026-10-11T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261011sakaryasporekincileriskenderunsporkı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "mac": "Sakaryaspor - Ekinciler İskenderunspor",
+   "tarih": "2026-10-11T16:00:00.000Z"
   },
   {
    "id": "hentbol:thf:3096",
