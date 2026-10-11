@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-11T13:02:29.633Z",
+ "guncellendi": "2026-10-11T18:05:32.258Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 310,
@@ -3211,15 +3211,6 @@
     "futbol:1000"
    ]
   },
-  "buyukcekmecegucufkspor": {
-   "ad": "Büyükçekmece Gücü Fk Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ]
-  },
   "artidegervanspor": {
    "ad": "Artı Değer Van Spor",
    "branslar": [
@@ -3357,6 +3348,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "buyukcekmecegucufkspor": {
+   "ad": "Büyükçekmece Gücü Fk Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
    ]
   },
   "ozelidarekoroglu": {
