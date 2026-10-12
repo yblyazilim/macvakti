@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-12T06:44:39.063Z",
+ "guncellendi": "2026-10-12T16:21:30.235Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -7,13 +7,6 @@
    "lig": "3. Lig 01 Grubu",
    "mac": "Düzce Cam Düzcespor - Beykoz Anadolu Spor",
    "tarih": "2026-09-12T13:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261012adanaadaletgücüsporsportiffaaliyetle",
-   "brans": "futbol",
-   "lig": "3. Lig 03 Grubu",
-   "mac": "Adana Adaletgücü Spor Sportif Faaliyetler - 1964 Silifke",
-   "tarih": "2026-10-12T12:00:00.000Z"
   },
   {
    "id": "hentbol:thf:3096",
@@ -226,6 +219,13 @@
    "tarih": "2026-10-18T11:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:3093",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Güneysuspor - Spor Toto",
+   "tarih": "2026-10-18T11:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3245",
    "brans": "hentbol",
    "lig": "",
@@ -245,13 +245,6 @@
    "lig": "",
    "mac": "İzmir Bşb - Turan Grup Irmak",
    "tarih": "2026-10-18T13:00:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:3093",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Güneysuspor - Spor Toto",
-   "tarih": "2026-10-18T14:00:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20261024hakkarigücüsporamedsportiffaaliyetle",

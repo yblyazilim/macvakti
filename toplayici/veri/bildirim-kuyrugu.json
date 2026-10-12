@@ -1,3 +1,59 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20261013bandırmasporsivasspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bandırmaspor",
+    "takim_sivasspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Bandırma Spor - Sivasspor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-12T16:21:30.227Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261013smsgrupsarıyerbodrum",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_smsgrupsarıyer",
+    "takim_bodrum"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Sms Grup Sarıyer - Bodrum karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-12T16:21:30.227Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261012adanaadaletgücüsporsportiffaaliyetle",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_adanaadaletgücüsporsportiffaaliyetler",
+    "takim_1964silifke"
+   ],
+   "baslik": "Sona erdi: Adana Adaletgücü Spor Sportif Faaliyetler 1-4 1964 Silifke",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-12T16:21:30.228Z"
+  },
+  {
+   "macId": "hentbol:thf:3093",
+   "tip": "saat",
+   "konular": [
+    "brans_hentbol",
+    "takim_güneysuspor",
+    "takim_sportoto"
+   ],
+   "baslik": "Saat değişti: Güneysuspor - Spor Toto",
+   "govde": "Karşılaşma 17:00 yerine 14:00'de oynanacak. Pazar, 18 Ekim.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-10-12T16:21:30.228Z"
+  }
+ ]
 }
