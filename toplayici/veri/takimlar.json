@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-10-13T03:37:49.343Z",
+ "guncellendi": "2026-10-13T11:11:20.088Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 314,
+ "takimSayisi": 326,
  "branslar": [
   {
    "k": "basketbol",
@@ -395,12 +395,14 @@
       "1955batmanbelediyesi",
       "adanasehitahmetmehmetorucsporlisesi",
       "aksaraybelediyespor",
+      "ankaradsi",
       "ardesenbelediyesi",
       "aydinptt",
       "besiktasjimnastik",
       "besiktasjk",
       "beykozbelediyesi",
       "bursabuyuksehirbelediyesi",
+      "candarbey",
       "diyarbakirbbsk",
       "elaziggencsporilmud",
       "eskisehirhentbol",
@@ -413,9 +415,14 @@
       "istanbulgenclik",
       "izmirbsb",
       "izmirbuyuksehirbelediyesi",
+      "kapadokyaanadoluatletizm",
+      "karagumrukhentbol",
+      "karatekinidmanyurdu",
       "kastamonudinamik",
       "keciorenbelediyesibaglum",
       "kepezbelediyesi",
+      "kocaeligenclikvesporilmudurlugusporkulubugencerkekler",
+      "konyagsim",
       "manisabuyuksehirbelediye",
       "marmarapendikhentbol",
       "mcsistemyozgatgsk",
@@ -425,6 +432,7 @@
       "ordugsim",
       "ortahisarbelediyesi",
       "osmaniyearena",
+      "pazarataturkanadolulisesi",
       "saricambelediyesi",
       "seyhanbelediye",
       "sherininebolu",
@@ -433,12 +441,16 @@
       "sivasioi",
       "sportoto",
       "tasovabelediyesi",
+      "tedpolatlikoleji",
       "toroslarbelediyesi",
       "trabzonbuyuksehirbel",
       "turangrupirmak",
       "uskudarbelediyesi",
+      "vakfikebiratletik",
+      "vanbuyuksehirbld",
       "yalikavak",
-      "yenimahallebelediyesi"
+      "yenimahallebelediyesi",
+      "zonguldakgencliksporilmud"
      ]
     }
    ]
@@ -3377,6 +3389,24 @@
     "hentbol:diger"
    ]
   },
+  "vakfikebiratletik": {
+   "ad": "Vakfıkebir Atletik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "vanbuyuksehirbld": {
+   "ad": "Van Büyükşehir Bld",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "trabzonbuyuksehirbel": {
    "ad": "Trabzon Büyükşehir Bel.",
    "branslar": [
@@ -3406,6 +3436,42 @@
   },
   "osmaniyearena": {
    "ad": "Osmaniye Arena",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "candarbey": {
+   "ad": "Candarbey",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "karatekinidmanyurdu": {
+   "ad": "Karatekin İdman Yurdu",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "kocaeligenclikvesporilmudurlugusporkulubugencerkekler": {
+   "ad": "Kocaeli Gençlik Ve Spor İl Müdürlüğü Spor Kulübü (Genç Erkekler)",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "zonguldakgencliksporilmud": {
+   "ad": "Zonguldak Gençlik Spor İl Müd.",
    "branslar": [
     "hentbol"
    ],
@@ -3467,6 +3533,24 @@
     "hentbol:diger"
    ]
   },
+  "konyagsim": {
+   "ad": "Konya Gsim",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ankaradsi": {
+   "ad": "Ankara Dsi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "marmarapendikhentbol": {
    "ad": "Marmara Pendik Hentbol",
    "branslar": [
@@ -3485,6 +3569,24 @@
     "hentbol:diger"
    ]
   },
+  "tedpolatlikoleji": {
+   "ad": "Ted Polatlı Koleji",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "kapadokyaanadoluatletizm": {
+   "ad": "Kapadokya Anadolu Atletizm",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "yenimahallebelediyesi": {
    "ad": "Yenimahalle Belediyesi",
    "branslar": [
@@ -3496,6 +3598,15 @@
   },
   "beykozbelediyesi": {
    "ad": "Beykoz Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "karagumrukhentbol": {
+   "ad": "Karagümrük Hentbol",
    "branslar": [
     "hentbol"
    ],
@@ -3658,6 +3769,15 @@
   },
   "turangrupirmak": {
    "ad": "Turan Grup Irmak",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "pazarataturkanadolulisesi": {
+   "ad": "Pazar Atatürk Anadolu Lisesi",
    "branslar": [
     "hentbol"
    ],

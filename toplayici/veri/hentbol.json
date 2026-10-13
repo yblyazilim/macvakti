@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-13T03:37:39.177Z",
- "adet": 26,
+ "guncellendi": "2026-10-13T11:11:09.067Z",
+ "adet": 33,
  "maclar": [
   {
    "id": "hentbol:thf:3096",
@@ -25,7 +25,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -51,7 +51,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -77,7 +77,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -103,7 +103,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.905Z",
    "kaynak": "thf"
   },
   {
@@ -129,7 +129,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.905Z",
    "kaynak": "thf"
   },
   {
@@ -155,7 +155,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.905Z",
    "kaynak": "thf"
   },
   {
@@ -181,7 +181,33 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.905Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "hentbol:thf:4207",
+   "brans": "hentbol",
+   "lig": "",
+   "ligId": "",
+   "sezon": "",
+   "hafta": "",
+   "baslangicUtc": "2026-10-17T10:00:00.000Z",
+   "evSahibi": "Vakfıkebir Atletik",
+   "deplasman": "Van Büyükşehir Bld",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-10-13T11:06:51.905Z",
    "kaynak": "thf"
   },
   {
@@ -207,7 +233,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -233,7 +259,59 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.905Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "hentbol:thf:4203",
+   "brans": "hentbol",
+   "lig": "",
+   "ligId": "",
+   "sezon": "",
+   "hafta": "",
+   "baslangicUtc": "2026-10-17T11:00:00.000Z",
+   "evSahibi": "Candarbey",
+   "deplasman": "Karatekin İdman Yurdu",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-10-13T11:06:51.905Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "hentbol:thf:4206",
+   "brans": "hentbol",
+   "lig": "",
+   "ligId": "",
+   "sezon": "",
+   "hafta": "",
+   "baslangicUtc": "2026-10-17T11:00:00.000Z",
+   "evSahibi": "Kocaeli Gençlik Ve Spor İl Müdürlüğü Spor Kulübü (Genç Erkekler)",
+   "deplasman": "Zonguldak Gençlik Spor İl Müd.",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-10-13T11:06:51.905Z",
    "kaynak": "thf"
   },
   {
@@ -259,7 +337,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -285,7 +363,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -311,7 +389,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -337,7 +415,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -363,7 +441,33 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.905Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "hentbol:thf:4204",
+   "brans": "hentbol",
+   "lig": "",
+   "ligId": "",
+   "sezon": "",
+   "hafta": "",
+   "baslangicUtc": "2026-10-17T13:00:00.000Z",
+   "evSahibi": "Konya Gsim",
+   "deplasman": "Ankara Dsi",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-10-13T11:06:51.905Z",
    "kaynak": "thf"
   },
   {
@@ -389,7 +493,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -415,7 +519,33 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "hentbol:thf:4202",
+   "brans": "hentbol",
+   "lig": "",
+   "ligId": "",
+   "sezon": "",
+   "hafta": "",
+   "baslangicUtc": "2026-10-17T15:00:00.000Z",
+   "evSahibi": "Ted Polatlı Koleji",
+   "deplasman": "Kapadokya Anadolu Atletizm",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-10-13T11:06:51.905Z",
    "kaynak": "thf"
   },
   {
@@ -441,7 +571,33 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "hentbol:thf:4205",
+   "brans": "hentbol",
+   "lig": "",
+   "ligId": "",
+   "sezon": "",
+   "hafta": "",
+   "baslangicUtc": "2026-10-17T16:00:00.000Z",
+   "evSahibi": "Beykoz Belediyesi",
+   "deplasman": "Karagümrük Hentbol",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-10-13T11:06:51.905Z",
    "kaynak": "thf"
   },
   {
@@ -467,7 +623,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -493,7 +649,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -519,7 +675,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -545,7 +701,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -571,7 +727,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.004Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -597,7 +753,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.903Z",
    "kaynak": "thf"
   },
   {
@@ -623,7 +779,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -649,7 +805,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
    "kaynak": "thf"
   },
   {
@@ -675,7 +831,33 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-13T03:37:35.003Z",
+   "guncellendi": "2026-10-13T11:06:51.904Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "hentbol:thf:4208",
+   "brans": "hentbol",
+   "lig": "",
+   "ligId": "",
+   "sezon": "",
+   "hafta": "",
+   "baslangicUtc": "2026-10-18T13:00:00.000Z",
+   "evSahibi": "Pazar Atatürk Anadolu Lisesi",
+   "deplasman": "Trabzon Büyükşehir Bel.",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-10-13T11:06:51.905Z",
    "kaynak": "thf"
   }
  ]
