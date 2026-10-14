@@ -1,7 +1,7 @@
 {
- "guncellendi": "2026-10-14T06:46:44.022Z",
+ "guncellendi": "2026-10-14T12:37:55.175Z",
  "surum": 1,
- "adet": 245,
+ "adet": 212,
  "rapor": {
   "futbol": {
    "durum": "tamam",
@@ -12,8 +12,8 @@
    "adet": 0
   },
   "hentbol": {
-   "durum": "tamam",
-   "adet": 33
+   "durum": "hata",
+   "mesaj": "Getirilemedi: https://api.thf.org.tr/api/v1/Public/GetMatchesFromYesterdayAndNextSixDays — dogrudan: HTTP 502 | http: HTTP 502 | araci1: HTTP 522 | araci2: HTTP 522"
   },
   "voleybol": {
    "durum": "tamam",
@@ -21,7 +21,7 @@
   },
   "yayinAkisi": {
    "durum": "tamam",
-   "program": 1008,
+   "program": 1017,
    "eslesen": 1,
    "caprazDogrulanan": 0,
    "kaynaklar": {
@@ -32,7 +32,7 @@
     },
     "tvplus": {
      "durum": "tamam",
-     "adet": 1008,
+     "adet": 1017,
      "ornek": {
       "kanal": "A SPOR HD",
       "baslik": "Avrupa'da Türk Takımları",
@@ -42,12 +42,12 @@
    }
   },
   "kanalOzet": {
-   "toplam": 245,
+   "toplam": 212,
    "elle": 0,
    "yayinAkisi": 1,
    "kaynak": 0,
    "kural": 56,
-   "yok": 188,
+   "yok": 155,
    "dijital": 0
   }
  },
@@ -75,7 +75,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.383Z",
+   "guncellendi": "2026-10-14T12:24:04.031Z",
    "kaynak": "tff"
   },
   {
@@ -101,7 +101,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.384Z",
+   "guncellendi": "2026-10-14T12:24:04.031Z",
    "kaynak": "tff"
   },
   {
@@ -127,7 +127,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.384Z",
+   "guncellendi": "2026-10-14T12:24:04.031Z",
    "kaynak": "tff"
   },
   {
@@ -153,7 +153,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:55.206Z",
+   "guncellendi": "2026-10-14T12:24:09.939Z",
    "kaynak": "tff"
   },
   {
@@ -179,7 +179,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:55.207Z",
+   "guncellendi": "2026-10-14T12:24:09.939Z",
    "kaynak": "tff"
   },
   {
@@ -205,7 +205,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:55.207Z",
+   "guncellendi": "2026-10-14T12:24:09.939Z",
    "kaynak": "tff"
   },
   {
@@ -231,7 +231,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:55.207Z",
+   "guncellendi": "2026-10-14T12:24:09.940Z",
    "kaynak": "tff"
   },
   {
@@ -257,7 +257,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.977Z",
+   "guncellendi": "2026-10-14T12:24:07.008Z",
    "kaynak": "tff"
   },
   {
@@ -283,7 +283,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.384Z",
+   "guncellendi": "2026-10-14T12:24:04.031Z",
    "kaynak": "tff"
   },
   {
@@ -309,7 +309,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.541Z",
+   "guncellendi": "2026-10-14T12:24:06.585Z",
    "kaynak": "tff"
   },
   {
@@ -335,7 +335,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.850Z",
+   "guncellendi": "2026-10-14T12:24:03.811Z",
    "kaynak": "tff"
   },
   {
@@ -361,7 +361,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.850Z",
+   "guncellendi": "2026-10-14T12:24:03.811Z",
    "kaynak": "tff"
   },
   {
@@ -387,7 +387,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.385Z",
+   "guncellendi": "2026-10-14T12:24:04.032Z",
    "kaynak": "tff"
   },
   {
@@ -413,7 +413,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.385Z",
+   "guncellendi": "2026-10-14T12:24:04.032Z",
    "kaynak": "tff"
   },
   {
@@ -439,7 +439,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.385Z",
+   "guncellendi": "2026-10-14T12:24:04.032Z",
    "kaynak": "tff"
   },
   {
@@ -465,7 +465,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.541Z",
+   "guncellendi": "2026-10-14T12:24:06.585Z",
    "kaynak": "tff"
   },
   {
@@ -491,7 +491,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.541Z",
+   "guncellendi": "2026-10-14T12:24:06.586Z",
    "kaynak": "tff"
   },
   {
@@ -517,7 +517,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.851Z",
+   "guncellendi": "2026-10-14T12:24:03.811Z",
    "kaynak": "tff"
   },
   {
@@ -543,7 +543,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.542Z",
+   "guncellendi": "2026-10-14T12:24:06.586Z",
    "kaynak": "tff"
   },
   {
@@ -569,7 +569,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.542Z",
+   "guncellendi": "2026-10-14T12:24:06.586Z",
    "kaynak": "tff"
   },
   {
@@ -595,7 +595,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:55.208Z",
+   "guncellendi": "2026-10-14T12:24:09.940Z",
    "kaynak": "tff"
   },
   {
@@ -621,7 +621,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:55.208Z",
+   "guncellendi": "2026-10-14T12:24:09.940Z",
    "kaynak": "tff"
   },
   {
@@ -647,7 +647,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.851Z",
+   "guncellendi": "2026-10-14T12:24:03.812Z",
    "kaynak": "tff"
   },
   {
@@ -673,7 +673,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:55.208Z",
+   "guncellendi": "2026-10-14T12:24:09.940Z",
    "kaynak": "tff"
   },
   {
@@ -699,7 +699,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:55.208Z",
+   "guncellendi": "2026-10-14T12:24:09.940Z",
    "kaynak": "tff"
   },
   {
@@ -725,7 +725,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:55.209Z",
+   "guncellendi": "2026-10-14T12:24:09.941Z",
    "kaynak": "tff"
   },
   {
@@ -751,7 +751,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.851Z",
+   "guncellendi": "2026-10-14T12:24:03.812Z",
    "kaynak": "tff"
   },
   {
@@ -777,7 +777,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.851Z",
+   "guncellendi": "2026-10-14T12:24:03.812Z",
    "kaynak": "tff"
   },
   {
@@ -803,7 +803,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.977Z",
+   "guncellendi": "2026-10-14T12:24:07.008Z",
    "kaynak": "tff"
   },
   {
@@ -829,7 +829,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.977Z",
+   "guncellendi": "2026-10-14T12:24:07.008Z",
    "kaynak": "tff"
   },
   {
@@ -855,7 +855,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.542Z",
+   "guncellendi": "2026-10-14T12:24:06.586Z",
    "kaynak": "tff"
   },
   {
@@ -881,7 +881,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.852Z",
+   "guncellendi": "2026-10-14T12:24:03.812Z",
    "kaynak": "tff"
   },
   {
@@ -907,7 +907,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.852Z",
+   "guncellendi": "2026-10-14T12:24:03.812Z",
    "kaynak": "tff"
   },
   {
@@ -933,7 +933,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.978Z",
+   "guncellendi": "2026-10-14T12:24:07.008Z",
    "kaynak": "tff"
   },
   {
@@ -959,7 +959,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.978Z",
+   "guncellendi": "2026-10-14T12:24:07.009Z",
    "kaynak": "tff"
   },
   {
@@ -985,7 +985,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.385Z",
+   "guncellendi": "2026-10-14T12:24:04.032Z",
    "kaynak": "tff"
   },
   {
@@ -1011,7 +1011,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.386Z",
+   "guncellendi": "2026-10-14T12:24:04.032Z",
    "kaynak": "tff"
   },
   {
@@ -1037,7 +1037,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.542Z",
+   "guncellendi": "2026-10-14T12:24:06.586Z",
    "kaynak": "tff"
   },
   {
@@ -1063,7 +1063,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.543Z",
+   "guncellendi": "2026-10-14T12:24:06.586Z",
    "kaynak": "tff"
   },
   {
@@ -1089,7 +1089,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.978Z",
+   "guncellendi": "2026-10-14T12:24:07.009Z",
    "kaynak": "tff"
   },
   {
@@ -1115,7 +1115,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.852Z",
+   "guncellendi": "2026-10-14T12:24:03.813Z",
    "kaynak": "tff"
   },
   {
@@ -1141,7 +1141,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.979Z",
+   "guncellendi": "2026-10-14T12:24:07.009Z",
    "kaynak": "tff"
   },
   {
@@ -1167,7 +1167,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.979Z",
+   "guncellendi": "2026-10-14T12:24:07.009Z",
    "kaynak": "tff"
   },
   {
@@ -1193,7 +1193,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.543Z",
+   "guncellendi": "2026-10-14T12:24:06.587Z",
    "kaynak": "tff"
   },
   {
@@ -1219,7 +1219,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:57.018Z",
+   "guncellendi": "2026-10-14T12:24:10.630Z",
    "kaynak": "tff"
   },
   {
@@ -1245,7 +1245,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.841Z",
+   "guncellendi": "2026-10-14T12:24:08.109Z",
    "kaynak": "tff"
   },
   {
@@ -1271,7 +1271,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:49.777Z",
+   "guncellendi": "2026-10-14T12:24:04.908Z",
    "kaynak": "tff"
   },
   {
@@ -1297,7 +1297,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:52.738Z",
+   "guncellendi": "2026-10-14T12:24:07.407Z",
    "kaynak": "tff"
   },
   {
@@ -1323,7 +1323,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:57.018Z",
+   "guncellendi": "2026-10-14T12:24:10.630Z",
    "kaynak": "tff"
   },
   {
@@ -1349,7 +1349,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.853Z",
+   "guncellendi": "2026-10-14T12:24:04.373Z",
    "kaynak": "tff"
   },
   {
@@ -1375,7 +1375,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:49.777Z",
+   "guncellendi": "2026-10-14T12:24:04.909Z",
    "kaynak": "tff"
   },
   {
@@ -1401,7 +1401,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:52.738Z",
+   "guncellendi": "2026-10-14T12:24:07.407Z",
    "kaynak": "tff"
   },
   {
@@ -1427,7 +1427,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:52.739Z",
+   "guncellendi": "2026-10-14T12:24:07.407Z",
    "kaynak": "tff"
   },
   {
@@ -1453,7 +1453,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:52.739Z",
+   "guncellendi": "2026-10-14T12:24:07.407Z",
    "kaynak": "tff"
   },
   {
@@ -1479,7 +1479,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.853Z",
+   "guncellendi": "2026-10-14T12:24:04.373Z",
    "kaynak": "tff"
   },
   {
@@ -1505,7 +1505,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.853Z",
+   "guncellendi": "2026-10-14T12:24:04.373Z",
    "kaynak": "tff"
   },
   {
@@ -1531,7 +1531,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.853Z",
+   "guncellendi": "2026-10-14T12:24:04.373Z",
    "kaynak": "tff"
   },
   {
@@ -1557,7 +1557,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.842Z",
+   "guncellendi": "2026-10-14T12:24:08.109Z",
    "kaynak": "tff"
   },
   {
@@ -1583,7 +1583,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:49.778Z",
+   "guncellendi": "2026-10-14T12:24:04.909Z",
    "kaynak": "tff"
   },
   {
@@ -1609,7 +1609,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:57.018Z",
+   "guncellendi": "2026-10-14T12:24:10.630Z",
    "kaynak": "tff"
   },
   {
@@ -1635,7 +1635,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.842Z",
+   "guncellendi": "2026-10-14T12:24:08.109Z",
    "kaynak": "tff"
   },
   {
@@ -1661,7 +1661,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.842Z",
+   "guncellendi": "2026-10-14T12:24:08.109Z",
    "kaynak": "tff"
   },
   {
@@ -1687,7 +1687,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:49.778Z",
+   "guncellendi": "2026-10-14T12:24:04.909Z",
    "kaynak": "tff"
   },
   {
@@ -1713,7 +1713,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:57.019Z",
+   "guncellendi": "2026-10-14T12:24:10.630Z",
    "kaynak": "tff"
   },
   {
@@ -1739,7 +1739,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:57.019Z",
+   "guncellendi": "2026-10-14T12:24:10.631Z",
    "kaynak": "tff"
   },
   {
@@ -1765,7 +1765,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:57.019Z",
+   "guncellendi": "2026-10-14T12:24:10.631Z",
    "kaynak": "tff"
   },
   {
@@ -1791,7 +1791,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.854Z",
+   "guncellendi": "2026-10-14T12:24:04.374Z",
    "kaynak": "tff"
   },
   {
@@ -1817,7 +1817,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.854Z",
+   "guncellendi": "2026-10-14T12:24:04.374Z",
    "kaynak": "tff"
   },
   {
@@ -1843,7 +1843,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.854Z",
+   "guncellendi": "2026-10-14T12:24:04.374Z",
    "kaynak": "tff"
   },
   {
@@ -1869,7 +1869,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:52.739Z",
+   "guncellendi": "2026-10-14T12:24:07.407Z",
    "kaynak": "tff"
   },
   {
@@ -1895,7 +1895,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:52.739Z",
+   "guncellendi": "2026-10-14T12:24:07.408Z",
    "kaynak": "tff"
   },
   {
@@ -1921,7 +1921,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:52.740Z",
+   "guncellendi": "2026-10-14T12:24:07.408Z",
    "kaynak": "tff"
   },
   {
@@ -1947,7 +1947,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:57.019Z",
+   "guncellendi": "2026-10-14T12:24:10.631Z",
    "kaynak": "tff"
   },
   {
@@ -1973,7 +1973,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:57.020Z",
+   "guncellendi": "2026-10-14T12:24:10.631Z",
    "kaynak": "tff"
   },
   {
@@ -1999,7 +1999,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:57.020Z",
+   "guncellendi": "2026-10-14T12:24:10.631Z",
    "kaynak": "tff"
   },
   {
@@ -2025,7 +2025,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.854Z",
+   "guncellendi": "2026-10-14T12:24:04.374Z",
    "kaynak": "tff"
   },
   {
@@ -2051,7 +2051,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.843Z",
+   "guncellendi": "2026-10-14T12:24:08.109Z",
    "kaynak": "tff"
   },
   {
@@ -2077,7 +2077,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.843Z",
+   "guncellendi": "2026-10-14T12:24:08.110Z",
    "kaynak": "tff"
   },
   {
@@ -2103,7 +2103,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.843Z",
+   "guncellendi": "2026-10-14T12:24:08.110Z",
    "kaynak": "tff"
   },
   {
@@ -2129,7 +2129,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:49.778Z",
+   "guncellendi": "2026-10-14T12:24:04.909Z",
    "kaynak": "tff"
   },
   {
@@ -2155,7 +2155,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:49.778Z",
+   "guncellendi": "2026-10-14T12:24:04.909Z",
    "kaynak": "tff"
   },
   {
@@ -2181,7 +2181,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:49.779Z",
+   "guncellendi": "2026-10-14T12:24:04.910Z",
    "kaynak": "tff"
   },
   {
@@ -2207,7 +2207,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:49.779Z",
+   "guncellendi": "2026-10-14T12:24:04.910Z",
    "kaynak": "tff"
   },
   {
@@ -2233,7 +2233,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:48.855Z",
+   "guncellendi": "2026-10-14T12:24:04.374Z",
    "kaynak": "tff"
   },
   {
@@ -2259,7 +2259,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:51.843Z",
+   "guncellendi": "2026-10-14T12:24:08.110Z",
    "kaynak": "tff"
   },
   {
@@ -2285,7 +2285,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:49.779Z",
+   "guncellendi": "2026-10-14T12:24:04.910Z",
    "kaynak": "tff"
   },
   {
@@ -2311,7 +2311,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:52.740Z",
+   "guncellendi": "2026-10-14T12:24:07.408Z",
    "kaynak": "tff"
   },
   {
@@ -2337,7 +2337,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:52.740Z",
+   "guncellendi": "2026-10-14T12:24:07.408Z",
    "kaynak": "tff"
   },
   {
@@ -2363,7 +2363,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.851Z",
+   "guncellendi": "2026-10-14T12:24:12.754Z",
    "kaynak": "tff"
   },
   {
@@ -2389,7 +2389,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.851Z",
+   "guncellendi": "2026-10-14T12:24:12.754Z",
    "kaynak": "tff"
   },
   {
@@ -2415,7 +2415,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.852Z",
+   "guncellendi": "2026-10-14T12:24:12.755Z",
    "kaynak": "tff"
   },
   {
@@ -2441,7 +2441,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.852Z",
+   "guncellendi": "2026-10-14T12:24:12.755Z",
    "kaynak": "tff"
   },
   {
@@ -2467,7 +2467,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.852Z",
+   "guncellendi": "2026-10-14T12:24:12.755Z",
    "kaynak": "tff"
   },
   {
@@ -2493,7 +2493,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.852Z",
+   "guncellendi": "2026-10-14T12:24:12.755Z",
    "kaynak": "tff"
   },
   {
@@ -2519,7 +2519,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.853Z",
+   "guncellendi": "2026-10-14T12:24:12.755Z",
    "kaynak": "tff"
   },
   {
@@ -2545,7 +2545,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.256Z",
+   "guncellendi": "2026-10-14T12:24:03.023Z",
    "kaynak": "tff"
   },
   {
@@ -2571,7 +2571,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.361Z",
+   "guncellendi": "2026-10-14T12:24:06.437Z",
    "kaynak": "tff"
   },
   {
@@ -2597,7 +2597,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.257Z",
+   "guncellendi": "2026-10-14T12:24:03.023Z",
    "kaynak": "tff"
   },
   {
@@ -2623,7 +2623,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.362Z",
+   "guncellendi": "2026-10-14T12:24:06.437Z",
    "kaynak": "tff"
   },
   {
@@ -2649,7 +2649,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.257Z",
+   "guncellendi": "2026-10-14T12:24:03.023Z",
    "kaynak": "tff"
   },
   {
@@ -2675,7 +2675,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.257Z",
+   "guncellendi": "2026-10-14T12:24:03.023Z",
    "kaynak": "tff"
   },
   {
@@ -2701,7 +2701,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.258Z",
+   "guncellendi": "2026-10-14T12:24:03.024Z",
    "kaynak": "tff"
   },
   {
@@ -2727,7 +2727,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.258Z",
+   "guncellendi": "2026-10-14T12:24:03.024Z",
    "kaynak": "tff"
   },
   {
@@ -2753,7 +2753,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.362Z",
+   "guncellendi": "2026-10-14T12:24:06.438Z",
    "kaynak": "tff"
   },
   {
@@ -2779,7 +2779,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.457Z",
+   "guncellendi": "2026-10-14T12:24:03.311Z",
    "kaynak": "tff"
   },
   {
@@ -2805,7 +2805,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.457Z",
+   "guncellendi": "2026-10-14T12:24:03.311Z",
    "kaynak": "tff"
   },
   {
@@ -2831,7 +2831,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.458Z",
+   "guncellendi": "2026-10-14T12:24:03.311Z",
    "kaynak": "tff"
   },
   {
@@ -2857,7 +2857,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:53.718Z",
+   "guncellendi": "2026-10-14T12:24:09.102Z",
    "kaynak": "tff"
   },
   {
@@ -2883,7 +2883,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:53.718Z",
+   "guncellendi": "2026-10-14T12:24:09.102Z",
    "kaynak": "tff"
   },
   {
@@ -2909,7 +2909,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:53.719Z",
+   "guncellendi": "2026-10-14T12:24:09.102Z",
    "kaynak": "tff"
   },
   {
@@ -2935,7 +2935,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.258Z",
+   "guncellendi": "2026-10-14T12:24:03.024Z",
    "kaynak": "tff"
   },
   {
@@ -2961,7 +2961,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.458Z",
+   "guncellendi": "2026-10-14T12:24:03.312Z",
    "kaynak": "tff"
   },
   {
@@ -2987,7 +2987,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.458Z",
+   "guncellendi": "2026-10-14T12:24:03.312Z",
    "kaynak": "tff"
   },
   {
@@ -3013,7 +3013,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.909Z",
+   "guncellendi": "2026-10-14T12:24:05.811Z",
    "kaynak": "tff"
   },
   {
@@ -3039,7 +3039,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:53.719Z",
+   "guncellendi": "2026-10-14T12:24:09.103Z",
    "kaynak": "tff"
   },
   {
@@ -3065,7 +3065,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:53.719Z",
+   "guncellendi": "2026-10-14T12:24:09.103Z",
    "kaynak": "tff"
   },
   {
@@ -3091,7 +3091,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.258Z",
+   "guncellendi": "2026-10-14T12:24:03.024Z",
    "kaynak": "tff"
   },
   {
@@ -3117,7 +3117,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.362Z",
+   "guncellendi": "2026-10-14T12:24:06.438Z",
    "kaynak": "tff"
   },
   {
@@ -3143,7 +3143,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.363Z",
+   "guncellendi": "2026-10-14T12:24:06.438Z",
    "kaynak": "tff"
   },
   {
@@ -3169,7 +3169,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.458Z",
+   "guncellendi": "2026-10-14T12:24:03.312Z",
    "kaynak": "tff"
   },
   {
@@ -3195,7 +3195,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.459Z",
+   "guncellendi": "2026-10-14T12:24:03.312Z",
    "kaynak": "tff"
   },
   {
@@ -3221,7 +3221,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.459Z",
+   "guncellendi": "2026-10-14T12:24:03.313Z",
    "kaynak": "tff"
   },
   {
@@ -3247,7 +3247,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.459Z",
+   "guncellendi": "2026-10-14T12:24:03.313Z",
    "kaynak": "tff"
   },
   {
@@ -3273,7 +3273,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.909Z",
+   "guncellendi": "2026-10-14T12:24:05.811Z",
    "kaynak": "tff"
   },
   {
@@ -3299,7 +3299,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.910Z",
+   "guncellendi": "2026-10-14T12:24:05.811Z",
    "kaynak": "tff"
   },
   {
@@ -3325,7 +3325,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.910Z",
+   "guncellendi": "2026-10-14T12:24:05.811Z",
    "kaynak": "tff"
   },
   {
@@ -3351,7 +3351,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.910Z",
+   "guncellendi": "2026-10-14T12:24:05.812Z",
    "kaynak": "tff"
   },
   {
@@ -3377,7 +3377,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.363Z",
+   "guncellendi": "2026-10-14T12:24:06.438Z",
    "kaynak": "tff"
   },
   {
@@ -3403,7 +3403,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.363Z",
+   "guncellendi": "2026-10-14T12:24:06.438Z",
    "kaynak": "tff"
   },
   {
@@ -3429,7 +3429,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:47.259Z",
+   "guncellendi": "2026-10-14T12:24:03.024Z",
    "kaynak": "tff"
   },
   {
@@ -3455,7 +3455,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.363Z",
+   "guncellendi": "2026-10-14T12:24:06.439Z",
    "kaynak": "tff"
   },
   {
@@ -3481,7 +3481,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.910Z",
+   "guncellendi": "2026-10-14T12:24:05.812Z",
    "kaynak": "tff"
   },
   {
@@ -3507,7 +3507,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.911Z",
+   "guncellendi": "2026-10-14T12:24:05.812Z",
    "kaynak": "tff"
   },
   {
@@ -3533,7 +3533,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.911Z",
+   "guncellendi": "2026-10-14T12:24:05.812Z",
    "kaynak": "tff"
   },
   {
@@ -3559,7 +3559,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:50.911Z",
+   "guncellendi": "2026-10-14T12:24:05.812Z",
    "kaynak": "tff"
   },
   {
@@ -3585,7 +3585,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:53.720Z",
+   "guncellendi": "2026-10-14T12:24:09.103Z",
    "kaynak": "tff"
   },
   {
@@ -3611,7 +3611,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:53.720Z",
+   "guncellendi": "2026-10-14T12:24:09.103Z",
    "kaynak": "tff"
   },
   {
@@ -3637,7 +3637,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:53.720Z",
+   "guncellendi": "2026-10-14T12:24:09.103Z",
    "kaynak": "tff"
   },
   {
@@ -3666,7 +3666,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.928Z",
+   "guncellendi": "2026-10-14T12:24:00.339Z",
    "kaynak": "tff"
   },
   {
@@ -3695,7 +3695,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.928Z",
+   "guncellendi": "2026-10-14T12:24:00.339Z",
    "kaynak": "tff"
   },
   {
@@ -3724,34 +3724,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.929Z",
+   "guncellendi": "2026-10-14T12:24:00.339Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:3096",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-14T11:00:00.000Z",
-   "evSahibi": "Beşiktaş Jimnastik",
-   "deplasman": "İstanbul Gençlik",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.348Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:1L:20261014batmanpetrolsporistanbulspor",
@@ -3779,34 +3753,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.929Z",
+   "guncellendi": "2026-10-14T12:24:00.339Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:3162",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-14T12:00:00.000Z",
-   "evSahibi": "Manisa Büyükşehir Belediye",
-   "deplasman": "Bursa Büyükşehir Belediyesi",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:1L:20261014ümraniyesporboluspor",
@@ -3833,34 +3781,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.929Z",
+   "guncellendi": "2026-10-14T12:24:00.340Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:3094",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-14T14:00:00.000Z",
-   "evSahibi": "Nilüfer Belediyesi",
-   "deplasman": "Giresunspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.348Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:1L:20261014keçiörengücüığdır",
@@ -3888,7 +3810,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.930Z",
+   "guncellendi": "2026-10-14T12:24:00.340Z",
    "kaynak": "tff"
   },
   {
@@ -3917,7 +3839,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.930Z",
+   "guncellendi": "2026-10-14T12:24:00.340Z",
    "kaynak": "tff"
   },
   {
@@ -3946,7 +3868,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.930Z",
+   "guncellendi": "2026-10-14T12:24:00.340Z",
    "kaynak": "tff"
   },
   {
@@ -3975,7 +3897,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.931Z",
+   "guncellendi": "2026-10-14T12:24:00.340Z",
    "kaynak": "tff"
   },
   {
@@ -4004,7 +3926,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.931Z",
+   "guncellendi": "2026-10-14T12:24:00.341Z",
    "kaynak": "tff"
   },
   {
@@ -4032,7 +3954,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.762Z",
+   "guncellendi": "2026-10-14T12:23:59.938Z",
    "kaynak": "tff"
   },
   {
@@ -4058,138 +3980,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.883Z",
+   "guncellendi": "2026-10-14T12:24:12.841Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:3374",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T10:00:00.000Z",
-   "evSahibi": "Eskişehir Hentbol",
-   "deplasman": "Aksaray Belediye Spor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3400",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T10:00:00.000Z",
-   "evSahibi": "Güneşin Çocukları",
-   "deplasman": "Kastamonu Dinamik",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3401",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T10:00:00.000Z",
-   "evSahibi": "Sinop",
-   "deplasman": "Ardeşen Belediyesi",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3403",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T10:00:00.000Z",
-   "evSahibi": "Toroslar Belediyesi",
-   "deplasman": "Sivas Belediye",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.350Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:4207",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T10:00:00.000Z",
-   "evSahibi": "Vakfıkebir Atletik",
-   "deplasman": "Van Büyükşehir Bld",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.350Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:SL:20261017erzurumsporeyüpspor",
@@ -4216,7 +4008,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.763Z",
+   "guncellendi": "2026-10-14T12:23:59.938Z",
    "kaynak": "tff"
   },
   {
@@ -4242,7 +4034,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.883Z",
+   "guncellendi": "2026-10-14T12:24:12.841Z",
    "kaynak": "tff"
   },
   {
@@ -4268,7 +4060,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.883Z",
+   "guncellendi": "2026-10-14T12:24:12.841Z",
    "kaynak": "tff"
   },
   {
@@ -4294,190 +4086,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.884Z",
+   "guncellendi": "2026-10-14T12:24:12.842Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:3095",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T11:00:00.000Z",
-   "evSahibi": "Trabzon Büyükşehir Bel.",
-   "deplasman": "Göztepe Diyet Kapıma Gelsin",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.348Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3402",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T11:00:00.000Z",
-   "evSahibi": "Adana Şehit Ahmet Mehmet Oruç Spor Lisesi",
-   "deplasman": "Osmaniye Arena",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:4203",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T11:00:00.000Z",
-   "evSahibi": "Candarbey",
-   "deplasman": "Karatekin İdman Yurdu",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.350Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:4206",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T11:00:00.000Z",
-   "evSahibi": "Kocaeli Gençlik Ve Spor İl Müdürlüğü Spor Kulübü (Genç Erkekler)",
-   "deplasman": "Zonguldak Gençlik Spor İl Müd.",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.350Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3168",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T12:00:00.000Z",
-   "evSahibi": "Odunpazarı",
-   "deplasman": "Göztepe",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3170",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T12:00:00.000Z",
-   "evSahibi": "Manisa Büyükşehir Belediye",
-   "deplasman": "Mc Sistem Yozgat Gsk",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3171",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T12:00:00.000Z",
-   "evSahibi": "Yalıkavak",
-   "deplasman": "Bursa Büyükşehir Belediyesi",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:SL:20261017amedsportiffaaliyetlerkonyaspor",
@@ -4504,7 +4114,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.763Z",
+   "guncellendi": "2026-10-14T12:23:59.939Z",
    "kaynak": "tff"
   },
   {
@@ -4532,7 +4142,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.763Z",
+   "guncellendi": "2026-10-14T12:23:59.939Z",
    "kaynak": "tff"
   },
   {
@@ -4561,190 +4171,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.245Z",
+   "guncellendi": "2026-10-14T12:24:00.437Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:3169",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T13:00:00.000Z",
-   "evSahibi": "Ortahisar Belediyesi",
-   "deplasman": "Üsküdar Belediyesi",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3375",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T13:00:00.000Z",
-   "evSahibi": "Keçiören Belediyesi Bağlum",
-   "deplasman": "Isparta Gençlik Ve Spor İl Müd.",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:4204",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T13:00:00.000Z",
-   "evSahibi": "Konya Gsim",
-   "deplasman": "Ankara Dsi",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.350Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3247",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T14:00:00.000Z",
-   "evSahibi": "Nilüfer Belediyesi",
-   "deplasman": "Marmara Pendik Hentbol",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3372",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T14:00:00.000Z",
-   "evSahibi": "Kepez Belediyesi",
-   "deplasman": "İzmir Büyükşehir Belediyesi",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:4202",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T15:00:00.000Z",
-   "evSahibi": "Ted Polatlı Koleji",
-   "deplasman": "Kapadokya Anadolu Atletizm",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.350Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3373",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T15:30:00.000Z",
-   "evSahibi": "Yenimahalle Belediyesi",
-   "deplasman": "Manisa Büyükşehir Belediye",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:SL:20261017fenerbahçealanyaspor",
@@ -4771,7 +4199,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.764Z",
+   "guncellendi": "2026-10-14T12:23:59.939Z",
    "kaynak": "tff"
   },
   {
@@ -4800,34 +4228,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.245Z",
+   "guncellendi": "2026-10-14T12:24:00.437Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:4205",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-17T16:00:00.000Z",
-   "evSahibi": "Beykoz Belediyesi",
-   "deplasman": "Karagümrük Hentbol",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.350Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:KSL:20261018yüksekovafenerbahçearsavevkadınfutbo",
@@ -4852,138 +4254,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.884Z",
+   "guncellendi": "2026-10-14T12:24:12.842Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:3097",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T10:00:00.000Z",
-   "evSahibi": "Beykoz Belediyesi",
-   "deplasman": "Mihalıççık Belediyesi",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.348Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3296",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T10:00:00.000Z",
-   "evSahibi": "Elazığ Genç. Spor İl Müd.",
-   "deplasman": "Diyarbakır Bbsk",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3297",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T10:00:00.000Z",
-   "evSahibi": "1955 Batman Belediyesi",
-   "deplasman": "Taşova Belediyesi",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3298",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T10:00:00.000Z",
-   "evSahibi": "Ordu Gsim",
-   "deplasman": "Seyhan Belediye",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3299",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T10:00:00.000Z",
-   "evSahibi": "Sarıçam Belediyesi",
-   "deplasman": "Sivas İöi",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:SL:20261018kasımpaşasamsunspor",
@@ -5010,7 +4282,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.764Z",
+   "guncellendi": "2026-10-14T12:23:59.939Z",
    "kaynak": "tff"
   },
   {
@@ -5039,7 +4311,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.246Z",
+   "guncellendi": "2026-10-14T12:24:00.437Z",
    "kaynak": "tff"
   },
   {
@@ -5065,7 +4337,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.884Z",
+   "guncellendi": "2026-10-14T12:24:12.842Z",
    "kaynak": "tff"
   },
   {
@@ -5091,7 +4363,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.884Z",
+   "guncellendi": "2026-10-14T12:24:12.842Z",
    "kaynak": "tff"
   },
   {
@@ -5117,86 +4389,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.885Z",
+   "guncellendi": "2026-10-14T12:24:12.842Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:3093",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T11:00:00.000Z",
-   "evSahibi": "Güneysuspor",
-   "deplasman": "Spor Toto",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.348Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3245",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T11:00:00.000Z",
-   "evSahibi": "1954 Hendek",
-   "deplasman": "Sherin İnebolu",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:3246",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T12:00:00.000Z",
-   "evSahibi": "Beşiktaş Jk",
-   "deplasman": "Aydın Ptt",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:SL:20261018kocaelisporgöztepe",
@@ -5223,7 +4417,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.764Z",
+   "guncellendi": "2026-10-14T12:23:59.940Z",
    "kaynak": "tff"
   },
   {
@@ -5252,7 +4446,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.246Z",
+   "guncellendi": "2026-10-14T12:24:00.437Z",
    "kaynak": "tff"
   },
   {
@@ -5281,60 +4475,8 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.246Z",
+   "guncellendi": "2026-10-14T12:24:00.437Z",
    "kaynak": "tff"
-  },
-  {
-   "id": "hentbol:thf:3244",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T13:00:00.000Z",
-   "evSahibi": "İzmir Bşb",
-   "deplasman": "Turan Grup Irmak",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.349Z",
-   "kaynak": "thf"
-  },
-  {
-   "id": "hentbol:thf:4208",
-   "brans": "hentbol",
-   "lig": "",
-   "ligId": "",
-   "sezon": "",
-   "hafta": "",
-   "baslangicUtc": "2026-10-18T13:00:00.000Z",
-   "evSahibi": "Pazar Atatürk Anadolu Lisesi",
-   "deplasman": "Trabzon Büyükşehir Bel.",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-10-14T06:41:18.350Z",
-   "kaynak": "thf"
   },
   {
    "id": "futbol:tff:SL:20261018başakşehirgaziantep",
@@ -5361,7 +4503,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.765Z",
+   "guncellendi": "2026-10-14T12:23:59.940Z",
    "kaynak": "tff"
   },
   {
@@ -5390,7 +4532,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.247Z",
+   "guncellendi": "2026-10-14T12:24:00.438Z",
    "kaynak": "tff"
   },
   {
@@ -5419,7 +4561,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.247Z",
+   "guncellendi": "2026-10-14T12:24:00.438Z",
    "kaynak": "tff"
   },
   {
@@ -5448,7 +4590,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.247Z",
+   "guncellendi": "2026-10-14T12:24:00.438Z",
    "kaynak": "tff"
   },
   {
@@ -5476,7 +4618,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.765Z",
+   "guncellendi": "2026-10-14T12:23:59.940Z",
    "kaynak": "tff"
   },
   {
@@ -5505,7 +4647,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.248Z",
+   "guncellendi": "2026-10-14T12:24:00.438Z",
    "kaynak": "tff"
   },
   {
@@ -5534,7 +4676,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.248Z",
+   "guncellendi": "2026-10-14T12:24:00.438Z",
    "kaynak": "tff"
   },
   {
@@ -5562,7 +4704,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.776Z",
+   "guncellendi": "2026-10-14T12:24:00.034Z",
    "kaynak": "tff"
   },
   {
@@ -5591,7 +4733,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.806Z",
+   "guncellendi": "2026-10-14T12:24:01.074Z",
    "kaynak": "tff"
   },
   {
@@ -5617,7 +4759,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:59.322Z",
+   "guncellendi": "2026-10-14T12:24:13.327Z",
    "kaynak": "tff"
   },
   {
@@ -5645,7 +4787,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.776Z",
+   "guncellendi": "2026-10-14T12:24:00.035Z",
    "kaynak": "tff"
   },
   {
@@ -5674,7 +4816,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.807Z",
+   "guncellendi": "2026-10-14T12:24:01.075Z",
    "kaynak": "tff"
   },
   {
@@ -5703,7 +4845,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.807Z",
+   "guncellendi": "2026-10-14T12:24:01.075Z",
    "kaynak": "tff"
   },
   {
@@ -5729,7 +4871,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:59.322Z",
+   "guncellendi": "2026-10-14T12:24:13.327Z",
    "kaynak": "tff"
   },
   {
@@ -5755,7 +4897,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:59.323Z",
+   "guncellendi": "2026-10-14T12:24:13.327Z",
    "kaynak": "tff"
   },
   {
@@ -5781,7 +4923,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:59.323Z",
+   "guncellendi": "2026-10-14T12:24:13.328Z",
    "kaynak": "tff"
   },
   {
@@ -5807,7 +4949,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:59.323Z",
+   "guncellendi": "2026-10-14T12:24:13.328Z",
    "kaynak": "tff"
   },
   {
@@ -5833,7 +4975,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:59.323Z",
+   "guncellendi": "2026-10-14T12:24:13.328Z",
    "kaynak": "tff"
   },
   {
@@ -5859,7 +5001,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:59.324Z",
+   "guncellendi": "2026-10-14T12:24:13.328Z",
    "kaynak": "tff"
   },
   {
@@ -5885,7 +5027,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:59.324Z",
+   "guncellendi": "2026-10-14T12:24:13.328Z",
    "kaynak": "tff"
   },
   {
@@ -5913,7 +5055,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.776Z",
+   "guncellendi": "2026-10-14T12:24:00.035Z",
    "kaynak": "tff"
   },
   {
@@ -5942,7 +5084,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.807Z",
+   "guncellendi": "2026-10-14T12:24:01.075Z",
    "kaynak": "tff"
   },
   {
@@ -5970,7 +5112,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.777Z",
+   "guncellendi": "2026-10-14T12:24:00.035Z",
    "kaynak": "tff"
   },
   {
@@ -5999,7 +5141,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.807Z",
+   "guncellendi": "2026-10-14T12:24:01.075Z",
    "kaynak": "tff"
   },
   {
@@ -6028,7 +5170,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.808Z",
+   "guncellendi": "2026-10-14T12:24:01.075Z",
    "kaynak": "tff"
   },
   {
@@ -6057,7 +5199,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.808Z",
+   "guncellendi": "2026-10-14T12:24:01.076Z",
    "kaynak": "tff"
   },
   {
@@ -6085,7 +5227,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.777Z",
+   "guncellendi": "2026-10-14T12:24:00.035Z",
    "kaynak": "tff"
   },
   {
@@ -6114,7 +5256,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.808Z",
+   "guncellendi": "2026-10-14T12:24:01.076Z",
    "kaynak": "tff"
   },
   {
@@ -6142,7 +5284,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.778Z",
+   "guncellendi": "2026-10-14T12:24:00.036Z",
    "kaynak": "tff"
   },
   {
@@ -6171,7 +5313,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.809Z",
+   "guncellendi": "2026-10-14T12:24:01.076Z",
    "kaynak": "tff"
   },
   {
@@ -6199,7 +5341,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.778Z",
+   "guncellendi": "2026-10-14T12:24:00.036Z",
    "kaynak": "tff"
   },
   {
@@ -6227,7 +5369,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.778Z",
+   "guncellendi": "2026-10-14T12:24:00.036Z",
    "kaynak": "tff"
   },
   {
@@ -6256,7 +5398,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:44.809Z",
+   "guncellendi": "2026-10-14T12:24:01.076Z",
    "kaynak": "tff"
   },
   {
@@ -6284,7 +5426,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:41.778Z",
+   "guncellendi": "2026-10-14T12:24:00.036Z",
    "kaynak": "tff"
   },
   {
@@ -6312,7 +5454,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.192Z",
+   "guncellendi": "2026-10-14T12:24:00.533Z",
    "kaynak": "tff"
   },
   {
@@ -6340,7 +5482,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.192Z",
+   "guncellendi": "2026-10-14T12:24:00.533Z",
    "kaynak": "tff"
   },
   {
@@ -6368,7 +5510,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.193Z",
+   "guncellendi": "2026-10-14T12:24:00.533Z",
    "kaynak": "tff"
   },
   {
@@ -6396,7 +5538,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.193Z",
+   "guncellendi": "2026-10-14T12:24:00.533Z",
    "kaynak": "tff"
   },
   {
@@ -6424,7 +5566,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.193Z",
+   "guncellendi": "2026-10-14T12:24:00.533Z",
    "kaynak": "tff"
   },
   {
@@ -6452,7 +5594,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.194Z",
+   "guncellendi": "2026-10-14T12:24:00.534Z",
    "kaynak": "tff"
   },
   {
@@ -6480,7 +5622,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.194Z",
+   "guncellendi": "2026-10-14T12:24:00.534Z",
    "kaynak": "tff"
   },
   {
@@ -6508,7 +5650,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.194Z",
+   "guncellendi": "2026-10-14T12:24:00.534Z",
    "kaynak": "tff"
   },
   {
@@ -6536,7 +5678,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:42.194Z",
+   "guncellendi": "2026-10-14T12:24:00.534Z",
    "kaynak": "tff"
   },
   {
@@ -6562,7 +5704,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-10-14T06:32:58.853Z",
+   "guncellendi": "2026-10-14T12:24:12.756Z",
    "kaynak": "tff"
   }
  ]
