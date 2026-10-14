@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20261014keçiörengücüığdır",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_keçiörengücü",
+    "takim_ığdır"
+   ],
+   "baslik": "Sona erdi: Keçiörengücü 0-0 Iğdır",
+   "govde": "1. Lig · 10. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-14T21:04:07.947Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261014antalyasporkayserispor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_antalyaspor",
+    "takim_kayserispor"
+   ],
+   "baslik": "Bitti: Antalyaspor 0-4 Kayserispor",
+   "govde": "1. Lig · 10. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-14T21:04:07.947Z"
+  }
+ ]
 }
