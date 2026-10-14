@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-14T12:37:55.098Z",
- "adet": 1017,
+ "guncellendi": "2026-10-14T17:38:31.610Z",
+ "adet": 1018,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1017,
+   "adet": 1018,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -7123,6 +7123,28 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-10-21T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-10-21T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Toprak Razgatlıoğlu-Elturko",
@@ -8533,7 +8555,7 @@
    "kanal": "HT SPOR",
    "dijital": false,
    "baslik": "Maç Yolu",
-   "baslangicUtc": "2026-10-15T16:00:00.000Z",
+   "baslangicUtc": "2026-10-15T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8543,24 +8565,10 @@
   {
    "kanal": "HT SPOR",
    "dijital": false,
-   "baslik": "Al Ahli - Al Nassr",
-   "baslangicUtc": "2026-10-15T18:00:00.000Z",
+   "baslik": "Maç Özeti",
+   "baslangicUtc": "2026-10-15T19:00:00.000Z",
    "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Al Ahli",
-    "Al Nassr"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "HT SPOR",
-   "dijital": false,
-   "baslik": "Dakika 90",
-   "baslangicUtc": "2026-10-15T20:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
