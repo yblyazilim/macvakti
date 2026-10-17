@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-17T20:57:28.737Z",
+ "guncellendi": "2026-10-17T23:03:25.808Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -35,20 +35,6 @@
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Amed Sportif Faaliyetler - Ankara Büyükşehir Belediyesi Fomget",
    "tarih": "2026-10-17T12:00:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:4202",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Ted Polatlı Koleji - Kapadokya Anadolu Atletizm",
-   "tarih": "2026-10-17T15:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261017orduspor1967kdzereğli198001",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "mac": "Orduspor 1967 - Kdz.Ereğli 1980",
-   "tarih": "2026-10-17T16:00:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20261018yüksekovafenerbahçearsavevkadınfutbo",
@@ -373,10 +359,24 @@
    "tarih": "2026-10-23T11:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:3302",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Taşova Belediyesi - Sarıçam Belediyesi",
+   "tarih": "2026-10-24T09:00:00.000Z"
+  },
+  {
    "id": "futbol:tff:KSL:20261024hakkarigücüsporamedsportiffaaliyetle",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Hakkarigücü Spor - Amed Sportif Faaliyetler",
+   "tarih": "2026-10-24T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3248",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Sherin İnebolu - İzmir Bşb",
    "tarih": "2026-10-24T10:00:00.000Z"
   },
   {
@@ -420,6 +420,83 @@
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Bakırköy Kadın Futbol - Beşiktaş",
    "tarih": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3102",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Mihalıççık Belediyesi - Güneysuspor",
+   "tarih": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4211",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Denizli Gençlik Spor İl Müdürlüğü - Uşak Gençlik Spor İl Müdürlüğü",
+   "tarih": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4212",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Adrenalin Rekor - Yeşilay",
+   "tarih": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4213",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Adıyaman Gençlik - Bingöl Yükselen Gençlik",
+   "tarih": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4215",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Zonguldak Gençlik Spor İl Müd. - Beykoz Belediyesi",
+   "tarih": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4216",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Erzurum Gençlik Ve Spor İl Müd. - Pazar Atatürk Anadolu Lisesi",
+   "tarih": "2026-10-24T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3101",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Giresunspor - Trabzon Büyükşehir Bel.",
+   "tarih": "2026-10-24T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4210",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Salihli Belediyesi - Köyceğiz Belediyesi",
+   "tarih": "2026-10-24T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4217",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Trabzon Bbsk - Vakfıkebir Atletik",
+   "tarih": "2026-10-24T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4218",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Kapadokya Anadolu Atletizm - Konya Gsim",
+   "tarih": "2026-10-24T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4214",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Eskişehir Büyükşehir - Kocaeli Gençlik Ve Spor İl Müdürlüğü",
+   "tarih": "2026-10-24T13:00:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20261028amedsportiffaaliyetlertrabzonspor",
