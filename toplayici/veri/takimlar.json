@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-17T12:56:51.421Z",
+ "guncellendi": "2026-10-17T16:11:26.725Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 322,
@@ -3217,15 +3217,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "karademirgrupkayserikadin": {
-   "ad": "Karademir Grup Kayseri Kadın",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:1000"
-   ]
-  },
   "buyukcekmecegucufkspor": {
    "ad": "Büyükçekmece Gücü Fk Spor",
    "branslar": [
@@ -3637,6 +3628,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "karademirgrupkayserikadin": {
+   "ad": "Karademir Grup Kayseri Kadın",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
    ]
   },
   "guneysuspor": {
