@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-17T04:45:28.912Z",
- "adet": 1046,
+ "guncellendi": "2026-10-17T09:03:10.940Z",
+ "adet": 1059,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1046,
+   "adet": 1059,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Artı Futbol",
@@ -6590,6 +6590,105 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Tour Of Türkiye",
+   "baslangicUtc": "2026-10-24T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-10-24T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-10-24T06:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-10-24T07:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Dinamik Sabahlar",
+   "baslangicUtc": "2026-10-24T07:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Taha Erpulat İle Pilates",
+   "baslangicUtc": "2026-10-24T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Spor ve Çocuk",
+   "baslangicUtc": "2026-10-24T08:15:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-10-24T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Auto Life",
+   "baslangicUtc": "2026-10-24T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Tofaş - Buducnost Voli P.",
@@ -9738,8 +9837,19 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "41. Dakika",
+   "baslik": "UEFA Avrupa Ligi Özetler",
    "baslangicUtc": "2026-10-17T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Road to Glory",
+   "baslangicUtc": "2026-10-17T09:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9750,7 +9860,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Futbolun En Büyük Sahnesi",
-   "baslangicUtc": "2026-10-17T10:00:00.000Z",
+   "baslangicUtc": "2026-10-17T09:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9760,11 +9870,11 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "UEFA Avrupa Ligi Magazin",
-   "baslangicUtc": "2026-10-17T10:30:00.000Z",
+   "baslik": "Dünya Kupasında Efsaneler",
+   "baslangicUtc": "2026-10-17T10:20:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
-   "macDisi": true,
+   "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
   },
@@ -9772,7 +9882,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Avrupa Sahnesi",
-   "baslangicUtc": "2026-10-17T11:00:00.000Z",
+   "baslangicUtc": "2026-10-17T10:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9782,19 +9892,22 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Kısa Liste Magazin",
-   "baslangicUtc": "2026-10-17T12:30:00.000Z",
+   "baslik": "Hoffenheim - Beşiktaş",
+   "baslangicUtc": "2026-10-17T11:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
+   "macDisi": false,
+   "takimlar": [
+    "Hoffenheim",
+    "Beşiktaş"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Feyenoord - Como",
-   "baslangicUtc": "2026-10-17T12:55:00.000Z",
+   "baslangicUtc": "2026-10-17T13:10:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9807,8 +9920,30 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
+   "baslik": "Road to Glory",
+   "baslangicUtc": "2026-10-17T14:50:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Ultra",
+   "baslangicUtc": "2026-10-17T14:55:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
    "baslik": "Roma - Real Madrid",
-   "baslangicUtc": "2026-10-17T14:35:00.000Z",
+   "baslangicUtc": "2026-10-17T15:10:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9822,7 +9957,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "UEFA Şampiyonlar Ligi Magazin",
-   "baslangicUtc": "2026-10-17T16:15:00.000Z",
+   "baslangicUtc": "2026-10-17T16:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -9832,43 +9967,48 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Viktoria Plzen - Union Sg",
-   "baslangicUtc": "2026-10-17T16:45:00.000Z",
+   "baslik": "Shaktar Donetsk - AEK Atina",
+   "baslangicUtc": "2026-10-17T17:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Viktoria Plzen",
-    "Union Sg"
+    "Shaktar Donetsk",
+    "AEK Atina"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Lilleström - Torrense",
-   "baslangicUtc": "2026-10-17T18:25:00.000Z",
+   "baslik": "Bodo Glimt- Borrusia Dortmunt",
+   "baslangicUtc": "2026-10-17T18:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": [
-    "Lilleström",
-    "Torrense"
-   ],
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Beşiktaş - Marsilya",
-   "baslangicUtc": "2026-10-17T20:05:00.000Z",
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-10-17T20:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": [
-    "Beşiktaş",
-    "Marsilya"
-   ],
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "TRT Spor Yıldız Ortak Yayın",
+   "baslangicUtc": "2026-10-17T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
