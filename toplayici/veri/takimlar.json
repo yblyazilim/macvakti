@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-17T16:11:26.725Z",
+ "guncellendi": "2026-10-17T18:33:35.944Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 322,
@@ -3217,15 +3217,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "buyukcekmecegucufkspor": {
-   "ad": "Büyükçekmece Gücü Fk Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ]
-  },
   "eskisehirhentbol": {
    "ad": "Eskişehir Hentbol",
    "branslar": [
@@ -3673,6 +3664,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "buyukcekmecegucufkspor": {
+   "ad": "Büyükçekmece Gücü Fk Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
    ]
   },
   "besiktasjk": {

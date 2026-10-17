@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-17T16:11:16.594Z",
+ "guncellendi": "2026-10-17T18:33:25.935Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -44,10 +44,10 @@
    "tarih": "2026-10-17T15:00:00.000Z"
   },
   {
-   "id": "futbol:tff:2L:20261017fethiyesporankaragücükırmızı",
+   "id": "futbol:tff:3L:20261017orduspor1967kdzereğli198001",
    "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "mac": "Fethiyespor - Ankaragücü",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Orduspor 1967 - Kdz.Ereğli 1980",
    "tarih": "2026-10-17T16:00:00.000Z"
   },
   {
@@ -90,6 +90,13 @@
    "brans": "futbol",
    "lig": "2. Lig Kırmızı Grubu",
    "mac": "Akedaş Kahramanmaraş İstiklal Spor - Serik Spor Futbol",
+   "tarih": "2026-10-18T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018pazarsportokatbelediye01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Pazarspor - Tokat Belediye",
    "tarih": "2026-10-18T11:00:00.000Z"
   },
   {
@@ -149,6 +156,34 @@
    "tarih": "2026-10-18T11:30:00.000Z"
   },
   {
+   "id": "futbol:tff:3L:20261018zonguldaksporbüyükçekmecegücüfkspor0",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Zonguldak Spor - Büyükçekmece Gücü Fk Spor",
+   "tarih": "2026-10-18T11:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018etimesgutbalıkesirspor02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Etimesgut - Balıkesirspor",
+   "tarih": "2026-10-18T11:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018kepezsporfutbolbucaspor192802",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Kepez Spor Futbol - Bucaspor 1928",
+   "tarih": "2026-10-18T11:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018eskişehiranadolusporfaaliyetlerigeml",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Eskişehir Anadolu Spor Faaliyetleri - Gemlik Sümerbey Futbol Spor",
+   "tarih": "2026-10-18T11:30:00.000Z"
+  },
+  {
    "id": "futbol:tff:3L:20261018ayososmaniyespordiyarbekirspor03",
    "brans": "futbol",
    "lig": "3. Lig 03 Grubu",
@@ -191,6 +226,55 @@
    "tarih": "2026-10-18T12:00:00.000Z"
   },
   {
+   "id": "futbol:tff:3L:20261018beykozanadolusporkartalbulvarkartali",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Beykoz Anadolu Spor - Kartal Bulvar Kartalimen Spor",
+   "tarih": "2026-10-18T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018küçükçekmecesinopspordüzcecamdüzcesp",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Küçükçekmece Sinop Spor - Düzce Cam Düzcespor",
+   "tarih": "2026-10-18T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018yalovafk77amasyaspor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Yalova Fk 77 - Amasyaspor",
+   "tarih": "2026-10-18T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018bursayıldırımuşakspor02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Bursa Yıldırım - Uşak Spor",
+   "tarih": "2026-10-18T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018bigaspor1922akşehir02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Bigaspor - 1922 Akşehir",
+   "tarih": "2026-10-18T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018söke1970denizliidmanyurdu195902",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Söke 1970 - Denizli İdmanyurdu 1959",
+   "tarih": "2026-10-18T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018ayvalıkgücübelediyesporkarşıyaka02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Ayvalıkgücü Belediyespor - Karşıyaka",
+   "tarih": "2026-10-18T12:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3246",
    "brans": "hentbol",
    "lig": "",
@@ -210,6 +294,20 @@
    "lig": "",
    "mac": "Pazar Atatürk Anadolu Lisesi - Trabzon Büyükşehir Bel.",
    "tarih": "2026-10-18T13:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018karabükidmanyurdusporsilivrispor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Karabük İdmanyurdu Spor - Silivrispor",
+   "tarih": "2026-10-18T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261018gaziemirgogsporyatalanya1221futbol02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Gaziemir G.O.G. Spor Yat. - Alanya 1221 Futbol",
+   "tarih": "2026-10-18T16:00:00.000Z"
   },
   {
    "id": "futbol:tff:3L:20261018yozgatbelediyesibozoksporaçıkalınerc",

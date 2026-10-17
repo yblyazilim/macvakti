@@ -1,3 +1,59 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261017fenerbahçealanyaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_fenerbahçe",
+    "takim_alanyaspor"
+   ],
+   "baslik": "Sona erdi: Fenerbahçe 3-0 Alanyaspor",
+   "govde": "Süper Lig · 8. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-17T18:33:25.921Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261017bodrumbandırmaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bodrum",
+    "takim_bandırmaspor"
+   ],
+   "baslik": "Bitti: Bodrum 2-1 Bandırma Spor",
+   "govde": "1. Lig · 11. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-17T18:33:25.921Z"
+  },
+  {
+   "macId": "futbol:tff:2L:20261017fethiyesporankaragücükırmızı",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Krmz",
+    "takim_fethiyespor",
+    "takim_ankaragücü"
+   ],
+   "baslik": "Fethiyespor 2-2 Ankaragücü · Maç sona erdi",
+   "govde": "2. Lig Kırmızı Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-17T18:33:25.921Z"
+  },
+  {
+   "macId": "hentbol:thf:3373",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_yenimahallebelediyesi",
+    "takim_manisabüyükşehirbelediye"
+   ],
+   "baslik": "Bitti: Yenimahalle Belediyesi 45-38 Manisa Büyükşehir Belediye",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-17T18:33:25.922Z"
+  }
+ ]
 }
