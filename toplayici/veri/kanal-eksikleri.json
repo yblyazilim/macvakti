@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-18T13:48:24.762Z",
+ "guncellendi": "2026-10-18T17:10:52.928Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -9,62 +9,6 @@
    "tarih": "2026-09-12T13:00:00.000Z"
   },
   {
-   "id": "futbol:tff:KSL:20261017sultanbeyligücühakkarigücüspor",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Sultanbeyli Gücü - Hakkarigücü Spor",
-   "tarih": "2026-10-17T10:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261017antalyasporkadıngalatasaray",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Antalyaspor Kadın - Galatasaray",
-   "tarih": "2026-10-17T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261017şilebilgidoğasportifyatırımhizmetler",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Şile Bilgidoğa Sportif Yatırım Hizmetleri - Bakırköy Kadın Futbol",
-   "tarih": "2026-10-17T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261017amedsportiffaaliyetlerankarabüyükşeh",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Amed Sportif Faaliyetler - Ankara Büyükşehir Belediyesi Fomget",
-   "tarih": "2026-10-17T12:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261018yüksekovafenerbahçearsavevkadınfutbo",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Yüksekova - Fenerbahçe Arsavev Kadın Futbol Takımı",
-   "tarih": "2026-10-18T10:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018pazarsportokatbelediye01",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "mac": "Pazarspor - Tokat Belediye",
-   "tarih": "2026-10-18T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018ağrı1970kırıkkale03",
-   "brans": "futbol",
-   "lig": "3. Lig 03 Grubu",
-   "mac": "Ağrı 1970 - Kırıkkale",
-   "tarih": "2026-10-18T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261018beşiktaşkarademirgrupkayserikadın",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Beşiktaş - Karademir Grup Kayseri Kadın",
-   "tarih": "2026-10-18T11:00:00.000Z"
-  },
-  {
    "id": "futbol:tff:KSL:20261018safimclbentonitünyekadıngiresunsanay",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
@@ -72,115 +16,10 @@
    "tarih": "2026-10-18T11:00:00.000Z"
   },
   {
-   "id": "futbol:tff:KSL:20261018haymanatrabzonspor",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Haymana - Trabzonspor",
-   "tarih": "2026-10-18T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:2026101868aksaraybelediyesporadanademirsporb",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "68 Aksaray Belediye Spor - Adana Demirspor",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261018gmgkastamonusporısbaşısparta32beyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Gmg Kastamonuspor - Isbaş Isparta 32",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261018eforçayerbaasporçorluspor1947beyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Efor Çay Erbaaspor - Çorlu Spor 1947",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261018ekincileriskenderunspor52ordusporkır",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "mac": "Ekinciler İskenderunspor - 52 Orduspor",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018zonguldaksporbüyükçekmecegücüfkspor0",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "mac": "Zonguldak Spor - Büyükçekmece Gücü Fk Spor",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018etimesgutbalıkesirspor02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "mac": "Etimesgut - Balıkesirspor",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018kepezsporfutbolbucaspor192802",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "mac": "Kepez Spor Futbol - Bucaspor 1928",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018eskişehiranadolusporfaaliyetlerigeml",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "mac": "Eskişehir Anadolu Spor Faaliyetleri - Gemlik Sümerbey Futbol Spor",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018ayososmaniyespordiyarbekirspor03",
-   "brans": "futbol",
-   "lig": "3. Lig 03 Grubu",
-   "mac": "Ayos Osmaniyespor - Diyarbekir Spor",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018karamanadanaadaletgücüsporsportiffaa",
-   "brans": "futbol",
-   "lig": "3. Lig 03 Grubu",
-   "mac": "Karaman - Adana Adaletgücü Spor Sportif Faaliyetler",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018ejderoğlukırşehirfutbolniğdebelediye",
-   "brans": "futbol",
-   "lig": "3. Lig 03 Grubu",
-   "mac": "Ejderoğlu Kırşehir Futbol - Niğde Belediyesi Spor",
-   "tarih": "2026-10-18T11:30:00.000Z"
-  },
-  {
    "id": "futbol:tff:2L:20261018inegölkafkassebatbeyaz",
    "brans": "futbol",
    "lig": "2. Lig Beyaz Grubu",
    "mac": "İnegöl Kafkas - Sebat",
-   "tarih": "2026-10-18T12:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261018beyoğluyeniçarşısporfaaliyetlerisaka",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "mac": "Beyoğlu Yeni Çarşı Spor Faaliyetleri - Sakaryaspor",
-   "tarih": "2026-10-18T12:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261018kırklarelisporankarademirsporkırmızı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "mac": "Kırklarelispor - Ankara Demirspor",
-   "tarih": "2026-10-18T12:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261018kütahyasporfutbol12bingölsporkırmızı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "mac": "Kütahyaspor Futbol - 12 Bingöl Spor",
    "tarih": "2026-10-18T12:00:00.000Z"
   },
   {
@@ -202,34 +41,6 @@
    "brans": "futbol",
    "lig": "3. Lig 01 Grubu",
    "mac": "Yalova Fk 77 - Amasyaspor",
-   "tarih": "2026-10-18T12:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018bursayıldırımuşakspor02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "mac": "Bursa Yıldırım - Uşak Spor",
-   "tarih": "2026-10-18T12:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018bigaspor1922akşehir02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "mac": "Bigaspor - 1922 Akşehir",
-   "tarih": "2026-10-18T12:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018söke1970denizliidmanyurdu195902",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "mac": "Söke 1970 - Denizli İdmanyurdu 1959",
-   "tarih": "2026-10-18T12:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261018ayvalıkgücübelediyesporkarşıyaka02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "mac": "Ayvalıkgücü Belediyespor - Karşıyaka",
    "tarih": "2026-10-18T12:00:00.000Z"
   },
   {
