@@ -1,3 +1,74 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261019trabzonsporbeşiktaş",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_trabzonspor",
+    "takim_beşiktaş"
+   ],
+   "baslik": "Trabzonspor 2-0 Beşiktaş · Maç sona erdi",
+   "govde": "Süper Lig · 8. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-19T20:14:44.371Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261019karagümrükkeçiörengücü",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_karagümrük",
+    "takim_keçiörengücü"
+   ],
+   "baslik": "Karagümrük 1-2 Keçiörengücü · Maç sona erdi",
+   "govde": "1. Lig · 11. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-19T20:14:44.371Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261019manisamuğlaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_manisa",
+    "takim_muğlaspor"
+   ],
+   "baslik": "Manisa 3-4 Muğlaspor · Maç sona erdi",
+   "govde": "1. Lig · 11. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-19T20:14:44.371Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261019bursasporpendiksporfutbol",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bursaspor",
+    "takim_pendiksporfutbol"
+   ],
+   "baslik": "Bitti: Bursaspor 2-0 Pendikspor Futbol",
+   "govde": "1. Lig · 11. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-19T20:14:44.371Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261019esenlererokspormardin1969spor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_esenlererokspor",
+    "takim_mardin1969spor"
+   ],
+   "baslik": "Bitti: Esenler Erokspor 4-2 Mardin 1969 Spor",
+   "govde": "1. Lig · 11. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-19T20:14:44.371Z"
+  }
+ ]
 }
