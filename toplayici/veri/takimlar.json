@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-19T07:08:42.991Z",
+ "guncellendi": "2026-10-19T14:36:29.872Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 311,
@@ -3260,6 +3260,24 @@
     "hentbol:diger"
    ]
   },
+  "mihaliccikbelediyesi": {
+   "ad": "Mihalıççık Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "guneysuspor": {
+   "ad": "Güneysuspor",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "sherininebolu": {
    "ad": "Sherin İnebolu",
    "branslar": [
@@ -3282,8 +3300,8 @@
     "sehir": "İzmir"
    }
   },
-  "mihaliccikbelediyesi": {
-   "ad": "Mihalıççık Belediyesi",
+  "sivasioi": {
+   "ad": "Sivas İöi",
    "branslar": [
     "hentbol"
    ],
@@ -3291,8 +3309,8 @@
     "hentbol:diger"
    ]
   },
-  "guneysuspor": {
-   "ad": "Güneysuspor",
+  "diyarbakirbbsk": {
+   "ad": "Diyarbakır Bbsk",
    "branslar": [
     "hentbol"
    ],
@@ -3482,24 +3500,6 @@
   },
   "kocaeligenclikvesporilmudurlugu": {
    "ad": "Kocaeli Gençlik Ve Spor İl Müdürlüğü",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "sivasioi": {
-   "ad": "Sivas İöi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "diyarbakirbbsk": {
-   "ad": "Diyarbakır Bbsk",
    "branslar": [
     "hentbol"
    ],
