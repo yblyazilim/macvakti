@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-20T07:48:00.988Z",
+ "guncellendi": "2026-10-20T13:09:58.887Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 311,
@@ -3318,6 +3318,24 @@
     "hentbol:diger"
    ]
   },
+  "seyhanbelediye": {
+   "ad": "Seyhan Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "1955batmanbelediyesi": {
+   "ad": "1955 Batman Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "denizligencliksporilmudurlugu": {
    "ad": "Denizli Gençlik Spor İl Müdürlüğü",
    "branslar": [
@@ -3500,24 +3518,6 @@
   },
   "kocaeligenclikvesporilmudurlugu": {
    "ad": "Kocaeli Gençlik Ve Spor İl Müdürlüğü",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "seyhanbelediye": {
-   "ad": "Seyhan Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "1955batmanbelediyesi": {
-   "ad": "1955 Batman Belediyesi",
    "branslar": [
     "hentbol"
    ],
