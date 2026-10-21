@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-21T04:58:47.614Z",
+ "guncellendi": "2026-10-21T09:59:37.292Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 311,
@@ -3242,6 +3242,24 @@
     "futbol:142"
    ]
   },
+  "trabzonbbsk": {
+   "ad": "Trabzon Bbsk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "vakfikebiratletik": {
+   "ad": "Vakfıkebir Atletik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "tasovabelediyesi": {
    "ad": "Taşova Belediyesi",
    "branslar": [
@@ -3464,24 +3482,6 @@
   },
   "koycegizbelediyesi": {
    "ad": "Köyceğiz Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "trabzonbbsk": {
-   "ad": "Trabzon Bbsk",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "vakfikebiratletik": {
-   "ad": "Vakfıkebir Atletik",
    "branslar": [
     "hentbol"
    ],
