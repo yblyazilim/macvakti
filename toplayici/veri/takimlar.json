@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-10-21T19:16:50.185Z",
+ "guncellendi": "2026-10-21T22:34:28.698Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 311,
+ "takimSayisi": 315,
  "branslar": [
   {
    "k": "basketbol",
@@ -399,6 +399,7 @@
       "aydinptt",
       "beykozbelediyesi",
       "bingolyukselengenclik",
+      "bursabuyuksehirbelediyesi",
       "candarbey",
       "denizligencliksporilmudurlugu",
       "diyarbakirbbsk",
@@ -416,6 +417,7 @@
       "marmarapendikhentbol",
       "mihaliccikbelediyesi",
       "niluferbelediyesi",
+      "odunpazari",
       "ordugsim",
       "ozelidarekoroglu",
       "pazarataturkanadolulisesi",
@@ -430,7 +432,9 @@
       "trabzonbuyuksehirbel",
       "turangrupirmak",
       "usakgencliksporilmudurlugu",
+      "uskudarbelediyesi",
       "vakfikebiratletik",
+      "yalikavak",
       "yesilay",
       "zonguldakgencliksporilmud"
      ]
@@ -3612,6 +3616,42 @@
   },
   "ozelidarekoroglu": {
    "ad": "Özel İdare Köroğlu",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "bursabuyuksehirbelediyesi": {
+   "ad": "Bursa Büyükşehir Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "odunpazari": {
+   "ad": "Odunpazarı",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "uskudarbelediyesi": {
+   "ad": "Üsküdar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yalikavak": {
+   "ad": "Yalıkavak",
    "branslar": [
     "hentbol"
    ],
