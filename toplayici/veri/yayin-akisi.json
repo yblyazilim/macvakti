@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-23T12:09:41.012Z",
- "adet": 833,
+ "guncellendi": "2026-10-23T16:48:11.712Z",
+ "adet": 853,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 833,
+   "adet": 853,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -1557,6 +1557,64 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "Maçın Ardından",
+   "baslangicUtc": "2026-10-25T22:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "İspanya Laliga",
+   "baslangicUtc": "2026-10-25T22:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "Los Angeles Lakers - Utah Jazz",
+   "baslangicUtc": "2026-10-25T23:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Los Angeles Lakers",
+    "Utah Jazz"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "World Of Free Sports",
+   "baslangicUtc": "2026-10-26T01:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT",
+   "dijital": false,
+   "baslik": "Euroleague",
+   "baslangicUtc": "2026-10-26T02:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR HD",
    "dijital": false,
    "baslik": "UEFA Avrupa Konferans Ligi Özetler",
@@ -1886,6 +1944,158 @@
    "dijital": false,
    "baslik": "Trendyol Süper Lig ve 1. Lig Özetler",
    "baslangicUtc": "2026-10-24T03:45:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "İstiklal Marşı",
+   "baslangicUtc": "2026-10-24T03:58:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "UEFA Şampiyonlar Ligi Özetler",
+   "baslangicUtc": "2026-10-24T04:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Orhan Ayhan'la",
+   "baslangicUtc": "2026-10-24T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Hafta Sonu Manşet",
+   "baslangicUtc": "2026-10-24T06:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "41.dakika",
+   "baslangicUtc": "2026-10-24T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Avrupa Sahnesi",
+   "baslangicUtc": "2026-10-24T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Bandırma S. - A.H. Iğdır",
+   "baslangicUtc": "2026-10-24T10:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Bandırma S.",
+    "A.H. Iğdır"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Spor Bülteni",
+   "baslangicUtc": "2026-10-24T12:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Muğlaspor K. - İstanbulspor",
+   "baslangicUtc": "2026-10-24T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Muğlaspor K.",
+    "İstanbulspor"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Aktüel Futbol",
+   "baslangicUtc": "2026-10-24T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Sarıyer - Fatih Karagümrük",
+   "baslangicUtc": "2026-10-24T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Sarıyer",
+    "Fatih Karagümrük"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Stadyum",
+   "baslangicUtc": "2026-10-24T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "TRT SPOR HD",
+   "dijital": false,
+   "baslik": "Teknik Analiz",
+   "baslangicUtc": "2026-10-24T19:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -5155,6 +5365,28 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-10-30T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-10-30T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Petlas Türkiye Offroad Ş. - Ankara",
@@ -7404,19 +7636,8 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Özetler",
-   "baslangicUtc": "2026-10-24T06:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
    "baslik": "Bizim Ligler",
-   "baslangicUtc": "2026-10-24T08:45:00.000Z",
+   "baslangicUtc": "2026-10-24T06:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7426,7 +7647,29 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
+   "baslik": "UEFA Avrupa Ligi Özetler",
+   "baslangicUtc": "2026-10-24T06:50:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
    "baslik": "41. Dakika",
+   "baslangicUtc": "2026-10-24T08:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Avrupa Sahnesi",
    "baslangicUtc": "2026-10-24T09:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -7437,32 +7680,10 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Futbolun En Büyük Sahnesi",
-   "baslangicUtc": "2026-10-24T10:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "UEFA Avrupa Ligi Magazin",
+   "baslik": "Şampiyonlar Ligi Özetler",
    "baslangicUtc": "2026-10-24T10:30:00.000Z",
    "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Avrupa Sahnesi",
-   "baslangicUtc": "2026-10-24T11:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -7470,39 +7691,39 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Kısa Liste Magazin",
-   "baslangicUtc": "2026-10-24T12:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Feyenoord - Como",
-   "baslangicUtc": "2026-10-24T12:55:00.000Z",
+   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıreal Madrıd – Rb Leıpzıg",
+   "baslangicUtc": "2026-10-24T12:40:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Feyenoord",
-    "Como"
+    "Şampiyonlar Ligi Futbol Karşılaşmasıreal Madrıd",
+    "Rb Leıpzıg"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Roma - Real Madrid",
+   "baslik": "Ultra",
+   "baslangicUtc": "2026-10-24T14:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıınter – Shakhtar Donetsk",
    "baslangicUtc": "2026-10-24T14:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Roma",
-    "Real Madrid"
+    "Şampiyonlar Ligi Futbol Karşılaşmasıınter",
+    "Shakhtar Donetsk"
    ],
    "kaynak": "tvplus"
   },
@@ -7520,22 +7741,19 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Shakhtar Donetsk - Aek Atina",
-   "baslangicUtc": "2026-10-24T16:45:00.000Z",
+   "baslik": "Uefa Konferans Ligi Özetler",
+   "baslangicUtc": "2026-10-24T16:40:00.000Z",
    "sureDk": null,
-   "tur": "belirsiz",
+   "tur": "tekrar",
    "macDisi": false,
-   "takimlar": [
-    "Shakhtar Donetsk",
-    "Aek Atina"
-   ],
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Futbolun En Büyük Sahnesi",
-   "baslangicUtc": "2026-10-24T18:25:00.000Z",
+   "baslik": "Bizim Ligler",
+   "baslangicUtc": "2026-10-24T16:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7545,14 +7763,28 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Manchester City - Borrusia Dortmunt",
-   "baslangicUtc": "2026-10-24T18:50:00.000Z",
+   "baslik": "Trabzonspor - Hearts , Uefa Avrupa Konferans Ligi Grup Maçları",
+   "baslangicUtc": "2026-10-24T17:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Manchester City",
-    "Borrusia Dortmunt"
+    "Trabzonspor",
+    "Hearts , Uefa Avrupa Konferans Ligi Grup Maçları"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Lille - Galatasaray , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslangicUtc": "2026-10-24T18:55:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Lille",
+    "Galatasaray , Uefa Şampiyonlar Ligi Grup Maçları"
    ],
    "kaynak": "tvplus"
   },
@@ -7560,7 +7792,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Contenders",
-   "baslangicUtc": "2026-10-24T20:30:00.000Z",
+   "baslangicUtc": "2026-10-24T20:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
