@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20261025pendiksporfutbolkayserispor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_pendiksporfutbol",
+    "takim_kayserispor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Pendikspor Futbol - Kayserispor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-23T23:21:42.233Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261025antalyasporbodrum",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_antalyaspor",
+    "takim_bodrum"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Antalyaspor - Bodrum karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-23T23:21:42.233Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261025keçiörengücübursaspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_keçiörengücü",
+    "takim_bursaspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Keçiörengücü - Bursaspor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-23T23:21:42.233Z"
+  }
+ ]
 }

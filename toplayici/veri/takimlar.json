@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-10-23T20:15:23.540Z",
+ "guncellendi": "2026-10-23T23:21:42.250Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 315,
+ "takimSayisi": 313,
  "branslar": [
   {
    "k": "basketbol",
@@ -403,7 +403,6 @@
       "candarbey",
       "denizligencliksporilmudurlugu",
       "diyarbakirbbsk",
-      "elaziggencsporilmud",
       "erzurumgenclikvesporilmud",
       "eskisehirbuyuksehir",
       "giresunspor",
@@ -418,7 +417,6 @@
       "mihaliccikbelediyesi",
       "niluferbelediyesi",
       "odunpazari",
-      "ordugsim",
       "ozelidarekoroglu",
       "pazarataturkanadolulisesi",
       "salihlibelediyesi",
@@ -3208,24 +3206,6 @@
    ],
    "ligler": [
     "futbol:971-01"
-   ]
-  },
-  "ordugsim": {
-   "ad": "Ordu Gsim",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "elaziggencsporilmud": {
-   "ad": "Elazığ Genç. Spor İl Müd.",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
    ]
   },
   "artidegervanspor": {
