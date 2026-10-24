@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-24T11:42:05.704Z",
+ "guncellendi": "2026-10-24T15:01:09.791Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 313,
@@ -3199,15 +3199,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "buyukcekmecegucufkspor": {
-   "ad": "Büyükçekmece Gücü Fk Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ]
-  },
   "artidegervanspor": {
    "ad": "Artı Değer Van Spor",
    "branslar": [
@@ -3426,6 +3417,15 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "buyukcekmecegucufkspor": {
+   "ad": "Büyükçekmece Gücü Fk Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:971-01"
    ]
   },
   "giresunspor": {
