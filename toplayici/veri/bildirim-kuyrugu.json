@@ -1,3 +1,143 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261025göztepeçorum",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_göztepe",
+    "takim_çorum"
+   ],
+   "baslik": "Bitti: Göztepe 2-0 Çorum",
+   "govde": "Süper Lig · 9. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T20:33:43.487Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261025keçiörengücübursaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_keçiörengücü",
+    "takim_bursaspor"
+   ],
+   "baslik": "Bitti: Keçiörengücü 2-4 Bursaspor",
+   "govde": "1. Lig · 12. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T20:33:43.487Z"
+  },
+  {
+   "macId": "futbol:tff:2L:2026102512bingölsporkırklarelisporkırmızı",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_976Krmz",
+    "takim_12bingölspor",
+    "takim_kırklarelispor"
+   ],
+   "baslik": "12 Bingöl Spor 0-0 Kırklarelispor · Maç sona erdi",
+   "govde": "2. Lig Kırmızı Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T20:33:43.488Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261025fatsabelediyesporinkılapfutbol01",
+   "tip": "saat",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_fatsabelediyespor",
+    "takim_inkılapfutbol"
+   ],
+   "baslik": "Saat değişti: Fatsa Belediyespor - İnkılap Futbol",
+   "govde": "Karşılaşma 14:00 yerine 14:04'de oynanacak. Pazar, 25 Ekim.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-10-25T20:33:43.488Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261025fatsabelediyesporinkılapfutbol01",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_fatsabelediyespor",
+    "takim_inkılapfutbol"
+   ],
+   "baslik": "Bitti: Fatsa Belediyespor 2-1 İnkılap Futbol",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T20:33:43.488Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261025kartalbulvarkartalimensporgalata01",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_kartalbulvarkartalimenspor",
+    "takim_galata"
+   ],
+   "baslik": "Bitti: Kartal Bulvar Kartalimen Spor 0-1 Galata",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T20:33:43.488Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261025alanya1221futbolkepezsporfutbol02",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_alanya1221futbol",
+    "takim_kepezsporfutbol"
+   ],
+   "baslik": "Bitti: Alanya 1221 Futbol 1-2 Kepez Spor Futbol",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T20:33:43.488Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261025uşaksporgaziemirgogsporyat02",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_uşakspor",
+    "takim_gaziemirgogsporyat"
+   ],
+   "baslik": "Sona erdi: Uşak Spor 1-1 Gaziemir G.O.G. Spor Yat.",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T20:33:43.488Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261025kırıkkaleayososmaniyespor03",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_kırıkkale",
+    "takim_ayososmaniyespor"
+   ],
+   "baslik": "Bitti: Kırıkkale 3-1 Ayos Osmaniyespor",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T20:33:43.488Z"
+  },
+  {
+   "macId": "hentbol:thf:3250",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_turangrupırmak",
+    "takim_özelidareköroğlu"
+   ],
+   "baslik": "Bitti: Turan Grup Irmak 31-39 Özel İdare Köroğlu",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T20:33:43.488Z"
+  }
+ ]
 }
