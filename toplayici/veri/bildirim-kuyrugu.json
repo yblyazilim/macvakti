@@ -1,3 +1,58 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261025konyasporgençlerbirliği",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_konyaspor",
+    "takim_gençlerbirliği"
+   ],
+   "baslik": "Bitti: Konyaspor 2-0 Gençlerbirliği",
+   "govde": "Süper Lig · 9. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T17:57:40.897Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261025antalyasporbodrum",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_antalyaspor",
+    "takim_bodrum"
+   ],
+   "baslik": "Bitti: Antalyaspor 1-2 Bodrum",
+   "govde": "1. Lig · 12. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T17:57:40.897Z"
+  },
+  {
+   "macId": "hentbol:thf:3251",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_marmarapendikhentbol",
+    "takim_1954hendek"
+   ],
+   "baslik": "Marmara Pendik Hentbol 36-32 1954 Hendek · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T17:57:40.897Z"
+  },
+  {
+   "macId": "hentbol:thf:4220",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_ankaradsi",
+    "takim_karatekinidmanyurdu"
+   ],
+   "baslik": "Ankara Dsi 56-22 Karatekin İdman Yurdu · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-25T17:57:40.897Z"
+  }
+ ]
 }

@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-25T14:29:58.008Z",
- "adet": 919,
+ "guncellendi": "2026-10-25T17:57:40.825Z",
+ "adet": 920,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 919,
+   "adet": 920,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Artı Futbol",
@@ -4830,6 +4830,20 @@
    "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "S SPORT 2",
+   "dijital": false,
+   "baslik": "Udinese - Milan",
+   "baslangicUtc": "2026-10-25T19:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Udinese",
+    "Milan"
+   ],
    "kaynak": "tvplus"
   },
   {
