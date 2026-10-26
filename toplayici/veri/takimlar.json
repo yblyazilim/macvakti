@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-26T11:38:47.288Z",
+ "guncellendi": "2026-10-26T17:45:54.019Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 337,
@@ -3295,6 +3295,24 @@
     "hentbol:diger"
    ]
   },
+  "ardesenbelediyesi": {
+   "ad": "Ardeşen Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "gunesincocuklari": {
+   "ad": "Güneşin Çocukları",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "sivasbelediye": {
    "ad": "Sivas Belediye",
    "branslar": [
@@ -3396,24 +3414,6 @@
   },
   "adanasehitahmetmehmetorucsporlisesi": {
    "ad": "Adana Şehit Ahmet Mehmet Oruç Spor Lisesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "ardesenbelediyesi": {
-   "ad": "Ardeşen Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "gunesincocuklari": {
-   "ad": "Güneşin Çocukları",
    "branslar": [
     "hentbol"
    ],
@@ -3824,24 +3824,6 @@
     "hentbol:diger"
    ]
   },
-  "ankaragenclikmerkezleri": {
-   "ad": "Ankara Gençlik Merkezleri",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "esanakumerkez": {
-   "ad": "Esan Akü Merkez",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "ortahisarbelediyesi": {
    "ad": "Ortahisar Belediyesi",
    "branslar": [
@@ -3885,6 +3867,24 @@
   },
   "kastamonudsi": {
    "ad": "Kastamonu Dsi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ankaragenclikmerkezleri": {
+   "ad": "Ankara Gençlik Merkezleri",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "esanakumerkez": {
+   "ad": "Esan Akü Merkez",
    "branslar": [
     "hentbol"
    ],

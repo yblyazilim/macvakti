@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-26T11:38:47.276Z",
+ "guncellendi": "2026-10-26T17:45:52.983Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -7,34 +7,6 @@
    "lig": "3. Lig 01 Grubu",
    "mac": "Düzce Cam Düzcespor - Beykoz Anadolu Spor",
    "tarih": "2026-09-12T13:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:2026102512bingölsporkırklarelisporkırmızı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "mac": "12 Bingöl Spor - Kırklarelispor",
-   "tarih": "2026-10-25T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261025fatsabelediyesporinkılapfutbol01",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "mac": "Fatsa Belediyespor - İnkılap Futbol",
-   "tarih": "2026-10-25T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261025kırıkkaleayososmaniyespor03",
-   "brans": "futbol",
-   "lig": "3. Lig 03 Grubu",
-   "mac": "Kırıkkale - Ayos Osmaniyespor",
-   "tarih": "2026-10-25T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:3L:20261025kartalbulvarkartalimensporgalata01",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "mac": "Kartal Bulvar Kartalimen Spor - Galata",
-   "tarih": "2026-10-25T12:00:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20261028antalyasporkadınsultanbeyligücü",
@@ -100,6 +72,13 @@
    "tarih": "2026-10-28T13:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:3426",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Ardeşen Belediyesi - Güneşin Çocukları",
+   "tarih": "2026-10-31T09:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3424",
    "brans": "hentbol",
    "lig": "",
@@ -139,13 +118,6 @@
    "brans": "hentbol",
    "lig": "",
    "mac": "Kastamonu Dinamik - Adana Şehit Ahmet Mehmet Oruç Spor Lisesi",
-   "tarih": "2026-10-31T11:00:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:3426",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Ardeşen Belediyesi - Güneşin Çocukları",
    "tarih": "2026-10-31T11:00:00.000Z"
   },
   {
@@ -373,13 +345,6 @@
    "tarih": "2026-11-01T13:00:00.000Z"
   },
   {
-   "id": "hentbol:thf:4290",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Ankara Gençlik Merkezleri - Esan Akü Merkez",
-   "tarih": "2026-11-01T13:00:00.000Z"
-  },
-  {
    "id": "hentbol:thf:3175",
    "brans": "hentbol",
    "lig": "",
@@ -399,6 +364,13 @@
    "lig": "",
    "mac": "Şafaktepe - Kastamonu Dsi",
    "tarih": "2026-11-01T15:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4290",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Ankara Gençlik Merkezleri - Esan Akü Merkez",
+   "tarih": "2026-11-01T17:00:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20261102trabzonsporbeşiktaş",

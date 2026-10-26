@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-10-26T11:38:47.179Z",
- "adet": 1020,
+ "guncellendi": "2026-10-26T17:45:52.869Z",
+ "adet": 1022,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1020,
+   "adet": 1022,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Takım Oyunu",
@@ -186,19 +186,8 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "90+1",
-   "baslangicUtc": "2026-10-26T23:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
    "baslik": "Avrupa'da Türk Takımları",
-   "baslangicUtc": "2026-10-27T00:00:00.000Z",
+   "baslangicUtc": "2026-10-26T23:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -252,30 +241,36 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Gün Ortası",
-   "baslangicUtc": "2026-10-27T11:00:00.000Z",
+   "baslik": "Etimesgut SK - Gaziantep FK",
+   "baslangicUtc": "2026-10-27T10:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Etimesgut SK",
+    "Gaziantep FK"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Spor Gündemi",
-   "baslangicUtc": "2026-10-27T12:00:00.000Z",
+   "baslik": "Boluspor  - Karşıyaka",
+   "baslangicUtc": "2026-10-27T12:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
+   "macDisi": false,
+   "takimlar": [
+    "Boluspor",
+    "Karşıyaka"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "A SPOR HD",
    "dijital": false,
    "baslik": "Ana Haber",
-   "baslangicUtc": "2026-10-27T15:00:00.000Z",
+   "baslangicUtc": "2026-10-27T14:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -285,10 +280,49 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Avrupa'dan Futbol",
+   "baslik": "Kocaelispor - M. Fosfat Spor",
+   "baslangicUtc": "2026-10-27T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Kocaelispor",
+    "M. Fosfat Spor"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Haber",
    "baslangicUtc": "2026-10-27T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "C. Alanyaspor - 12 Bingölspor",
+   "baslangicUtc": "2026-10-27T17:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "C. Alanyaspor",
+    "12 Bingölspor"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Kupada Bugün",
+   "baslangicUtc": "2026-10-27T19:30:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -6315,74 +6349,8 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Dinamik Sabahlar",
+   "baslik": "Sabah Programları",
    "baslangicUtc": "2026-10-27T06:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Taha Erpulat İle Pilates",
-   "baslangicUtc": "2026-10-27T06:20:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Yoga",
-   "baslangicUtc": "2026-10-27T06:45:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Dinamik Sabahlar",
-   "baslangicUtc": "2026-10-27T07:45:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Taha Erpulat İle Pilates",
-   "baslangicUtc": "2026-10-27T08:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Spor ve Çocuk",
-   "baslangicUtc": "2026-10-27T08:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Yoga",
-   "baslangicUtc": "2026-10-27T08:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -7556,6 +7524,39 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-11-02T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-11-02T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Brand & Sport Summit",
+   "baslangicUtc": "2026-11-02T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Spor Toto - Halkbank",
@@ -8678,7 +8679,7 @@
    "kanal": "HT SPOR",
    "dijital": false,
    "baslik": "Dakika 90",
-   "baslangicUtc": "2026-10-26T22:00:00.000Z",
+   "baslangicUtc": "2026-10-26T22:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -8703,17 +8704,6 @@
    "kanal": "HT SPOR",
    "dijital": false,
    "baslik": "Altın Set",
-   "baslangicUtc": "2026-10-27T01:30:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "HT SPOR",
-   "dijital": false,
-   "baslik": "Maç Özeti",
    "baslangicUtc": "2026-10-27T02:30:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
@@ -9776,14 +9766,25 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıbodo/glımt – Borussıa Dortmund",
-   "baslangicUtc": "2026-10-27T09:25:00.000Z",
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-10-27T09:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Ofi - Bayer Leverkusen",
+   "baslangicUtc": "2026-10-27T09:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasıbodo/glımt",
-    "Borussıa Dortmund"
+    "Ofi",
+    "Bayer Leverkusen"
    ],
    "kaynak": "tvplus"
   },
@@ -9791,7 +9792,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "Şampiyonlar Ligi Özetler",
-   "baslangicUtc": "2026-10-27T11:05:00.000Z",
+   "baslangicUtc": "2026-10-27T11:35:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -9801,22 +9802,58 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasısabah - Slavıa Prag",
-   "baslangicUtc": "2026-10-27T11:15:00.000Z",
+   "baslik": "Hoffenheim - O. Lyon",
+   "baslangicUtc": "2026-10-27T11:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasısabah",
-    "Slavıa Prag"
+    "Hoffenheim",
+    "O. Lyon"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Contenders",
-   "baslangicUtc": "2026-10-27T12:55:00.000Z",
+   "baslik": "Açık Hava Sporları Magazin",
+   "baslangicUtc": "2026-10-27T13:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Lille - Galatasaray",
+   "baslangicUtc": "2026-10-27T13:55:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Lille",
+    "Galatasaray"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "UEFA Avrupa Ligi Özetler",
+   "baslangicUtc": "2026-10-27T15:35:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Futbolun En Büyük Sahnesi",
+   "baslangicUtc": "2026-10-27T16:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -9826,57 +9863,51 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıgalatasaray - Barcelona",
-   "baslangicUtc": "2026-10-27T13:20:00.000Z",
+   "baslik": "Fenerbahçe - Slavia Prag",
+   "baslangicUtc": "2026-10-27T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasıgalatasaray",
-    "Barcelona"
+    "Fenerbahçe",
+    "Slavia Prag"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Aston Villa - Fenerbahçe , Uefa Şampiyonlar Ligi Grup Maçları",
-   "baslangicUtc": "2026-10-27T15:00:00.000Z",
+   "baslik": "Uefa Konferans Ligi Özetler",
+   "baslangicUtc": "2026-10-27T18:40:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Lech Poznan - Sunderland",
+   "baslangicUtc": "2026-10-27T18:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Aston Villa",
-    "Fenerbahçe , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Lech Poznan",
+    "Sunderland"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasısabah – Borussıa Dortmund",
-   "baslangicUtc": "2026-10-27T16:45:00.000Z",
+   "baslik": "Contenders",
+   "baslangicUtc": "2026-10-27T20:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasısabah",
-    "Borussıa Dortmund"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıpsg – Barcelona",
-   "baslangicUtc": "2026-10-27T19:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasıpsg",
-    "Barcelona"
-   ],
+   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
