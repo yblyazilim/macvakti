@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-10-28T19:54:00.969Z",
+ "guncellendi": "2026-10-28T23:51:20.115Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 337,
+ "takimSayisi": 339,
  "branslar": [
   {
    "k": "basketbol",
@@ -400,6 +400,7 @@
       "ankaradsi",
       "ankaragenclikmerkezleri",
       "ardesenbelediyesi",
+      "avusturya",
       "aydinptt",
       "besiktasjk",
       "beykozbelediyesi",
@@ -456,6 +457,7 @@
       "tedpolatlikoleji",
       "toroslarbelediyesi",
       "trabzonbbsk",
+      "turkiye",
       "usakgencliksporilmudurlugu",
       "uskudarbelediyesi",
       "vakfikebiratletik",
@@ -3241,42 +3243,6 @@
     "futbol:971-01"
    ]
   },
-  "bursabuyuksehirbelediyesi": {
-   "ad": "Bursa Büyükşehir Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "odunpazari": {
-   "ad": "Odunpazarı",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "uskudarbelediyesi": {
-   "ad": "Üsküdar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "yalikavak": {
-   "ad": "Yalıkavak",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "ardesenbelediyesi": {
    "ad": "Ardeşen Belediyesi",
    "branslar": [
@@ -3793,8 +3759,35 @@
     "hentbol:diger"
    ]
   },
+  "bursabuyuksehirbelediyesi": {
+   "ad": "Bursa Büyükşehir Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "odunpazari": {
+   "ad": "Odunpazarı",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "mcsistemyozgatgsk": {
    "ad": "Mc Sistem Yozgat Gsk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "uskudarbelediyesi": {
+   "ad": "Üsküdar Belediyesi",
    "branslar": [
     "hentbol"
    ],
@@ -3817,6 +3810,15 @@
   },
   "marmarapendikhentbol": {
    "ad": "Marmara Pendik Hentbol",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yalikavak": {
+   "ad": "Yalıkavak",
    "branslar": [
     "hentbol"
    ],
@@ -3885,6 +3887,24 @@
   },
   "esanakumerkez": {
    "ad": "Esan Akü Merkez",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "avusturya": {
+   "ad": "Avusturya",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "turkiye": {
+   "ad": "Türkiye",
    "branslar": [
     "hentbol"
    ],
