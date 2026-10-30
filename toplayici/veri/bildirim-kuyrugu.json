@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:1L:20261101sivassporboluspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_sivasspor",
+    "takim_boluspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Sivasspor - Boluspor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-30T23:30:35.537Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261101ığdırantalyaspor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_ığdır",
+    "takim_antalyaspor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Iğdır - Antalyaspor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-30T23:30:35.537Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261101bodrumümraniyespor",
+   "tip": "kanal",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bodrum",
+    "takim_ümraniyespor"
+   ],
+   "baslik": "Yayın kanalı güncellendi",
+   "govde": "Bodrum - Ümraniyespor karşılaşması TRT SPOR HD ekranlarından yayınlanacak.",
+   "oncelik": "orta",
+   "uretildi": "2026-10-30T23:30:35.537Z"
+  }
+ ]
 }
