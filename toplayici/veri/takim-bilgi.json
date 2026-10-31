@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-10-31T19:25:50.792Z",
+ "guncellendi": "2026-10-31T22:54:41.109Z",
  "takimlar": {
   "Erzurumspor": {
    "zaman": 1791481403686,
@@ -2086,6 +2086,19 @@
   },
   "Türkiye": {
    "zaman": 1793231479208,
+   "bulundu": false
+  },
+  "Konak Belediyesi": {
+   "zaman": 1793487278124,
+   "bulundu": true,
+   "wikidata": "Q16648710",
+   "kurulus": 1987,
+   "stat": null,
+   "sehir": null,
+   "kurucu": null
+  },
+  "Bolu Belediye": {
+   "zaman": 1793487280208,
    "bulundu": false
   }
  }
