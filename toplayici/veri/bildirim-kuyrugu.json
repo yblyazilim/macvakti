@@ -1,3 +1,58 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261031fenerbahçegöztepe",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_fenerbahçe",
+    "takim_göztepe"
+   ],
+   "baslik": "Bitti: Fenerbahçe 1-2 Göztepe",
+   "govde": "Süper Lig · 10. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-31T19:25:50.781Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261031manisabatmanpetrolspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_manisa",
+    "takim_batmanpetrolspor"
+   ],
+   "baslik": "Sona erdi: Manisa 2-1 Batman Petrol Spor",
+   "govde": "1. Lig · 13. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-31T19:25:50.781Z"
+  },
+  {
+   "macId": "hentbol:thf:3427",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_osmaniyearena",
+    "takim_toroslarbelediyesi"
+   ],
+   "baslik": "Bitti: Osmaniye Arena 25-37 Toroslar Belediyesi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-31T19:25:50.782Z"
+  },
+  {
+   "macId": "hentbol:thf:4225",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_beykozbelediyesi",
+    "takim_eskişehirbüyükşehir"
+   ],
+   "baslik": "Bitti: Beykoz Belediyesi 44-32 Eskişehir Büyükşehir",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-10-31T19:25:50.782Z"
+  }
+ ]
 }
