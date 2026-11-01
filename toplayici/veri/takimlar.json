@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-11-01T19:48:42.701Z",
+ "guncellendi": "2026-11-01T23:19:40.782Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 322,
+ "takimSayisi": 314,
  "branslar": [
   {
    "k": "basketbol",
@@ -391,62 +391,54 @@
      "id": "diger",
      "ad": "Diğer",
      "takimlar": [
-      "1954hendek",
-      "1955batmanbelediyesi",
+      "1955batmanbelediyesik",
       "adanasehitahmetmehmetorucsporlisesi",
-      "adrenalinrekor",
+      "amasyatatkupu",
       "ankaragenclikmerkezleri",
       "ardesenbelediyesi",
+      "atlashentbol",
       "avusturya",
-      "aydinptt",
-      "besiktasjk",
-      "bingolyukselengenclik",
       "bolubelediye",
       "bursabuyuksehirbelediyesi",
       "catalcabelediye",
-      "defne",
-      "diyarbakirbbsk",
-      "elaziggencsporilmud",
-      "esanakumerkez",
+      "cizreyildizlar",
+      "diyarbakirbsb",
+      "docotttonmarasgucu",
       "eskisehirhentbol",
+      "eskisehirhentbolperileri",
       "goztepe",
       "gunesincocuklari",
       "hentbolmersin",
       "ispartagenclikvesporilmud",
-      "izmirbsb",
       "izmirbuyuksehirbelediyesi",
-      "kapadokyaanadoluatletizmk",
       "kastamonudinamik",
       "kastamonudsi",
       "keciorenbelediyesibaglum",
+      "kepezbelediyesi",
       "kirklareligenclik",
       "konakbelediyesi",
       "manisabuyuksehirbelediye",
-      "marmarapendikhentbol",
+      "manisabuyuksehirbelediyer2",
       "mcsistemyozgatgsk",
       "nigdebelediyegucu",
-      "niluferbelediyesi",
+      "norvec",
       "odunpazari",
-      "ordugsim",
       "ortahisarbelediyesi",
       "osmaniyearena",
-      "ozelidarekoroglu",
       "polatlibelediyesiamator",
+      "receptayyiperdoganuni",
       "safaktepe",
-      "saricambelediyesi",
       "sehitfettahcevikogluoo",
-      "seyhanbelediye",
-      "sherininebolu",
       "sinop",
       "sivasbelediye",
-      "sivasioi",
       "suleymanpasabelediye",
-      "tasovabelediyesi",
+      "sultanbeylibelediye",
       "toroslarbelediyesi",
       "turkiye",
       "uskudarbelediyesi",
       "yalikavak",
-      "yenimahallebelediyesi"
+      "yenimahallebelediyesi",
+      "yukselengenclik"
      ]
     }
    ]
@@ -3226,150 +3218,6 @@
     "futbol:142"
    ]
   },
-  "elaziggencsporilmud": {
-   "ad": "Elazığ Genç. Spor İl Müd.",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "sivasioi": {
-   "ad": "Sivas İöi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "1955batmanbelediyesi": {
-   "ad": "1955 Batman Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "ordugsim": {
-   "ad": "Ordu Gsim",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "diyarbakirbbsk": {
-   "ad": "Diyarbakır Bbsk",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "tasovabelediyesi": {
-   "ad": "Taşova Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "saricambelediyesi": {
-   "ad": "Sarıçam Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "seyhanbelediye": {
-   "ad": "Seyhan Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "catalcabelediye": {
-   "ad": "Çatalca Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "defne": {
-   "ad": "Defne",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "suleymanpasabelediye": {
-   "ad": "Süleymanpaşa Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "kirklareligenclik": {
-   "ad": "Kırklareli Gençlik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "hentbolmersin": {
-   "ad": "Hentbol Mersin",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "kapadokyaanadoluatletizmk": {
-   "ad": "Kapadokya Anadolu Atletizm (K)",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "nigdebelediyegucu": {
-   "ad": "Niğde Belediye Gücü",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "sehitfettahcevikogluoo": {
-   "ad": "Şehit Fettah Çevikoğlu O.O",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "karademirgrupkayserikadin": {
    "ad": "Karademir Grup Kayseri Kadın",
    "branslar": [
@@ -3379,60 +3227,6 @@
     "futbol:1000"
    ]
   },
-  "1954hendek": {
-   "ad": "1954 Hendek",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "aydinptt": {
-   "ad": "Aydın Ptt",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "ozelidarekoroglu": {
-   "ad": "Özel İdare Köroğlu",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "sherininebolu": {
-   "ad": "Sherin İnebolu",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "bingolyukselengenclik": {
-   "ad": "Bingöl Yükselen Gençlik",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "adrenalinrekor": {
-   "ad": "Adrenalin Rekor",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "buyukcekmecegucufkspor": {
    "ad": "Büyükçekmece Gücü Fk Spor",
    "branslar": [
@@ -3440,154 +3234,6 @@
    ],
    "ligler": [
     "futbol:971-01"
-   ]
-  },
-  "bursabuyuksehirbelediyesi": {
-   "ad": "Bursa Büyükşehir Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "odunpazari": {
-   "ad": "Odunpazarı",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "mcsistemyozgatgsk": {
-   "ad": "Mc Sistem Yozgat Gsk",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "manisabuyuksehirbelediye": {
-   "ad": "Manisa Büyükşehir Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1994,
-    "sehir": "Manisa"
-   }
-  },
-  "uskudarbelediyesi": {
-   "ad": "Üsküdar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "izmirbsb": {
-   "ad": "İzmir Bşb",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1979,
-    "sehir": "İzmir"
-   }
-  },
-  "marmarapendikhentbol": {
-   "ad": "Marmara Pendik Hentbol",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "yalikavak": {
-   "ad": "Yalıkavak",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "ortahisarbelediyesi": {
-   "ad": "Ortahisar Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "niluferbelediyesi": {
-   "ad": "Nilüfer Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "besiktasjk": {
-   "ad": "Beşiktaş Jk",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1903,
-    "sehir": "İstanbul",
-    "stat": "Beşiktaş Stadyumu"
-   }
-  },
-  "safaktepe": {
-   "ad": "Şafaktepe",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "kastamonudsi": {
-   "ad": "Kastamonu Dsi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "ankaragenclikmerkezleri": {
-   "ad": "Ankara Gençlik Merkezleri",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "esanakumerkez": {
-   "ad": "Esan Akü Merkez",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
    ]
   },
   "avusturya": {
@@ -3662,6 +3308,28 @@
     "hentbol:diger"
    ]
   },
+  "ortahisarbelediyesi": {
+   "ad": "Ortahisar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "manisabuyuksehirbelediye": {
+   "ad": "Manisa Büyükşehir Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1994,
+    "sehir": "Manisa"
+   }
+  },
   "eskisehirhentbol": {
    "ad": "Eskişehir Hentbol",
    "branslar": [
@@ -3730,6 +3398,249 @@
   },
   "bolubelediye": {
    "ad": "Bolu Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yalikavak": {
+   "ad": "Yalıkavak",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "sehitfettahcevikogluoo": {
+   "ad": "Şehit Fettah Çevikoğlu O.O",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "hentbolmersin": {
+   "ad": "Hentbol Mersin",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "1955batmanbelediyesik": {
+   "ad": "1955 Batman Belediyesi (K)",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yukselengenclik": {
+   "ad": "Yükselen Gençlik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "diyarbakirbsb": {
+   "ad": "Diyarbakır Bşb",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "cizreyildizlar": {
+   "ad": "Cizre Yıldızlar",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "receptayyiperdoganuni": {
+   "ad": "Recep Tayyip Erdoğan Üni",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "amasyatatkupu": {
+   "ad": "Amasya Tatküpü",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "atlashentbol": {
+   "ad": "Atlas Hentbol",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "safaktepe": {
+   "ad": "Şafaktepe",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "mcsistemyozgatgsk": {
+   "ad": "Mc Sistem Yozgat Gsk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "bursabuyuksehirbelediyesi": {
+   "ad": "Bursa Büyükşehir Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "kirklareligenclik": {
+   "ad": "Kırklareli Gençlik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "catalcabelediye": {
+   "ad": "Çatalca Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "docotttonmarasgucu": {
+   "ad": "Do Cottton Maraşgücü",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "nigdebelediyegucu": {
+   "ad": "Niğde Belediye Gücü",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "manisabuyuksehirbelediyer2": {
+   "ad": "Manisa Büyükşehir Belediye (R2)",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "eskisehirhentbolperileri": {
+   "ad": "Eskişehir Hentbol Perileri",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "kastamonudsi": {
+   "ad": "Kastamonu Dsi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "ankaragenclikmerkezleri": {
+   "ad": "Ankara Gençlik Merkezleri",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "norvec": {
+   "ad": "Norveç",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "uskudarbelediyesi": {
+   "ad": "Üsküdar Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "odunpazari": {
+   "ad": "Odunpazarı",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "kepezbelediyesi": {
+   "ad": "Kepez Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "sultanbeylibelediye": {
+   "ad": "Sultanbeyli Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "suleymanpasabelediye": {
+   "ad": "Süleymanpaşa Belediye",
    "branslar": [
     "hentbol"
    ],

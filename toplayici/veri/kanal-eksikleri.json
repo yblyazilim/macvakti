@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-01T19:48:42.690Z",
+ "guncellendi": "2026-11-01T23:19:29.943Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -9,18 +9,200 @@
    "tarih": "2026-09-12T13:00:00.000Z"
   },
   {
-   "id": "hentbol:thf:4294",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Hentbol Mersin - Kapadokya Anadolu Atletizm (K)",
+   "id": "futbol:tff:2L:20261101eforçayerbaasporarkentarnavutköybele",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Efor Çay Erbaaspor - Arkent Arnavutköy Belediyesi Futbol",
    "tarih": "2026-11-01T10:00:00.000Z"
   },
   {
-   "id": "hentbol:thf:3255",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Nilüfer Belediyesi - Beşiktaş Jk",
-   "tarih": "2026-11-01T14:30:00.000Z"
+   "id": "futbol:tff:2L:20261101ankarasporsebatbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Ankaraspor - Sebat",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261101gmgkastamonusporsezaçimentoelazığspo",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Gmg Kastamonuspor - Seza Çimento Elazığspor",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:2026110168aksaraybelediyesporgüzidegebzebeya",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "68 Aksaray Belediye Spor - Güzide Gebze",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261101şanlıurfasporısbaşısparta32beyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Şanlıurfaspor - Isbaş Isparta 32",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101karabükidmanyurdusporyalovafk7701",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Karabük İdmanyurdu Spor - Yalova Fk 77",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101pazarsporgölcükspor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Pazarspor - Gölcükspor",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101orduspor1967silivrispor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Orduspor 1967 - Silivrispor",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101düzcecamdüzcesportokatbelediye01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Düzce Cam Düzcespor - Tokat Belediye",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101eskişehiranadolusporfaaliyetlerialan",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Eskişehir Anadolu Spor Faaliyetleri - Alanya 1221 Futbol",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101bitlis1916futbolaçıkalınerciyes38fut",
+   "brans": "futbol",
+   "lig": "3. Lig 03 Grubu",
+   "mac": "Bitlis 1916 Futbol - Açıkalın Erciyes 38 Futbol",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101ejderoğlukırşehirfutbolhalilbayramin",
+   "brans": "futbol",
+   "lig": "3. Lig 03 Grubu",
+   "mac": "Ejderoğlu Kırşehir Futbol - Halil Bayram İnşaat Karaköprü Belediyespor",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101karamanmalatyayeşilyurt03",
+   "brans": "futbol",
+   "lig": "3. Lig 03 Grubu",
+   "mac": "Karaman - Malatya Yeşilyurt",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101niğdebelediyesisporadanaadaletgücüsp",
+   "brans": "futbol",
+   "lig": "3. Lig 03 Grubu",
+   "mac": "Niğde Belediyesi Spor - Adana Adaletgücü Spor Sportif Faaliyetler",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:202611011964silifkeetigübremazıdağıfosfatspo",
+   "brans": "futbol",
+   "lig": "3. Lig 03 Grubu",
+   "mac": "1964 Silifke - Eti Gübre Mazıdağı Fosfat Spor",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101ağrı1970ayososmaniyespor03",
+   "brans": "futbol",
+   "lig": "3. Lig 03 Grubu",
+   "mac": "Ağrı 1970 - Ayos Osmaniyespor",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101yozgatbelediyesibozokspordiyarbekirs",
+   "brans": "futbol",
+   "lig": "3. Lig 03 Grubu",
+   "mac": "Yozgat Belediyesi Bozok Spor - Diyarbekir Spor",
+   "tarih": "2026-11-01T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261101menemenhataysporbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Menemen - Hatayspor",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261101somasporçorluspor1947beyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "Somaspor - Çorlu Spor 1947",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101galatakdzereğli198001",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Galata - Kdz.Ereğli 1980",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101küçükçekmecesinopsporbüyükçekmecegüc",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "mac": "Küçükçekmece Sinop Spor - Büyükçekmece Gücü Fk Spor",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101bigasporetimesgut02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Bigaspor - Etimesgut",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101ayvalıkgücübelediyesporbucaspor19280",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Ayvalıkgücü Belediyespor - Bucaspor 1928",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101bursayıldırımbalıkesirspor02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Bursa Yıldırım - Balıkesirspor",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101denizliidmanyurdu1959karşıyaka02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Denizli İdmanyurdu 1959 - Karşıyaka",
+   "tarih": "2026-11-01T12:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:2L:20261101inegölkafkasaliağafutbolbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "mac": "İnegöl Kafkas - Aliağa Futbol",
+   "tarih": "2026-11-01T12:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101söke1970gemliksümerbeyfutbolspor02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Söke 1970 - Gemlik Sümerbey Futbol Spor",
+   "tarih": "2026-11-01T12:30:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261101gaziemirgogsporyateskişehirspor02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "mac": "Gaziemir G.O.G. Spor Yat. - Eskişehirspor",
+   "tarih": "2026-11-01T12:30:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20261102hakkarigücüsporşilebilgidoğasportify",
@@ -121,10 +303,45 @@
    "tarih": "2026-11-07T13:30:00.000Z"
   },
   {
+   "id": "hentbol:thf:4312",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Şehit Fettah Çevikoğlu O.O - Hentbol Mersin",
+   "tarih": "2026-11-08T09:00:00.000Z"
+  },
+  {
    "id": "futbol:tff:KSL:20261108yüksekovahakkarigücüspor",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Yüksekova - Hakkarigücü Spor",
+   "tarih": "2026-11-08T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4296",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "1955 Batman Belediyesi (K) - Yükselen Gençlik",
+   "tarih": "2026-11-08T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4297",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Diyarbakır Bşb - Cizre Yıldızlar",
+   "tarih": "2026-11-08T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4300",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Recep Tayyip Erdoğan Üni - Amasya Tatküpü",
+   "tarih": "2026-11-08T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4307",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Atlas Hentbol - Şafaktepe",
    "tarih": "2026-11-08T10:00:00.000Z"
   },
   {
@@ -168,6 +385,69 @@
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Şile Bilgidoğa Sportif Yatırım Hizmetleri - Trabzonspor",
    "tarih": "2026-11-08T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3177",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Mc Sistem Yozgat Gsk - Bursa Büyükşehir Belediyesi",
+   "tarih": "2026-11-08T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4310",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Kırklareli Gençlik - Çatalca Belediye",
+   "tarih": "2026-11-08T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4311",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Do Cottton Maraşgücü - Niğde Belediye Gücü",
+   "tarih": "2026-11-08T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4299",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Manisa Büyükşehir Belediye (R2) - Eskişehir Hentbol Perileri",
+   "tarih": "2026-11-08T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4308",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Kastamonu Dsi - Ankara Gençlik Merkezleri",
+   "tarih": "2026-11-08T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3046",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Türkiye - Norveç",
+   "tarih": "2026-11-08T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3176",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Üsküdar Belediyesi - Odunpazarı",
+   "tarih": "2026-11-08T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3380",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Kepez Belediyesi - Manisa Büyükşehir Belediye",
+   "tarih": "2026-11-08T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4309",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Sultanbeyli Belediye - Süleymanpaşa Belediye",
+   "tarih": "2026-11-08T15:00:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20261114hakkarigücüsporgiresunsanayispor",
