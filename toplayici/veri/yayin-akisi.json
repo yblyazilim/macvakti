@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-11-02T10:13:02.215Z",
- "adet": 914,
+ "guncellendi": "2026-11-02T20:26:53.828Z",
+ "adet": 921,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 914,
+   "adet": 921,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Takım Oyunu",
@@ -6348,6 +6348,83 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-11-09T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-11-09T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-11-09T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Brand & Sport Summit",
+   "baslangicUtc": "2026-11-09T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-11-09T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Champions Chess Tour",
+   "baslangicUtc": "2026-11-09T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-11-09T20:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "On Hotels Alanya - Ziraat B.",
@@ -8423,13 +8500,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıınter – Shakhtar Donetsk",
+   "baslik": "Inter - Shakhtar Donetsk",
    "baslangicUtc": "2026-11-03T09:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasıınter",
+    "Inter",
     "Shakhtar Donetsk"
    ],
    "kaynak": "tvplus"
@@ -8448,13 +8525,13 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıbayern Munıh – Arsenal",
+   "baslik": "Bayern Münih - Arsenal",
    "baslangicUtc": "2026-11-03T11:40:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasıbayern Munıh",
+    "Bayern Münih",
     "Arsenal"
    ],
    "kaynak": "tvplus"
@@ -8473,28 +8550,28 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Lille - Galatasaray , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslik": "Lille - Galatasaray",
    "baslangicUtc": "2026-11-03T14:20:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Lille",
-    "Galatasaray , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Galatasaray"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Fenerbahçe - Slavia Prag , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslik": "Fenerbahçe - Slavia Prag",
    "baslangicUtc": "2026-11-03T16:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Fenerbahçe",
-    "Slavia Prag , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Slavia Prag"
    ],
    "kaynak": "tvplus"
   },

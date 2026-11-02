@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261102gençlerbirliğialanyaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_gençlerbirliği",
+    "takim_alanyaspor"
+   ],
+   "baslik": "Sona erdi: Gençlerbirliği 5-0 Alanyaspor",
+   "govde": "Süper Lig · 10. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-02T20:26:53.904Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261102kayserispormuğlaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_kayserispor",
+    "takim_muğlaspor"
+   ],
+   "baslik": "Kayserispor 6-0 Muğlaspor · Maç sona erdi",
+   "govde": "1. Lig · 13. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-02T20:26:53.904Z"
+  }
+ ]
 }
