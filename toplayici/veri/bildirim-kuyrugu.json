@@ -1,3 +1,45 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:KSL:20261107fenerbahçearsavevkadınfutboltakımıga",
+   "tip": "saat",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_fenerbahçearsavevkadınfutboltakımı",
+    "takim_galatasaray"
+   ],
+   "baslik": "Saat değişti: Fenerbahçe Arsavev Kadın Futbol Takımı - Galatasaray",
+   "govde": "Karşılaşma 14:00 yerine 15:00'de oynanacak. Cumartesi, 7 Kasım.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-11-03T17:47:02.015Z"
+  },
+  {
+   "macId": "futbol:tff:KSL:20261108safimclbentonitünyekadınankarabüyükş",
+   "tip": "saat",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_1000",
+    "takim_safimclbentonitünyekadın",
+    "takim_ankarabüyükşehirbelediyesifomget"
+   ],
+   "baslik": "Saat değişti: Safi Mcl Bentonit Ünye Kadın - Ankara Büyükşehir Belediyesi Fomget",
+   "govde": "Karşılaşma 14:00 yerine 13:00'de oynanacak. Pazar, 8 Kasım.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-11-03T17:47:02.015Z"
+  },
+  {
+   "macId": "hentbol:thf:4307",
+   "tip": "saat",
+   "konular": [
+    "brans_hentbol",
+    "takim_atlashentbol",
+    "takim_şafaktepe"
+   ],
+   "baslik": "Saat değişti: Atlas Hentbol - Şafaktepe",
+   "govde": "Karşılaşma 13:00 yerine 16:00'de oynanacak. Pazar, 8 Kasım.",
+   "oncelik": "yuksek",
+   "uretildi": "2026-11-03T17:47:02.016Z"
+  }
+ ]
 }

@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-11-03T10:06:24.147Z",
- "adet": 1176,
+ "guncellendi": "2026-11-03T17:47:01.913Z",
+ "adet": 1184,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1176,
+   "adet": 1184,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -2089,7 +2089,7 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Roc D-#039;azur",
+   "baslik": "Roc D'azur",
    "baslangicUtc": "2026-11-08T19:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -6253,6 +6253,17 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "S SPORT 2",
+   "dijital": false,
+   "baslik": "İtalya Serie A",
+   "baslangicUtc": "2026-11-10T07:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "SPORTS TV HD",
    "dijital": false,
    "baslik": "Euroformula Open",
@@ -7709,6 +7720,50 @@
    "dijital": false,
    "baslik": "EHF Euro",
    "baslangicUtc": "2026-11-10T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Freeride Dünya Turu",
+   "baslangicUtc": "2026-11-10T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-11-10T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-11-10T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-11-10T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -11010,14 +11065,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıshakhtar Donetsk - Sportıng",
+   "baslik": "Shakhtar Donetsk - Sporting",
    "baslangicUtc": "2026-11-04T06:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıshakhtar Donetsk",
-    "Sportıng"
+    "Shakhtar Donetsk",
+    "Sporting"
    ],
    "kaynak": "tvplus"
   },
@@ -11035,22 +11090,33 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Avrupa Ligi Futbol Karşılaşmasıferencvaros – Torreense",
+   "baslik": "Bizim Ligler",
    "baslangicUtc": "2026-11-04T09:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Atletico Madrid - Bayern Münih",
+   "baslangicUtc": "2026-11-04T09:20:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
    "takimlar": [
-    "Uefa Avrupa Ligi Futbol Karşılaşmasıferencvaros",
-    "Torreense"
+    "Atletico Madrid",
+    "Bayern Münih"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Bizim Ligler",
-   "baslangicUtc": "2026-11-04T10:40:00.000Z",
+   "baslik": "Dünya Kupasında Efsaneler",
+   "baslangicUtc": "2026-11-04T11:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -11071,14 +11137,25 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıbarcelona - Aston Vılla",
+   "baslik": "Road to Glory",
+   "baslangicUtc": "2026-11-04T11:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Barcelona - Aston Villa",
    "baslangicUtc": "2026-11-04T11:35:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıbarcelona",
-    "Aston Vılla"
+    "Barcelona",
+    "Aston Villa"
    ],
    "kaynak": "tvplus"
   },
@@ -11096,14 +11173,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Galatasaray - Stuttgart , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslik": "Galatasaray - Stuttgart",
    "baslangicUtc": "2026-11-04T13:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Galatasaray",
-    "Stuttgart , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Stuttgart"
    ],
    "kaynak": "tvplus"
   },
@@ -11163,6 +11240,17 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
+   "baslik": "TRT Spor Yıldız Ortak Yayın",
+   "baslangicUtc": "2026-11-04T22:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
    "baslik": "Futbolun En Büyük Sahnesi",
    "baslangicUtc": "2026-11-05T06:30:00.000Z",
    "sureDk": null,
@@ -11174,14 +11262,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıcomo – Manchester Unıted",
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıvılarreal - Psg",
    "baslangicUtc": "2026-11-05T06:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasıcomo",
-    "Manchester Unıted"
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıvılarreal",
+    "Psg"
    ],
    "kaynak": "tvplus"
   },
@@ -11210,78 +11298,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasısabah – Borussıa Dortmund",
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıfeyenoord - Inter",
    "baslangicUtc": "2026-11-05T09:50:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasısabah",
-    "Borussıa Dortmund"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıpsg – Barcelona",
-   "baslangicUtc": "2026-11-05T11:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasıpsg",
-    "Barcelona"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "UEFA Şampiyonlar Ligi Goller",
-   "baslangicUtc": "2026-11-05T13:10:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Lille - Galatasaray , Uefa Şampiyonlar Ligi Grup Maçları",
-   "baslangicUtc": "2026-11-05T13:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Lille",
-    "Galatasaray , Uefa Şampiyonlar Ligi Grup Maçları"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "UEFA Şampiyonlar Ligi Magazin",
-   "baslangicUtc": "2026-11-05T15:10:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": true,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Trabzonspor - Hearts , Uefa Avrupa Konferans Ligi Grup Maçları",
-   "baslangicUtc": "2026-11-05T15:35:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
-    "Trabzonspor",
-    "Hearts , Uefa Avrupa Konferans Ligi Grup Maçları"
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıfeyenoord",
+    "Inter"
    ],
    "kaynak": "tvplus"
   },
@@ -11289,7 +11313,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "UEFA Avrupa Ligi Magazin",
-   "baslangicUtc": "2026-11-05T17:15:00.000Z",
+   "baslangicUtc": "2026-11-05T11:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -11299,28 +11323,92 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Fenerbahçe - Slavia Prag , Uefa Şampiyonlar Ligi Grup Maçları",
-   "baslangicUtc": "2026-11-05T17:40:00.000Z",
+   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasımanchester Unıted - Roma",
+   "baslangicUtc": "2026-11-05T12:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Fenerbahçe",
-    "Slavia Prag , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasımanchester Unıted",
+    "Roma"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Beşiktaş - Cyrstal Palace , Uefa Avrupa Ligi Grup Maçları",
-   "baslangicUtc": "2026-11-05T19:20:00.000Z",
+   "baslik": "Ultra",
+   "baslangicUtc": "2026-11-05T13:40:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Galatasaray - Stuttgart , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslangicUtc": "2026-11-05T13:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Beşiktaş",
-    "Cyrstal Palace , Uefa Avrupa Ligi Grup Maçları"
+    "Galatasaray",
+    "Stuttgart , Uefa Şampiyonlar Ligi Grup Maçları"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "UEFA Şampiyonlar Ligi Magazin",
+   "baslangicUtc": "2026-11-05T15:35:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": true,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Fenerbahçe - Liverpool , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslangicUtc": "2026-11-05T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Fenerbahçe",
+    "Liverpool , Uefa Şampiyonlar Ligi Grup Maçları"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "Crystal Palace - Hoffenheim",
+   "baslangicUtc": "2026-11-05T17:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "Crystal Palace",
+    "Hoffenheim"
+   ],
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "tabii spor",
+   "dijital": true,
+   "baslik": "B.Leverkusen - Marsilya",
+   "baslangicUtc": "2026-11-05T20:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": [
+    "B.Leverkusen",
+    "Marsilya"
    ],
    "kaynak": "tvplus"
   },
@@ -11328,7 +11416,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "TRT Spor Yıldız Ortak Yayın",
-   "baslangicUtc": "2026-11-05T21:00:00.000Z",
+   "baslangicUtc": "2026-11-05T22:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,

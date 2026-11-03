@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-03T10:06:24.264Z",
+ "guncellendi": "2026-11-03T17:47:02.023Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20260912düzcecamdüzcesporbeykozanadoluspor01",
@@ -30,13 +30,6 @@
    "tarih": "2026-11-07T10:00:00.000Z"
   },
   {
-   "id": "futbol:tff:KSL:20261107fenerbahçearsavevkadınfutboltakımıga",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Fenerbahçe Arsavev Kadın Futbol Takımı - Galatasaray",
-   "tarih": "2026-11-07T11:00:00.000Z"
-  },
-  {
    "id": "hentbol:thf:3178",
    "brans": "hentbol",
    "lig": "",
@@ -56,6 +49,13 @@
    "lig": "",
    "mac": "Adana Şehit Ahmet Mehmet Oruç Spor Lisesi - Ardeşen Belediyesi",
    "tarih": "2026-11-07T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261107fenerbahçearsavevkadınfutboltakımıga",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Fenerbahçe Arsavev Kadın Futbol Takımı - Galatasaray",
+   "tarih": "2026-11-07T12:00:00.000Z"
   },
   {
    "id": "hentbol:thf:3381",
@@ -100,6 +100,13 @@
    "tarih": "2026-11-08T10:00:00.000Z"
   },
   {
+   "id": "futbol:tff:KSL:20261108safimclbentonitünyekadınankarabüyükş",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Safi Mcl Bentonit Ünye Kadın - Ankara Büyükşehir Belediyesi Fomget",
+   "tarih": "2026-11-08T10:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:4296",
    "brans": "hentbol",
    "lig": "",
@@ -121,24 +128,10 @@
    "tarih": "2026-11-08T10:00:00.000Z"
   },
   {
-   "id": "hentbol:thf:4307",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Atlas Hentbol - Şafaktepe",
-   "tarih": "2026-11-08T10:00:00.000Z"
-  },
-  {
    "id": "futbol:tff:KSL:20261108beşiktaşsultanbeyligücü",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Beşiktaş - Sultanbeyli Gücü",
-   "tarih": "2026-11-08T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261108safimclbentonitünyekadınankarabüyükş",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Safi Mcl Bentonit Ünye Kadın - Ankara Büyükşehir Belediyesi Fomget",
    "tarih": "2026-11-08T11:00:00.000Z"
   },
   {
@@ -216,6 +209,13 @@
    "brans": "hentbol",
    "lig": "",
    "mac": "Üsküdar Belediyesi - Odunpazarı",
+   "tarih": "2026-11-08T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4307",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Atlas Hentbol - Şafaktepe",
    "tarih": "2026-11-08T13:00:00.000Z"
   },
   {

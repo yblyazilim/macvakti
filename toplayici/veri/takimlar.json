@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-03T10:06:42.517Z",
+ "guncellendi": "2026-11-03T17:47:02.037Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 314,
@@ -3477,24 +3477,6 @@
     "hentbol:diger"
    ]
   },
-  "atlashentbol": {
-   "ad": "Atlas Hentbol",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "safaktepe": {
-   "ad": "Şafaktepe",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "karademirgrupkayserikadin": {
    "ad": "Karademir Grup Kayseri Kadın",
    "branslar": [
@@ -3614,6 +3596,24 @@
   },
   "odunpazari": {
    "ad": "Odunpazarı",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "atlashentbol": {
+   "ad": "Atlas Hentbol",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "safaktepe": {
+   "ad": "Şafaktepe",
    "branslar": [
     "hentbol"
    ],
