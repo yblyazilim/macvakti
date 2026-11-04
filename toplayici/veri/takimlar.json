@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-11-04T18:01:20.727Z",
+ "guncellendi": "2026-11-04T23:24:53.273Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 314,
+ "takimSayisi": 315,
  "branslar": [
   {
    "k": "basketbol",
@@ -397,7 +397,7 @@
       "ankaragenclikmerkezleri",
       "ardesenbelediyesi",
       "atlashentbol",
-      "avusturya",
+      "besiktasjk",
       "bolubelediye",
       "bursabuyuksehirbelediyesi",
       "catalcabelediye",
@@ -421,6 +421,7 @@
       "manisabuyuksehirbelediyer2",
       "mcsistemyozgatgsk",
       "nigdebelediyegucu",
+      "niluferbelediyesi",
       "norvec",
       "odunpazari",
       "ortahisarbelediyesi",
@@ -3218,24 +3219,6 @@
     "futbol:971-01"
    ]
   },
-  "avusturya": {
-   "ad": "Avusturya",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "turkiye": {
-   "ad": "Türkiye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "osmaniyearena": {
    "ad": "Osmaniye Arena",
    "branslar": [
@@ -3576,6 +3559,15 @@
     "hentbol:diger"
    ]
   },
+  "turkiye": {
+   "ad": "Türkiye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "norvec": {
    "ad": "Norveç",
    "branslar": [
@@ -3651,6 +3643,29 @@
    "ligler": [
     "hentbol:diger"
    ]
+  },
+  "niluferbelediyesi": {
+   "ad": "Nilüfer Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "besiktasjk": {
+   "ad": "Beşiktaş Jk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
   }
  }
 }
