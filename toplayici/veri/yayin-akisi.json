@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-11-05T11:44:32.513Z",
- "adet": 944,
+ "guncellendi": "2026-11-05T19:12:16.043Z",
+ "adet": 949,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 944,
+   "adet": 949,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Avrupa'da Türk Takımları",
@@ -5964,6 +5964,61 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-11-12T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-11-12T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-11-12T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Brand & Sport Summit",
+   "baslangicUtc": "2026-11-12T18:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-11-12T18:45:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Toprak Razgatlıoğlu-Elturko",
@@ -8911,12 +8966,15 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasınapolı– Bodo/glımt",
+   "baslik": "Bodo Glimt - Lille",
    "baslangicUtc": "2026-11-06T06:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Bodo Glimt",
+    "Lille"
+   ],
    "kaynak": "tvplus"
   },
   {
@@ -8933,28 +8991,28 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıcomo – Manchester Unıted",
+   "baslik": "Lask - S. Bratislava",
    "baslangicUtc": "2026-11-06T09:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasıcomo",
-    "Manchester Unıted"
+    "Lask",
+    "S. Bratislava"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Şampiyonlar Ligi Futbol Karşılaşmasıbayern Munıh – Arsenal",
+   "baslik": "AEK Atina - Real Madrid",
    "baslangicUtc": "2026-11-06T10:40:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Şampiyonlar Ligi Futbol Karşılaşmasıbayern Munıh",
-    "Arsenal"
+    "AEK Atina",
+    "Real Madrid"
    ],
    "kaynak": "tvplus"
   },
@@ -8972,67 +9030,70 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Fenerbahçe - Slavia Prag , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslik": "Trabzonspor - Freiburg",
    "baslangicUtc": "2026-11-06T12:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Fenerbahçe",
-    "Slavia Prag , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Trabzonspor",
+    "Freiburg"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Lille - Galatasaray , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslik": "Galatasaray - Stuttgart",
    "baslangicUtc": "2026-11-06T14:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Lille",
-    "Galatasaray , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Galatasaray",
+    "Stuttgart"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Trabzonspor - Hearts , Uefa Avrupa Konferans Ligi Grup Maçları",
+   "baslik": "Fenerbahçe - Liverpool",
    "baslangicUtc": "2026-11-06T16:05:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Trabzonspor",
-    "Hearts , Uefa Avrupa Konferans Ligi Grup Maçları"
+    "Fenerbahçe",
+    "Liverpool"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Ultra",
-   "baslangicUtc": "2026-11-06T17:55:00.000Z",
+   "baslik": "Türkiye Baja Şampiyonası - Denizli",
+   "baslangicUtc": "2026-11-06T17:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Türkiye Baja Şampiyonası",
+    "Denizli"
+   ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Beşiktaş - Cyrstal Palace , Uefa Avrupa Ligi Grup Maçları",
-   "baslangicUtc": "2026-11-06T18:10:00.000Z",
+   "baslik": "Celtic - Beşiktaş",
+   "baslangicUtc": "2026-11-06T18:05:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Beşiktaş",
-    "Cyrstal Palace , Uefa Avrupa Ligi Grup Maçları"
+    "Celtic",
+    "Beşiktaş"
    ],
    "kaynak": "tvplus"
   },
@@ -9040,7 +9101,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "UEFA Avrupa Ligi Magazin",
-   "baslangicUtc": "2026-11-06T19:50:00.000Z",
+   "baslangicUtc": "2026-11-06T19:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
@@ -9051,7 +9112,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "7 Metre",
-   "baslangicUtc": "2026-11-06T20:15:00.000Z",
+   "baslangicUtc": "2026-11-06T20:10:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
