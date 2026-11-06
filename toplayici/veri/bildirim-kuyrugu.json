@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261106gaziantepkasımpaşa",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_gaziantep",
+    "takim_kasımpaşa"
+   ],
+   "baslik": "Gaziantep 0-2 Kasımpaşa · Maç sona erdi",
+   "govde": "Süper Lig · 11. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-06T20:45:22.848Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261106antalyasporbursaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_antalyaspor",
+    "takim_bursaspor"
+   ],
+   "baslik": "Bitti: Antalyaspor 1-1 Bursaspor",
+   "govde": "1. Lig · 14. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-06T20:45:22.848Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261106smsgrupsarıyerığdır",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_smsgrupsarıyer",
+    "takim_ığdır"
+   ],
+   "baslik": "Sona erdi: Sms Grup Sarıyer 1-1 Iğdır",
+   "govde": "1. Lig · 14. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-06T20:45:22.848Z"
+  }
+ ]
 }
