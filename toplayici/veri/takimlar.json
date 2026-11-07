@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-11-07T13:39:18.860Z",
+ "guncellendi": "2026-11-07T18:18:17.359Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 313,
+ "takimSayisi": 315,
  "branslar": [
   {
    "k": "basketbol",
@@ -214,6 +214,32 @@
      ]
     },
     {
+     "id": "976-Beyaz",
+     "ad": "2. Lig Beyaz Grubu",
+     "takimlar": [
+      "68aksaraybelediyespor",
+      "adanademirspor",
+      "aksaraybelediyespor",
+      "aliagafutbol",
+      "ankaraspor",
+      "arkentarnavutkoybelediyesifutbol",
+      "corluspor",
+      "corluspor1947",
+      "eforcayerbaaspor",
+      "gmgkastamonuspor",
+      "guzidegebze",
+      "hatayspor",
+      "inegolkafkas",
+      "isbasisparta32",
+      "menemen",
+      "mus",
+      "sanliurfaspor",
+      "sebat",
+      "sezacimentoelazigspor",
+      "somaspor"
+     ]
+    },
+    {
      "id": "971-01",
      "ad": "3. Lig 01 Grubu",
      "takimlar": [
@@ -236,30 +262,6 @@
       "tokatbelediye",
       "yalovafk77",
       "zonguldakspor"
-     ]
-    },
-    {
-     "id": "976-Beyaz",
-     "ad": "2. Lig Beyaz Grubu",
-     "takimlar": [
-      "68aksaraybelediyespor",
-      "adanademirspor",
-      "aliagafutbol",
-      "ankaraspor",
-      "arkentarnavutkoybelediyesifutbol",
-      "corluspor1947",
-      "eforcayerbaaspor",
-      "gmgkastamonuspor",
-      "guzidegebze",
-      "hatayspor",
-      "inegolkafkas",
-      "isbasisparta32",
-      "menemen",
-      "mus",
-      "sanliurfaspor",
-      "sebat",
-      "sezacimentoelazigspor",
-      "somaspor"
      ]
     },
     {
@@ -3501,6 +3503,24 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "corluspor": {
+   "ad": "Çorlu Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Beyaz"
+   ]
+  },
+  "aksaraybelediyespor": {
+   "ad": "Aksaray Belediye Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:976-Beyaz"
    ]
   },
   "manisabuyuksehirbelediyer2": {
