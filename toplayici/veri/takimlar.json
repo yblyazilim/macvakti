@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-11-08T07:32:25.381Z",
+ "guncellendi": "2026-11-08T14:39:54.402Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 338,
+ "takimSayisi": 337,
  "branslar": [
   {
    "k": "basketbol",
@@ -214,32 +214,6 @@
      ]
     },
     {
-     "id": "976-Beyaz",
-     "ad": "2. Lig Beyaz Grubu",
-     "takimlar": [
-      "68aksaraybelediyespor",
-      "adanademirspor",
-      "aksaraybelediyespor",
-      "aliagafutbol",
-      "ankaraspor",
-      "arkentarnavutkoybelediyesifutbol",
-      "corluspor",
-      "corluspor1947",
-      "eforcayerbaaspor",
-      "gmgkastamonuspor",
-      "guzidegebze",
-      "hatayspor",
-      "inegolkafkas",
-      "isbasisparta32",
-      "menemen",
-      "mus",
-      "sanliurfaspor",
-      "sebat",
-      "sezacimentoelazigspor",
-      "somaspor"
-     ]
-    },
-    {
      "id": "971-01",
      "ad": "3. Lig 01 Grubu",
      "takimlar": [
@@ -262,6 +236,30 @@
       "tokatbelediye",
       "yalovafk77",
       "zonguldakspor"
+     ]
+    },
+    {
+     "id": "976-Beyaz",
+     "ad": "2. Lig Beyaz Grubu",
+     "takimlar": [
+      "68aksaraybelediyespor",
+      "adanademirspor",
+      "aliagafutbol",
+      "ankaraspor",
+      "arkentarnavutkoybelediyesifutbol",
+      "corluspor1947",
+      "eforcayerbaaspor",
+      "gmgkastamonuspor",
+      "guzidegebze",
+      "hatayspor",
+      "inegolkafkas",
+      "isbasisparta32",
+      "menemen",
+      "mus",
+      "sanliurfaspor",
+      "sebat",
+      "sezacimentoelazigspor",
+      "somaspor"
      ]
     },
     {
@@ -3381,26 +3379,6 @@
     "hentbol:diger"
    ]
   },
-  "corluspor": {
-   "ad": "Çorlu Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:976-Beyaz"
-   ]
-  },
-  "aksaraybelediyespor": {
-   "ad": "Aksaray Belediye Spor",
-   "branslar": [
-    "futbol",
-    "hentbol"
-   ],
-   "ligler": [
-    "futbol:976-Beyaz",
-    "hentbol:diger"
-   ]
-  },
   "manisabuyuksehirbelediyer2": {
    "ad": "Manisa Büyükşehir Belediye (R2)",
    "branslar": [
@@ -3820,6 +3798,15 @@
   },
   "denizligencliksporilmudurlugu": {
    "ad": "Denizli Gençlik Spor İl Müdürlüğü",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "aksaraybelediyespor": {
+   "ad": "Aksaray Belediye Spor",
    "branslar": [
     "hentbol"
    ],
