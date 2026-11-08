@@ -1,83 +1,6 @@
 {
- "guncellendi": "2026-11-08T14:39:39.182Z",
+ "guncellendi": "2026-11-08T19:10:32.438Z",
  "eksikler": [
-  {
-   "id": "futbol:tff:KSL:20261108yüksekovahakkarigücüspor",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Yüksekova - Hakkarigücü Spor",
-   "tarih": "2026-11-08T10:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261108safimclbentonitünyekadınankarabüyükş",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Safi Mcl Bentonit Ünye Kadın - Ankara Büyükşehir Belediyesi Fomget",
-   "tarih": "2026-11-08T10:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261108haymanabakırköykadınfutbol",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Haymana - Bakırköy Kadın Futbol",
-   "tarih": "2026-11-08T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261108giresunsanayisporkarademirgrupkayser",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Giresun Sanayispor - Karademir Grup Kayseri Kadın",
-   "tarih": "2026-11-08T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261108amedsportiffaaliyetlerantalyasporkad",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Amed Sportif Faaliyetler - Antalyaspor Kadın",
-   "tarih": "2026-11-08T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261108beşiktaşsultanbeyligücü",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Beşiktaş - Sultanbeyli Gücü",
-   "tarih": "2026-11-08T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261108şilebilgidoğasportifyatırımhizmetler",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Şile Bilgidoğa Sportif Yatırım Hizmetleri - Trabzonspor",
-   "tarih": "2026-11-08T11:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261108sezaçimentoelazığsporşanlıurfasporbe",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Seza Çimento Elazığspor - Şanlıurfaspor",
-   "tarih": "2026-11-08T12:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:20261108ısbaşısparta32eforçayerbaasporbeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "mac": "Isbaş Isparta 32 - Efor Çay Erbaaspor",
-   "tarih": "2026-11-08T12:30:00.000Z"
-  },
-  {
-   "id": "futbol:tff:2L:2026110852ordusporsakaryasporkırmızı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "mac": "52 Orduspor - Sakaryaspor",
-   "tarih": "2026-11-08T12:30:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:4309",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Sultanbeyli Belediye - Süleymanpaşa Belediye",
-   "tarih": "2026-11-08T15:00:00.000Z"
-  },
   {
    "id": "hentbol:thf:3255",
    "brans": "hentbol",
@@ -357,6 +280,62 @@
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Şile Bilgidoğa Sportif Yatırım Hizmetleri - Amed Sportif Faaliyetler",
    "tarih": "2026-12-09T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261213hakkarigücüsporsafimclbentonitünyeka",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Hakkarigücü Spor - Safi Mcl Bentonit Ünye Kadın",
+   "tarih": "2026-12-13T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261213amedsportiffaaliyetleryüksekova",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Amed Sportif Faaliyetler - Yüksekova",
+   "tarih": "2026-12-13T10:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261213galatasaraybeşiktaş",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Galatasaray - Beşiktaş",
+   "tarih": "2026-12-13T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261213trabzonsporfenerbahçearsavevkadınfut",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Trabzonspor - Fenerbahçe Arsavev Kadın Futbol Takımı",
+   "tarih": "2026-12-13T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261213ankarabüyükşehirbelediyesifomgethaym",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Ankara Büyükşehir Belediyesi Fomget - Haymana",
+   "tarih": "2026-12-13T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261213sultanbeyligücügiresunsanayispor",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Sultanbeyli Gücü - Giresun Sanayispor",
+   "tarih": "2026-12-13T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261213antalyasporkadınşilebilgidoğasportif",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Antalyaspor Kadın - Şile Bilgidoğa Sportif Yatırım Hizmetleri",
+   "tarih": "2026-12-13T11:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:KSL:20261213bakırköykadınfutbolkarademirgrupkays",
+   "brans": "futbol",
+   "lig": "Kadın Futbol Süper Ligi",
+   "mac": "Bakırköy Kadın Futbol - Karademir Grup Kayseri Kadın",
+   "tarih": "2026-12-13T11:00:00.000Z"
   }
  ]
 }
