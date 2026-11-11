@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-11T11:10:32.457Z",
+ "guncellendi": "2026-11-11T18:40:31.789Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 356,
@@ -3280,6 +3280,15 @@
     "stat": "Beşiktaş Stadyumu"
    }
   },
+  "karademirgrupkayserikadin": {
+   "ad": "Karademir Grup Kayseri Kadın",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
+   ]
+  },
   "sinop": {
    "ad": "Sinop",
    "branslar": [
@@ -3332,15 +3341,6 @@
    ],
    "ligler": [
     "hentbol:diger"
-   ]
-  },
-  "karademirgrupkayserikadin": {
-   "ad": "Karademir Grup Kayseri Kadın",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:1000"
    ]
   },
   "mihaliccikbelediyesi": {
