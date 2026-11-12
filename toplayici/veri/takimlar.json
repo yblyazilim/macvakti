@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-11T18:40:31.789Z",
+ "guncellendi": "2026-11-12T01:09:55.500Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 356,
@@ -3257,29 +3257,6 @@
     "futbol:971-01"
    ]
   },
-  "niluferbelediyesi": {
-   "ad": "Nilüfer Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "besiktasjk": {
-   "ad": "Beşiktaş Jk",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1903,
-    "sehir": "İstanbul",
-    "stat": "Beşiktaş Stadyumu"
-   }
-  },
   "karademirgrupkayserikadin": {
    "ad": "Karademir Grup Kayseri Kadın",
    "branslar": [
@@ -3921,6 +3898,15 @@
     "hentbol:diger"
    ]
   },
+  "niluferbelediyesi": {
+   "ad": "Nilüfer Belediyesi",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "aydinptt": {
    "ad": "Aydın Ptt",
    "branslar": [
@@ -3969,6 +3955,20 @@
    "ligler": [
     "hentbol:diger"
    ]
+  },
+  "besiktasjk": {
+   "ad": "Beşiktaş Jk",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
   },
   "1954hendek": {
    "ad": "1954 Hendek",
