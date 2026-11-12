@@ -1,5 +1,5 @@
 {
- "kontrolZamani": "2026-11-12T08:17:03.751Z",
+ "kontrolZamani": "2026-11-12T17:03:23.767Z",
  "durum": "sari",
  "hataSayisi": 0,
  "uyariSayisi": 2,
@@ -12,18 +12,18 @@
   {
    "seviye": "uyari",
    "baslik": "Kanal çözüm oranı çok düşük",
-   "detay": "Yaklaşan 30 maçın yalnızca 0 tanesinde kanal var. Eşleştirme bozulmuş olabilir."
+   "detay": "Yaklaşan 52 maçın yalnızca 0 tanesinde kanal var. Eşleştirme bozulmuş olabilir."
   }
  ],
  "ozet": {
-  "toplamMac": 239,
+  "toplamMac": 238,
   "bransBazinda": {
    "futbol": 192,
-   "hentbol": 47
+   "hentbol": 46
   },
   "veriYasiDk": 0,
-  "yayinProgram": 1004,
-  "yaklasanMac": 30,
+  "yayinProgram": 1003,
+  "yaklasanMac": 52,
   "kanalliYaklasan": 0
  }
 }

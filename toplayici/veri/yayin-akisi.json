@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-11-12T08:17:03.578Z",
- "adet": 1004,
+ "guncellendi": "2026-11-12T17:02:58.139Z",
+ "adet": 1003,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1004,
+   "adet": 1003,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Uluslar Ligi Özel",
@@ -5077,10 +5077,10 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslik": "EHF Şampiyonlar Ligi",
    "baslangicUtc": "2026-11-13T03:00:00.000Z",
    "sureDk": null,
-   "tur": "tekrar",
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -5088,10 +5088,10 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "FEI Ride Series",
+   "baslik": "Reaction Sports",
    "baslangicUtc": "2026-11-13T05:00:00.000Z",
    "sureDk": null,
-   "tur": "belirsiz",
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -5099,20 +5099,9 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Dinamik Sabahlar",
+   "baslik": "Sabah Programları",
    "baslangicUtc": "2026-11-13T06:00:00.000Z",
    "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Taha Erpulat İle Pilates",
-   "baslangicUtc": "2026-11-13T06:20:00.000Z",
-   "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
@@ -5121,86 +5110,9 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Yoga",
-   "baslangicUtc": "2026-11-13T07:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Dinamik Sabahlar",
-   "baslangicUtc": "2026-11-13T07:45:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Taha Erpulat İle Pilates",
-   "baslangicUtc": "2026-11-13T08:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Spor ve Çocuk",
-   "baslangicUtc": "2026-11-13T08:15:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Yoga",
-   "baslangicUtc": "2026-11-13T08:30:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslik": "Sports Max",
    "baslangicUtc": "2026-11-13T09:00:00.000Z",
    "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Brand & Sport Summit",
-   "baslangicUtc": "2026-11-13T11:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "EHF Euro",
-   "baslangicUtc": "2026-11-13T12:00:00.000Z",
-   "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
@@ -5210,62 +5122,7 @@
    "kanal": "SPORTS TV HD",
    "dijital": false,
    "baslik": "İtalya Basketbol Ligi",
-   "baslangicUtc": "2026-11-13T14:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Euroformula Open",
-   "baslangicUtc": "2026-11-13T16:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "EHF Euro",
-   "baslangicUtc": "2026-11-13T17:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "İtalya Basketbol Ligi",
-   "baslangicUtc": "2026-11-13T19:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Brand & Sport Summit",
-   "baslangicUtc": "2026-11-13T21:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "EHF Şampiyonlar Ligi",
-   "baslangicUtc": "2026-11-14T03:00:00.000Z",
+   "baslangicUtc": "2026-11-13T10:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -5276,9 +5133,86 @@
    "kanal": "SPORTS TV HD",
    "dijital": false,
    "baslik": "FEİ Ride Binicilik Şampiyonası",
-   "baslangicUtc": "2026-11-14T05:00:00.000Z",
+   "baslangicUtc": "2026-11-13T12:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Şampiyonlar Ligi",
+   "baslangicUtc": "2026-11-13T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-11-13T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-11-13T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-11-13T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-11-13T21:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-11-14T03:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-11-14T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -5308,30 +5242,8 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "İtalya Kadınlar Voleybol Ligi",
-   "baslangicUtc": "2026-11-14T10:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
    "baslik": "Sports Max",
-   "baslangicUtc": "2026-11-14T12:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Euroformula Open",
-   "baslangicUtc": "2026-11-14T13:00:00.000Z",
+   "baslangicUtc": "2026-11-14T10:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -5342,7 +5254,7 @@
    "kanal": "SPORTS TV HD",
    "dijital": false,
    "baslik": "EHF Şampiyonlar Ligi",
-   "baslangicUtc": "2026-11-14T15:00:00.000Z",
+   "baslangicUtc": "2026-11-14T11:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -5352,41 +5264,8 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "İtalya Erkekler Voleybol Ligi",
-   "baslangicUtc": "2026-11-14T17:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "İtalya Basketbol Ligi",
-   "baslangicUtc": "2026-11-14T19:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "İtalya Kadınlar Voleybol Ligi",
-   "baslangicUtc": "2026-11-14T21:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "Euroformula Open",
-   "baslangicUtc": "2026-11-15T03:00:00.000Z",
+   "baslik": "Champions Chess Tour",
+   "baslangicUtc": "2026-11-14T13:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -5397,9 +5276,64 @@
    "kanal": "SPORTS TV HD",
    "dijital": false,
    "baslik": "Reaction Sports",
-   "baslangicUtc": "2026-11-15T05:00:00.000Z",
+   "baslangicUtc": "2026-11-14T14:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-11-14T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Euroformula Open",
+   "baslangicUtc": "2026-11-14T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Şampiyonlar Ligi",
+   "baslangicUtc": "2026-11-14T19:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-11-15T03:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Sports Max",
+   "baslangicUtc": "2026-11-15T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -5440,10 +5374,10 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Reaction Sports",
+   "baslik": "Freeride Dünya Turu: Fieberbrunn",
    "baslangicUtc": "2026-11-15T12:00:00.000Z",
    "sureDk": null,
-   "tur": "tekrar",
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -5451,8 +5385,8 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "İtalya Erkekler Voleybol Ligi",
-   "baslangicUtc": "2026-11-15T13:00:00.000Z",
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-11-15T14:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -5462,8 +5396,8 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "İtalya Basketbol Ligi",
-   "baslangicUtc": "2026-11-15T15:00:00.000Z",
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-11-15T16:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -5473,7 +5407,7 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Freeride Dünya Turu: Fieberbrunn",
+   "baslik": "EHF Şampiyonlar Ligi",
    "baslangicUtc": "2026-11-15T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -5484,7 +5418,7 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Euroformula Open",
+   "baslik": "İtalya Basketbol Ligi",
    "baslangicUtc": "2026-11-15T19:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -5495,7 +5429,7 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "EHF Şampiyonlar Ligi",
+   "baslik": "Euroformula Open",
    "baslangicUtc": "2026-11-15T21:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -5506,7 +5440,7 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "EHF Şampiyonlar Ligi",
+   "baslik": "İtalya Basketbol Ligi",
    "baslangicUtc": "2026-11-16T03:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -5550,10 +5484,10 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "İtalya Basketbol Ligi",
+   "baslik": "EHF Şampiyonlar Ligi",
    "baslangicUtc": "2026-11-16T10:00:00.000Z",
    "sureDk": null,
-   "tur": "tekrar",
+   "tur": "belirsiz",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -5561,7 +5495,7 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "EHF Şampiyonlar Ligi",
+   "baslik": "Freeride Dünya Turu: Fieberbrunn",
    "baslangicUtc": "2026-11-16T12:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -5583,19 +5517,8 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Sports Max",
+   "baslik": "Reaction Sports",
    "baslangicUtc": "2026-11-16T16:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "SPORTS TV HD",
-   "dijital": false,
-   "baslik": "İtalya Erkekler Voleybol Ligi",
-   "baslangicUtc": "2026-11-16T17:00:00.000Z",
    "sureDk": null,
    "tur": "tekrar",
    "macDisi": false,
@@ -5605,7 +5528,18 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "Euroformula Open",
+   "baslik": "EHF Şampiyonlar Ligi",
+   "baslangicUtc": "2026-11-16T17:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
    "baslangicUtc": "2026-11-16T19:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -5616,7 +5550,7 @@
   {
    "kanal": "SPORTS TV HD",
    "dijital": false,
-   "baslik": "EHF Şampiyonlar Ligi",
+   "baslik": "Euroformula Open",
    "baslangicUtc": "2026-11-16T21:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
@@ -6093,6 +6027,72 @@
    "baslangicUtc": "2026-11-19T08:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Yoga",
+   "baslangicUtc": "2026-11-19T08:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-11-19T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Brand & Sport Summit",
+   "baslangicUtc": "2026-11-19T11:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-11-19T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Euro",
+   "baslangicUtc": "2026-11-19T14:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-11-19T16:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -9499,14 +9499,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıaek Atına - Real Madrıd",
+   "baslik": "AEK Atina - Real Madrid",
    "baslangicUtc": "2026-11-13T10:40:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Uefa Şampiyonlar Ligi Futbol Karşılaşmasıaek Atına",
-    "Real Madrıd"
+    "AEK Atina",
+    "Real Madrid"
    ],
    "kaynak": "tvplus"
   },
@@ -9524,70 +9524,56 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Trabzonspor - Freiburg , Uefa Konferans Ligi Grup Maçları",
+   "baslik": "Trabzonspor - Freiburg",
    "baslangicUtc": "2026-11-13T12:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Trabzonspor",
-    "Freiburg , Uefa Konferans Ligi Grup Maçları"
+    "Freiburg"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Galatasaray - Stuttgart , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslik": "Galatasaray - Stuttgart",
    "baslangicUtc": "2026-11-13T14:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Galatasaray",
-    "Stuttgart , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Stuttgart"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Fenerbahçe - Liverpool , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslik": "Fenerbahçe - Liverpool",
    "baslangicUtc": "2026-11-13T16:05:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Fenerbahçe",
-    "Liverpool , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Liverpool"
    ],
    "kaynak": "tvplus"
   },
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Türkiye Baja Şampiyonası - Denizli",
+   "baslik": "Celtic - Beşiktaş",
    "baslangicUtc": "2026-11-13T17:45:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "Türkiye Baja Şampiyonası",
-    "Denizli"
-   ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "tabii spor",
-   "dijital": true,
-   "baslik": "Celtic - Beşiktaş , Uefa Avrupa Ligi Grup Maçları",
-   "baslangicUtc": "2026-11-13T18:05:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": [
     "Celtic",
-    "Beşiktaş , Uefa Avrupa Ligi Grup Maçları"
+    "Beşiktaş"
    ],
    "kaynak": "tvplus"
   },
@@ -9595,7 +9581,7 @@
    "kanal": "tabii spor",
    "dijital": true,
    "baslik": "UEFA Avrupa Ligi Magazin",
-   "baslangicUtc": "2026-11-13T19:45:00.000Z",
+   "baslangicUtc": "2026-11-13T19:25:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": true,
