@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-11-14T03:49:14.376Z",
- "adet": 1186,
+ "guncellendi": "2026-11-14T11:09:56.446Z",
+ "adet": 1190,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1186,
+   "adet": 1190,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Uluslar Ligi Özel",
@@ -126,14 +126,14 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "İngiltere - Hırvatistan",
+   "baslik": "Norveç - Galler",
    "baslangicUtc": "2026-11-14T17:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
-    "İngiltere",
-    "Hırvatistan"
+    "Norveç",
+    "Galler"
    ],
    "kaynak": "tvplus"
   },
@@ -7109,6 +7109,50 @@
    "baslangicUtc": "2026-11-21T03:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "FEİ Ride Binicilik Şampiyonası",
+   "baslangicUtc": "2026-11-21T05:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Sabah Programları",
+   "baslangicUtc": "2026-11-21T06:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Auto Life",
+   "baslangicUtc": "2026-11-21T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Kadınlar Voleybol Ligi",
+   "baslangicUtc": "2026-11-21T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
