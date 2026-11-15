@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-11-15T08:03:27.038Z",
- "adet": 1122,
+ "guncellendi": "2026-11-15T15:37:24.482Z",
+ "adet": 1127,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1122,
+   "adet": 1127,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Uluslar Ligi Özel",
@@ -176,6 +176,17 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
+   "baslik": "Milli Maç Özel",
+   "baslangicUtc": "2026-11-15T21:30:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
    "baslik": "İspanya - İngiltere",
    "baslangicUtc": "2026-11-15T23:00:00.000Z",
    "sureDk": null,
@@ -185,17 +196,6 @@
     "İspanya",
     "İngiltere"
    ],
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
-   "baslik": "Milli Maç Özel",
-   "baslangicUtc": "2026-11-16T00:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
    "kaynak": "tvplus"
   },
   {
@@ -6833,6 +6833,61 @@
    "kaynak": "tvplus"
   },
   {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Auto Life",
+   "baslangicUtc": "2026-11-22T09:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "EHF Şampiyonlar Ligi",
+   "baslangicUtc": "2026-11-22T10:00:00.000Z",
+   "sureDk": null,
+   "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "Reaction Sports",
+   "baslangicUtc": "2026-11-22T12:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Erkekler Voleybol Ligi",
+   "baslangicUtc": "2026-11-22T13:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "SPORTS TV HD",
+   "dijital": false,
+   "baslik": "İtalya Basketbol Ligi",
+   "baslangicUtc": "2026-11-22T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
    "kanal": "TRT SPOR YILDIZ",
    "dijital": false,
    "baslik": "Vakıfbank - Nilüfer B.",
@@ -10546,14 +10601,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Galatasaray - Stuttgart , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslik": "Galatasaray - Stuttgart",
    "baslangicUtc": "2026-11-15T15:55:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Galatasaray",
-    "Stuttgart , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Stuttgart"
    ],
    "kaynak": "tvplus"
   },
@@ -10593,14 +10648,14 @@
   {
    "kanal": "tabii spor",
    "dijital": true,
-   "baslik": "Fenerbahçe - Liverpool , Uefa Şampiyonlar Ligi Grup Maçları",
+   "baslik": "Fenerbahçe - Liverpool",
    "baslangicUtc": "2026-11-15T19:20:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
    "takimlar": [
     "Fenerbahçe",
-    "Liverpool , Uefa Şampiyonlar Ligi Grup Maçları"
+    "Liverpool"
    ],
    "kaynak": "tvplus"
   },
