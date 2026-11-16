@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-15T20:36:51.510Z",
+ "guncellendi": "2026-11-16T00:24:28.300Z",
  "eksikler": [
   {
    "id": "futbol:tff:3L:20261115yenimersinidmanyurdufutbolkaraman03",
@@ -156,6 +156,139 @@
    "tarih": "2026-11-21T14:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:3312",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Sivas İöi - Seyhan Belediye",
+   "tarih": "2026-11-22T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3313",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Diyarbakır Bbsk - Ordu Gsim",
+   "tarih": "2026-11-22T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3314",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Taşova Belediyesi - Elazığ Genç. Spor İl Müd.",
+   "tarih": "2026-11-22T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3315",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Sarıçam Belediyesi - 1955 Batman Belediyesi",
+   "tarih": "2026-11-22T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4247",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Van Büyükşehir Bld - Pazar Atatürk Anadolu Lisesi",
+   "tarih": "2026-11-22T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4330",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Atlas Hentbol - Esan Akü Merkez",
+   "tarih": "2026-11-22T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4331",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Süleymanpaşa Belediye - Çatalca Belediye",
+   "tarih": "2026-11-22T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4333",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Niğde Belediye Gücü - Hentbol Mersin",
+   "tarih": "2026-11-22T10:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3108",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Beşiktaş Jimnastik - Spor Toto",
+   "tarih": "2026-11-22T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3261",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "1954 Hendek - Nilüfer Belediyesi",
+   "tarih": "2026-11-22T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3262",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Özel İdare Köroğlu - Aydın Ptt",
+   "tarih": "2026-11-22T11:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3109",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Trabzon Büyükşehir Bel. - Güneysuspor",
+   "tarih": "2026-11-22T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4325",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Cizre Yıldızlar - Yükselen Gençlik",
+   "tarih": "2026-11-22T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4327",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Eskişehir Hentbol Perileri - Bolu Belediye",
+   "tarih": "2026-11-22T12:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3110",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "İstanbul Gençlik - Göztepe Diyet Kapıma Gelsin",
+   "tarih": "2026-11-22T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:4329",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Şafaktepe - Ankara Gençlik Merkezleri",
+   "tarih": "2026-11-22T13:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3112",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Nilüfer Belediyesi - Mihalıççık Belediyesi",
+   "tarih": "2026-11-22T14:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3260",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "İzmir Bşb - Beşiktaş Jk",
+   "tarih": "2026-11-22T15:00:00.000Z"
+  },
+  {
+   "id": "hentbol:thf:3263",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Turan Grup Irmak - Marmara Pendik Hentbol",
+   "tarih": "2026-11-22T16:00:00.000Z"
+  },
+  {
    "id": "futbol:tff:KSL:20261209yüksekovasultanbeyligücü",
    "brans": "futbol",
    "lig": "Kadın Futbol Süper Ligi",
@@ -266,62 +399,6 @@
    "lig": "Kadın Futbol Süper Ligi",
    "mac": "Bakırköy Kadın Futbol - Karademir Grup Kayseri Kadın",
    "tarih": "2026-12-13T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261219yüksekovaankarabüyükşehirbelediyesif",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Yüksekova - Ankara Büyükşehir Belediyesi Fomget",
-   "tarih": "2026-12-19T10:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261219beşiktaşşilebilgidoğasportifyatırımh",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Beşiktaş - Şile Bilgidoğa Sportif Yatırım Hizmetleri",
-   "tarih": "2026-12-19T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261219safimclbentonitünyekadınamedsportiff",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Safi Mcl Bentonit Ünye Kadın - Amed Sportif Faaliyetler",
-   "tarih": "2026-12-19T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261219haymanasultanbeyligücü",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Haymana - Sultanbeyli Gücü",
-   "tarih": "2026-12-19T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261219fenerbahçearsavevkadınfutboltakımıan",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Fenerbahçe Arsavev Kadın Futbol Takımı - Antalyaspor Kadın",
-   "tarih": "2026-12-19T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261219giresunsanayisportrabzonspor",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Giresun Sanayispor - Trabzonspor",
-   "tarih": "2026-12-19T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261219karademirgrupkayserikadınhakkarigücü",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Karademir Grup Kayseri Kadın - Hakkarigücü Spor",
-   "tarih": "2026-12-19T11:00:00.000Z"
-  },
-  {
-   "id": "futbol:tff:KSL:20261219bakırköykadınfutbolgalatasaray",
-   "brans": "futbol",
-   "lig": "Kadın Futbol Süper Ligi",
-   "mac": "Bakırköy Kadın Futbol - Galatasaray",
-   "tarih": "2026-12-19T11:00:00.000Z"
   }
  ]
 }
