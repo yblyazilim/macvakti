@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-16T17:14:00.554Z",
+ "guncellendi": "2026-11-17T00:58:53.735Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 341,
@@ -3230,24 +3230,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "artidegervanspor": {
-   "ad": "Artı Değer Van Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:142"
-   ]
-  },
-  "karademirgrupkayserikadin": {
-   "ad": "Karademir Grup Kayseri Kadın",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:1000"
-   ]
-  },
   "buyukcekmecegucufkspor": {
    "ad": "Büyükçekmece Gücü Fk Spor",
    "branslar": [
@@ -3941,6 +3923,24 @@
    ],
    "ligler": [
     "hentbol:diger"
+   ]
+  },
+  "artidegervanspor": {
+   "ad": "Artı Değer Van Spor",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:142"
+   ]
+  },
+  "karademirgrupkayserikadin": {
+   "ad": "Karademir Grup Kayseri Kadın",
+   "branslar": [
+    "futbol"
+   ],
+   "ligler": [
+    "futbol:1000"
    ]
   }
  }
