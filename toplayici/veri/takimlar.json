@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-18T08:12:48.725Z",
+ "guncellendi": "2026-11-18T17:20:06.780Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 341,
@@ -3718,6 +3718,24 @@
     "hentbol:diger"
    ]
   },
+  "eskisehirhentbolperileri": {
+   "ad": "Eskişehir Hentbol Perileri",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "bolubelediye": {
+   "ad": "Bolu Belediye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "atlashentbol": {
    "ad": "Atlas Hentbol",
    "branslar": [
@@ -3781,6 +3799,24 @@
     "hentbol:diger"
    ]
   },
+  "ozelidarekoroglu": {
+   "ad": "Özel İdare Köroğlu",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "aydinptt": {
+   "ad": "Aydın Ptt",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "trabzonbuyuksehirbel": {
    "ad": "Trabzon Büyükşehir Bel.",
    "branslar": [
@@ -3817,24 +3853,6 @@
     "hentbol:diger"
    ]
   },
-  "eskisehirhentbolperileri": {
-   "ad": "Eskişehir Hentbol Perileri",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "bolubelediye": {
-   "ad": "Bolu Belediye",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "safaktepe": {
    "ad": "Şafaktepe",
    "branslar": [
@@ -3855,24 +3873,6 @@
   },
   "mihaliccikbelediyesi": {
    "ad": "Mihalıççık Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "ozelidarekoroglu": {
-   "ad": "Özel İdare Köroğlu",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "aydinptt": {
-   "ad": "Aydın Ptt",
    "branslar": [
     "hentbol"
    ],

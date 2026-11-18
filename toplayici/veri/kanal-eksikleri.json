@@ -1,20 +1,6 @@
 {
- "guncellendi": "2026-11-18T08:12:48.716Z",
+ "guncellendi": "2026-11-18T17:19:52.094Z",
  "eksikler": [
-  {
-   "id": "futbol:tff:3L:20261115yenimersinidmanyurdufutbolkaraman03",
-   "brans": "futbol",
-   "lig": "3. Lig 03 Grubu",
-   "mac": "Yeni Mersin İdmanyurdu Futbol - Karaman",
-   "tarih": "2026-11-15T10:00:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:3100",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Göztepe Diyet Kapıma Gelsin - Beşiktaş Jimnastik",
-   "tarih": "2026-11-18T14:00:00.000Z"
-  },
   {
    "id": "hentbol:thf:3436",
    "brans": "hentbol",
@@ -177,6 +163,13 @@
    "tarih": "2026-11-22T10:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:4327",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Eskişehir Hentbol Perileri - Bolu Belediye",
+   "tarih": "2026-11-22T10:00:00.000Z"
+  },
+  {
    "id": "hentbol:thf:4330",
    "brans": "hentbol",
    "lig": "",
@@ -212,6 +205,13 @@
    "tarih": "2026-11-22T11:00:00.000Z"
   },
   {
+   "id": "hentbol:thf:3262",
+   "brans": "hentbol",
+   "lig": "",
+   "mac": "Özel İdare Köroğlu - Aydın Ptt",
+   "tarih": "2026-11-22T11:30:00.000Z"
+  },
+  {
    "id": "hentbol:thf:3109",
    "brans": "hentbol",
    "lig": "",
@@ -223,13 +223,6 @@
    "brans": "hentbol",
    "lig": "",
    "mac": "Cizre Yıldızlar - Yükselen Gençlik",
-   "tarih": "2026-11-22T12:00:00.000Z"
-  },
-  {
-   "id": "hentbol:thf:4327",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Eskişehir Hentbol Perileri - Bolu Belediye",
    "tarih": "2026-11-22T12:00:00.000Z"
   },
   {
@@ -254,13 +247,6 @@
    "tarih": "2026-11-22T14:00:00.000Z"
   },
   {
-   "id": "hentbol:thf:3262",
-   "brans": "hentbol",
-   "lig": "",
-   "mac": "Özel İdare Köroğlu - Aydın Ptt",
-   "tarih": "2026-11-22T14:00:00.000Z"
-  },
-  {
    "id": "hentbol:thf:3260",
    "brans": "hentbol",
    "lig": "",
@@ -273,6 +259,13 @@
    "lig": "",
    "mac": "Turan Grup Irmak - Marmara Pendik Hentbol",
    "tarih": "2026-11-22T16:00:00.000Z"
+  },
+  {
+   "id": "futbol:tff:3L:20261202yenimersinidmanyurdufutbolkaraman03",
+   "brans": "futbol",
+   "lig": "3. Lig 03 Grubu",
+   "mac": "Yeni Mersin İdmanyurdu Futbol - Karaman",
+   "tarih": "2026-12-02T11:00:00.000Z"
   },
   {
    "id": "futbol:tff:KSL:20261209beşiktaşantalyasporkadın",
