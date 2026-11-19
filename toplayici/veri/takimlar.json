@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-19T13:57:51.224Z",
+ "guncellendi": "2026-11-19T22:02:28.745Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 341,
@@ -3239,24 +3239,6 @@
     "futbol:971-01"
    ]
   },
-  "sportoto": {
-   "ad": "Spor Toto",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "niluferbelediyesi": {
-   "ad": "Nilüfer Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "sivasgucubelediye": {
    "ad": "Sivas Gücü Belediye",
    "branslar": [
@@ -3768,8 +3750,26 @@
     "stat": "Beşiktaş Stadyumu"
    }
   },
+  "sportoto": {
+   "ad": "Spor Toto",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
   "1954hendek": {
    "ad": "1954 Hendek",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "niluferbelediyesi": {
+   "ad": "Nilüfer Belediyesi",
    "branslar": [
     "hentbol"
    ],
