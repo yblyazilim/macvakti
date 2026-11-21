@@ -1,3 +1,46 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261121kocaelisporfenerbahçe",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_kocaelispor",
+    "takim_fenerbahçe"
+   ],
+   "baslik": "Bitti: Kocaelispor 2-2 Fenerbahçe",
+   "govde": "Süper Lig · 12. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-21T21:46:45.950Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261121karagümrükboluspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_karagümrük",
+    "takim_boluspor"
+   ],
+   "baslik": "Bitti: Karagümrük 0-0 Boluspor",
+   "govde": "1. Lig · 15. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-21T21:46:45.950Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261121gaziemirgogsporyataltay02",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_gaziemirgogsporyat",
+    "takim_altay"
+   ],
+   "baslik": "Gaziemir G.O.G. Spor Yat. 2-1 Altay · Maç sona erdi",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-21T21:46:45.950Z"
+  }
+ ]
 }
