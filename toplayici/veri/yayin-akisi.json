@@ -1,6 +1,6 @@
 {
- "guncellendi": "2026-11-21T08:13:14.986Z",
- "adet": 1244,
+ "guncellendi": "2026-11-21T16:18:00.257Z",
+ "adet": 1243,
  "rapor": {
   "digiturk": {
    "durum": "bos",
@@ -9,7 +9,7 @@
   },
   "tvplus": {
    "durum": "tamam",
-   "adet": 1244,
+   "adet": 1243,
    "ornek": {
     "kanal": "A SPOR HD",
     "baslik": "Artı Futbol",
@@ -241,17 +241,6 @@
   {
    "kanal": "A SPOR HD",
    "dijital": false,
-   "baslik": "Avrupa'da Türk Takımları",
-   "baslangicUtc": "2026-11-22T04:00:00.000Z",
-   "sureDk": null,
-   "tur": "belirsiz",
-   "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "A SPOR HD",
-   "dijital": false,
    "baslik": "Sabah Sporu",
    "baslangicUtc": "2026-11-22T05:00:00.000Z",
    "sureDk": null,
@@ -322,6 +311,17 @@
    "baslangicUtc": "2026-11-22T14:00:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
+   "macDisi": false,
+   "takimlar": null,
+   "kaynak": "tvplus"
+  },
+  {
+   "kanal": "A SPOR HD",
+   "dijital": false,
+   "baslik": "Takım Oyunu",
+   "baslangicUtc": "2026-11-22T15:00:00.000Z",
+   "sureDk": null,
+   "tur": "tekrar",
    "macDisi": false,
    "takimlar": null,
    "kaynak": "tvplus"
@@ -1213,7 +1213,7 @@
    "kanal": "S SPORT",
    "dijital": false,
    "baslik": "Moto GP",
-   "baslangicUtc": "2026-11-21T15:00:00.000Z",
+   "baslangicUtc": "2026-11-21T14:30:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
@@ -1223,23 +1223,15 @@
   {
    "kanal": "S SPORT",
    "dijital": false,
-   "baslik": "Moto 2",
-   "baslangicUtc": "2026-11-21T16:00:00.000Z",
+   "baslik": "Rayo Vallecano - Valencia",
+   "baslangicUtc": "2026-11-21T15:15:00.000Z",
    "sureDk": null,
    "tur": "belirsiz",
    "macDisi": false,
-   "takimlar": null,
-   "kaynak": "tvplus"
-  },
-  {
-   "kanal": "S SPORT",
-   "dijital": false,
-   "baslik": "Serbest Atış",
-   "baslangicUtc": "2026-11-21T17:00:00.000Z",
-   "sureDk": null,
-   "tur": "tekrar",
-   "macDisi": false,
-   "takimlar": null,
+   "takimlar": [
+    "Rayo Vallecano",
+    "Valencia"
+   ],
    "kaynak": "tvplus"
   },
   {
