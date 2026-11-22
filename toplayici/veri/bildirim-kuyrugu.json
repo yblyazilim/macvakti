@@ -1,3 +1,32 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261122trabzonsporeyüpspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_trabzonspor",
+    "takim_eyüpspor"
+   ],
+   "baslik": "Trabzonspor 1-0 Eyüpspor · Maç sona erdi",
+   "govde": "Süper Lig · 12. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T22:26:34.139Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261122bursasporsivasspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_bursaspor",
+    "takim_sivasspor"
+   ],
+   "baslik": "Bitti: Bursaspor 2-0 Sivasspor",
+   "govde": "1. Lig · 15. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T22:26:34.139Z"
+  }
+ ]
 }
