@@ -1,3 +1,574 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261122erzurumsporgöztepe",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_erzurumspor",
+    "takim_göztepe"
+   ],
+   "baslik": "Bitti: Erzurumspor 0-1 Göztepe",
+   "govde": "Süper Lig · 12. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:SL:20261122kasımpaşaalanyaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_kasımpaşa",
+    "takim_alanyaspor"
+   ],
+   "baslik": "Bitti: Kasımpaşa 2-1 Alanyaspor",
+   "govde": "Süper Lig · 12. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:SL:20261122konyasporbeşiktaş",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_konyaspor",
+    "takim_beşiktaş"
+   ],
+   "baslik": "Konyaspor 2-4 Beşiktaş · Maç sona erdi",
+   "govde": "Süper Lig · 12. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261122batmanpetrolspormuğlaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_batmanpetrolspor",
+    "takim_muğlaspor"
+   ],
+   "baslik": "Bitti: Batman Petrol Spor 2-0 Muğlaspor",
+   "govde": "1. Lig · 15. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261122esenlereroksporantalyaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_esenlererokspor",
+    "takim_antalyaspor"
+   ],
+   "baslik": "Bitti: Esenler Erokspor 2-1 Antalyaspor",
+   "govde": "1. Lig · 15. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261122manisapendiksporfutbol",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_manisa",
+    "takim_pendiksporfutbol"
+   ],
+   "baslik": "Manisa 2-0 Pendikspor Futbol · Maç sona erdi",
+   "govde": "1. Lig · 15. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122pazarsporamasyaspor01",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_pazarspor",
+    "takim_amasyaspor"
+   ],
+   "baslik": "Bitti: Pazarspor 1-2 Amasyaspor",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122zonguldaksporsilivrispor01",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_zonguldakspor",
+    "takim_silivrispor"
+   ],
+   "baslik": "Bitti: Zonguldak Spor 0-0 Silivrispor",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122tokatbelediyefatsabelediyespor01",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_tokatbelediye",
+    "takim_fatsabelediyespor"
+   ],
+   "baslik": "Tokat Belediye 0-0 Fatsa Belediyespor · Maç sona erdi",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122düzcecamdüzcesporkartalbulvarkartali",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_düzcecamdüzcespor",
+    "takim_kartalbulvarkartalimenspor"
+   ],
+   "baslik": "Sona erdi: Düzce Cam Düzcespor 1-0 Kartal Bulvar Kartalimen Spor",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122galataorduspor196701",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97101",
+    "takim_galata",
+    "takim_orduspor1967"
+   ],
+   "baslik": "Bitti: Galata 2-1 Orduspor 1967",
+   "govde": "3. Lig 01 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122söke1970eskişehirspor02",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_söke1970",
+    "takim_eskişehirspor"
+   ],
+   "baslik": "Söke 1970 1-3 Eskişehirspor · Maç sona erdi",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122eskişehiranadolusporfaaliyetleri1922",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_eskişehiranadolusporfaaliyetleri",
+    "takim_1922akşehir"
+   ],
+   "baslik": "Eskişehir Anadolu Spor Faaliyetleri 0-2 1922 Akşehir · Maç sona erdi",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122bigasporbursayıldırım02",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_bigaspor",
+    "takim_bursayıldırım"
+   ],
+   "baslik": "Bigaspor 2-1 Bursa Yıldırım · Maç sona erdi",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122denizliidmanyurdu1959uşakspor02",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_denizliidmanyurdu1959",
+    "takim_uşakspor"
+   ],
+   "baslik": "Sona erdi: Denizli İdmanyurdu 1959 0-2 Uşak Spor",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122ayvalıkgücübelediyesporbalıkesirspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_ayvalıkgücübelediyespor",
+    "takim_balıkesirspor"
+   ],
+   "baslik": "Sona erdi: Ayvalıkgücü Belediyespor 1-5 Balıkesirspor",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122karşıyakaalanya1221futbol02",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97102",
+    "takim_karşıyaka",
+    "takim_alanya1221futbol"
+   ],
+   "baslik": "Karşıyaka 4-1 Alanya 1221 Futbol · Maç sona erdi",
+   "govde": "3. Lig 02 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122ejderoğlukırşehirfutbolyenimersinidm",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_ejderoğlukırşehirfutbol",
+    "takim_yenimersinidmanyurdufutbol"
+   ],
+   "baslik": "Bitti: Ejderoğlu Kırşehir Futbol 2-3 Yeni Mersin İdmanyurdu Futbol",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.770Z"
+  },
+  {
+   "macId": "futbol:tff:3L:202611221964silifkekırıkkale03",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_1964silifke",
+    "takim_kırıkkale"
+   ],
+   "baslik": "Bitti: 1964 Silifke 1-1 Kırıkkale",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122bitlis1916futbolayososmaniyespor03",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_bitlis1916futbol",
+    "takim_ayososmaniyespor"
+   ],
+   "baslik": "Bitti: Bitlis 1916 Futbol 5-0 Ayos Osmaniyespor",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122karamandiyarbekirspor03",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_karaman",
+    "takim_diyarbekirspor"
+   ],
+   "baslik": "Sona erdi: Karaman 1-2 Diyarbekir Spor",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122halilbayraminşaatkaraköprübelediyesp",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_halilbayraminşaatkaraköprübelediyespor",
+    "takim_malatyayeşilyurt"
+   ],
+   "baslik": "Bitti: Halil Bayram İnşaat Karaköprü Belediyespor 0-3 Malatya Yeşilyurt",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122ağrı1970yozgatbelediyesibozokspor03",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_ağrı1970",
+    "takim_yozgatbelediyesibozokspor"
+   ],
+   "baslik": "Bitti: Ağrı 1970 0-1 Yozgat Belediyesi Bozok Spor",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "futbol:tff:3L:20261122niğdebelediyesisporaçıkalınerciyes38",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_97103",
+    "takim_niğdebelediyesispor",
+    "takim_açıkalınerciyes38futbol"
+   ],
+   "baslik": "Bitti: Niğde Belediyesi Spor 3-1 Açıkalın Erciyes 38 Futbol",
+   "govde": "3. Lig 03 Grubu · 1. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3108",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_beşiktaşjimnastik",
+    "takim_sportoto"
+   ],
+   "baslik": "Sona erdi: Beşiktaş Jimnastik 42-25 Spor Toto",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3109",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_trabzonbüyükşehirbel",
+    "takim_güneysuspor"
+   ],
+   "baslik": "Bitti: Trabzon Büyükşehir Bel. 30-31 Güneysuspor",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3110",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_istanbulgençlik",
+    "takim_göztepediyetkapımagelsin"
+   ],
+   "baslik": "İstanbul Gençlik 31-24 Göztepe Diyet Kapıma Gelsin · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3112",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_nilüferbelediyesi",
+    "takim_mihalıççıkbelediyesi"
+   ],
+   "baslik": "Bitti: Nilüfer Belediyesi 25-26 Mihalıççık Belediyesi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3260",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_izmirbşb",
+    "takim_beşiktaşjk"
+   ],
+   "baslik": "İzmir Bşb 31-39 Beşiktaş Jk · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3261",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_1954hendek",
+    "takim_nilüferbelediyesi"
+   ],
+   "baslik": "Sona erdi: 1954 Hendek 41-32 Nilüfer Belediyesi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3262",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_özelidareköroğlu",
+    "takim_aydınptt"
+   ],
+   "baslik": "Bitti: Özel İdare Köroğlu 41-28 Aydın Ptt",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3312",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_sivasiöi",
+    "takim_seyhanbelediye"
+   ],
+   "baslik": "Sona erdi: Sivas İöi 34-34 Seyhan Belediye",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3313",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_diyarbakırbbsk",
+    "takim_ordugsim"
+   ],
+   "baslik": "Bitti: Diyarbakır Bbsk 36-26 Ordu Gsim",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3314",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_taşovabelediyesi",
+    "takim_elazığgençsporilmüd"
+   ],
+   "baslik": "Taşova Belediyesi 67-24 Elazığ Genç. Spor İl Müd. · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:3315",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_sarıçambelediyesi",
+    "takim_1955batmanbelediyesi"
+   ],
+   "baslik": "Sona erdi: Sarıçam Belediyesi 50-43 1955 Batman Belediyesi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:4247",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_vanbüyükşehirbld",
+    "takim_pazaratatürkanadolulisesi"
+   ],
+   "baslik": "Van Büyükşehir Bld 42-33 Pazar Atatürk Anadolu Lisesi · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:4325",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_cizreyıldızlar",
+    "takim_yükselengençlik"
+   ],
+   "baslik": "Cizre Yıldızlar 24-58 Yükselen Gençlik · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:4327",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_eskişehirhentbolperileri",
+    "takim_bolubelediye"
+   ],
+   "baslik": "Bitti: Eskişehir Hentbol Perileri 30-21 Bolu Belediye",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:4329",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_şafaktepe",
+    "takim_ankaragençlikmerkezleri"
+   ],
+   "baslik": "Sona erdi: Şafaktepe 54-29 Ankara Gençlik Merkezleri",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:4330",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_atlashentbol",
+    "takim_esanakümerkez"
+   ],
+   "baslik": "Bitti: Atlas Hentbol 47-21 Esan Akü Merkez",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:4331",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_süleymanpaşabelediye",
+    "takim_çatalcabelediye"
+   ],
+   "baslik": "Süleymanpaşa Belediye 33-28 Çatalca Belediye · Maç sona erdi",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  },
+  {
+   "macId": "hentbol:thf:4333",
+   "tip": "bitti",
+   "konular": [
+    "brans_hentbol",
+    "takim_niğdebelediyegücü",
+    "takim_hentbolmersin"
+   ],
+   "baslik": "Bitti: Niğde Belediye Gücü 43-33 Hentbol Mersin",
+   "govde": "",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-22T17:08:14.771Z"
+  }
+ ]
 }
