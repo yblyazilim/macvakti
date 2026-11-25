@@ -1,9 +1,14 @@
 {
- "kontrolZamani": "2026-11-24T08:54:00.469Z",
- "durum": "sari",
- "hataSayisi": 0,
+ "kontrolZamani": "2026-11-25T03:28:11.011Z",
+ "durum": "kirmizi",
+ "hataSayisi": 1,
  "uyariSayisi": 1,
  "bulgular": [
+  {
+   "seviye": "hata",
+   "baslik": "futbol beklenenden az veri döndü",
+   "detay": "0 maç bulundu, en az 5 bekleniyordu. Ayrıştırıcı kırılmış olabilir."
+  },
   {
    "seviye": "uyari",
    "baslik": "basketbol boş döndü",
@@ -11,14 +16,13 @@
   }
  ],
  "ozet": {
-  "toplamMac": 230,
+  "toplamMac": 18,
   "bransBazinda": {
-   "futbol": 212,
    "hentbol": 18
   },
-  "veriYasiDk": 4,
-  "yayinProgram": 1191,
-  "yaklasanMac": 1,
+  "veriYasiDk": 0,
+  "yayinProgram": 1020,
+  "yaklasanMac": 2,
   "kanalliYaklasan": 0
  }
 }

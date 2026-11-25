@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-11-24T08:54:00.425Z",
+ "guncellendi": "2026-11-25T03:28:10.977Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 304,
+ "takimSayisi": 301,
  "branslar": [
   {
    "k": "basketbol",
@@ -191,7 +191,6 @@
      "ad": "1. Lig",
      "takimlar": [
       "antalyaspor",
-      "artidegervanspor",
       "bandirmaspor",
       "batmanpetrolspor",
       "bodrum",
@@ -211,31 +210,6 @@
       "smsgrupsariyer",
       "umraniyespor",
       "vanspor"
-     ]
-    },
-    {
-     "id": "971-01",
-     "ad": "3. Lig 01 Grubu",
-     "takimlar": [
-      "amasyaspor",
-      "beykozanadoluspor",
-      "beykozishaklisporfaaliyetleri",
-      "buyukcekmecegucufkspor",
-      "duzcecamduzcespor",
-      "fatsabelediyespor",
-      "galata",
-      "golcukspor",
-      "inkilapfutbol",
-      "karabukidmanyurduspor",
-      "kartalbulvarkartalimenspor",
-      "kdzeregli1980",
-      "kucukcekmecesinopspor",
-      "orduspor1967",
-      "pazarspor",
-      "silivrispor",
-      "tokatbelediye",
-      "yalovafk77",
-      "zonguldakspor"
      ]
     },
     {
@@ -284,6 +258,30 @@
       "sakaryaspor",
       "seriksporfutbol",
       "sultansuinegolspor"
+     ]
+    },
+    {
+     "id": "971-01",
+     "ad": "3. Lig 01 Grubu",
+     "takimlar": [
+      "amasyaspor",
+      "beykozanadoluspor",
+      "beykozishaklisporfaaliyetleri",
+      "duzcecamduzcespor",
+      "fatsabelediyespor",
+      "galata",
+      "golcukspor",
+      "inkilapfutbol",
+      "karabukidmanyurduspor",
+      "kartalbulvarkartalimenspor",
+      "kdzeregli1980",
+      "kucukcekmecesinopspor",
+      "orduspor1967",
+      "pazarspor",
+      "silivrispor",
+      "tokatbelediye",
+      "yalovafk77",
+      "zonguldakspor"
      ]
     },
     {
@@ -372,7 +370,6 @@
       "giresunsanayispor",
       "hakkarigucuspor",
       "haymana",
-      "karademirgrupkayserikadin",
       "kayserikadin",
       "safimclbentonitunyekadin",
       "silebilgidogasportifyatirimhizmetleri",
@@ -3190,15 +3187,6 @@
     "basketbol:tbf-KBBL"
    ]
   },
-  "buyukcekmecegucufkspor": {
-   "ad": "Büyükçekmece Gücü Fk Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:971-01"
-   ]
-  },
   "ankaradsi": {
    "ad": "Ankara Dsi",
    "branslar": [
@@ -3374,15 +3362,6 @@
     "hentbol:diger"
    ]
   },
-  "artidegervanspor": {
-   "ad": "Artı Değer Van Spor",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:142"
-   ]
-  },
   "niluferbelediyesi": {
    "ad": "Nilüfer Belediyesi",
    "branslar": [
@@ -3543,15 +3522,6 @@
    ],
    "ligler": [
     "hentbol:diger"
-   ]
-  },
-  "karademirgrupkayserikadin": {
-   "ad": "Karademir Grup Kayseri Kadın",
-   "branslar": [
-    "futbol"
-   ],
-   "ligler": [
-    "futbol:1000"
    ]
   }
  }
