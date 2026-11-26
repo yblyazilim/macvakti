@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-26T14:08:11.612Z",
+ "guncellendi": "2026-11-26T23:02:11.063Z",
  "surum": 1,
  "bransSayisi": 3,
  "takimSayisi": 304,
@@ -392,7 +392,6 @@
      "ad": "Diğer",
      "takimlar": [
       "1955batmanbelediyesi",
-      "ankaradsi",
       "aydinptt",
       "besiktasjk",
       "beykozbelediyesi",
@@ -406,7 +405,6 @@
       "kapadokyaanadoluatletizm",
       "karatekinidmanyurdu",
       "kocaeligenclikvesporilmudurlugu",
-      "konyagsim",
       "marmarapendikhentbol",
       "mihaliccikbelediyesi",
       "niluferbelediyesi",
@@ -423,8 +421,10 @@
       "trabzonbbsk",
       "trabzonbuyuksehirbel",
       "turangrupirmak",
+      "turkiye",
       "vakfikebiratletik",
       "vanbuyuksehirbld",
+      "yunanistan",
       "zonguldakgencliksporilmud"
      ]
     }
@@ -3199,28 +3199,6 @@
     "futbol:971-01"
    ]
   },
-  "ankaradsi": {
-   "ad": "Ankara Dsi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ],
-   "kunye": {
-    "kurulus": 1960,
-    "sehir": "Ankara"
-   }
-  },
-  "konyagsim": {
-   "ad": "Konya Gsim",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "mihaliccikbelediyesi": {
    "ad": "Mihalıççık Belediyesi",
    "branslar": [
@@ -3538,6 +3516,24 @@
   },
   "ozelidarekoroglu": {
    "ad": "Özel İdare Köroğlu",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "turkiye": {
+   "ad": "Türkiye",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ]
+  },
+  "yunanistan": {
+   "ad": "Yunanistan",
    "branslar": [
     "hentbol"
    ],
