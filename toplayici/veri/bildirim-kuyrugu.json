@@ -1,3 +1,60 @@
 {
- "bekleyen": []
+ "bekleyen": [
+  {
+   "macId": "futbol:tff:SL:20261127alanyasporkonyaspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_alanyaspor",
+    "takim_konyaspor"
+   ],
+   "baslik": "Alanyaspor 1-2 Konyaspor · Maç sona erdi",
+   "govde": "Süper Lig · 13. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-27T23:11:39.865Z"
+  },
+  {
+   "macId": "futbol:tff:SL:20261127rizesporkasımpaşa",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_198",
+    "takim_rizespor",
+    "takim_kasımpaşa"
+   ],
+   "baslik": "Bitti: Rizespor 3-2 Kasımpaşa",
+   "govde": "Süper Lig · 13. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-27T23:11:39.866Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261127smsgrupsarıyeristanbulspor",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_smsgrupsarıyer",
+    "takim_istanbulspor"
+   ],
+   "baslik": "Sms Grup Sarıyer 1-0 İstanbulspor · Maç sona erdi",
+   "govde": "1. Lig · 16. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-27T23:11:39.866Z"
+  },
+  {
+   "macId": "futbol:tff:1L:20261127ümraniyespormanisa",
+   "tip": "bitti",
+   "konular": [
+    "brans_futbol",
+    "lig_futbol_142",
+    "takim_ümraniyespor",
+    "takim_manisa"
+   ],
+   "baslik": "Sona erdi: Ümraniyespor 2-2 Manisa",
+   "govde": "1. Lig · 16. Hafta",
+   "oncelik": "dusuk",
+   "uretildi": "2026-11-27T23:11:39.866Z"
+  }
+ ]
 }

@@ -1,8 +1,8 @@
 {
- "guncellendi": "2026-11-27T14:58:29.284Z",
+ "guncellendi": "2026-11-27T23:11:50.509Z",
  "surum": 1,
  "bransSayisi": 3,
- "takimSayisi": 304,
+ "takimSayisi": 303,
  "branslar": [
   {
    "k": "basketbol",
@@ -393,20 +393,19 @@
      "takimlar": [
       "1955batmanbelediyesi",
       "aydinptt",
+      "besiktasjimnastik",
       "besiktasjk",
       "beykozbelediyesi",
       "candarbey",
       "diyarbakirbbsk",
       "elaziggencsporilmud",
       "giresunspor",
-      "goztepediyetkapimagelsin",
       "istanbulgenclik",
       "izmirbsb",
       "kapadokyaanadoluatletizm",
       "karatekinidmanyurdu",
       "kocaeligenclikvesporilmudurlugu",
       "marmarapendikhentbol",
-      "mihaliccikbelediyesi",
       "niluferbelediyesi",
       "ordugsim",
       "ozelidarekoroglu",
@@ -3199,24 +3198,6 @@
     "futbol:971-01"
    ]
   },
-  "mihaliccikbelediyesi": {
-   "ad": "Mihalıççık Belediyesi",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
-  "goztepediyetkapimagelsin": {
-   "ad": "Göztepe Diyet Kapıma Gelsin",
-   "branslar": [
-    "hentbol"
-   ],
-   "ligler": [
-    "hentbol:diger"
-   ]
-  },
   "vanbuyuksehirbld": {
    "ad": "Van Büyükşehir Bld",
    "branslar": [
@@ -3540,6 +3521,20 @@
    "ligler": [
     "hentbol:diger"
    ]
+  },
+  "besiktasjimnastik": {
+   "ad": "Beşiktaş Jimnastik",
+   "branslar": [
+    "hentbol"
+   ],
+   "ligler": [
+    "hentbol:diger"
+   ],
+   "kunye": {
+    "kurulus": 1903,
+    "sehir": "İstanbul",
+    "stat": "Beşiktaş Stadyumu"
+   }
   },
   "karademirgrupkayserikadin": {
    "ad": "Karademir Grup Kayseri Kadın",
