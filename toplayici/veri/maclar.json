@@ -1,5 +1,5 @@
 {
- "guncellendi": "2026-11-28T04:48:59.513Z",
+ "guncellendi": "2026-11-28T13:50:48.593Z",
  "surum": 1,
  "adet": 230,
  "rapor": {
@@ -21,22 +21,32 @@
   },
   "yayinAkisi": {
    "durum": "tamam",
-   "program": 1344,
-   "eslesen": 5,
+   "program": 1100,
+   "eslesen": 4,
    "caprazDogrulanan": 0,
    "kaynaklar": {
-    "onbellek": true,
-    "bayat": false,
-    "yasDk": 337,
-    "sebep": "sakin-donem"
+    "digiturk": {
+     "durum": "bos",
+     "adet": 0,
+     "ornek": null
+    },
+    "tvplus": {
+     "durum": "tamam",
+     "adet": 1100,
+     "ornek": {
+      "kanal": "A SPOR HD",
+      "baslik": "Artı Futbol",
+      "baslangic": "2026-11-28T00:00:00.000Z"
+     }
+    }
    }
   },
   "kanalOzet": {
    "toplam": 230,
    "elle": 0,
-   "yayinAkisi": 5,
+   "yayinAkisi": 4,
    "kaynak": 0,
-   "kural": 52,
+   "kural": 53,
    "yok": 173,
    "dijital": 0
   }
@@ -65,7 +75,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.420Z",
+   "guncellendi": "2026-11-28T13:38:29.388Z",
    "kaynak": "tff"
   },
   {
@@ -91,7 +101,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.420Z",
+   "guncellendi": "2026-11-28T13:38:29.388Z",
    "kaynak": "tff"
   },
   {
@@ -117,7 +127,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.420Z",
+   "guncellendi": "2026-11-28T13:38:29.388Z",
    "kaynak": "tff"
   },
   {
@@ -143,7 +153,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:56.432Z",
+   "guncellendi": "2026-11-28T13:38:33.329Z",
    "kaynak": "tff"
   },
   {
@@ -169,7 +179,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:56.432Z",
+   "guncellendi": "2026-11-28T13:38:33.329Z",
    "kaynak": "tff"
   },
   {
@@ -195,7 +205,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:56.432Z",
+   "guncellendi": "2026-11-28T13:38:33.330Z",
    "kaynak": "tff"
   },
   {
@@ -221,7 +231,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:56.432Z",
+   "guncellendi": "2026-11-28T13:38:33.330Z",
    "kaynak": "tff"
   },
   {
@@ -247,7 +257,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.600Z",
+   "guncellendi": "2026-11-28T13:38:30.953Z",
    "kaynak": "tff"
   },
   {
@@ -273,7 +283,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.420Z",
+   "guncellendi": "2026-11-28T13:38:29.389Z",
    "kaynak": "tff"
   },
   {
@@ -299,7 +309,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.411Z",
+   "guncellendi": "2026-11-28T13:38:31.473Z",
    "kaynak": "tff"
   },
   {
@@ -325,7 +335,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.029Z",
+   "guncellendi": "2026-11-28T13:38:28.856Z",
    "kaynak": "tff"
   },
   {
@@ -351,7 +361,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.029Z",
+   "guncellendi": "2026-11-28T13:38:28.857Z",
    "kaynak": "tff"
   },
   {
@@ -377,7 +387,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.420Z",
+   "guncellendi": "2026-11-28T13:38:29.389Z",
    "kaynak": "tff"
   },
   {
@@ -403,7 +413,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.420Z",
+   "guncellendi": "2026-11-28T13:38:29.389Z",
    "kaynak": "tff"
   },
   {
@@ -429,7 +439,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.421Z",
+   "guncellendi": "2026-11-28T13:38:29.389Z",
    "kaynak": "tff"
   },
   {
@@ -455,7 +465,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.411Z",
+   "guncellendi": "2026-11-28T13:38:31.473Z",
    "kaynak": "tff"
   },
   {
@@ -481,7 +491,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.411Z",
+   "guncellendi": "2026-11-28T13:38:31.473Z",
    "kaynak": "tff"
   },
   {
@@ -507,7 +517,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.029Z",
+   "guncellendi": "2026-11-28T13:38:28.857Z",
    "kaynak": "tff"
   },
   {
@@ -533,7 +543,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.412Z",
+   "guncellendi": "2026-11-28T13:38:31.474Z",
    "kaynak": "tff"
   },
   {
@@ -559,7 +569,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.412Z",
+   "guncellendi": "2026-11-28T13:38:31.474Z",
    "kaynak": "tff"
   },
   {
@@ -585,7 +595,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:56.432Z",
+   "guncellendi": "2026-11-28T13:38:33.330Z",
    "kaynak": "tff"
   },
   {
@@ -611,7 +621,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:56.433Z",
+   "guncellendi": "2026-11-28T13:38:33.330Z",
    "kaynak": "tff"
   },
   {
@@ -637,7 +647,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.030Z",
+   "guncellendi": "2026-11-28T13:38:28.857Z",
    "kaynak": "tff"
   },
   {
@@ -663,7 +673,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:56.433Z",
+   "guncellendi": "2026-11-28T13:38:33.331Z",
    "kaynak": "tff"
   },
   {
@@ -689,7 +699,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:56.433Z",
+   "guncellendi": "2026-11-28T13:38:33.331Z",
    "kaynak": "tff"
   },
   {
@@ -715,7 +725,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:56.433Z",
+   "guncellendi": "2026-11-28T13:38:33.331Z",
    "kaynak": "tff"
   },
   {
@@ -741,7 +751,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.030Z",
+   "guncellendi": "2026-11-28T13:38:28.857Z",
    "kaynak": "tff"
   },
   {
@@ -767,7 +777,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.030Z",
+   "guncellendi": "2026-11-28T13:38:28.858Z",
    "kaynak": "tff"
   },
   {
@@ -793,7 +803,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.600Z",
+   "guncellendi": "2026-11-28T13:38:30.954Z",
    "kaynak": "tff"
   },
   {
@@ -819,7 +829,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.600Z",
+   "guncellendi": "2026-11-28T13:38:30.954Z",
    "kaynak": "tff"
   },
   {
@@ -845,7 +855,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.412Z",
+   "guncellendi": "2026-11-28T13:38:31.474Z",
    "kaynak": "tff"
   },
   {
@@ -871,7 +881,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.030Z",
+   "guncellendi": "2026-11-28T13:38:28.858Z",
    "kaynak": "tff"
   },
   {
@@ -897,7 +907,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.030Z",
+   "guncellendi": "2026-11-28T13:38:28.858Z",
    "kaynak": "tff"
   },
   {
@@ -923,7 +933,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.601Z",
+   "guncellendi": "2026-11-28T13:38:30.954Z",
    "kaynak": "tff"
   },
   {
@@ -949,7 +959,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.601Z",
+   "guncellendi": "2026-11-28T13:38:30.954Z",
    "kaynak": "tff"
   },
   {
@@ -975,7 +985,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.421Z",
+   "guncellendi": "2026-11-28T13:38:29.390Z",
    "kaynak": "tff"
   },
   {
@@ -1001,7 +1011,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.421Z",
+   "guncellendi": "2026-11-28T13:38:29.390Z",
    "kaynak": "tff"
   },
   {
@@ -1027,7 +1037,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.412Z",
+   "guncellendi": "2026-11-28T13:38:31.474Z",
    "kaynak": "tff"
   },
   {
@@ -1053,7 +1063,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.412Z",
+   "guncellendi": "2026-11-28T13:38:31.475Z",
    "kaynak": "tff"
   },
   {
@@ -1079,7 +1089,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.601Z",
+   "guncellendi": "2026-11-28T13:38:30.955Z",
    "kaynak": "tff"
   },
   {
@@ -1105,7 +1115,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.030Z",
+   "guncellendi": "2026-11-28T13:38:28.858Z",
    "kaynak": "tff"
   },
   {
@@ -1131,7 +1141,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.601Z",
+   "guncellendi": "2026-11-28T13:38:30.955Z",
    "kaynak": "tff"
   },
   {
@@ -1157,7 +1167,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.601Z",
+   "guncellendi": "2026-11-28T13:38:30.955Z",
    "kaynak": "tff"
   },
   {
@@ -1183,7 +1193,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.412Z",
+   "guncellendi": "2026-11-28T13:38:31.475Z",
    "kaynak": "tff"
   },
   {
@@ -1209,7 +1219,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:57.253Z",
+   "guncellendi": "2026-11-28T13:38:34.412Z",
    "kaynak": "tff"
   },
   {
@@ -1235,7 +1245,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.184Z",
+   "guncellendi": "2026-11-28T13:38:31.948Z",
    "kaynak": "tff"
   },
   {
@@ -1261,7 +1271,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.636Z",
+   "guncellendi": "2026-11-28T13:38:29.915Z",
    "kaynak": "tff"
   },
   {
@@ -1287,7 +1297,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:54.022Z",
+   "guncellendi": "2026-11-28T13:38:32.313Z",
    "kaynak": "tff"
   },
   {
@@ -1313,7 +1323,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:57.253Z",
+   "guncellendi": "2026-11-28T13:38:34.413Z",
    "kaynak": "tff"
   },
   {
@@ -1339,7 +1349,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.758Z",
+   "guncellendi": "2026-11-28T13:38:29.773Z",
    "kaynak": "tff"
   },
   {
@@ -1365,7 +1375,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.637Z",
+   "guncellendi": "2026-11-28T13:38:29.916Z",
    "kaynak": "tff"
   },
   {
@@ -1391,7 +1401,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:54.022Z",
+   "guncellendi": "2026-11-28T13:38:32.313Z",
    "kaynak": "tff"
   },
   {
@@ -1417,7 +1427,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:54.022Z",
+   "guncellendi": "2026-11-28T13:38:32.313Z",
    "kaynak": "tff"
   },
   {
@@ -1443,7 +1453,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:54.022Z",
+   "guncellendi": "2026-11-28T13:38:32.313Z",
    "kaynak": "tff"
   },
   {
@@ -1469,7 +1479,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.759Z",
+   "guncellendi": "2026-11-28T13:38:29.773Z",
    "kaynak": "tff"
   },
   {
@@ -1495,7 +1505,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.759Z",
+   "guncellendi": "2026-11-28T13:38:29.773Z",
    "kaynak": "tff"
   },
   {
@@ -1521,7 +1531,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.759Z",
+   "guncellendi": "2026-11-28T13:38:29.773Z",
    "kaynak": "tff"
   },
   {
@@ -1547,7 +1557,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.184Z",
+   "guncellendi": "2026-11-28T13:38:31.948Z",
    "kaynak": "tff"
   },
   {
@@ -1573,7 +1583,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.637Z",
+   "guncellendi": "2026-11-28T13:38:29.916Z",
    "kaynak": "tff"
   },
   {
@@ -1599,7 +1609,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:57.253Z",
+   "guncellendi": "2026-11-28T13:38:34.413Z",
    "kaynak": "tff"
   },
   {
@@ -1625,7 +1635,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.184Z",
+   "guncellendi": "2026-11-28T13:38:31.948Z",
    "kaynak": "tff"
   },
   {
@@ -1651,7 +1661,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.184Z",
+   "guncellendi": "2026-11-28T13:38:31.949Z",
    "kaynak": "tff"
   },
   {
@@ -1677,7 +1687,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.637Z",
+   "guncellendi": "2026-11-28T13:38:29.916Z",
    "kaynak": "tff"
   },
   {
@@ -1703,7 +1713,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:57.253Z",
+   "guncellendi": "2026-11-28T13:38:34.413Z",
    "kaynak": "tff"
   },
   {
@@ -1729,7 +1739,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:57.254Z",
+   "guncellendi": "2026-11-28T13:38:34.413Z",
    "kaynak": "tff"
   },
   {
@@ -1755,7 +1765,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:57.254Z",
+   "guncellendi": "2026-11-28T13:38:34.414Z",
    "kaynak": "tff"
   },
   {
@@ -1781,7 +1791,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.759Z",
+   "guncellendi": "2026-11-28T13:38:29.773Z",
    "kaynak": "tff"
   },
   {
@@ -1807,7 +1817,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.759Z",
+   "guncellendi": "2026-11-28T13:38:29.774Z",
    "kaynak": "tff"
   },
   {
@@ -1833,7 +1843,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.759Z",
+   "guncellendi": "2026-11-28T13:38:29.774Z",
    "kaynak": "tff"
   },
   {
@@ -1859,7 +1869,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:54.023Z",
+   "guncellendi": "2026-11-28T13:38:32.314Z",
    "kaynak": "tff"
   },
   {
@@ -1885,7 +1895,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:54.023Z",
+   "guncellendi": "2026-11-28T13:38:32.314Z",
    "kaynak": "tff"
   },
   {
@@ -1911,7 +1921,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:54.023Z",
+   "guncellendi": "2026-11-28T13:38:32.314Z",
    "kaynak": "tff"
   },
   {
@@ -1937,7 +1947,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:57.254Z",
+   "guncellendi": "2026-11-28T13:38:34.414Z",
    "kaynak": "tff"
   },
   {
@@ -1963,7 +1973,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:57.254Z",
+   "guncellendi": "2026-11-28T13:38:34.414Z",
    "kaynak": "tff"
   },
   {
@@ -1989,7 +1999,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:57.254Z",
+   "guncellendi": "2026-11-28T13:38:34.414Z",
    "kaynak": "tff"
   },
   {
@@ -2015,7 +2025,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.760Z",
+   "guncellendi": "2026-11-28T13:38:29.774Z",
    "kaynak": "tff"
   },
   {
@@ -2041,7 +2051,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.184Z",
+   "guncellendi": "2026-11-28T13:38:31.949Z",
    "kaynak": "tff"
   },
   {
@@ -2067,7 +2077,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.184Z",
+   "guncellendi": "2026-11-28T13:38:31.949Z",
    "kaynak": "tff"
   },
   {
@@ -2093,7 +2103,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.185Z",
+   "guncellendi": "2026-11-28T13:38:31.949Z",
    "kaynak": "tff"
   },
   {
@@ -2119,7 +2129,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.637Z",
+   "guncellendi": "2026-11-28T13:38:29.916Z",
    "kaynak": "tff"
   },
   {
@@ -2145,7 +2155,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.637Z",
+   "guncellendi": "2026-11-28T13:38:29.916Z",
    "kaynak": "tff"
   },
   {
@@ -2171,7 +2181,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.637Z",
+   "guncellendi": "2026-11-28T13:38:29.917Z",
    "kaynak": "tff"
   },
   {
@@ -2197,7 +2207,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.638Z",
+   "guncellendi": "2026-11-28T13:38:29.917Z",
    "kaynak": "tff"
   },
   {
@@ -2223,7 +2233,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:50.760Z",
+   "guncellendi": "2026-11-28T13:38:29.774Z",
    "kaynak": "tff"
   },
   {
@@ -2249,7 +2259,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:53.185Z",
+   "guncellendi": "2026-11-28T13:38:31.950Z",
    "kaynak": "tff"
   },
   {
@@ -2275,7 +2285,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.638Z",
+   "guncellendi": "2026-11-28T13:38:29.917Z",
    "kaynak": "tff"
   },
   {
@@ -2301,7 +2311,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:54.023Z",
+   "guncellendi": "2026-11-28T13:38:32.314Z",
    "kaynak": "tff"
   },
   {
@@ -2327,917 +2337,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:54.023Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261121inkılapfutbolyalovafk7701",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "ligId": "971-01",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-21T10:00:00.000Z",
-   "evSahibi": "İnkılap Futbol",
-   "deplasman": "Yalova Fk 77",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.801Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261121büyükçekmecegücüfksporgölcükspor01",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "ligId": "971-01",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-21T10:00:00.000Z",
-   "evSahibi": "Büyükçekmece Gücü Fk Spor",
-   "deplasman": "Gölcükspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 2,
-   "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.801Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261121küçükçekmecesinopsporkdzereğli198001",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "ligId": "971-01",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-21T10:00:00.000Z",
-   "evSahibi": "Küçükçekmece Sinop Spor",
-   "deplasman": "Kdz.Ereğli 1980",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 4,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.801Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261121kepezsporfutboletimesgut02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "ligId": "971-02",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-21T10:00:00.000Z",
-   "evSahibi": "Kepez Spor Futbol",
-   "deplasman": "Etimesgut",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.560Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261121gemliksümerbeyfutbolsporbucaspor1928",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "ligId": "971-02",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-21T10:00:00.000Z",
-   "evSahibi": "Gemlik Sümerbey Futbol Spor",
-   "deplasman": "Bucaspor 1928",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 8,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.560Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261121karabükidmanyurdusporbeykozanadolusp",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "ligId": "971-01",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-21T12:30:00.000Z",
-   "evSahibi": "Karabük İdmanyurdu Spor",
-   "deplasman": "Beykoz Anadolu Spor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 3,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.801Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261121gaziemirgogsporyataltay02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "ligId": "971-02",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-21T16:00:00.000Z",
-   "evSahibi": "Gaziemir G.O.G. Spor Yat.",
-   "deplasman": "Altay",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 2,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.560Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122somasporsezaçimentoelazığsporbeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "ligId": "976-Beyaz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Somaspor",
-   "deplasman": "Seza Çimento Elazığspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 4,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.400Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122muşhataysporbeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "ligId": "976-Beyaz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Muş",
-   "deplasman": "Hatayspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 5,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.401Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122sebatgüzidegebzebeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "ligId": "976-Beyaz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Sebat",
-   "deplasman": "Güzide Gebze",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 3,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.401Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:2026112268aksaraybelediyesporısbaşısparta32b",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "ligId": "976-Beyaz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "68 Aksaray Belediye Spor",
-   "deplasman": "Isbaş Isparta 32",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.401Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122adanademirsporaliağafutbolbeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "ligId": "976-Beyaz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Adana Demirspor",
-   "deplasman": "Aliağa Futbol",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.401Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122gmgkastamonusporeforçayerbaasporbeya",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "ligId": "976-Beyaz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Gmg Kastamonuspor",
-   "deplasman": "Efor Çay Erbaaspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 0,
-   "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.402Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122ankarasporçorluspor1947beyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "ligId": "976-Beyaz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Ankaraspor",
-   "deplasman": "Çorlu Spor 1947",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 2,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.402Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122kütahyasporfutbolkct1461trabzonkırmı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "ligId": "976-Krmz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Kütahyaspor Futbol",
-   "deplasman": "Kct 1461 Trabzon",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.675Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122kırklarelisporfethiyesporkırmızı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "ligId": "976-Krmz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Kırklarelispor",
-   "deplasman": "Fethiyespor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 5,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.675Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122akedaşkahramanmaraşistiklalsporadana",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "ligId": "976-Krmz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Akedaş Kahramanmaraş İstiklal Spor",
-   "deplasman": "Adana 01",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 2,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.675Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122pazarsporamasyaspor01",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "ligId": "971-01",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Pazarspor",
-   "deplasman": "Amasyaspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 2,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.801Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122zonguldaksporsilivrispor01",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "ligId": "971-01",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Zonguldak Spor",
-   "deplasman": "Silivrispor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 0,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.801Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122tokatbelediyefatsabelediyespor01",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "ligId": "971-01",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Tokat Belediye",
-   "deplasman": "Fatsa Belediyespor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 0,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.802Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122düzcecamdüzcesporkartalbulvarkartali",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "ligId": "971-01",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Düzce Cam Düzcespor",
-   "deplasman": "Kartal Bulvar Kartalimen Spor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.802Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122söke1970eskişehirspor02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "ligId": "971-02",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Söke 1970",
-   "deplasman": "Eskişehirspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.561Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122eskişehiranadolusporfaaliyetleri1922",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "ligId": "971-02",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T10:00:00.000Z",
-   "evSahibi": "Eskişehir Anadolu Spor Faaliyetleri",
-   "deplasman": "1922 Akşehir",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 0,
-   "skorDep": 2,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.561Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122menemenşanlıurfasporbeyaz",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "ligId": "976-Beyaz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T11:00:00.000Z",
-   "evSahibi": "Menemen",
-   "deplasman": "Şanlıurfaspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.402Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122erzincanfutbolyatırımlarıkaracabeybe",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "ligId": "976-Krmz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T11:00:00.000Z",
-   "evSahibi": "Erzincan Futbol Yatırımları",
-   "deplasman": "Karacabey Belediye Spor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 2,
-   "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.676Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122ekincileriskenderunsporankaragücükır",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "ligId": "976-Krmz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T11:00:00.000Z",
-   "evSahibi": "Ekinciler İskenderunspor",
-   "deplasman": "Ankaragücü",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 0,
-   "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.676Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122inegölkafkasarkentarnavutköybelediye",
-   "brans": "futbol",
-   "lig": "2. Lig Beyaz Grubu",
-   "ligId": "976-Beyaz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T12:00:00.000Z",
-   "evSahibi": "İnegöl Kafkas",
-   "deplasman": "Arkent Arnavutköy Belediyesi Futbol",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 4,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.402Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122beyoğluyeniçarşısporfaaliyetlerisult",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "ligId": "976-Krmz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T12:00:00.000Z",
-   "evSahibi": "Beyoğlu Yeni Çarşı Spor Faaliyetleri",
-   "deplasman": "Sultan Su İnegölspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 4,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.676Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122galataorduspor196701",
-   "brans": "futbol",
-   "lig": "3. Lig 01 Grubu",
-   "ligId": "971-01",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T12:00:00.000Z",
-   "evSahibi": "Galata",
-   "deplasman": "Orduspor 1967",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 2,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:49.802Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122bigasporbursayıldırım02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "ligId": "971-02",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T12:00:00.000Z",
-   "evSahibi": "Bigaspor",
-   "deplasman": "Bursa Yıldırım",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 2,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.561Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122denizliidmanyurdu1959uşakspor02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "ligId": "971-02",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T12:00:00.000Z",
-   "evSahibi": "Denizli İdmanyurdu 1959",
-   "deplasman": "Uşak Spor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 0,
-   "skorDep": 2,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.561Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122ayvalıkgücübelediyesporbalıkesirspor",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "ligId": "971-02",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T12:00:00.000Z",
-   "evSahibi": "Ayvalıkgücü Belediyespor",
-   "deplasman": "Balıkesirspor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 1,
-   "skorDep": 5,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.561Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:3L:20261122karşıyakaalanya1221futbol02",
-   "brans": "futbol",
-   "lig": "3. Lig 02 Grubu",
-   "ligId": "971-02",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T12:00:00.000Z",
-   "evSahibi": "Karşıyaka",
-   "deplasman": "Alanya 1221 Futbol",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 4,
-   "skorDep": 1,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:52.561Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:2026112252orduspor12bingölsporkırmızı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "ligId": "976-Krmz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T12:30:00.000Z",
-   "evSahibi": "52 Orduspor",
-   "deplasman": "12 Bingöl Spor",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 2,
-   "skorDep": 3,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.676Z",
-   "kaynak": "tff"
-  },
-  {
-   "id": "futbol:tff:2L:20261122sakaryasporseriksporfutbolkırmızı",
-   "brans": "futbol",
-   "lig": "2. Lig Kırmızı Grubu",
-   "ligId": "976-Krmz",
-   "sezon": "2026-2027",
-   "hafta": "1. Hafta",
-   "baslangicUtc": "2026-11-22T12:30:00.000Z",
-   "evSahibi": "Sakaryaspor",
-   "deplasman": "Serik Spor Futbol",
-   "mekan": "",
-   "sehir": "",
-   "hakem": "",
-   "durum": "bitti",
-   "skorEv": 4,
-   "skorDep": 0,
-   "kanallar": [],
-   "kanalKaynak": "",
-   "kanalGuven": 0,
-   "kanalDogrulayan": 0,
-   "dijitalYayin": false,
-   "kadroHazir": false,
-   "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:51.676Z",
+   "guncellendi": "2026-11-28T13:38:32.314Z",
    "kaynak": "tff"
   },
   {
@@ -3263,7 +2363,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:55.405Z",
+   "guncellendi": "2026-11-28T13:38:33.149Z",
    "kaynak": "tff"
   },
   {
@@ -3291,7 +2391,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.558Z",
+   "guncellendi": "2026-11-28T13:38:26.213Z",
    "kaynak": "tff"
   },
   {
@@ -3319,7 +2419,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.558Z",
+   "guncellendi": "2026-11-28T13:38:26.213Z",
    "kaynak": "tff"
   },
   {
@@ -3348,7 +2448,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.565Z",
+   "guncellendi": "2026-11-28T13:38:26.003Z",
    "kaynak": "tff"
   },
   {
@@ -3368,15 +2468,250 @@
    "skorEv": 2,
    "skorDep": 2,
    "kanallar": [
-    "TRT SPOR HD"
+    "beIN Sports",
+    "TRT Spor"
    ],
-   "kanalKaynak": "yayin-akisi",
-   "kanalGuven": 100,
-   "kanalDogrulayan": 1,
+   "kanalKaynak": "kural",
+   "kanalGuven": 50,
+   "kanalDogrulayan": 0,
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.565Z",
+   "guncellendi": "2026-11-28T13:38:26.003Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261128şanlıurfasporsomasporbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "ligId": "976-Beyaz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T10:00:00.000Z",
+   "evSahibi": "Şanlıurfaspor",
+   "deplasman": "Somaspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bitti",
+   "skorEv": 3,
+   "skorDep": 2,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.635Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261128ısbaşısparta32inegölkafkasbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "ligId": "976-Beyaz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T10:00:00.000Z",
+   "evSahibi": "Isbaş Isparta 32",
+   "deplasman": "İnegöl Kafkas",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bitti",
+   "skorEv": 1,
+   "skorDep": 1,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.635Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261128hataysporankarasporbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "ligId": "976-Beyaz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T10:00:00.000Z",
+   "evSahibi": "Hatayspor",
+   "deplasman": "Ankaraspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bitti",
+   "skorEv": 0,
+   "skorDep": 4,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.636Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261128sultansuinegölsporerzincanfutbolyatı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "ligId": "976-Krmz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T10:00:00.000Z",
+   "evSahibi": "Sultan Su İnegölspor",
+   "deplasman": "Erzincan Futbol Yatırımları",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bitti",
+   "skorEv": 1,
+   "skorDep": 3,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.837Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261128karacabeybelediyesporsakaryasporkırm",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "ligId": "976-Krmz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T10:00:00.000Z",
+   "evSahibi": "Karacabey Belediye Spor",
+   "deplasman": "Sakaryaspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bitti",
+   "skorEv": 2,
+   "skorDep": 2,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.837Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261128seriksporfutbol52ordusporkırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "ligId": "976-Krmz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T10:00:00.000Z",
+   "evSahibi": "Serik Spor Futbol",
+   "deplasman": "52 Orduspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bitti",
+   "skorEv": 1,
+   "skorDep": 3,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.837Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261128amasyasporküçükçekmecesinopspor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "ligId": "971-01",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T10:00:00.000Z",
+   "evSahibi": "Amasyaspor",
+   "deplasman": "Küçükçekmece Sinop Spor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bitti",
+   "skorEv": 1,
+   "skorDep": 0,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.727Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261128orduspor1967inkılapfutbol01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "ligId": "971-01",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T10:00:00.000Z",
+   "evSahibi": "Orduspor 1967",
+   "deplasman": "İnkılap Futbol",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bitti",
+   "skorEv": 1,
+   "skorDep": 0,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.727Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261128alanya1221futbolgemliksümerbeyfutbol",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "ligId": "971-02",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T10:00:00.000Z",
+   "evSahibi": "Alanya 1221 Futbol",
+   "deplasman": "Gemlik Sümerbey Futbol Spor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bitti",
+   "skorEv": 2,
+   "skorDep": 1,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.757Z",
    "kaynak": "tff"
   },
   {
@@ -3392,9 +2727,9 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
+   "durum": "bitti",
+   "skorEv": 2,
+   "skorDep": 1,
    "kanallar": [],
    "kanalKaynak": "",
    "kanalGuven": 0,
@@ -3402,7 +2737,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:55.405Z",
+   "guncellendi": "2026-11-28T13:38:33.149Z",
    "kaynak": "tff"
   },
   {
@@ -3418,9 +2753,9 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
+   "durum": "bitti",
+   "skorEv": 1,
+   "skorDep": 6,
    "kanallar": [],
    "kanalKaynak": "",
    "kanalGuven": 0,
@@ -3428,7 +2763,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:55.405Z",
+   "guncellendi": "2026-11-28T13:38:33.149Z",
    "kaynak": "tff"
   },
   {
@@ -3444,9 +2779,9 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
+   "durum": "bitti",
+   "skorEv": 42,
+   "skorDep": 33,
    "kanallar": [],
    "kanalKaynak": "",
    "kanalGuven": 0,
@@ -3454,7 +2789,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
   },
   {
@@ -3470,9 +2805,9 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
+   "durum": "bitti",
+   "skorEv": 1,
+   "skorDep": 4,
    "kanallar": [
     "TRT SPOR HD"
    ],
@@ -3482,7 +2817,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.566Z",
+   "guncellendi": "2026-11-28T13:38:26.004Z",
    "kaynak": "tff"
   },
   {
@@ -3498,9 +2833,9 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
+   "durum": "bitti",
+   "skorEv": 0,
+   "skorDep": 4,
    "kanallar": [
     "beIN Sports",
     "TRT Spor"
@@ -3511,7 +2846,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.566Z",
+   "guncellendi": "2026-11-28T13:38:26.004Z",
    "kaynak": "tff"
   },
   {
@@ -3527,9 +2862,9 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
+   "durum": "bitti",
+   "skorEv": 35,
+   "skorDep": 29,
    "kanallar": [],
    "kanalKaynak": "",
    "kanalGuven": 0,
@@ -3537,7 +2872,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.793Z",
    "kaynak": "thf"
   },
   {
@@ -3553,6 +2888,32 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
+   "durum": "bitti",
+   "skorEv": 35,
+   "skorDep": 31,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:46:51.794Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "futbol:tff:2L:20261128çorluspor1947sebatbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "ligId": "976-Beyaz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T12:00:00.000Z",
+   "evSahibi": "Çorlu Spor 1947",
+   "deplasman": "Sebat",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
@@ -3563,8 +2924,86 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
-   "kaynak": "thf"
+   "guncellendi": "2026-11-28T13:38:28.636Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261128beykozanadolusporgalata01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "ligId": "971-01",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T12:00:00.000Z",
+   "evSahibi": "Beykoz Anadolu Spor",
+   "deplasman": "Galata",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.728Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261128kartalbulvarkartalimensportokatbeled",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "ligId": "971-01",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T12:00:00.000Z",
+   "evSahibi": "Kartal Bulvar Kartalimen Spor",
+   "deplasman": "Tokat Belediye",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.728Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261128gölcüksporkarabükidmanyurduspor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "ligId": "971-01",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T12:00:00.000Z",
+   "evSahibi": "Gölcükspor",
+   "deplasman": "Karabük İdmanyurdu Spor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.728Z",
+   "kaynak": "tff"
   },
   {
    "id": "hentbol:thf:3116",
@@ -3579,9 +3018,9 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
+   "durum": "bitti",
+   "skorEv": 29,
+   "skorDep": 32,
    "kanallar": [],
    "kanalKaynak": "",
    "kanalGuven": 0,
@@ -3589,7 +3028,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.793Z",
    "kaynak": "thf"
   },
   {
@@ -3605,9 +3044,9 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
+   "durum": "bitti",
+   "skorEv": 39,
+   "skorDep": 28,
    "kanallar": [],
    "kanalKaynak": "",
    "kanalGuven": 0,
@@ -3615,7 +3054,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
   },
   {
@@ -3631,9 +3070,9 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
-   "durum": "bekliyor",
-   "skorEv": null,
-   "skorDep": null,
+   "durum": "bitti",
+   "skorEv": 19,
+   "skorDep": 41,
    "kanallar": [],
    "kanalKaynak": "",
    "kanalGuven": 0,
@@ -3641,7 +3080,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
   },
   {
@@ -3657,6 +3096,32 @@
    "mekan": "",
    "sehir": "",
    "hakem": "",
+   "durum": "bitti",
+   "skorEv": 32,
+   "skorDep": 50,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:46:51.794Z",
+   "kaynak": "thf"
+  },
+  {
+   "id": "futbol:tff:2L:20261128aliağafutbolgmgkastamonusporbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "ligId": "976-Beyaz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T12:30:00.000Z",
+   "evSahibi": "Aliağa Futbol",
+   "deplasman": "Gmg Kastamonuspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
    "durum": "bekliyor",
    "skorEv": null,
    "skorDep": null,
@@ -3667,8 +3132,34 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
-   "kaynak": "thf"
+   "guncellendi": "2026-11-28T13:38:28.636Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261128bucaspor1928bigaspor02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "ligId": "971-02",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T12:30:00.000Z",
+   "evSahibi": "Bucaspor 1928",
+   "deplasman": "Bigaspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.757Z",
+   "kaynak": "tff"
   },
   {
    "id": "futbol:tff:3L:20261128yenimersinidmanyurdufutbolniğdebeled",
@@ -3693,7 +3184,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:55.405Z",
+   "guncellendi": "2026-11-28T13:38:33.150Z",
    "kaynak": "tff"
   },
   {
@@ -3721,7 +3212,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.558Z",
+   "guncellendi": "2026-11-28T13:38:26.213Z",
    "kaynak": "tff"
   },
   {
@@ -3749,7 +3240,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.566Z",
+   "guncellendi": "2026-11-28T13:38:26.004Z",
    "kaynak": "tff"
   },
   {
@@ -3775,7 +3266,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.793Z",
    "kaynak": "thf"
   },
   {
@@ -3803,7 +3294,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.558Z",
+   "guncellendi": "2026-11-28T13:38:26.214Z",
    "kaynak": "tff"
   },
   {
@@ -3831,7 +3322,293 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.566Z",
+   "guncellendi": "2026-11-28T13:38:26.004Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261128balıkesirsporsöke197002",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "ligId": "971-02",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-28T16:00:00.000Z",
+   "evSahibi": "Balıkesirspor",
+   "deplasman": "Söke 1970",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.757Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261129arkentarnavutköybelediyesifutbolmuşb",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "ligId": "976-Beyaz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "Arkent Arnavutköy Belediyesi Futbol",
+   "deplasman": "Muş",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.636Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261129sezaçimentoelazığspor68aksaraybeledi",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "ligId": "976-Beyaz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "Seza Çimento Elazığspor",
+   "deplasman": "68 Aksaray Belediye Spor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.636Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261129eforçayerbaaspormenemenbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "ligId": "976-Beyaz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "Efor Çay Erbaaspor",
+   "deplasman": "Menemen",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.637Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:2026112912bingölsporankarademirsporkırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "ligId": "976-Krmz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "12 Bingöl Spor",
+   "deplasman": "Ankara Demirspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.838Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261129kct1461trabzonkırklarelisporkırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "ligId": "976-Krmz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "Kct 1461 Trabzon",
+   "deplasman": "Kırklarelispor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.838Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261129adana01kütahyasporfutbolkırmızı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "ligId": "976-Krmz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "Adana 01",
+   "deplasman": "Kütahyaspor Futbol",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.838Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261129kdzereğli1980düzcecamdüzcespor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "ligId": "971-01",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "Kdz.Ereğli 1980",
+   "deplasman": "Düzce Cam Düzcespor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.728Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261129fatsabelediyesporbüyükçekmecegücüfks",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "ligId": "971-01",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "Fatsa Belediyespor",
+   "deplasman": "Büyükçekmece Gücü Fk Spor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.729Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:202611291922akşehirayvalıkgücübelediyespor02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "ligId": "971-02",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "1922 Akşehir",
+   "deplasman": "Ayvalıkgücü Belediyespor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.757Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261129etimesguteskişehiranadolusporfaaliye",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "ligId": "971-02",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T10:00:00.000Z",
+   "evSahibi": "Etimesgut",
+   "deplasman": "Eskişehir Anadolu Spor Faaliyetleri",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.758Z",
    "kaynak": "tff"
   },
   {
@@ -3857,7 +3634,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:55.406Z",
+   "guncellendi": "2026-11-28T13:38:33.150Z",
    "kaynak": "tff"
   },
   {
@@ -3883,7 +3660,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:55.406Z",
+   "guncellendi": "2026-11-28T13:38:33.150Z",
    "kaynak": "tff"
   },
   {
@@ -3909,7 +3686,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:55.406Z",
+   "guncellendi": "2026-11-28T13:38:33.150Z",
    "kaynak": "tff"
   },
   {
@@ -3935,7 +3712,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:55.406Z",
+   "guncellendi": "2026-11-28T13:38:33.151Z",
    "kaynak": "tff"
   },
   {
@@ -3961,7 +3738,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
   },
   {
@@ -3987,7 +3764,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
   },
   {
@@ -4013,7 +3790,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
   },
   {
@@ -4039,7 +3816,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
   },
   {
@@ -4067,7 +3844,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.559Z",
+   "guncellendi": "2026-11-28T13:38:26.214Z",
    "kaynak": "tff"
   },
   {
@@ -4095,7 +3872,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.566Z",
+   "guncellendi": "2026-11-28T13:38:26.005Z",
    "kaynak": "tff"
   },
   {
@@ -4121,8 +3898,190 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
+  },
+  {
+   "id": "futbol:tff:2L:20261129güzidegebzeadanademirsporbeyaz",
+   "brans": "futbol",
+   "lig": "2. Lig Beyaz Grubu",
+   "ligId": "976-Beyaz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T12:00:00.000Z",
+   "evSahibi": "Güzide Gebze",
+   "deplasman": "Adana Demirspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.637Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:2L:20261129fethiyesporekincileriskenderunsporkı",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "ligId": "976-Krmz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T12:00:00.000Z",
+   "evSahibi": "Fethiyespor",
+   "deplasman": "Ekinciler İskenderunspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.838Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261129yalovafk77zonguldakspor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "ligId": "971-01",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T12:00:00.000Z",
+   "evSahibi": "Yalova Fk 77",
+   "deplasman": "Zonguldak Spor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.729Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261129silivrisporpazarspor01",
+   "brans": "futbol",
+   "lig": "3. Lig 01 Grubu",
+   "ligId": "971-01",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T12:00:00.000Z",
+   "evSahibi": "Silivrispor",
+   "deplasman": "Pazarspor",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:28.729Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261129altaykepezsporfutbol02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "ligId": "971-02",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T12:00:00.000Z",
+   "evSahibi": "Altay",
+   "deplasman": "Kepez Spor Futbol",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.758Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261129bursayıldırımgaziemirgogsporyat02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "ligId": "971-02",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T12:00:00.000Z",
+   "evSahibi": "Bursa Yıldırım",
+   "deplasman": "Gaziemir G.O.G. Spor Yat.",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.758Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261129uşaksporkarşıyaka02",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "ligId": "971-02",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T12:00:00.000Z",
+   "evSahibi": "Uşak Spor",
+   "deplasman": "Karşıyaka",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.758Z",
+   "kaynak": "tff"
   },
   {
    "id": "hentbol:thf:3264",
@@ -4147,8 +4106,60 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
+  },
+  {
+   "id": "futbol:tff:2L:20261129ankaragücübeyoğluyeniçarşısporfaaliy",
+   "brans": "futbol",
+   "lig": "2. Lig Kırmızı Grubu",
+   "ligId": "976-Krmz",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T12:30:00.000Z",
+   "evSahibi": "Ankaragücü",
+   "deplasman": "Beyoğlu Yeni Çarşı Spor Faaliyetleri",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.839Z",
+   "kaynak": "tff"
+  },
+  {
+   "id": "futbol:tff:3L:20261129eskişehirspordenizliidmanyurdu195902",
+   "brans": "futbol",
+   "lig": "3. Lig 02 Grubu",
+   "ligId": "971-02",
+   "sezon": "2026-2027",
+   "hafta": "1. Hafta",
+   "baslangicUtc": "2026-11-29T12:30:00.000Z",
+   "evSahibi": "Eskişehirspor",
+   "deplasman": "Denizli İdmanyurdu 1959",
+   "mekan": "",
+   "sehir": "",
+   "hakem": "",
+   "durum": "bekliyor",
+   "skorEv": null,
+   "skorDep": null,
+   "kanallar": [],
+   "kanalKaynak": "",
+   "kanalGuven": 0,
+   "kanalDogrulayan": 0,
+   "dijitalYayin": false,
+   "kadroHazir": false,
+   "kadrolar": null,
+   "guncellendi": "2026-11-28T13:38:30.759Z",
+   "kaynak": "tff"
   },
   {
    "id": "futbol:tff:SL:20261129eyüpsporbaşakşehir",
@@ -4175,7 +4186,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.559Z",
+   "guncellendi": "2026-11-28T13:38:26.214Z",
    "kaynak": "tff"
   },
   {
@@ -4204,7 +4215,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.567Z",
+   "guncellendi": "2026-11-28T13:38:26.005Z",
    "kaynak": "tff"
   },
   {
@@ -4233,7 +4244,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.567Z",
+   "guncellendi": "2026-11-28T13:38:26.005Z",
    "kaynak": "tff"
   },
   {
@@ -4259,7 +4270,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
   },
   {
@@ -4285,7 +4296,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.794Z",
    "kaynak": "thf"
   },
   {
@@ -4313,7 +4324,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.559Z",
+   "guncellendi": "2026-11-28T13:38:26.214Z",
    "kaynak": "tff"
   },
   {
@@ -4342,7 +4353,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.567Z",
+   "guncellendi": "2026-11-28T13:38:26.005Z",
    "kaynak": "tff"
   },
   {
@@ -4370,7 +4381,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.559Z",
+   "guncellendi": "2026-11-28T13:38:26.214Z",
    "kaynak": "tff"
   },
   {
@@ -4398,7 +4409,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.559Z",
+   "guncellendi": "2026-11-28T13:38:26.215Z",
    "kaynak": "tff"
   },
   {
@@ -4424,7 +4435,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.793Z",
    "kaynak": "thf"
   },
   {
@@ -4450,7 +4461,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:48:54.488Z",
+   "guncellendi": "2026-11-28T13:46:51.793Z",
    "kaynak": "thf"
   },
   {
@@ -4478,7 +4489,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.674Z",
+   "guncellendi": "2026-11-28T13:38:26.244Z",
    "kaynak": "tff"
   },
   {
@@ -4506,7 +4517,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.674Z",
+   "guncellendi": "2026-11-28T13:38:26.244Z",
    "kaynak": "tff"
   },
   {
@@ -4534,7 +4545,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.674Z",
+   "guncellendi": "2026-11-28T13:38:26.244Z",
    "kaynak": "tff"
   },
   {
@@ -4563,7 +4574,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.685Z",
+   "guncellendi": "2026-11-28T13:38:26.036Z",
    "kaynak": "tff"
   },
   {
@@ -4591,7 +4602,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.674Z",
+   "guncellendi": "2026-11-28T13:38:26.245Z",
    "kaynak": "tff"
   },
   {
@@ -4620,7 +4631,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.685Z",
+   "guncellendi": "2026-11-28T13:38:26.037Z",
    "kaynak": "tff"
   },
   {
@@ -4648,7 +4659,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.674Z",
+   "guncellendi": "2026-11-28T13:38:26.245Z",
    "kaynak": "tff"
   },
   {
@@ -4677,7 +4688,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.685Z",
+   "guncellendi": "2026-11-28T13:38:26.037Z",
    "kaynak": "tff"
   },
   {
@@ -4706,7 +4717,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.685Z",
+   "guncellendi": "2026-11-28T13:38:26.037Z",
    "kaynak": "tff"
   },
   {
@@ -4734,7 +4745,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.675Z",
+   "guncellendi": "2026-11-28T13:38:26.245Z",
    "kaynak": "tff"
   },
   {
@@ -4762,7 +4773,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.675Z",
+   "guncellendi": "2026-11-28T13:38:26.245Z",
    "kaynak": "tff"
   },
   {
@@ -4791,7 +4802,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.686Z",
+   "guncellendi": "2026-11-28T13:38:26.038Z",
    "kaynak": "tff"
   },
   {
@@ -4819,7 +4830,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.675Z",
+   "guncellendi": "2026-11-28T13:38:26.246Z",
    "kaynak": "tff"
   },
   {
@@ -4848,7 +4859,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.686Z",
+   "guncellendi": "2026-11-28T13:38:26.038Z",
    "kaynak": "tff"
   },
   {
@@ -4877,7 +4888,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.686Z",
+   "guncellendi": "2026-11-28T13:38:26.038Z",
    "kaynak": "tff"
   },
   {
@@ -4906,7 +4917,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.686Z",
+   "guncellendi": "2026-11-28T13:38:26.038Z",
    "kaynak": "tff"
   },
   {
@@ -4934,7 +4945,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.675Z",
+   "guncellendi": "2026-11-28T13:38:26.246Z",
    "kaynak": "tff"
   },
   {
@@ -4963,7 +4974,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.686Z",
+   "guncellendi": "2026-11-28T13:38:26.039Z",
    "kaynak": "tff"
   },
   {
@@ -4992,7 +5003,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:46.686Z",
+   "guncellendi": "2026-11-28T13:38:26.039Z",
    "kaynak": "tff"
   },
   {
@@ -5018,7 +5029,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.075Z",
+   "guncellendi": "2026-11-28T13:38:36.948Z",
    "kaynak": "tff"
   },
   {
@@ -5044,7 +5055,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.075Z",
+   "guncellendi": "2026-11-28T13:38:36.949Z",
    "kaynak": "tff"
   },
   {
@@ -5070,7 +5081,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.075Z",
+   "guncellendi": "2026-11-28T13:38:36.949Z",
    "kaynak": "tff"
   },
   {
@@ -5096,7 +5107,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.075Z",
+   "guncellendi": "2026-11-28T13:38:36.949Z",
    "kaynak": "tff"
   },
   {
@@ -5122,7 +5133,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.076Z",
+   "guncellendi": "2026-11-28T13:38:36.949Z",
    "kaynak": "tff"
   },
   {
@@ -5148,7 +5159,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.076Z",
+   "guncellendi": "2026-11-28T13:38:36.949Z",
    "kaynak": "tff"
   },
   {
@@ -5174,7 +5185,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.076Z",
+   "guncellendi": "2026-11-28T13:38:36.950Z",
    "kaynak": "tff"
   },
   {
@@ -5200,7 +5211,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.076Z",
+   "guncellendi": "2026-11-28T13:38:36.950Z",
    "kaynak": "tff"
   },
   {
@@ -5228,7 +5239,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.211Z",
+   "guncellendi": "2026-11-28T13:38:26.674Z",
    "kaynak": "tff"
   },
   {
@@ -5257,7 +5268,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.203Z",
+   "guncellendi": "2026-11-28T13:38:26.470Z",
    "kaynak": "tff"
   },
   {
@@ -5285,7 +5296,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.211Z",
+   "guncellendi": "2026-11-28T13:38:26.674Z",
    "kaynak": "tff"
   },
   {
@@ -5314,7 +5325,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.204Z",
+   "guncellendi": "2026-11-28T13:38:26.471Z",
    "kaynak": "tff"
   },
   {
@@ -5343,7 +5354,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.204Z",
+   "guncellendi": "2026-11-28T13:38:26.471Z",
    "kaynak": "tff"
   },
   {
@@ -5371,7 +5382,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.211Z",
+   "guncellendi": "2026-11-28T13:38:26.674Z",
    "kaynak": "tff"
   },
   {
@@ -5400,7 +5411,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.204Z",
+   "guncellendi": "2026-11-28T13:38:26.471Z",
    "kaynak": "tff"
   },
   {
@@ -5428,7 +5439,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.211Z",
+   "guncellendi": "2026-11-28T13:38:26.675Z",
    "kaynak": "tff"
   },
   {
@@ -5457,7 +5468,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.204Z",
+   "guncellendi": "2026-11-28T13:38:26.471Z",
    "kaynak": "tff"
   },
   {
@@ -5483,7 +5494,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.181Z",
+   "guncellendi": "2026-11-28T13:38:36.977Z",
    "kaynak": "tff"
   },
   {
@@ -5509,7 +5520,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.181Z",
+   "guncellendi": "2026-11-28T13:38:36.977Z",
    "kaynak": "tff"
   },
   {
@@ -5535,7 +5546,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.181Z",
+   "guncellendi": "2026-11-28T13:38:36.978Z",
    "kaynak": "tff"
   },
   {
@@ -5561,7 +5572,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.182Z",
+   "guncellendi": "2026-11-28T13:38:36.978Z",
    "kaynak": "tff"
   },
   {
@@ -5587,7 +5598,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.182Z",
+   "guncellendi": "2026-11-28T13:38:36.978Z",
    "kaynak": "tff"
   },
   {
@@ -5613,7 +5624,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.182Z",
+   "guncellendi": "2026-11-28T13:38:36.978Z",
    "kaynak": "tff"
   },
   {
@@ -5639,7 +5650,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.182Z",
+   "guncellendi": "2026-11-28T13:38:36.978Z",
    "kaynak": "tff"
   },
   {
@@ -5665,7 +5676,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.182Z",
+   "guncellendi": "2026-11-28T13:38:36.979Z",
    "kaynak": "tff"
   },
   {
@@ -5693,7 +5704,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.211Z",
+   "guncellendi": "2026-11-28T13:38:26.675Z",
    "kaynak": "tff"
   },
   {
@@ -5722,7 +5733,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.204Z",
+   "guncellendi": "2026-11-28T13:38:26.472Z",
    "kaynak": "tff"
   },
   {
@@ -5751,7 +5762,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.205Z",
+   "guncellendi": "2026-11-28T13:38:26.472Z",
    "kaynak": "tff"
   },
   {
@@ -5779,7 +5790,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.211Z",
+   "guncellendi": "2026-11-28T13:38:26.675Z",
    "kaynak": "tff"
   },
   {
@@ -5807,7 +5818,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.212Z",
+   "guncellendi": "2026-11-28T13:38:26.675Z",
    "kaynak": "tff"
   },
   {
@@ -5836,7 +5847,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.205Z",
+   "guncellendi": "2026-11-28T13:38:26.472Z",
    "kaynak": "tff"
   },
   {
@@ -5864,7 +5875,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.212Z",
+   "guncellendi": "2026-11-28T13:38:26.676Z",
    "kaynak": "tff"
   },
   {
@@ -5893,7 +5904,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.205Z",
+   "guncellendi": "2026-11-28T13:38:26.472Z",
    "kaynak": "tff"
   },
   {
@@ -5921,7 +5932,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.212Z",
+   "guncellendi": "2026-11-28T13:38:26.676Z",
    "kaynak": "tff"
   },
   {
@@ -5950,7 +5961,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:47.205Z",
+   "guncellendi": "2026-11-28T13:38:26.473Z",
    "kaynak": "tff"
   },
   {
@@ -5976,7 +5987,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.689Z",
+   "guncellendi": "2026-11-28T13:38:37.857Z",
    "kaynak": "tff"
   },
   {
@@ -6002,7 +6013,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.689Z",
+   "guncellendi": "2026-11-28T13:38:37.857Z",
    "kaynak": "tff"
   },
   {
@@ -6028,7 +6039,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.690Z",
+   "guncellendi": "2026-11-28T13:38:37.857Z",
    "kaynak": "tff"
   },
   {
@@ -6054,7 +6065,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.690Z",
+   "guncellendi": "2026-11-28T13:38:37.858Z",
    "kaynak": "tff"
   },
   {
@@ -6080,7 +6091,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.690Z",
+   "guncellendi": "2026-11-28T13:38:37.858Z",
    "kaynak": "tff"
   },
   {
@@ -6106,7 +6117,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.690Z",
+   "guncellendi": "2026-11-28T13:38:37.858Z",
    "kaynak": "tff"
   },
   {
@@ -6132,7 +6143,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.690Z",
+   "guncellendi": "2026-11-28T13:38:37.858Z",
    "kaynak": "tff"
   },
   {
@@ -6158,7 +6169,7 @@
    "dijitalYayin": false,
    "kadroHazir": false,
    "kadrolar": null,
-   "guncellendi": "2026-11-28T04:39:59.691Z",
+   "guncellendi": "2026-11-28T13:38:37.858Z",
    "kaynak": "tff"
   }
  ]
